@@ -300,7 +300,7 @@
   "unit.abilities.escape": "UCIECZKA",
   "unit.abilities.scout": "ODKRYWANIE",
   "unit.abilities.sneak": "SKRADANIE",
-  "unit.abilities.hide": "CHOANIE",
+  "unit.abilities.hide": "CHOWANIE",
   "unit.abilities.build": "BUDOWANIE",
   "unit.abilities.persist": "WYTRWAŁOŚĆ",
   "unit.abilities.convert": "PRZEMIANA",
@@ -460,7 +460,7 @@
   "price.stars": "gwiazdka",
   "price.stars.plural": "gwiazdki",
   "price.population": "populacja",
-  "price.population.plural": "populacje",
+  "price.population.plural": "populacji",
   "price.points": "punkt",
   "price.points.plural": "punkty",
 
