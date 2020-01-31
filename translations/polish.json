@@ -457,9 +457,9 @@
 
   "task.info": "{0} by otrzymać {1}",
 
-  "price.stars": "gwiazdka",
+  "price.stars": "gwiazdkę",
   "price.stars.plural": "gwiazdki",
-  "price.population": "populacja",
+  "price.population": "populację",
   "price.population.plural": "populacji",
   "price.points": "punkt",
   "price.points.plural": "punkty",
@@ -877,7 +877,7 @@
   "gameitem.gameover": "Koniec gry, stuknij by zakończyć.",
   "gameitem.pick": "{0}, wybierz plemię",
   "gameitem.start": "{0}, rozpocznij grę",
-  "gameitem.turn": "{0}, Twój tura",
+  "gameitem.turn": "{0}, Twoja tura",
   "gameitem.ended": "Koniec gry.",
   "gameitem.pending": "Oczekiwanie. Otwórz i zapisz na serwerze.",
   "gameitem.timeup": "Koniec czasu!",
