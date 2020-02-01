@@ -216,7 +216,7 @@
   "building.resource": "dodaje {0} na wybranym kafelku",
   "building.value": "jest warte {0} punktów do wyniku",
   "building.ability.embark": "Jednostki które tu wkroczą zamienią się w łódki i będą mogły poruszać się po wodzie.",
-  "building.ability.route": "Tworzy szlaki handlowe przez {0} do każdego innego portu w promieniu 5 kafelków.",
+  "building.ability.route": "Tworzy szlaki handlowe przez {0} do każdej innej placówki w promieniu 5 kafelków.",
   "building.ability.route.and": " i ",
   "building.ability.road": "Buduj drogi aby połączyć miasta ze stolicą. Połączone miasta zwiększają w nagrodę swoją populację o 1. Drogi dadzą Ci także bonus do ruchu wszystkich jednostek.",
   "building.ability.ruin": "Ruiny starożytnej cywilizacji może kryć wartościowe rzeczy! Udaj się tam swoją jednostką aby to zbadać.",
