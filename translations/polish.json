@@ -161,7 +161,7 @@
   "world.reward.building": "Możesz zbudować {0}! Ten epicki posąg przyniesie bogactwo i chwałę najbliższemu miastu.",
   "world.reward.building.title": "Ukończono {0}",
   "world.meet.tribe": "Napotkano {0}",
-  "world.task.new": "Mas nowe zadanie!",
+  "world.task.new": "Masz nowe zadanie!",
 
   "tribes.nature": "Natura",
   "tribes.xin-xi": "Xin-xi",
@@ -194,7 +194,7 @@
   "tribes.yadakk": "YÄƒdakk",
   "tribes.yadakk.info": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
   "tribes.polaris": "Polaris",
-  "tribes.polaris.info": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
+  "tribes.polaris.info": "{0} zostało przez wieki odizolowane na dalekich krańcach marznącej tundy, lecz zostało obdarzone nieznanymi Gaami z mocą rozszerzania ich nienaturanego lodowego terenu dalej niż klimat na to pozwala.\n\nZ mocą sań i Mamutów, mistyczne {0} jest zdeterminowane by pogrzebać Kwadrat w lodzie i przekształcić ląd w mroźny raj.\n\n{0} zaczyna grę ze zdolnością do zamrażania pobliskich terenów przez Moonie.",
 
   "building.capital.owner": "{0} jest stolicą {1}",
   "building.capital.owner.former": "{0} jest byłą stolicą {1}, aktualnie okupowana przez siły {2}",
