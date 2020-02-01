@@ -852,7 +852,7 @@
   "friendlist.removed.info": "Usunięto gracza {0}",
 
   "idconsole.playerid": "Twoje ID gracza:",
-  "idconsole.share": "Wyślij to ID gracza do każdego z kim chcesz zagrać. Stuknij by skopiować.",
+  "idconsole.share": "Wyślij to ID gracza do każdego z kim chcesz zagrać. Stuknij ID by skopiować.",
   "idconsole.clipboard": "ID gracza {0} dodane do schowka",
   "idconsole.clipboard.title": "VoilÃ !",
 
