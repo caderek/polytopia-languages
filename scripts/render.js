@@ -18,6 +18,8 @@ const render = (data) => {
             <code>https://polytopia.netlify.com/${shortLang}</code>
             or
             <code>https://polytopia.netlify.com/translations/${file}</code>
+            or
+            <code>https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</code>
           </li>`,
       )
       .join("\n")}</ul>
