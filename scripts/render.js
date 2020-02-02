@@ -13,8 +13,12 @@ const render = (data) => {
     <h2>Translations:</h2>
     <ul>${data
       .map(
-        ({ language, shortLang }) =>
-          `<li>${language} -> <code>https://polytopia.netlify.com/${shortLang}</code></li>`,
+        ({ language, shortLang, file }) =>
+          `<li>${language} ->
+            <code>https://polytopia.netlify.com/${shortLang}</code>
+            or
+            <code>https://polytopia.netlify.com/translations/${file}</code>
+          </li>`,
       )
       .join("\n")}</ul>
   </body>
