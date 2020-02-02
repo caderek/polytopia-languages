@@ -9,11 +9,14 @@ const copy = (text) => {
   return result
 }
 
+const copied = document.getElementById("copied")
+
 document
   .getElementById("translations")
   .addEventListener("click", ({ target }) => {
     if (target.classList.contains("code")) {
       copy(target.innerText)
     }
-    console.dir(target.innerText)
+    copied.classList.remove("hidden")
+    setTimeout(() => copied.classList.add("hidden"), 1000)
   })
