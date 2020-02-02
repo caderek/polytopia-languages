@@ -18,7 +18,7 @@ body {
 }
 
 .logo {
-  max-width: 600px;
+  max-width: 100%;
   display: block;
   margin: auto;
 }
@@ -26,10 +26,10 @@ body {
 ul,
 h1,
 h2 {
-  max-width: 1000px;
   display: block;
   margin: auto;
   margin-bottom: 20px;
+  box-sizing: border-box;
 }
 
 h1 {
@@ -37,7 +37,7 @@ h1 {
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
   letter-spacing: 5px;
-  font-size: 64px;
+  font-size: 5vw;
   padding-left: 10px;
   padding-right: 10px;
   margin-bottom: 40px;
@@ -48,7 +48,7 @@ h2 {
   text-align: center;
   font-family: "Josefin Sans", sans-serif;
   letter-spacing: 5px;
-  font-size: 24px;
+  font-size: 3vw;
   padding-left: 10px;
   padding-right: 10px;
 }
@@ -75,6 +75,7 @@ pre {
   color: white;
   padding: 10px;
   border-radius: 5px;
+  overflow: auto;
 }
 
 .preview {
