@@ -17,9 +17,9 @@ const render = (data) => {
     <ul>${data
       .map(
         ({ language, shortLang, author, file }) =>
-          `<li><h3><strong>${shortLang.toUpperCase()} (${language})</strong> by ${
+          `<li><h3>${shortLang.toUpperCase()} (${language}) <span class="author">by ${
             author !== undefined ? author : "Anonymous"
-          }</h3>
+          }</span></h3>
             <pre>https://polytopia.netlify.com/${shortLang}</pre>
             <pre>https://polytopia.netlify.com/translations/${file}</pre>
             <pre>https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
@@ -27,6 +27,10 @@ const render = (data) => {
           </li>`,
       )
       .join("\n")}</ul>
+      <footer>
+        <p class="question">Want to add a new translation?</p>
+        <p>Grab an <a href="http://midjiwan.com/lang/en_US.json">original translation</a> and make a pull request on <a href="https://github.com/caderek/polytopia-languages">Github</a> or ping me on <a href="https://www.reddit.com/user/kap89">Reddit</a></p>
+      </footer>
   </body>
 </html>
 `
