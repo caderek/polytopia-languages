@@ -11,10 +11,12 @@ const render = (data) => {
   </head>
   <body>
     <h2>Translations:</h2>
-    <ul>${data.map(
-      ({ language, shortLang }) =>
-        `<li>${language} -> <code>https://polytopia.netlify.com/${shortLang}</code></li>`,
-    )}</ul>
+    <ul>${data
+      .map(
+        ({ language, shortLang }) =>
+          `<li>${language} -> <code>https://polytopia.netlify.com/${shortLang}</code></li>`,
+      )
+      .join("\n")}</ul>
   </body>
 </html>
 `
