@@ -134,7 +134,7 @@ footer {
 }
 
 .copied {
-  position: absolute;
+  position: fixed;
   top: 20px;
   left: 0;
   right: 0;
