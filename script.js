@@ -16,7 +16,7 @@ document
   .addEventListener("click", ({ target }) => {
     if (target.classList.contains("code")) {
       copy(target.innerText)
+      copied.classList.remove("hidden")
+      setTimeout(() => copied.classList.add("hidden"), 1000)
     }
-    copied.classList.remove("hidden")
-    setTimeout(() => copied.classList.add("hidden"), 1000)
   })
