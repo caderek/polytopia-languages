@@ -472,7 +472,7 @@
   "wcontroller.capital.regained.title": "Dobre wieści!",
   "wcontroller.capital.lost.description": "Twoja stolica została zdobyta przez hordy {0}! Wszystkie połączenia handlowe zostały anulowane dopóki nie odzyskasz kontroli nad stolicą",
   "wcontroller.capital.lost.title": "Złe wieści!",
-  "wcontroller.capital.captured.description": "Przejęto stolicę ${0}! Ich wszystkie połączenia handlowe zostały anulowane dopóki nie odzyskają kontroli nad swoją stolicą",
+  "wcontroller.capital.captured.description": "Przejęto stolicę {0}! Ich wszystkie połączenia handlowe zostały anulowane dopóki nie odzyskają kontroli nad swoją stolicą",
   "wcontroller.capital.captured.title": "Wspaniałe wieści!",
   "wcontroller.capital.captured2.description": "{0} jest teraz częścią imperium {1}",
   "wcontroller.capital.captured2.title": "Miasto zdobyte!",
