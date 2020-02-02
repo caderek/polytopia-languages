@@ -7,19 +7,23 @@ const render = (data) => {
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>The Battle od Polytopia translations</title>
   </head>
   <body>
-    <h2>Translations:</h2>
+    <img src="assets/logo.png" alt="log" class="logo" />
+    <h2>USER-MADE</h2>
+    <h1>TRANSLATIONS</h1>
     <ul>${data
       .map(
-        ({ language, shortLang, file }) =>
-          `<li>${language} ->
+        ({ language, shortLang, author, file }) =>
+          `<li><h3><strong>${shortLang.toUpperCase()} (${language})</strong> by ${
+            author !== undefined ? author : "Anonymous"
+          }</h3>
             <code>https://polytopia.netlify.com/${shortLang}</code>
-            or
             <code>https://polytopia.netlify.com/translations/${file}</code>
-            or
             <code>https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</code>
+            <a class="preview" href="https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}">PREVIEW</a>
           </li>`,
       )
       .join("\n")}</ul>

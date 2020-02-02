@@ -3,11 +3,11 @@ const render = require("./render")
 
 const data = fs.readdirSync("translations").map((file) => {
   const [shortLang] = file.split(".")
-  const language = JSON.parse(
+  const { language, author } = JSON.parse(
     fs.readFileSync(`translations/${file}`).toString(),
-  ).language
+  )
 
-  return { shortLang, language, file }
+  return { shortLang, language, author, file }
 })
 
 const createRedirects = (data) => {
