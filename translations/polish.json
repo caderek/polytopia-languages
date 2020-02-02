@@ -353,7 +353,7 @@
   "actionbox.unit.toomany.info": "To miasto nie pomieści więcej jednostek. Ulepsz miasto by uzyskać wolne miejsce na jednostki.",
   "actionbox.building.doit": "ZRÓB TO",
   "actionbox.building.requiredtech": "Musisz wynaleźć {0} by to zrobić, stuknij przycisk 'Technologie'.",
-  "actionbox.building.techtree": "TECHNOLOGIE",
+  "actionbox.building.techtree": "BADANIA",
   "actionbox.insufficientfunds": "Masz za mało gwiazdek by to zrobić. Stuknij 'następna tura' by zyskać więcej gwiazdek.",
   "actionbox.confirm": "Potwierdź {0}",
   "actionbox.confirm.info": "Jesteś pewien?",
