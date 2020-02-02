@@ -14,15 +14,15 @@ const render = (data) => {
     <img src="assets/logo.png" alt="log" class="logo" />
     <h2>USER-MADE</h2>
     <h1>TRANSLATIONS</h1>
-    <ul>${data
+    <ul id="translations">${data
       .map(
         ({ language, shortLang, author, file }) =>
           `<li><h3>${shortLang.toUpperCase()} (${language}) <span class="author">by ${
             author !== undefined ? author : "Anonymous"
           }</span></h3>
-            <pre>https://polytopia.netlify.com/${shortLang}</pre>
-            <pre>https://polytopia.netlify.com/translations/${file}</pre>
-            <pre>https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
+            <pre class="code">https://polytopia.netlify.com/${shortLang}</pre>
+            <pre class="code">https://polytopia.netlify.com/translations/${file}</pre>
+            <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
             <a class="preview" href="https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}">PREVIEW</a>
           </li>`,
       )
@@ -31,6 +31,7 @@ const render = (data) => {
         <p class="question">Want to add a new translation?</p>
         <p>Grab an <a href="http://midjiwan.com/lang/en_US.json">original translation</a> and make a pull request on <a href="https://github.com/caderek/polytopia-languages">Github</a> or ping me on <a href="https://www.reddit.com/user/kap89">Reddit</a></p>
       </footer>
+      <script src="script.js"></script>
   </body>
 </html>
 `
