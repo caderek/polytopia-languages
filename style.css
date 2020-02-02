@@ -30,6 +30,7 @@ h2 {
   margin: auto;
   margin-bottom: 20px;
   box-sizing: border-box;
+  max-width: 1000px;
 }
 
 h1 {
