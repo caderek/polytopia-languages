@@ -20,9 +20,9 @@ const render = (data) => {
           `<li><h3><strong>${shortLang.toUpperCase()} (${language})</strong> by ${
             author !== undefined ? author : "Anonymous"
           }</h3>
-            <code>https://polytopia.netlify.com/${shortLang}</code>
-            <code>https://polytopia.netlify.com/translations/${file}</code>
-            <code>https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</code>
+            <pre>https://polytopia.netlify.com/${shortLang}</pre>
+            <pre>https://polytopia.netlify.com/translations/${file}</pre>
+            <pre>https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
             <a class="preview" href="https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}">PREVIEW</a>
           </li>`,
       )
