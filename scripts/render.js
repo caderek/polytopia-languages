@@ -1,6 +1,8 @@
 const fs = require("fs")
 
 const render = (data) => {
+  const ISODate = new Date().toISOString()
+  const date = `${ISODate.slice(0, 10)} ${ISODate.slice(11, 16)}`
   const content = `
 <!DOCTYPE html>
 <html lang="en">
@@ -29,8 +31,10 @@ const render = (data) => {
       .join("\n")}</ul>
       <footer>
         <p class="question">Want to add a new translation or improve an existing one?</p>
-        <p>Grab an <a href="http://midjiwan.com/lang/en_US.json">original translation</a> and make a pull request on <a href="https://github.com/caderek/polytopia-languages">Github</a> or ping me on <a href="https://www.reddit.com/user/kap89">Reddit</a></p>
+        <p>Grab an <a href="http://midjiwan.com/lang/en_US.json">original translation</a> and make a pull request on <a href="https://github.com/caderek/polytopia-languages">Github</a> or ping me on <a href="https://www.reddit.com/user/kap89">Reddit</a>.</p>
+        <p class="copyright">Created by Maciej Cąderek | Last update: ${date}</p>
       </footer>
+
     <div id="copied" class="copied hidden">COPIED!</div>
     <script src="script.js"></script>
   </body>
