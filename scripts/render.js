@@ -21,10 +21,9 @@ const render = (data) => {
             author !== undefined ? author : "Anonymous"
           }</span></h3>
             <h4>Links (click to copy):</h4>
-            <pre class="code">https://polytopia.netlify.com/${shortLang}</pre>
             <pre class="code">https://polytopia.netlify.com/translations/${file}</pre>
             <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
-            <a class="preview" href="https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}">PREVIEW</a>
+            <a class="preview" href="https://polytopia.netlify.com/${shortLang}">PREVIEW</a>
           </li>`,
       )
       .join("\n")}</ul>
