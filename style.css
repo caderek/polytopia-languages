@@ -171,7 +171,7 @@ a:hover {
   border-top: solid 1px rgba(0, 0, 0, 0.1);
   padding: 15px;
   text-align: center;
-  color: #222;
+  color: rgba(0, 0, 0, 0.5);
   margin-top: 70px;
   font-size: 14px;
   font-family: "Lato", sans-serif;
