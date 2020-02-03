@@ -8,16 +8,26 @@ In Polytopia, open settings, select "Custom..." language and paste the url to th
 
 ## How to contribute?
 
-There are couple ways to contribute, you can make a pull request, open an issue to improve existing translation or, if you're not a programmer, you can sand me your translation via issue or private message on [Reddit](https://www.reddit.com/user/kap89).
+There are couple ways to contribute, you can make a pull request, open an issue to improve existing translation or, if you don't know how to use Github, you can sand me your translation via issue or private message on [Reddit](https://www.reddit.com/user/kap89).
 
-## Pull requests
+## Adding new translation
 
-1. Fork the repo
+1. Get the original language file from here: http://midjiwan.com/lang/en_US.json
 
-2. Get the original language file from here: http://midjiwan.com/lang/en_US.json
+2. Add your translation to the `translations` folder, named `<LANG_SHORTCUT>.json` -> here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/translations)
 
-3. Add your translation to the `translations` folder, named `<LANG_SHORTCUT>.json`.
+3. Optionally, you can add the `author` field to your JSON file.
 
-4. Optionally you can add the `author` field to your JSON file.
+4. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
 
-5. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
+## Improving existing translation
+
+1. Open selected translation from the ones listed [here](https://github.com/caderek/polytopia-languages/tree/master/translations)
+
+2. Click `Edit this file` button (a en icon) and add your changes.
+
+3. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
+
+## License
+
+Project is under open, non-restrictive [ISC license](LICENSE.md).
