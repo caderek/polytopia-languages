@@ -14,7 +14,7 @@ There are couple ways to contribute, you can make a pull request, open an issue 
 
 1. Get the original language file from here: http://midjiwan.com/lang/en_US.json
 
-2. Add your translation to the `translations` folder, named `<LANG_SHORTCUT>.json` -> here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/translations)
+2. Add your translation to the `translations` folder, name it as `<LANG_SHORTCUT>.json` (for example `es.json`). Here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/translations)
 
 3. Optionally, you can add the `author` field to your JSON file.
 
