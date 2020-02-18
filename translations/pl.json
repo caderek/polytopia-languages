@@ -631,7 +631,7 @@
   "bottommenu.nextturn": "Nowa tura",
   "bottommenu.techtree": "Badania",
 
-  "endscreen.done": "ZROBIONE",
+  "endscreen.done": "GOTOWE",
   "endscreen.ruledby": "Rządzone przez {0}",
   "endscreen.army&territory": "Armia i terytorium",
   "endscreen.monuments&temples": "Posągi i świątynie",
@@ -897,7 +897,7 @@
   "gameitem.remind.max": "Starczy już",
   "gameitem.remind.max.info": "Już wysłano przypomnienie do {0}",
   "gameitem.remind.notification": "Wciąż na Ciebie czekamy, masz {0}. Dajesz!!",
-  "gameitem.remind.notify": "Zrobione",
+  "gameitem.remind.notify": "Gotowe",
   "gameitem.remind.notify.info": "Wysłano przypomnienie do {0}",
 
   "mplayerstats.title": "PROFIL GRACZA",
