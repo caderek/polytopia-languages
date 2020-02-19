@@ -8,7 +8,7 @@ In Polytopia, open settings, select "Custom..." language and paste the url to th
 
 ## How to contribute?
 
-There are couple ways to contribute, you can make a pull request, open an issue to improve existing translation or, if you don't know how to use Github, you can sand me your translation via issue or private message on [Reddit](https://www.reddit.com/user/kap89).
+There are couple ways to contribute, you can make a pull request, open an issue to improve existing translation or, if you don't know how to use Github, you can sand me your translation private message on [Reddit](https://www.reddit.com/user/kap89).
 
 ## Adding new translation
 
@@ -24,7 +24,7 @@ There are couple ways to contribute, you can make a pull request, open an issue 
 
 1. Open selected translation from the ones listed [here](https://github.com/caderek/polytopia-languages/tree/master/translations)
 
-2. Click `Edit this file` button (a en icon) and add your changes.
+2. Click `Edit this file` button (a pen icon) and add your changes.
 
 3. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
 
