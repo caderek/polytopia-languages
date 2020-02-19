@@ -18,8 +18,8 @@ const render = (data) => {
     <h1>TRANSLATIONS</h1>
     <div class="flags">${data
       .map(
-        ({ shortLang }) =>
-          `<a href="#${shortLang}"><img src="https://www.countryflags.io/${shortLang}/shiny/64.png"></a>`,
+        ({ shortLang, language }) =>
+          `<a href="#${shortLang}"><img src="https://www.countryflags.io/${shortLang}/shiny/64.png" title="${language}"></a>`,
       )
       .join("\n")}</div>
     <ul id="translations">${data
