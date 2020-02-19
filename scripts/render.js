@@ -10,12 +10,18 @@ const render = (data) => {
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="style.css" />
-    <title>The Battle od Polytopia translations</title>
+    <title>The Battle of Polytopia translations</title>
   </head>
   <body>
     <img src="assets/logo.png" alt="log" class="logo" />
     <h2>USER-MADE</h2>
     <h1>TRANSLATIONS</h1>
+    <div class="flags">${data
+      .map(
+        ({ shortLang }) =>
+          `<a href="#${shortLang}"><img src="https://www.countryflags.io/${shortLang}/shiny/64.png"></a>`,
+      )
+      .join("\n")}</div>
     <ul id="translations">${data
       .map(
         ({ language, shortLang, author, file }) =>
