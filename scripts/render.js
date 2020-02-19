@@ -16,10 +16,16 @@ const render = (data) => {
     <img src="assets/logo.png" alt="log" class="logo" />
     <h2>USER-MADE</h2>
     <h1>TRANSLATIONS</h1>
+    <div class="flags">${data
+      .map(
+        ({ shortLang }) =>
+          `<a href="#${shortLang}"><img src="https://www.countryflags.io/${shortLang}/shiny/64.png"></a>`,
+      )
+      .join("\n")}</div>
     <ul id="translations">${data
       .map(
         ({ language, shortLang, author, file }) =>
-          `<li><h3>${shortLang.toUpperCase()} (${language}) <span class="author">by ${
+          `<li id="${shortLang}"><h3>${shortLang.toUpperCase()} (${language}) <span class="author">by ${
             author !== undefined ? author : "Anonymous"
           }</span></h3>
             <h4>Links (click to copy):</h4>
