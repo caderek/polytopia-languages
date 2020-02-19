@@ -24,7 +24,7 @@ There are couple ways to contribute, you can make a pull request, open an issue 
 
 1. Open selected translation from the ones listed [here](https://github.com/caderek/polytopia-languages/tree/master/translations)
 
-2. Click `Edit this file` button (a en icon) and add your changes.
+2. Click `Edit this file` button (a pen icon) and add your changes.
 
 3. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
 
