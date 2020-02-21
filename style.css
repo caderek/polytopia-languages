@@ -5,6 +5,7 @@
   margin: 0;
   padding: 0;
   border: 0;
+  box-sizing: border-box;
 }
 
 html {
@@ -26,7 +27,8 @@ body {
 ul,
 h1,
 h2,
-footer {
+footer,
+.add-form {
   display: block;
   margin: auto;
   margin-bottom: 20px;
@@ -101,7 +103,8 @@ pre {
 }
 
 .preview,
-.preview:visited {
+.preview:visited,
+button {
   text-decoration: none;
   font-family: "Lato", sans-serif;
   background-color: rgba(255, 255, 255, 0.6);
@@ -113,9 +116,11 @@ pre {
   margin: auto;
   margin-top: 30px;
   text-align: center;
+  font-size: 16px;
 }
 
-.preview:hover {
+.preview:hover,
+button:hover {
   background-color: #fff;
   color: #333;
 }
@@ -123,10 +128,13 @@ pre {
 footer {
   text-align: center;
   margin-top: 50px;
-  padding: 20px;
   font-family: "Lato";
   font-size: 18px;
   color: #222;
+}
+
+footer p {
+  margin-bottom: 20px;
 }
 
 .question {
@@ -180,4 +188,39 @@ a:hover {
 .flags {
   text-align: center;
   margin-bottom: 40px;
+}
+
+.add-form {
+  display: block;
+  background-color: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
+  padding: 15px;
+}
+
+.add-form select {
+  width: 100%;
+  font-family: monospace;
+  padding: 20px;
+  margin-bottom: 10px;
+  outline: none;
+  background-color: white;
+}
+
+.add-form input {
+  width: 100%;
+  font-family: monospace;
+  padding: 20px;
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.add-form textarea {
+  width: 100%;
+  font-family: monospace;
+  padding: 20px;
+  outline: none;
+}
+
+.add-form button {
+  font-family: "Lato", sans-serif;
 }
