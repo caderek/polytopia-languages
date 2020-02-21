@@ -204,6 +204,7 @@ a:hover {
   margin-bottom: 10px;
   outline: none;
   background-color: white;
+  border-radius: 5px;
 }
 
 .add-form input {
@@ -212,6 +213,7 @@ a:hover {
   padding: 20px;
   margin-bottom: 10px;
   outline: none;
+  border-radius: 5px;
 }
 
 .add-form textarea {
@@ -220,6 +222,7 @@ a:hover {
   padding: 20px;
   outline: none;
   margin-bottom: 5px;
+  border-radius: 5px;
 }
 
 .add-form button {
