@@ -224,3 +224,8 @@ a:hover {
 .add-form button {
   font-family: "Lato", sans-serif;
 }
+
+.captcha {
+  margin: auto;
+  margin-top: 15px;
+}

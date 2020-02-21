@@ -39,7 +39,7 @@ const form = () => {
     <input type="text" placeholder="Author" required name="author" />
     <textarea name="translation" required rows="10" name="translation" placeholder="Paste your translation here..."></textarea>
     <textarea rows="3" name="details" placeholder="Additional details (optional)"></textarea>
-    <div data-netlify-recaptcha="true"></div>
+    <div class="captcha" data-netlify-recaptcha="true"></div>
     <button type="submit">ADD TRANSLATION</button>
   </form>
   `
