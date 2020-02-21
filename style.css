@@ -233,3 +233,8 @@ a:hover {
 .g-recaptcha > div {
   margin: auto;
 }
+
+button,
+select {
+  cursor: pointer;
+}
