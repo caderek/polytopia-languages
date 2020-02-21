@@ -219,7 +219,7 @@ a:hover {
   font-family: monospace;
   padding: 20px;
   outline: none;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .add-form button {
@@ -227,6 +227,9 @@ a:hover {
 }
 
 .captcha {
-  margin: auto;
   margin-top: 15px;
+}
+
+.g-recaptcha > div {
+  margin: auto;
 }
