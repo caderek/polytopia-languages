@@ -26,9 +26,9 @@ const form = () => {
   const countries = prepareCountries()
 
   return `
-  <form id="add-translation" class="add-form" name="add-translation" netlify>
-    <select id="country" name="aa-translation">
-    <option value="" disabled selected>Select country (language flag)</option>
+  <form id="add-translation" class="add-form" name="add-translation"  method="POST" netlify>
+    <select id="country" name="country">
+      <option value="" disabled selected>Select country (language flag)</option>
       ${countries
         .map(
           ({ short, full }) =>
