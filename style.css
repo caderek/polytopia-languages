@@ -219,6 +219,7 @@ a:hover {
   font-family: monospace;
   padding: 20px;
   outline: none;
+  margin-bottom: 10px;
 }
 
 .add-form button {
