@@ -26,7 +26,7 @@ const form = () => {
   const countries = prepareCountries()
 
   return `
-  <form id="add-translation" class="add-form" name="add-translation"  method="POST" netlify>
+  <form id="add-translation" class="add-form" name="add-translation"  method="POST" data-netlify-recaptcha="true" netlify>
     <select id="country" name="country">
       <option disabled selected>Select country (language flag)</option>
       ${countries
@@ -38,6 +38,7 @@ const form = () => {
     </select>
     <input type="text" placeholder="Author" name="author" />
     <textarea rows="10"name="translation" placeholder="Paste your translation here..."></textarea>
+    <div data-netlify-recaptcha="true"></div>
     <button type="submit">ADD TRANSLATION</button>
   </form>
   `
