@@ -25,10 +25,12 @@ const render = (data) => {
       .join("\n")}</div>
     <ul id="translations">${data
       .map(
-        ({ language, shortLang, author, file }) =>
+        ({ language, shortLang, author, editors, file }) =>
           `<li id="${shortLang}"><h3>${shortLang.toUpperCase()} (${language}) <span class="author">by ${
             author !== undefined ? author : "Anonymous"
-          }</span></h3>
+          }</span>${
+            editors ? `<span class="author">, edited by ${editors}</span>` : ""
+          }</h3>
             <h4>Links (click to copy):</h4>
             <pre class="code">https://polytopia.netlify.com/translations/${file}</pre>
             <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
