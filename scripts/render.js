@@ -40,7 +40,7 @@ const render = (data) => {
       .join("\n")}</ul>
       <footer>
         <p class="question">Want to add a new translation or improve an existing one?</p>
-        <p>Grab an <a href="http://midjiwan.com/lang/en_US.json">original translation</a> and make a pull request on <a href="https://github.com/caderek/polytopia-languages">Github</a> or ping me on <a href="https://www.reddit.com/user/kap89">Reddit</a>.</p>
+        <p>Grab the <a href="http://midjiwan.com/lang/en_US.json">original translation</a> and make a pull request on <a href="https://github.com/caderek/polytopia-languages">Github</a> or ping me on <a href="https://www.reddit.com/user/kap89">Reddit</a>.</p>
         <p>You can also submit your translation via the form below (it will appear on the website when verified):</p>
         ${form()}
         <p class="copyright">Created by Maciej Cąderek | Last update: ${date} UTC</p>
