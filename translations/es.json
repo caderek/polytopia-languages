@@ -856,7 +856,7 @@
   "idconsole.playerid": "Tu ID de Jugador:",
   "idconsole.share": "Envía este ID de Jugador a quien sea que quieras enfrentar. Toca tu ID para copiarlo.",
   "idconsole.clipboard": "ID de Jugador {0} copiado al portapapeles",
-  "idconsole.clipboard.title": "VoilÃ !",
+  "idconsole.clipboard.title": "¡VoilÃ !",
 
   "playerpickerview.title": "ELEGIR JUGADORES",
   "playerpickerview.name": "Nombre de la Partida",
@@ -904,7 +904,7 @@
   "mplayerstats.title": "PERFIL DE JUGADOR",
   "mplayerstats.clear": "borrar datos",
   "mplayerstats.reload": "recargar datos de multijugador",
-  "mplayerstats.multiplayer.faq": "PREGUNTAS FRECUENTES DE MULTIJUGADOR",
+  "mplayerstats.multiplayer.faq": "PREGUNTAS FRECUENTES\nDE MULTIJUGADOR",
   "mplayerstats.alias": "Alias",
   "mplayerstats.friends": "nÂº de amigos",
   "mplayerstats.games": "Partidas Jugadas",
