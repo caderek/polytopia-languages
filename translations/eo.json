@@ -1,5 +1,7 @@
 {
   "language": "Esperanto",
+  "author": "raalph",
+  "editors": "",
   "startmenu.new_game": "NOVA PARTIO",
   "startmenu.multiplayer": "PLURLUDANTA PARTIO",
   "startmenu.resume_game": "DAŬRIGI PARTION",
