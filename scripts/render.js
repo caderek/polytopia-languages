@@ -18,10 +18,14 @@ const render = (data) => {
     <h2>USER-MADE</h2>
     <h1>TRANSLATIONS</h1>
     <div class="flags">${data
-      .map(
-        ({ shortLang, language }) =>
-          `<a href="#${shortLang}"><img src="https://www.countryflags.io/${shortLang}/shiny/64.png" title="${language}"></a>`,
-      )
+      .map(({ shortLang, language }) => {
+        const src =
+          shortLang === "eo"
+            ? "/assets/flags/eo.png"
+            : `https://www.countryflags.io/${shortLang}/shiny/64.png`
+
+        return `<a href="#${shortLang}"><img src="${src}" title="${language}"></a>`
+      })
       .join("\n")}</div>
     <ul id="translations">${data
       .map(
