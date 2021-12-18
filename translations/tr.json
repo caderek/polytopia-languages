@@ -269,7 +269,7 @@
   "unit.names.icemaker": "Mooni",
   "unit.names.icearcher": "Buz Okçusu",
   "unit.names.giant": "Dev",
-  "unit.names.fortress": Buz Fortress",
+  "unit.names.fortress": "Buz Fortress",
   "unit.names.egg": "Dinozor yumurtası",
   "unit.names.dragon_large": "Ateş Ejderhası",
   "unit.names.dragon": "Bebek Ejderha",
@@ -290,7 +290,7 @@
   "unit.info.attack": "Saldırı",
   "unit.ability": "yeteneği",
   "unit.abilities.swim": "YÜZME",
-  "unit.abilities.crush": "PARÇALAMA"
+  "unit.abilities.crush": "PARÇALAMA",
   "unit.abilities.splash": "SIÇRAMA HASAR",
   "unit.abilities.sneak": "SİNSİCE HAREKET",
   "unit.abilities.skate": "PATEN KAYMA",
