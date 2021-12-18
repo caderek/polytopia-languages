@@ -1,9 +1,9 @@
-const fs = require("fs")
-const form = require("./form")
+const fs = require("fs");
+const form = require("./form");
 
 const render = (data) => {
-  const ISODate = new Date().toISOString()
-  const date = `${ISODate.slice(0, 10)} ${ISODate.slice(11, 16)}`
+  const ISODate = new Date().toISOString();
+  const date = `${ISODate.slice(0, 10)} ${ISODate.slice(11, 16)}`;
   const content = `
 <!DOCTYPE html>
 <html lang="en">
@@ -22,9 +22,9 @@ const render = (data) => {
         const src =
           shortLang === "eo"
             ? "/assets/flags/eo.png"
-            : `https://www.countryflags.io/${shortLang}/shiny/64.png`
+            : `https://purecatamphetamine.github.io/country-flag-icons/3x2/${shortLang.toUpperCase()}.svg`;
 
-        return `<a href="#${shortLang}"><img src="${src}" title="${language}"></a>`
+        return `<a href="#${shortLang}"><img src="${src}" title="${language}"></a>`;
       })
       .join("\n")}</div>
     <ul id="translations">${data
@@ -39,7 +39,7 @@ const render = (data) => {
             <pre class="code">https://polytopia.netlify.com/translations/${file}</pre>
             <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
             <a class="preview" href="https://polytopia.netlify.com/${shortLang}">PREVIEW</a>
-          </li>`,
+          </li>`
       )
       .join("\n")}</ul>
       <footer>
@@ -54,9 +54,9 @@ const render = (data) => {
     <script src="script.js"></script>
   </body>
 </html>
-`
+`;
 
-  fs.writeFileSync("index.html", content)
-}
+  fs.writeFileSync("index.html", content);
+};
 
-module.exports = render
+module.exports = render;
