@@ -21,7 +21,7 @@ const render = (data) => {
       .map(({ shortLang, language }) => {
         const src =
           shortLang === "eo"
-            ? "/assets/flags/eo.png"
+            ? "/assets/flags/eo.svg"
             : `https://purecatamphetamine.github.io/country-flag-icons/3x2/${shortLang.toUpperCase()}.svg`;
 
         return `<a href="#${shortLang}"><img src="${src}" title="${language}"></a>`;
