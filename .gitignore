@@ -1,3 +1,5 @@
 .history
 _redirects
 index.html
+*.temp.*
+*/**/*.temp.*
