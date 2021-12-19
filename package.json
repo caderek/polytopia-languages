@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/build.js"
+    "build": "node scripts/build.js",
+    "tidy": "node scripts/tidy.js"
   },
   "repository": {
     "type": "git",
