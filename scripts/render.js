@@ -29,7 +29,7 @@ const render = (data) => {
       .join("\n")}</div>
     <ul id="translations">${data
       .map(
-        ({ language, shortLang, author, editors, file }) =>
+        ({ language, shortLang, author, editors, file, completed }) =>
           `<li id="${shortLang}"><h3>${shortLang.toUpperCase()} (${language}) <span class="author">by ${
             author !== undefined ? author : "Anonymous"
           }</span>${
@@ -38,6 +38,7 @@ const render = (data) => {
             <h4>Links (click to copy):</h4>
             <pre class="code">https://polytopia.netlify.app/translations/${file}</pre>
             <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
+            <p class="completed">${completed}% complete</p>
             <a class="preview" href="https://polytopia.netlify.com/${shortLang}">PREVIEW</a>
           </li>`
       )
