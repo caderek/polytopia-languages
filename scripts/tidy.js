@@ -65,26 +65,38 @@ for (const lang of langs) {
     }
   }
 
-  const completion =
+  const completed =
     missingKeys.length === 0
       ? 100
       : Math.min(
-          ((originalKeys.length - missingKeys.length) / originalKeys.length) *
-            100,
+          Math.round(
+            ((originalKeys.length - missingKeys.length) / originalKeys.length) *
+              100
+          ),
           99
         );
 
-  console.log("--------------------------");
-  console.log(`\nLanguage: ${lang.toUpperCase()}`);
-  console.log(`Completion: ${Math.round(completion)}%\n`);
+  console.log(`\nLanguage: ${lang.toUpperCase()} (${sorted.language})`);
+  console.log(`Completed: ${completed}%`);
 
   if (missingKeys.length > 0 && langs.length === 1) {
-    console.log("Keys to translate:\n");
+    console.log("\nKeys to translate:\n");
     console.log(missingKeys.join("\n"));
   }
+
+  stats[lang] = {
+    language: sorted.language,
+    completedPercentage: completed,
+    completedSize: `${originalKeys.length - missingKeys.length}/${
+      originalKeys.length
+    }`,
+    missingTranslations: missingKeys,
+  };
 
   fs.writeFileSync(
     `translations/${lang}.json`,
     JSON.stringify(sorted, null, 2)
   );
 }
+
+fs.writeFileSync("stats.json", JSON.stringify(stats, null, 2));
