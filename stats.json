@@ -1506,20 +1506,31 @@
     "completedPercentage": 99,
     "completedSize": "964/978",
     "missingTranslations": [
-      "action.info.healarea",
       "buttons.ok",
       "consent.enabled.info",
       "credits.subtitle",
       "credits.wiki",
       "endscreen.gameover",
       "gameinfo.id",
+      "gamesettings.info.matchmaking.timelimit",
       "gamesettings.network.passplay",
       "multiplayer.passplay",
       "onlineview.passplay",
       "polyplayer.task",
       "tooltip.unit.grow.later",
       "tribes.nature",
-      "tribes.xinxi.info"
+      "unit.names.swordman"
+    ]
+  },
+  "cn": {
+    "language": "繁體中文（中國大陸）",
+    "completedPercentage": 99,
+    "completedSize": "974/978",
+    "missingTranslations": [
+      "friendlist.friendshipstate.none",
+      "tribepicker.categories.random.selected.title",
+      "tribes.nature",
+      "unit.names.priest"
     ]
   }
 }
