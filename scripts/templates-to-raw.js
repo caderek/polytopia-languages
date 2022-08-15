@@ -1,23 +1,23 @@
 const fs = require("fs");
 const path = require("path");
 
-const OUT_DIR = path.join("dist", "translations");
+const OUT_DIR = path.join("translations");
 
 if (!fs.existsSync(OUT_DIR)) {
-  fs.mkdirSync(OUT_DIR, { recursive: true });
+  fs.mkdirSync(OUT_DIR);
 }
 
 const lang = process.argv[2];
 
 const langs = lang
   ? [lang]
-  : fs.readdirSync("translations").map((x) => x.split(".")[0]);
+  : fs.readdirSync("templates").map((x) => x.split(".")[0]);
 
 const isEmpty = (translation) =>
   typeof translation !== "string" || translation.trim() === "";
 
 for (const lang of langs) {
-  const translation = require(`../translations/${lang}.json`);
+  const translation = require(`../templates/${lang}.json`);
 
   const entries = Object.entries(translation.text).map(([key, data]) => {
     const val = isEmpty(data["->"]) ? data.en : data["->"];

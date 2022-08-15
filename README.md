@@ -14,13 +14,15 @@ There are couple ways to contribute, you can make a pull request, open an issue 
 
 1. Get the template file from here: [empty template](https://raw.githubusercontent.com/caderek/polytopia-languages/master/template.json)
 
-1. Add your translation to the `translations` folder, name it as `<LANG_SHORTCUT>.json` (for example `es.json`). Here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/translations)
+1. Add your new template to the `templates` folder, name it as `<LANG_SHORTCUT>.json` (for example `es.json`). Here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/templates)
 
 1. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
 
+_Note: Do not edit files in the `translations` folder - they are generated automatically from templates._
+
 ## Improving existing translation
 
-1. Open selected translation from the ones listed [here](https://github.com/caderek/polytopia-languages/tree/master/translations)
+1. Open selected template from the ones listed [here](https://github.com/caderek/polytopia-languages/tree/master/templates)
 
 1. Click `Edit this file` button (a pen icon) and add your changes.
 

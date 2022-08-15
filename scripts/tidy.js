@@ -31,13 +31,13 @@ const stats = require("../stats.json");
 
 const langs = lang
   ? [lang]
-  : fs.readdirSync("translations").map((x) => x.split(".")[0]);
+  : fs.readdirSync("templates").map((x) => x.split(".")[0]);
 
 const isEmpty = (translation) =>
   typeof translation !== "string" || translation.trim() === "";
 
 for (const lang of langs) {
-  const translation = require(`../translations/${lang}.json`);
+  const translation = require(`../templates/${lang}.json`);
 
   const originalKeys = Object.keys(original)
     .filter((x) => !["language", "author", "editors"].includes(x))
@@ -102,10 +102,7 @@ for (const lang of langs) {
     missingTranslations: missingKeys,
   };
 
-  fs.writeFileSync(
-    `translations/${lang}.json`,
-    JSON.stringify(sorted, null, 2)
-  );
+  fs.writeFileSync(`templates/${lang}.json`, JSON.stringify(sorted, null, 2));
 }
 
 fs.writeFileSync("stats.json", JSON.stringify(stats, null, 2));

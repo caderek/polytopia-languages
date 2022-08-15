@@ -1,0 +1,5611 @@
+{
+  "language": "Esperanto",
+  "author": "raalph",
+  "editors": "",
+  "text": {
+    "action.info.attack": {
+      "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
+      "->": "ataki kun ĉi tiu unuaĵo. Elektu la unuaĵon kaj tuŝetu iun ajn el la ruĝaj celaĵoj, se vi volas ataki"
+    },
+    "action.info.boost": {
+      "en": "Boost",
+      "->": ""
+    },
+    "action.info.breakice": {
+      "en": "Break Ice",
+      "->": "Rompi glacion"
+    },
+    "action.info.breakpeace": {
+      "en": "Break Peace",
+      "->": ""
+    },
+    "action.info.build": {
+      "en": "build a {0} here",
+      "->": "konstrui {0}n ĉi tie"
+    },
+    "action.info.capture": {
+      "en": "Capture",
+      "->": "kapti"
+    },
+    "action.info.capture2": {
+      "en": "capture this city. Cities generate stars every turn that you can use to develop your empire",
+      "->": "kapti ĉi tiun urbon. Urboj generas stelojn ĉiuvice, kiun vi povas uzi por disvolvi vian imperion"
+    },
+    "action.info.cityreward": {
+      "en": "City Reward",
+      "->": "Rekompenco de Urbo"
+    },
+    "action.info.decompose": {
+      "en": "Decompose",
+      "->": ""
+    },
+    "action.info.destroy": {
+      "en": "Destroy",
+      "->": "detrui"
+    },
+    "action.info.disband": {
+      "en": "Disband {0}",
+      "->": "Disigi '{0}'"
+    },
+    "action.info.do": {
+      "en": "do {0} here",
+      "->": "fari {0} ĉi tie"
+    },
+    "action.info.endturn": {
+      "en": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
+      "->": "fini ĉi tiun vicon por akiri pli multajn rimedojn kaj unuaĵajn movojn. Tuŝetu la butonon 'Fini vicon'"
+    },
+    "action.info.establishembassy": {
+      "en": "Establish Embassy",
+      "->": ""
+    },
+    "action.info.examineruins": {
+      "en": "Examine",
+      "->": ""
+    },
+    "action.info.explode": {
+      "en": "Explode",
+      "->": ""
+    },
+    "action.info.freezearea": {
+      "en": "Freeze Area",
+      "->": "Frostigi Areon"
+    },
+    "action.info.healarea": {
+      "en": "Heal Area",
+      "->": "Resanigi Areon"
+    },
+    "action.info.healothers": {
+      "en": "Heal Others",
+      "->": "Resanigi aliajn"
+    },
+    "action.info.meet": {
+      "en": "Meet",
+      "->": "Renkonti"
+    },
+    "action.info.move": {
+      "en": "move this unit. Select the unit and tap any of the BLUE targets",
+      "->": "movi ĉi tiun unuaĵon. Elektu la unuaĵo kaj tuŝetu iun ajn el la bluaj celaĵoj"
+    },
+    "action.info.peacetreaty": {
+      "en": "Offer Peace",
+      "->": ""
+    },
+    "action.info.promote": {
+      "en": "Promote",
+      "->": "Promocii"
+    },
+    "action.info.recover": {
+      "en": "Recover",
+      "->": "Resaniĝi"
+    },
+    "action.info.remove": {
+      "en": "Remove",
+      "->": "Forigi"
+    },
+    "action.info.research": {
+      "en": "research {0}.",
+      "->": "esplori {0}. {0}"
+    },
+    "action.info.reward": {
+      "en": "Reward",
+      "->": "Rekompenco"
+    },
+    "action.info.reward.population": {
+      "en": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
+      "->": "Tio pliigos la loĝantaron de la plej proksima urbo. Kiam la loĝantaro iĝos sufiĉe granda, la urbo pliniveliĝos kaj produktos pli da rimedoj"
+    },
+    "action.info.reward.resources": {
+      "en": "That will give you an instant reward of {0} resources",
+      "->": "Tio donos al vi tujan rekompencon de {0}"
+    },
+    "action.info.stay": {
+      "en": "Stay",
+      "->": "Resti"
+    },
+    "action.info.train": {
+      "en": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
+      "->": "trejni unuaĵon en ĉi tiu urbo. Unuaĵo povas esti uzataj por esplori la mondon, ataki malamikojn kaj defendi viajn urbojn"
+    },
+    "action.info.trip": {
+      "en": "Trip",
+      "->": "Veturi"
+    },
+    "action.info.upgrade": {
+      "en": "Upgrade to {0}",
+      "->": ""
+    },
+    "actionbox.building.decomposing": {
+      "en": "Decomposing",
+      "->": ""
+    },
+    "actionbox.building.decomposing.info": {
+      "en": "This improvement will decompose at the end of this turn",
+      "->": ""
+    },
+    "actionbox.building.doit": {
+      "en": "DO IT",
+      "->": "FARI TION"
+    },
+    "actionbox.building.level": {
+      "en": "level {0}/{1}",
+      "->": "nivelo {0}/{1}"
+    },
+    "actionbox.building.requiredtech": {
+      "en": "You need to research {0} to do this, tap the 'Tech Tree' button.",
+      "->": "Vi devas esplori {0}n por fari ĉi tion, tuŝetu la butonon 'Teĥnologia Arbo'."
+    },
+    "actionbox.building.techtree": {
+      "en": "TECH TREE",
+      "->": "Teĥnologia Arbo"
+    },
+    "actionbox.cantperformaction.description": {
+      "en": "You cannot perform this action right now.",
+      "->": ""
+    },
+    "actionbox.city": {
+      "en": "City",
+      "->": "La urbo de {0}"
+    },
+    "actionbox.city.level": {
+      "en": "lvl {0}",
+      "->": "nvl {0}"
+    },
+    "actionbox.confirm": {
+      "en": "Confirm {0}",
+      "->": "Konfirmi {0}"
+    },
+    "actionbox.confirm.button": {
+      "en": "YES",
+      "->": "jes"
+    },
+    "actionbox.confirm.info": {
+      "en": "Are you sure you want to do this?",
+      "->": "Ĉu vi certas, ke vi volas fari ĉi tion?"
+    },
+    "actionbox.confirm.info.breakpeace": {
+      "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
+      "->": ""
+    },
+    "actionbox.confirm.info.breakpeace.disband": {
+      "en": "It will also disband the {0} units you have in their territory.",
+      "->": ""
+    },
+    "actionbox.embassyestablished.description": {
+      "en": "The embassy is already established.",
+      "->": ""
+    },
+    "actionbox.establishembassynocapital.description": {
+      "en": "You cannot establish an embassy if the tribe has no capital.",
+      "->": ""
+    },
+    "actionbox.insufficientfunds": {
+      "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
+      "->": "Vi ne havas sufiĉe da steloj por aĉeti ĉi tion. Tuŝetu 'Sekvan vicon' por akiri pli da steloj."
+    },
+    "actionbox.pendingpeacetreaty.description": {
+      "en": "Peace treaty pending. Waiting for {0} to respond",
+      "->": ""
+    },
+    "actionbox.pendingpeacetreaty.title": {
+      "en": "Pending Peace Treaty",
+      "->": ""
+    },
+    "actionbox.tile.roads": {
+      "en": "roads",
+      "->": "vojoj"
+    },
+    "actionbox.unit.Boosted": {
+      "en": "Boosted",
+      "->": ""
+    },
+    "actionbox.unit.Frozen": {
+      "en": "Frozen",
+      "->": ""
+    },
+    "actionbox.unit.Invisible": {
+      "en": "Invisible",
+      "->": ""
+    },
+    "actionbox.unit.Poisoned": {
+      "en": "Poisoned",
+      "->": ""
+    },
+    "actionbox.unit.ability": {
+      "en": "Unit Ability",
+      "->": "Kapablo de la Unuaĵo"
+    },
+    "actionbox.unit.kills": {
+      "en": "{0}/{1} kills",
+      "->": "{0}/{1} mortigoj"
+    },
+    "actionbox.unit.new": {
+      "en": "Train a new {0} {1}",
+      "->": "Trejni novan {1}n {0}."
+    },
+    "actionbox.unit.toomany": {
+      "en": "(too many)",
+      "->": "(tro multaj)"
+    },
+    "actionbox.unit.toomany.info": {
+      "en": "This city can't support any more units. Upgrade the city to get more space for units.",
+      "->": "Ĉi tiu urbo ne plu subtenas unuaĵoj. Plibonigu la urbon por akiri pli da spaco por unuaĵoj."
+    },
+    "actionbox.unit.train": {
+      "en": "TRAIN",
+      "->": "TREJNI"
+    },
+    "actionbox.unit.upgrade": {
+      "en": "UPGRADE",
+      "->": "PLIBONIGI"
+    },
+    "actionbox.unit.veteran": {
+      "en": "Veteran",
+      "->": "Veterano"
+    },
+    "actionbox.village": {
+      "en": "Village",
+      "->": "Vilaĝo"
+    },
+    "actionbtn.remove.building": {
+      "en": "Building",
+      "->": "Konstruaĵo"
+    },
+    "actionbtn.remove.roads": {
+      "en": "Roads",
+      "->": "Vojoj"
+    },
+    "backend.connecting": {
+      "en": "Connecting to server...",
+      "->": ""
+    },
+    "backend.connecting.failed": {
+      "en": "Could not establish a connection to the server",
+      "->": ""
+    },
+    "backend.connection.lost": {
+      "en": "Connection lost",
+      "->": ""
+    },
+    "backend.connection.lost.info": {
+      "en": "Hold on while we're trying to reconnect",
+      "->": ""
+    },
+    "backend.login.failed": {
+      "en": "Login failed",
+      "->": ""
+    },
+    "backend.login.successful": {
+      "en": "Logged in as {0}",
+      "->": ""
+    },
+    "bottommenu.gamestats": {
+      "en": "Game Stats",
+      "->": "Statistikoj"
+    },
+    "bottommenu.menu": {
+      "en": "Menu",
+      "->": "Menuo"
+    },
+    "bottommenu.nextturn": {
+      "en": "Next Turn",
+      "->": "Fini vicon"
+    },
+    "bottommenu.techtree": {
+      "en": "Tech Tree",
+      "->": "Teĥnologioj"
+    },
+    "building.ability.attract": {
+      "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
+      "->": "altiras sovaĝan beston al proksima arbara kahelo ĉiun 3 vicojn"
+    },
+    "building.ability.bridge": {
+      "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
+      "->": ""
+    },
+    "building.ability.embark": {
+      "en": "Units that move here will turn into boats that can move on water.",
+      "->": "Unuaĵoj, kiuj moviĝas ĉi tie, iĝos ŝipoj, kiuj povas movi sur akvo."
+    },
+    "building.ability.heal": {
+      "en": "{0} heals any friendly unit that end their turn next to them.",
+      "->": ""
+    },
+    "building.ability.limited": {
+      "en": "You can only build one {0} per city.",
+      "->": "Vi nur povas konstrui unu {0} por urbo."
+    },
+    "building.ability.network": {
+      "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
+      "->": ""
+    },
+    "building.ability.patina": {
+      "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
+      "->": "{0} kreskas kun la tempo, do provu konstrui ilin plej frue kiel eble."
+    },
+    "building.ability.poison": {
+      "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
+      "->": ""
+    },
+    "building.ability.road": {
+      "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
+      "->": "Konstruu vojojn por konekti urbojn kun la ĉefurbo. Konektitaj urboj ricevas 1 loĝanton kiel rekompencon. Stratoj ankaŭ donas movan bonuson por ĉiuj unuaĵoj."
+    },
+    "building.ability.route": {
+      "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
+      "->": "Ĝi kreas komercajn vojojn tra {0} al iu ajn alia {1} en radiuso de 5 kaheloj."
+    },
+    "building.ability.route.and": {
+      "en": "and ",
+      "->": " kaj "
+    },
+    "building.ability.ruin": {
+      "en": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
+      "->": "Ruino de antikva civilizacio, ĝi povas enhavi grandvalorajn aferojn! Iru tien kun unuaĵo por ekzameni ĝin."
+    },
+    "building.ability.unique": {
+      "en": "{0} can only be built once.",
+      "->": "{0} nur konstrueblas unufoje."
+    },
+    "building.capital.owner": {
+      "en": "{0} is the {1} capital",
+      "->": "{0} estas la ĉefurbo de {1}."
+    },
+    "building.capital.owner.former": {
+      "en": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
+      "->": "{0} estis la ĉefurbo de la imperio de {1}, nuntempe okupata de {2}."
+    },
+    "building.city.owner": {
+      "en": "{0} is a city in the {1} empire",
+      "->": "{0} estas urbo de la imperio de {1}."
+    },
+    "building.names.algae": {
+      "en": "Algae",
+      "->": ""
+    },
+    "building.names.burnforest": {
+      "en": "Burn Forest",
+      "->": "Bruligi Arbaron"
+    },
+    "building.names.city": {
+      "en": "City",
+      "->": "Urbo"
+    },
+    "building.names.clathrus": {
+      "en": "Clathrus",
+      "->": ""
+    },
+    "building.names.clearforest": {
+      "en": "Clear Forest",
+      "->": "Detruu arbaron"
+    },
+    "building.names.customshouse": {
+      "en": "Customs House",
+      "->": "Dogano"
+    },
+    "building.names.enchantanimal": {
+      "en": "Enchant Animal",
+      "->": ""
+    },
+    "building.names.enchantwhale": {
+      "en": "Enchant Whale",
+      "->": ""
+    },
+    "building.names.farm": {
+      "en": "Farm",
+      "->": "Bieno"
+    },
+    "building.names.fishing": {
+      "en": "Fishing",
+      "->": "Fiŝado"
+    },
+    "building.names.foresttemple": {
+      "en": "Forest Temple",
+      "->": "Arbara templo"
+    },
+    "building.names.forge": {
+      "en": "Forge",
+      "->": "Forĝejo"
+    },
+    "building.names.fungi": {
+      "en": "Fungi",
+      "->": ""
+    },
+    "building.names.growforest": {
+      "en": "Grow Forest",
+      "->": "Kreski arbaron"
+    },
+    "building.names.harvestfruit": {
+      "en": "Harvest Fruit",
+      "->": ""
+    },
+    "building.names.hunting": {
+      "en": "Hunting",
+      "->": "Ĉasado"
+    },
+    "building.names.icebank": {
+      "en": "Ice Bank",
+      "->": ""
+    },
+    "building.names.icetemple": {
+      "en": "Ice Temple",
+      "->": "Glacia templo"
+    },
+    "building.names.lumberhut": {
+      "en": "Lumber Hut",
+      "->": "Lignokabano"
+    },
+    "building.names.mine": {
+      "en": "Mine",
+      "->": "Mino"
+    },
+    "building.names.monument1": {
+      "en": "Altar of Peace",
+      "->": "Altaro de la Paco"
+    },
+    "building.names.monument2": {
+      "en": "Tower of Wisdom",
+      "->": "Turo de la Saĝo"
+    },
+    "building.names.monument3": {
+      "en": "Grand Bazaar",
+      "->": "Granda Bazaro"
+    },
+    "building.names.monument4": {
+      "en": "Emperors Tomb",
+      "->": "Tombo de la Imperiestro"
+    },
+    "building.names.monument5": {
+      "en": "Gate of Power",
+      "->": "Pordego de la Potenco"
+    },
+    "building.names.monument6": {
+      "en": "Park of Fortune",
+      "->": "Parko de la Fortuno"
+    },
+    "building.names.monument7": {
+      "en": "Eye of God",
+      "->": "Okulo de Dio"
+    },
+    "building.names.mountaintemple": {
+      "en": "Mountain Temple",
+      "->": "Monta Templo"
+    },
+    "building.names.mycelium": {
+      "en": "Mycelium",
+      "->": ""
+    },
+    "building.names.outpost": {
+      "en": "Outpost",
+      "->": ""
+    },
+    "building.names.port": {
+      "en": "Port",
+      "->": "Haveno"
+    },
+    "building.names.road": {
+      "en": "Road",
+      "->": "Vojo"
+    },
+    "building.names.ruin": {
+      "en": "Ruin",
+      "->": "Ruino"
+    },
+    "building.names.sanctuary": {
+      "en": "Sanctuary",
+      "->": "Sanktejo"
+    },
+    "building.names.sawmill": {
+      "en": "Sawmill",
+      "->": "Segejo"
+    },
+    "building.names.temple": {
+      "en": "Temple",
+      "->": "Templo"
+    },
+    "building.names.watertemple": {
+      "en": "Water Temple",
+      "->": "Akva Templo"
+    },
+    "building.names.whalehunting": {
+      "en": "Whale Hunting",
+      "->": "Balenkaptado"
+    },
+    "building.names.windmill": {
+      "en": "Windmill",
+      "->": "Ventmuelilo"
+    },
+    "building.produce": {
+      "en": "produces {0} each turn",
+      "->": "produktas {0} ĉiuvice"
+    },
+    "building.produce.multiply": {
+      "en": "({0} for each nearby {1})",
+      "->": " ({0} por ĉiu proksima {1})"
+    },
+    "building.produce.multiply.polaris": {
+      "en": "({0} for every {1} frozen tiles in the world)",
+      "->": " ({0} por ĉiu {1} frostitaj kaheloj en la mondo)"
+    },
+    "building.produce.multiply2": {
+      "en": "produces {0} for each nearby {1} each turn",
+      "->": "produktas {0} por ĉiu proksima {1} ĉiuvice"
+    },
+    "building.produce.multiply2.polaris": {
+      "en": "Produces {0} for every {1} frozen tiles in the world",
+      "->": ""
+    },
+    "building.produce.multiply3": {
+      "en": "produces {0} for each nearby {1}",
+      "->": "produktas {0} por ĉiu proksima {1}"
+    },
+    "building.produce.reward": {
+      "en": "produces {0}",
+      "->": "produktas {0}n"
+    },
+    "building.produce.reward.named": {
+      "en": "produces {0} for {1}",
+      "->": "produktas {0} por {1}"
+    },
+    "building.resource": {
+      "en": "adds a {0} at the selected tile",
+      "->": "aldonas {0} al elektita kahelo"
+    },
+    "building.restriction.near": {
+      "en": "Must be built next to a {0}.",
+      "->": "Devas esti konstruita apud {0}."
+    },
+    "building.restriction.on": {
+      "en": "Must be on a tile with {0}.",
+      "->": "Devas esti sur kahelo kun {0}."
+    },
+    "building.reward.instant": {
+      "en": "instantly gives you {0}",
+      "->": "senprokraste donas al vi {0}n"
+    },
+    "building.reward.tech": {
+      "en": "gives you a {0}",
+      "->": "donas al vi {0}n"
+    },
+    "building.transform": {
+      "en": "transforms a {0} into a {1}",
+      "->": "transformas {0} en {1}"
+    },
+    "building.transform2": {
+      "en": "transforms a {0} into a {1} with {2}",
+      "->": "transformas {0} en {1} kun {2}"
+    },
+    "building.value": {
+      "en": "is worth {0} points of score",
+      "->": "valoras {0} poentojn"
+    },
+    "building.village.owner": {
+      "en": "This is a village that doesn't belong to any tribe",
+      "->": "Ĉi tio estas vilaĝo, kiu apartenas al neniu tribo"
+    },
+    "buttons.accept": {
+      "en": "ACCEPT",
+      "->": ""
+    },
+    "buttons.back": {
+      "en": "BACK",
+      "->": "REEN"
+    },
+    "buttons.decline": {
+      "en": "DECLINE",
+      "->": ""
+    },
+    "buttons.exit": {
+      "en": "EXIT",
+      "->": "ELIRI"
+    },
+    "buttons.exitgame": {
+      "en": "EXIT GAME",
+      "->": ""
+    },
+    "buttons.invite": {
+      "en": "INVITE",
+      "->": ""
+    },
+    "buttons.leave": {
+      "en": "LEAVE",
+      "->": ""
+    },
+    "buttons.ok": {
+      "en": "OK",
+      "->": ""
+    },
+    "buttons.quit": {
+      "en": "Quit",
+      "->": ""
+    },
+    "buttons.reconnect": {
+      "en": "RECONNECT",
+      "->": ""
+    },
+    "buttons.remove": {
+      "en": "REMOVE",
+      "->": ""
+    },
+    "buttons.save": {
+      "en": "SAVE",
+      "->": "KONSERVI"
+    },
+    "buttons.start": {
+      "en": "START GAME",
+      "->": ""
+    },
+    "buttons.stay": {
+      "en": "STAY",
+      "->": ""
+    },
+    "buttons.tryagain": {
+      "en": "TRY AGAIN",
+      "->": ""
+    },
+    "challengermode.connect.button": {
+      "en": "CONNECT",
+      "->": ""
+    },
+    "challengermode.connect.description": {
+      "en": "To participate in a ladder you need a Challengermode account.",
+      "->": ""
+    },
+    "challengermode.connect.header": {
+      "en": "Connect to Challengermode",
+      "->": ""
+    },
+    "consent.approval.info": {
+      "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
+      "->": ""
+    },
+    "consent.approval.title": {
+      "en": "Welcome to Polytopia!",
+      "->": ""
+    },
+    "consent.approve": {
+      "en": "APPROVE",
+      "->": ""
+    },
+    "consent.deny": {
+      "en": "DENY",
+      "->": ""
+    },
+    "consent.disabled": {
+      "en": "Personal Data Disabled",
+      "->": ""
+    },
+    "consent.disabled.info": {
+      "en": "To save personal data like high scores and usage statistics we need your approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+      "->": "To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>."
+    },
+    "consent.enabled": {
+      "en": "Personal Data Enabled",
+      "->": ""
+    },
+    "consent.enabled.info": {
+      "en": "You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+      "->": ""
+    },
+    "consent.revoke": {
+      "en": "revoke consent",
+      "->": ""
+    },
+    "credits.artists": {
+      "en": "Artists",
+      "->": ""
+    },
+    "credits.build": {
+      "en": "Build version",
+      "->": "Versio"
+    },
+    "credits.community": {
+      "en": "Community Manager",
+      "->": ""
+    },
+    "credits.debuginfo": {
+      "en": "DEBUG INFO",
+      "->": "Informoj por sencimigo"
+    },
+    "credits.design": {
+      "en": "Game Design",
+      "->": ""
+    },
+    "credits.device": {
+      "en": "Device",
+      "->": ""
+    },
+    "credits.followus": {
+      "en": "Follow us",
+      "->": ""
+    },
+    "credits.getmerch": {
+      "en": "Get some official Polytopian merch.",
+      "->": "Aĉetu oficialajn Polytopia varojn:"
+    },
+    "credits.learnmore1": {
+      "en": "Want to know everything?",
+      "->": "Ĉu vi volas scii ĉion?"
+    },
+    "credits.learnmore2": {
+      "en": "Check the extensive Wikia database created by the Polytopia community.",
+      "->": "Vizitu la ampleksan datumbazon Wikia kreitan de la komunumo de Polytopia:"
+    },
+    "credits.managment": {
+      "en": "Management",
+      "->": ""
+    },
+    "credits.midjiwan": {
+      "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
+      "->": "The Battle of Polytopia estas verkata de Midjiwan, eta sendependa ludstudio el Stokholmo, Svedio."
+    },
+    "credits.music": {
+      "en": "MUSIC",
+      "->": ""
+    },
+    "credits.os": {
+      "en": "OS",
+      "->": ""
+    },
+    "credits.platforms": {
+      "en": "Multiple platforms",
+      "->": ""
+    },
+    "credits.polytopiamusic1": {
+      "en": "Polytopia music!",
+      "->": ""
+    },
+    "credits.polytopiamusic2": {
+      "en": "Listen to full length versions of you favourite tribe's soundtrack on Spotify.",
+      "->": ""
+    },
+    "credits.privacy": {
+      "en": "Privacy Policy",
+      "->": "Privateca politiko"
+    },
+    "credits.programmers": {
+      "en": "Programmers",
+      "->": ""
+    },
+    "credits.qa": {
+      "en": "Quality Assurance",
+      "->": ""
+    },
+    "credits.screendpi": {
+      "en": "Screen DPI",
+      "->": "DPI de la ekrano"
+    },
+    "credits.screensize": {
+      "en": "Screen size",
+      "->": "Amplekso de la ekrano"
+    },
+    "credits.showsupport": {
+      "en": "Show your support!",
+      "->": "Montru vian subtenon!"
+    },
+    "credits.sound": {
+      "en": "Sound & Music",
+      "->": "Sono kaj Muziko"
+    },
+    "credits.terms": {
+      "en": "Terms of Service",
+      "->": "Kondiĉoj de uzado"
+    },
+    "credits.title": {
+      "en": "ABOUT",
+      "->": "PRI"
+    },
+    "credits.visitshop": {
+      "en": "SHOP",
+      "->": "VIZITI LA BUTIKON"
+    },
+    "credits.wiki": {
+      "en": "WIKI",
+      "->": "POLYTOPIA WIKI"
+    },
+    "date.day": {
+      "en": "day",
+      "->": "tago"
+    },
+    "date.days": {
+      "en": "days",
+      "->": "tagoj"
+    },
+    "date.hour": {
+      "en": "hour",
+      "->": "horo"
+    },
+    "date.hours": {
+      "en": "hours",
+      "->": "horoj"
+    },
+    "date.minute": {
+      "en": "minute",
+      "->": "minuto"
+    },
+    "date.minutes": {
+      "en": "minutes",
+      "->": "minutoj"
+    },
+    "date.second": {
+      "en": "second",
+      "->": "sekondo"
+    },
+    "date.seconds": {
+      "en": "seconds",
+      "->": "sekondoj"
+    },
+    "diplomacy.acceptpeace.description": {
+      "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
+      "->": ""
+    },
+    "diplomacy.acceptpeace.notification.description": {
+      "en": "Peace treaty with {0} confirmed!",
+      "->": ""
+    },
+    "diplomacy.acceptpeace.notification.description2": {
+      "en": "{0} and {1} has made peace!",
+      "->": ""
+    },
+    "diplomacy.acceptpeace.title": {
+      "en": "Peace treaty accepted!",
+      "->": ""
+    },
+    "diplomacy.breakpeace.description": {
+      "en": "{0} has broken the peace treaty. Next turn you will be able to attack each other again so get prepared!",
+      "->": ""
+    },
+    "diplomacy.breakpeace.notification.description": {
+      "en": "Broke peace with {0}",
+      "->": ""
+    },
+    "diplomacy.breakpeace.notification.description2": {
+      "en": "{0} and {1} are no longer at peace",
+      "->": ""
+    },
+    "diplomacy.breakpeace.title": {
+      "en": "{0} Broke Peace",
+      "->": ""
+    },
+    "diplomacy.declarewar.description": {
+      "en": "{0} has declared war on you!",
+      "->": ""
+    },
+    "diplomacy.declarewar.title": {
+      "en": "War!",
+      "->": ""
+    },
+    "diplomacy.denypeace.description": {
+      "en": "{0} has rejected the peace treaty you offered.",
+      "->": ""
+    },
+    "diplomacy.denypeace.notification.description": {
+      "en": "You rejected the {0} peace treaty.",
+      "->": ""
+    },
+    "diplomacy.denypeace.notification.title": {
+      "en": "No Deal",
+      "->": ""
+    },
+    "diplomacy.denypeace.title": {
+      "en": "Peace treaty rejected",
+      "->": ""
+    },
+    "diplomacy.destroyedembassy.description": {
+      "en": "Your embassy in the {0} capital has been destroyed!",
+      "->": ""
+    },
+    "diplomacy.destroyedembassy.description2": {
+      "en": "The {0} embassy in your capital has been destroyed.",
+      "->": ""
+    },
+    "diplomacy.destroyedembassy.title": {
+      "en": "Embassy Destroyed",
+      "->": ""
+    },
+    "diplomacy.establishedembassy.description": {
+      "en": "You have established an embassy in the {0} capital. It will give you both {1} stars per turn, when you have a peace treaty the income is doubled.",
+      "->": ""
+    },
+    "diplomacy.establishedembassy.description2": {
+      "en": "{0} established an embassy in your capital. It will give you both {1} stars per turn. The income is doubled if you have a peace treaty.",
+      "->": ""
+    },
+    "diplomacy.establishedembassy.title": {
+      "en": "Embassy Established",
+      "->": ""
+    },
+    "diplomacy.peacetreaty.description": {
+      "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
+      "->": ""
+    },
+    "diplomacy.peacetreaty.notification.description": {
+      "en": "Peace treaty sent to {0}",
+      "->": ""
+    },
+    "diplomacy.relation.decent": {
+      "en": "Decent",
+      "->": ""
+    },
+    "diplomacy.relation.great": {
+      "en": "Great",
+      "->": ""
+    },
+    "diplomacy.relation.horrible": {
+      "en": "Horrible",
+      "->": ""
+    },
+    "diplomacy.relation.indifferent": {
+      "en": "Indifferent",
+      "->": ""
+    },
+    "diplomacy.relation.poor": {
+      "en": "Poor",
+      "->": ""
+    },
+    "diplomacy.relation.title": {
+      "en": "Relation",
+      "->": ""
+    },
+    "diplomacy.state.hostile": {
+      "en": "cooldown",
+      "->": ""
+    },
+    "diplomacy.state.hostile.description": {
+      "en": "Your current peace treaty just ended and you will be able to attack each other again next turn.",
+      "->": ""
+    },
+    "diplomacy.state.neutral": {
+      "en": "neutral",
+      "->": ""
+    },
+    "diplomacy.state.neutral.description": {
+      "en": "There has been no recent hostilities between your tribes.",
+      "->": ""
+    },
+    "diplomacy.state.peace": {
+      "en": "peace",
+      "->": ""
+    },
+    "diplomacy.state.peace.description": {
+      "en": "You currently have a peace treaty preventing you from attacking each other. A peace treaty can be canceled at any time, but that will take effect in the following turn.",
+      "->": ""
+    },
+    "diplomacy.state.war": {
+      "en": "war",
+      "->": ""
+    },
+    "diplomacy.state.war.description": {
+      "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
+      "->": ""
+    },
+    "endscreen.army&territory": {
+      "en": "Army & Territory",
+      "->": "Armeo kaj Teritorio"
+    },
+    "endscreen.battle": {
+      "en": "Battle skills",
+      "->": "Batalkapablo"
+    },
+    "endscreen.battle.info": {
+      "en": "{0} units lost",
+      "->": "{0} unuaĵoj perditaj"
+    },
+    "endscreen.bonus": {
+      "en": "Difficulty Bonus",
+      "->": "Bonuso de Malfacileco"
+    },
+    "endscreen.cities": {
+      "en": "Cities",
+      "->": "Urboj"
+    },
+    "endscreen.citiescount": {
+      "en": "{0} cities",
+      "->": "{0} urboj"
+    },
+    "endscreen.connectioninfo": {
+      "en": "Log in to submit high scores",
+      "->": ""
+    },
+    "endscreen.culture": {
+      "en": "{0} monuments, {1} temples",
+      "->": "{0} monumentoj, {1} temploj"
+    },
+    "endscreen.destroyed": {
+      "en": "Tribes destroyed",
+      "->": "Triboj detruitaj"
+    },
+    "endscreen.destroyed.info": {
+      "en": "{0}/{1}",
+      "->": ""
+    },
+    "endscreen.domination.loss": {
+      "en": "{0} turns",
+      "->": "{0} vicoj"
+    },
+    "endscreen.domination.win": {
+      "en": "{0}/{1} turns",
+      "->": "{0}/{1} vicoj"
+    },
+    "endscreen.done": {
+      "en": "DONE",
+      "->": "Fino"
+    },
+    "endscreen.finalrating": {
+      "en": "FINAL RATING",
+      "->": "DEFINITIVA TAKSO"
+    },
+    "endscreen.finalscore": {
+      "en": "FINAL SCORE",
+      "->": "DEFINITIVAJ POENTOJ"
+    },
+    "endscreen.gameover": {
+      "en": "GAME OVER",
+      "->": "FINO DE PARTIO"
+    },
+    "endscreen.monuments&temples": {
+      "en": "Monuments & Temples",
+      "->": "Monumentoj kaj temploj"
+    },
+    "endscreen.nextstar": {
+      "en": "{0} needed for next star",
+      "->": "{0} poentoj ĝis la sekva stelo"
+    },
+    "endscreen.nextstar.percent": {
+      "en": "{0}% needed for next star",
+      "->": "{0}% ĝis la sekva stelo"
+    },
+    "endscreen.personal": {
+      "en": "New personal all time high!",
+      "->": "Nova persona plej bona rezulto!"
+    },
+    "endscreen.personal.title": {
+      "en": "Amazing!",
+      "->": "Mirinde!"
+    },
+    "endscreen.rating": {
+      "en": "Difficulty rating",
+      "->": "Malfacileco"
+    },
+    "endscreen.ruledby": {
+      "en": "Ruled by {0}",
+      "->": "Regata de {0}"
+    },
+    "endscreen.science": {
+      "en": "Science",
+      "->": "Scienco"
+    },
+    "endscreen.showhiscore": {
+      "en": "SHOW HISCORE",
+      "->": "MONTRI RANGLISTO"
+    },
+    "endscreen.speedskills": {
+      "en": "Speed skills",
+      "->": "Rapideco"
+    },
+    "endscreen.techscore": {
+      "en": "{0}/{1} technologies researched",
+      "->": "{0}/{0} teĥnologioj esploritaj"
+    },
+    "endscreen.topresult": {
+      "en": "New top result!",
+      "->": "Nova plej bona rezulto!"
+    },
+    "endscreen.topresult.title": {
+      "en": "Great!",
+      "->": "Bonege!"
+    },
+    "endscreen.units": {
+      "en": "{0} units, {1} tiles empire",
+      "->": "Imperio de {0} unuaĵoj, {1} kaheloj"
+    },
+    "endscreen.victory": {
+      "en": "VICTORY",
+      "->": "VENKO"
+    },
+    "endscreen.winner": {
+      "en": "{0} wins!",
+      "->": "{0} venkis!"
+    },
+    "epithet.divine": {
+      "en": "the Divine {0}",
+      "->": ""
+    },
+    "epithet.faithful": {
+      "en": "the Faithful {0}",
+      "->": ""
+    },
+    "epithet.pathetic": {
+      "en": "the Pathetic {0}",
+      "->": ""
+    },
+    "epithet.terrible": {
+      "en": "the Terrible {0}",
+      "->": ""
+    },
+    "error.code.1001": {
+      "en": "Submit failed, busy ({0})",
+      "->": ""
+    },
+    "error.code.1002": {
+      "en": "Steam authentication failed ({0})",
+      "->": ""
+    },
+    "error.code.1003": {
+      "en": "Google Play authentication failed ({0})",
+      "->": ""
+    },
+    "error.code.1004": {
+      "en": "Login failed ({0})",
+      "->": ""
+    },
+    "error.code.1005": {
+      "en": "Game not found ({0})",
+      "->": ""
+    },
+    "error.code.1006": {
+      "en": "Player not found ({0})",
+      "->": ""
+    },
+    "error.code.1007": {
+      "en": "Invalid friend request ({0})",
+      "->": ""
+    },
+    "error.code.1008": {
+      "en": "Friendship not found ({0})",
+      "->": ""
+    },
+    "error.code.1009": {
+      "en": "Invalid friendship status ({0})",
+      "->": ""
+    },
+    "error.code.1010": {
+      "en": "Unable to create game, no players ({0})",
+      "->": ""
+    },
+    "error.code.1011": {
+      "en": "Missing game state ({0})",
+      "->": ""
+    },
+    "error.code.1012": {
+      "en": "Game could not be loaded ({0})",
+      "->": ""
+    },
+    "error.code.1013": {
+      "en": "Invalid command ({0})",
+      "->": ""
+    },
+    "error.code.1014": {
+      "en": "Failed to kick player ({0})",
+      "->": ""
+    },
+    "error.code.1015": {
+      "en": "Failed to start game ({0})",
+      "->": ""
+    },
+    "error.code.1016": {
+      "en": "User not found ({0})",
+      "->": ""
+    },
+    "error.code.1017": {
+      "en": "Failed to pick tribe ({0})",
+      "->": ""
+    },
+    "error.code.1018": {
+      "en": "AI Command failed ({0})",
+      "->": ""
+    },
+    "error.code.1019": {
+      "en": "Your version of Polytopia is too old. Update to the latest version to start a new multiplayer game ({0})",
+      "->": ""
+    },
+    "error.code.1023": {
+      "en": "This game is using a newer version of Polytopia, you need to update to the latest version before you can play. ({0})",
+      "->": ""
+    },
+    "error.code.1024": {
+      "en": "This game is still ongoing, you can view it once it has ended ({0})",
+      "->": ""
+    },
+    "error.code.404": {
+      "en": "Connection error ({0})",
+      "->": ""
+    },
+    "error.code.500": {
+      "en": "Internal server error ({0})",
+      "->": ""
+    },
+    "error.unknown": {
+      "en": "Unknown error: {0} ({1})",
+      "->": ""
+    },
+    "esport.verifyaccount.description": {
+      "en": "You’re about to link your Polytopia account to Challengermode.",
+      "->": ""
+    },
+    "esport.verifyaccount.description.login": {
+      "en": "In order to verify your account you need to be logged in",
+      "->": ""
+    },
+    "esport.verifyaccount.login": {
+      "en": "Login",
+      "->": ""
+    },
+    "esport.verifyaccount.service.cm": {
+      "en": "Challengermode",
+      "->": ""
+    },
+    "esport.verifyaccount.success": {
+      "en": "Successfully linked account",
+      "->": ""
+    },
+    "esport.verifyaccount.title": {
+      "en": "Verify Account",
+      "->": ""
+    },
+    "firebaseservice.status.connecting": {
+      "en": "Connecting to the Polytopia server...",
+      "->": "Konektante al la servilo de Polytopia..."
+    },
+    "firebaseservice.status.loading": {
+      "en": "Loading game data...",
+      "->": "Ŝarĝante partiajn datumojn..."
+    },
+    "firendList.winratio": {
+      "en": "-Win Ratio-",
+      "->": ""
+    },
+    "friendlist.acceptinvite.button": {
+      "en": "ACCEPT INVITE",
+      "->": ""
+    },
+    "friendlist.bot": {
+      "en": "{0} Bot",
+      "->": "Roboto {0}"
+    },
+    "friendlist.bots": {
+      "en": "Bots",
+      "->": "Robotoj"
+    },
+    "friendlist.cancelinvite.button": {
+      "en": "CANCEL INVITE",
+      "->": ""
+    },
+    "friendlist.checking": {
+      "en": "Checking friend status...",
+      "->": "Kontrolante amikstato.."
+    },
+    "friendlist.error": {
+      "en": "Error loading friends",
+      "->": "Eraro ŝarĝante amikojn."
+    },
+    "friendlist.friend.notupdated": {
+      "en": "{0} is still on the old server",
+      "->": "{0} ankoraŭ estas en la malnova servilo."
+    },
+    "friendlist.friend.update": {
+      "en": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
+      "->": "{0} bezonas ĝisdatigi la ludon al la plej nova versio antaŭ ol vi povas inviti rin al novaj partioj."
+    },
+    "friendlist.friend.updated": {
+      "en": "{0} is now on the new server",
+      "->": "{0} nun estas en la servilo."
+    },
+    "friendlist.friendrequests": {
+      "en": "Friend Requests",
+      "->": ""
+    },
+    "friendlist.friends": {
+      "en": "Friends",
+      "->": "Amikoj"
+    },
+    "friendlist.friends.old": {
+      "en": "Outdated friends",
+      "->": "Malnovaj amikoj"
+    },
+    "friendlist.friendshipstate": {
+      "en": "Friendship status: {0}",
+      "->": ""
+    },
+    "friendlist.friendshipstate.accepted": {
+      "en": "This player is your friend. Lucky you!",
+      "->": "Friend request accepted. You are both friends."
+    },
+    "friendlist.friendshipstate.isyou": {
+      "en": "This is you.",
+      "->": ""
+    },
+    "friendlist.friendshipstate.none": {
+      "en": "You're not friends with this player. Maybe you would like to be?",
+      "->": ""
+    },
+    "friendlist.friendshipstate.receivedrequest": {
+      "en": "This player wants to be your friend. Do you accept?",
+      "->": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games."
+    },
+    "friendlist.friendshipstate.rejected": {
+      "en": "Friend request rejected.",
+      "->": ""
+    },
+    "friendlist.friendshipstate.sentrequest": {
+      "en": "You've sent a friend request to this player. No response yet. Fingers crossed!",
+      "->": "Friend request sent. Waiting for response."
+    },
+    "friendlist.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": ""
+    },
+    "friendlist.loading": {
+      "en": "Loading friends...",
+      "->": "Ŝarĝante amikojn..."
+    },
+    "friendlist.local": {
+      "en": "Local Players",
+      "->": "Lokalaj ludantoj"
+    },
+    "friendlist.new.Results": {
+      "en": "Results:",
+      "->": ""
+    },
+    "friendlist.new.Search": {
+      "en": "SEARCH",
+      "->": ""
+    },
+    "friendlist.new.accept": {
+      "en": "ACCEPT",
+      "->": ""
+    },
+    "friendlist.new.added.info": {
+      "en": "Added player {0}",
+      "->": "{0} aldonita"
+    },
+    "friendlist.new.added.title": {
+      "en": "Player Added",
+      "->": "Ludanto aldonita"
+    },
+    "friendlist.new.button": {
+      "en": "ADD",
+      "->": "ALDONI"
+    },
+    "friendlist.new.caps": {
+      "en": "ADD FRIEND",
+      "->": "NOVA AMIKO"
+    },
+    "friendlist.new.exists.info": {
+      "en": "You are already friends with {0}",
+      "->": "Vi jam estas amiko de {0}"
+    },
+    "friendlist.new.exists.title": {
+      "en": "Duplicate Player",
+      "->": "Duplikata ludanto"
+    },
+    "friendlist.new.info.alias": {
+      "en": "Search for your friend's alias.",
+      "->": ""
+    },
+    "friendlist.new.looking.info": {
+      "en": "Looking for player {0}",
+      "->": "Serĉante ludanton {0}"
+    },
+    "friendlist.new.looking.title": {
+      "en": "Loading Player",
+      "->": "Ŝarĝante ludanton"
+    },
+    "friendlist.new.reject": {
+      "en": "REJECT",
+      "->": ""
+    },
+    "friendlist.new.title": {
+      "en": "Add a new friend",
+      "->": "Aldoni novan amikon"
+    },
+    "friendlist.pendinginvitations": {
+      "en": "Pending Invitations",
+      "->": ""
+    },
+    "friendlist.player": {
+      "en": "Player {0}",
+      "->": "Ludanto {0}"
+    },
+    "friendlist.rejectedinvitations": {
+      "en": "Rejected Invitations",
+      "->": ""
+    },
+    "friendlist.reload": {
+      "en": "RELOAD",
+      "->": "ĜISDATIGI"
+    },
+    "friendlist.reloading": {
+      "en": "Reloading...",
+      "->": "Reloading.."
+    },
+    "friendlist.remove": {
+      "en": "REMOVE",
+      "->": "FORIGI"
+    },
+    "friendlist.removed.info": {
+      "en": "Removed player {0}",
+      "->": "{0} estis forigita."
+    },
+    "friendlist.removed.title": {
+      "en": "Player Removed",
+      "->": "Ludanto forigita."
+    },
+    "friendlist.requestaccepted": {
+      "en": "Friend Request Accepted",
+      "->": ""
+    },
+    "friendlist.requestrecieved": {
+      "en": "Friend Request Received",
+      "->": ""
+    },
+    "friendlist.requestsent.notification": {
+      "en": "Friend request sent to {0}",
+      "->": ""
+    },
+    "friendlist.title": {
+      "en": "FRIEND LIST",
+      "->": "AMIKOJ"
+    },
+    "friendlist.unfriend": {
+      "en": "UNFRIEND",
+      "->": ""
+    },
+    "friendlist.uptodate": {
+      "en": "Everything is up to date",
+      "->": ""
+    },
+    "gameinfo.created": {
+      "en": "Created: {0} ago",
+      "->": ""
+    },
+    "gameinfo.gameover": {
+      "en": "This game is over, open it to view the final result",
+      "->": "Ĉi tiu partio jam finiĝis, malfermu ĝin por vidi la finan rezulton"
+    },
+    "gameinfo.gameversion": {
+      "en": "Game version: {0}",
+      "->": ""
+    },
+    "gameinfo.id": {
+      "en": "ID: {0}",
+      "->": "id: {0}"
+    },
+    "gameinfo.id.copied": {
+      "en": "Game ID copied",
+      "->": ""
+    },
+    "gameinfo.lastmove": {
+      "en": "Last move: {0} ago",
+      "->": "Lasta movo: antaŭ {0}"
+    },
+    "gameinfo.move": {
+      "en": "Move: {0}",
+      "->": ""
+    },
+    "gameinfo.nodata": {
+      "en": "There's something wrong with this game, can't show any data for it",
+      "->": ""
+    },
+    "gameinfo.nodata.title": {
+      "en": "No data",
+      "->": ""
+    },
+    "gameinfo.opponentsturn": {
+      "en": "Waiting for {0} to {1}",
+      "->": "Atendante {0} {1}"
+    },
+    "gameinfo.picktribe": {
+      "en": "Pick Tribe",
+      "->": "elekti tribon"
+    },
+    "gameinfo.play": {
+      "en": "Play",
+      "->": "ludi"
+    },
+    "gameinfo.serverversion": {
+      "en": "Server version: {0}",
+      "->": "Versio de la servilo: {0}"
+    },
+    "gameinfo.start": {
+      "en": "Start the Game",
+      "->": "komenci la partion"
+    },
+    "gameinfo.turn": {
+      "en": "Turn: {0}",
+      "->": "Vico: {0}"
+    },
+    "gameinfo.updated": {
+      "en": "Updated: {0} ago",
+      "->": "ĝisdatigita: antaŭ {0}"
+    },
+    "gameinfo.yourturn": {
+      "en": "It is your turn to {0}",
+      "->": "Ĝi estas via vico {0}"
+    },
+    "gameitem.ended": {
+      "en": "This game is over.",
+      "->": "La partion estas finita."
+    },
+    "gameitem.gameover": {
+      "en": "This game is over, tap to see the end.",
+      "->": "La partio estas finita, tuŝetu por vidi la finon."
+    },
+    "gameitem.join": {
+      "en": "Join this game or decline the invitation",
+      "->": "Aliĝu al ĉi tiu partion aŭ malakceptu la inviton"
+    },
+    "gameitem.join.wait": {
+      "en": "Waiting for {0} to pick tribe",
+      "->": "Atendante {0} elekti tribon"
+    },
+    "gameitem.kick": {
+      "en": "Duh!",
+      "->": ""
+    },
+    "gameitem.kick.action": {
+      "en": "KICK",
+      "->": "ELĴETI"
+    },
+    "gameitem.kick.info": {
+      "en": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
+      "->": "Ĉu vi volas elĵeti {0} el la partio? Roboto regos rian tribon."
+    },
+    "gameitem.localplayerdead": {
+      "en": "You've been wiped out in this game, still you can spectate.",
+      "->": ""
+    },
+    "gameitem.pick": {
+      "en": "{0}, pick your tribe",
+      "->": "{0}, elektu vian tribon"
+    },
+    "gameitem.ready": {
+      "en": "Ready to start!",
+      "->": "Preta por komenci!"
+    },
+    "gameitem.ready.wait": {
+      "en": "{0} can start the game",
+      "->": "{0} povas komenci la partion"
+    },
+    "gameitem.ready.wait.noowner": {
+      "en": "Waiting for the game to start",
+      "->": ""
+    },
+    "gameitem.reload": {
+      "en": "RELOAD",
+      "->": "REŜARGI"
+    },
+    "gameitem.remind.max": {
+      "en": "That's enough",
+      "->": "Tio sufiĉas"
+    },
+    "gameitem.remind.max.info": {
+      "en": "Reminder already sent to {0}",
+      "->": "Memorigilo jam sendita al {0}"
+    },
+    "gameitem.remind.notification": {
+      "en": "We are waiting for you to play in {0}. Come on!!",
+      "->": "Ni atendas vi ludi je {0}. Ek!!"
+    },
+    "gameitem.remind.notify": {
+      "en": "Done",
+      "->": "Farita"
+    },
+    "gameitem.remind.notify.info": {
+      "en": "Reminder sent to {0}",
+      "->": "Memorigilo sendita al {0}"
+    },
+    "gameitem.skipturn": {
+      "en": "Duh!",
+      "->": ""
+    },
+    "gameitem.skipturn.action": {
+      "en": "SKIP TURN",
+      "->": ""
+    },
+    "gameitem.skipturn.info": {
+      "en": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
+      "->": ""
+    },
+    "gameitem.slow": {
+      "en": "Come on...",
+      "->": "Ek!"
+    },
+    "gameitem.slow.action": {
+      "en": "REMIND",
+      "->": "MEMORIGI"
+    },
+    "gameitem.slow.info": {
+      "en": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
+      "->": "{0} devas movigi {1}n. Ĉu mi devas memorigi {0}n hasti?"
+    },
+    "gameitem.start": {
+      "en": "{0}, start the game",
+      "->": "{0}, komencu la partion"
+    },
+    "gameitem.start.inviteplayer": {
+      "en": "You need to invite one or more players",
+      "->": ""
+    },
+    "gameitem.start.wait": {
+      "en": "Waiting for {0} to start the game",
+      "->": ""
+    },
+    "gameitem.timeleft": {
+      "en": "Cool runnings",
+      "->": ""
+    },
+    "gameitem.timeleft.info": {
+      "en": "{0} still has {1} to make a move.",
+      "->": "{0} ankoraŭ devas movigi {1}n."
+    },
+    "gameitem.timelimit": {
+      "en": "Time limit",
+      "->": "Tempolimo"
+    },
+    "gameitem.timelimit.info": {
+      "en": "You have {0} to make your move, after that you will be removed from the game.",
+      "->": "Vi havas {0} por moviĝi, after that you will be removed from the game."
+    },
+    "gameitem.timelimit.timeleft": {
+      "en": "Time Left",
+      "->": ""
+    },
+    "gameitem.timelimit.timeleft.info": {
+      "en": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
+      "->": ""
+    },
+    "gameitem.timeup": {
+      "en": "Time Up!",
+      "->": "Tempo finita!"
+    },
+    "gameitem.timeup.info": {
+      "en": "Your time to make a move is up, do you want to resign?",
+      "->": "Via tempo por moviĝi jam finiĝis, ĉu vi volas forlasi la partion??"
+    },
+    "gameitem.turn": {
+      "en": "{0}, take your turn",
+      "->": "{0}, prenu vian vicon"
+    },
+    "gameitem.turn.other": {
+      "en": "Waiting for {0}",
+      "->": "Atendante {0}"
+    },
+    "gameitem.turn.your": {
+      "en": "Your turn",
+      "->": "Via vico"
+    },
+    "gamemode.custom": {
+      "en": "Creative",
+      "->": ""
+    },
+    "gamemode.custom.caps": {
+      "en": "CREATIVE",
+      "->": ""
+    },
+    "gamemode.custom.description.button": {
+      "en": "Set up your own game and play however you like.",
+      "->": ""
+    },
+    "gamemode.death": {
+      "en": "Your last city was lost, you have been defeated.",
+      "->": "Via lasta urbo estis perdita, vi estas venkita."
+    },
+    "gamemode.domination": {
+      "en": "Domination",
+      "->": "Dominado"
+    },
+    "gamemode.domination.caps": {
+      "en": "DOMINATION",
+      "->": "DOMINADO"
+    },
+    "gamemode.domination.description": {
+      "en": "Wipe all the other tribes from the face of the Square. There can be only one.",
+      "->": "Viŝu ĉiujn aliajn tribojn de la kvadrato. Nur estu unu!"
+    },
+    "gamemode.domination.description.button": {
+      "en": "Play until there is only one tribe left, with no time limit.",
+      "->": "Ludu ĝis nur unu tribo restas, sen tempolimo."
+    },
+    "gamemode.domination.loss": {
+      "en": "Your last city was lost, you have been defeated.",
+      "->": "Via lasta urbo estis perdita, vi estas venkita."
+    },
+    "gamemode.domination.win": {
+      "en": "You have defeated all the other tribes and unified the entire Square!",
+      "->": "Vi venkis ĉiujn aliajn tribojn kaj unuigis la tutan kvadraton!"
+    },
+    "gamemode.glory": {
+      "en": "Glory",
+      "->": "Glorio"
+    },
+    "gamemode.glory.caps": {
+      "en": "GLORY",
+      "->": "GLORIO"
+    },
+    "gamemode.glory.description": {
+      "en": "First to reach {0} points win",
+      "->": "La unua kiu poentos {0} venkos."
+    },
+    "gamemode.glory.win": {
+      "en": "The {0} points score was reached!",
+      "->": "{0} poentoj estis atingitaj!"
+    },
+    "gamemode.glory.win.no.opponents": {
+      "en": "The game is over",
+      "->": ""
+    },
+    "gamemode.might": {
+      "en": "Might",
+      "->": "Potenco"
+    },
+    "gamemode.might.caps": {
+      "en": "MIGHT",
+      "->": "POTENCO"
+    },
+    "gamemode.might.description": {
+      "en": "Capture all capitals to win",
+      "->": "Kaptu ĉiujn ĉefurbojn por venki."
+    },
+    "gamemode.might.win": {
+      "en": "All capitals were captured",
+      "->": "Ĉiuj ĉefurboj estis kaptitaj"
+    },
+    "gamemode.might.win.last.human": {
+      "en": "You are the last standing human player, you win!",
+      "->": ""
+    },
+    "gamemode.might.win.no.opponents": {
+      "en": "No opponents left",
+      "->": ""
+    },
+    "gamemode.none": {
+      "en": "Unknown",
+      "->": ""
+    },
+    "gamemode.none.description": {
+      "en": "You might get either game mode. Groovy!",
+      "->": ""
+    },
+    "gamemode.perfection": {
+      "en": "Perfection",
+      "->": "Perfekteco"
+    },
+    "gamemode.perfection.caps": {
+      "en": "PERFECTION",
+      "->": "PERFEKTECO"
+    },
+    "gamemode.perfection.description": {
+      "en": "Get the highest possible score before the time runs out.",
+      "->": "Akumulu kiom da poentoj vi kapablas antaŭ la fino de la partio."
+    },
+    "gamemode.perfection.description.button": {
+      "en": "Show your skills on the global hiscore in the classic 30 turns game.",
+      "->": "Montru vian lertecon en la globa ranglisto per klasika partio de 30 vicoj."
+    },
+    "gamemode.perfection.loss": {
+      "en": "We have reached the end of time.",
+      "->": "Ni alvenos al la fino de la tempo."
+    },
+    "gamemode.perfection.win": {
+      "en": "We have reached the end of time. The memory of your tribe will echo in eternity!",
+      "->": "Ni alvenos al la fino de la tempo. La memoro de via tribo eĥos en la eterneco!"
+    },
+    "gamemode.sandbox": {
+      "en": "Infinity",
+      "->": ""
+    },
+    "gamemode.sandbox.caps": {
+      "en": "INFINITY",
+      "->": ""
+    },
+    "gamemode.sandbox.description": {
+      "en": "Play however you like, forever and ever",
+      "->": ""
+    },
+    "gamemode.tutorial": {
+      "en": "Boot Camp",
+      "->": ""
+    },
+    "gamemode.tutorial.description": {
+      "en": "Your tribe gift you with these resources. Spend them wisely!",
+      "->": ""
+    },
+    "gamemodepicker.title": {
+      "en": "GAME MODE",
+      "->": "LUDREĜIMO"
+    },
+    "gamesaverbinary.error.loading.moves": {
+      "en": "Error loading moves",
+      "->": "Erara ŝarĝante movojn"
+    },
+    "gamesaverbinary.unable.to.save": {
+      "en": "I was unable to save the game, make sure you have sufficient storage on your device",
+      "->": "Mi ne povis konservi la partion, certigu, ke vi havas sufiĉan memoron en via aparato"
+    },
+    "gamesaverbinary.unable.to.save.title": {
+      "en": "Could not save :(",
+      "->": "Ne eblis konservi :("
+    },
+    "gameservice.android": {
+      "en": "Google Play",
+      "->": ""
+    },
+    "gameservice.ios": {
+      "en": "Game Center",
+      "->": ""
+    },
+    "gameservice.steam": {
+      "en": "Steam",
+      "->": ""
+    },
+    "gamesettings.anonymous": {
+      "en": "Anonymous",
+      "->": "Anonimulo"
+    },
+    "gamesettings.autoskip": {
+      "en": "Auto Skip",
+      "->": ""
+    },
+    "gamesettings.autoskip.disabled": {
+      "en": "Disabled",
+      "->": ""
+    },
+    "gamesettings.autoskip.enabled": {
+      "en": "Enabled",
+      "->": ""
+    },
+    "gamesettings.continue": {
+      "en": "CONTINUE",
+      "->": "DAŬRIGI"
+    },
+    "gamesettings.createslot": {
+      "en": "Creating game slot...",
+      "->": "Kreante ludingon..."
+    },
+    "gamesettings.createslot.error": {
+      "en": "Error creating game",
+      "->": "Eraro kreante ludingon"
+    },
+    "gamesettings.createslot.error.info": {
+      "en": "Make sure you are online and try again.",
+      "->": "Certigu, ke vi estas retkonektita kaj provu denove."
+    },
+    "gamesettings.creatingworld": {
+      "en": "LOADING WORLD",
+      "->": "KREANTE MONDON"
+    },
+    "gamesettings.difficulty": {
+      "en": "Difficulty",
+      "->": "Malfacileco"
+    },
+    "gamesettings.difficulty.crazy": {
+      "en": "Crazy",
+      "->": "Freneza"
+    },
+    "gamesettings.difficulty.easy": {
+      "en": "Easy",
+      "->": "Facila"
+    },
+    "gamesettings.difficulty.hard": {
+      "en": "Hard",
+      "->": "Malfacila"
+    },
+    "gamesettings.difficulty.normal": {
+      "en": "Normal",
+      "->": "Normala"
+    },
+    "gamesettings.disableTribes": {
+      "en": "Enable or Disable Tribes",
+      "->": ""
+    },
+    "gamesettings.findmatch": {
+      "en": "FIND MATCH",
+      "->": ""
+    },
+    "gamesettings.game": {
+      "en": "Game {0}",
+      "->": "Partio {0}"
+    },
+    "gamesettings.gamename": {
+      "en": "Game Name",
+      "->": "Nomo de la partio"
+    },
+    "gamesettings.info.difficulty.bonus": {
+      "en": "Difficulty bonus: {0}%",
+      "->": "Bonuso de malfacileco: {0}%"
+    },
+    "gamesettings.info.gamepreferences.header": {
+      "en": "Advanced settings",
+      "->": ""
+    },
+    "gamesettings.info.gamepreferences.info": {
+      "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
+      "->": ""
+    },
+    "gamesettings.info.local": {
+      "en": "{0} opponents, {1} tiles map",
+      "->": "{0} kontraŭuloj, karto de {1} kaheloj"
+    },
+    "gamesettings.info.matchmaking.gamemode": {
+      "en": "{0} game",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.mappreset": {
+      "en": "{0} map type",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.mapsize": {
+      "en": "{0} tiles map",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.opponentcount": {
+      "en": "{0} opponents",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.timelimit": {
+      "en": "{0} turn time limit",
+      "->": ""
+    },
+    "gamesettings.info.multiplayer": {
+      "en": "{0} players, {1} tiles map",
+      "->": "{0} ludantoj, karto de {1} kaheloj"
+    },
+    "gamesettings.info.seed": {
+      "en": "Seed",
+      "->": ""
+    },
+    "gamesettings.info.turnlimit30": {
+      "en": ", 30 turn limit",
+      "->": ", limo de 30 vicoj"
+    },
+    "gamesettings.livegame": {
+      "en": "Live Game",
+      "->": ""
+    },
+    "gamesettings.livegame.description": {
+      "en": "Live Games use a dynamic timer that increases based on how many units & cities you have. Any time left at the end of your turn will be added to your next turn.",
+      "->": ""
+    },
+    "gamesettings.map": {
+      "en": "Map Type",
+      "->": ""
+    },
+    "gamesettings.map.archipelago": {
+      "en": "Archipelago",
+      "->": ""
+    },
+    "gamesettings.map.continents": {
+      "en": "Continents",
+      "->": ""
+    },
+    "gamesettings.map.dryland": {
+      "en": "Dryland",
+      "->": ""
+    },
+    "gamesettings.map.lakes": {
+      "en": "Lakes",
+      "->": ""
+    },
+    "gamesettings.map.waterworld": {
+      "en": "Water World",
+      "->": ""
+    },
+    "gamesettings.matchmaking.noedit": {
+      "en": "Open for any kind of game",
+      "->": ""
+    },
+    "gamesettings.mode": {
+      "en": "Game Mode",
+      "->": "Ludreĝimo"
+    },
+    "gamesettings.network": {
+      "en": "Network",
+      "->": "Hejma reto"
+    },
+    "gamesettings.network.online": {
+      "en": "Online",
+      "->": "Interreto"
+    },
+    "gamesettings.network.passplay": {
+      "en": "Pass & Play",
+      "->": "Pasi kaj ludi"
+    },
+    "gamesettings.notavailable": {
+      "en": "Not Available",
+      "->": "Ne disponebla"
+    },
+    "gamesettings.notenoughplayers": {
+      "en": "You need at least two players to start a game",
+      "->": ""
+    },
+    "gamesettings.novalidtribes": {
+      "en": "No Valid Tribes",
+      "->": ""
+    },
+    "gamesettings.novalidtribes.info": {
+      "en": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
+      "->": ""
+    },
+    "gamesettings.online.disabled": {
+      "en": "Online is locked",
+      "->": "Interrete estas ŝlosita"
+    },
+    "gamesettings.online.disabled.info": {
+      "en": "There are some things you need to fix to play online multiplayer",
+      "->": "Vi devas repari kelkajn aferojn por ludi interrete"
+    },
+    "gamesettings.online.info": {
+      "en": "Play with your friends online using our multiplayer server.",
+      "->": "Ludi kun viaj amikoj per nia interreta servilo."
+    },
+    "gamesettings.opponents": {
+      "en": "Opponents",
+      "->": "Kontraŭuloj"
+    },
+    "gamesettings.passplay.info": {
+      "en": "Play with your friends offline on this device by passing it around.",
+      "->": "Ludi kun via amikoj senrete pasante vian poŝtelefonon."
+    },
+    "gamesettings.players": {
+      "en": "Players",
+      "->": "Ludantoj"
+    },
+    "gamesettings.size": {
+      "en": "Map Size",
+      "->": "Amplekso de la karto"
+    },
+    "gamesettings.size.disabled": {
+      "en": "Not Available",
+      "->": "Ne disponebla"
+    },
+    "gamesettings.size.huge": {
+      "en": "Huge",
+      "->": ""
+    },
+    "gamesettings.size.large": {
+      "en": "Large",
+      "->": "Granda"
+    },
+    "gamesettings.size.massive": {
+      "en": "Massive",
+      "->": ""
+    },
+    "gamesettings.size.normal": {
+      "en": "Normal",
+      "->": "Normala"
+    },
+    "gamesettings.size.small": {
+      "en": "Small",
+      "->": ""
+    },
+    "gamesettings.size.tiles": {
+      "en": "{0} tiles map.",
+      "->": "Karto de {0} kaheloj."
+    },
+    "gamesettings.size.tiles.unspecified": {
+      "en": "You might get any size of a map. Exciting!",
+      "->": ""
+    },
+    "gamesettings.size.tiny": {
+      "en": "Tiny",
+      "->": "Eta"
+    },
+    "gamesettings.startgame": {
+      "en": "START GAME",
+      "->": "KOMENCI PARTION"
+    },
+    "gamesettings.timelimit": {
+      "en": "Turn Time Limit",
+      "->": ""
+    },
+    "gamesettings.timer": {
+      "en": "Game Timer",
+      "->": ""
+    },
+    "gamesettings.timer.description": {
+      "en": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
+      "->": ""
+    },
+    "gamesettings.timer.live": {
+      "en": "Live",
+      "->": ""
+    },
+    "gamesettings.title": {
+      "en": "GAME SETUP",
+      "->": "LUDAGORDOJ"
+    },
+    "gamesettings.unknown": {
+      "en": "Unknown",
+      "->": ""
+    },
+    "gamesettings.unlockmore": {
+      "en": "Unlock more tribes to play with more opponents",
+      "->": "Malŝlosu pli da triboj por ludi kontraŭ pli da kontraŭuloj"
+    },
+    "gamesettings.unspecified": {
+      "en": "Any",
+      "->": ""
+    },
+    "gamesettings.yourname": {
+      "en": "Your Name",
+      "->": "Via nomo"
+    },
+    "gamestats.battle": {
+      "en": "Battle skills",
+      "->": "Kapabloj de batalo"
+    },
+    "gamestats.battle.info": {
+      "en": "{0} won, {1} lost",
+      "->": "{0} venkitaj, {1} malvenkitaj"
+    },
+    "gamestats.bonus": {
+      "en": "Difficulty bonus: {0}",
+      "->": "Bonuso de malfacileco: {0}"
+    },
+    "gamestats.gamemode": {
+      "en": "Game mode: {0}",
+      "->": "Ludreĝimo: {0}"
+    },
+    "gamestats.speed": {
+      "en": "Speed skills",
+      "->": "Kapabloj de rapideco"
+    },
+    "gamestats.speed.info": {
+      "en": "{0}/{1} turns",
+      "->": "{0}/{1} vicoj"
+    },
+    "gamestats.title": {
+      "en": "GAME STATS",
+      "->": ""
+    },
+    "gamestatus.capitals": {
+      "en": "Capitals Owned",
+      "->": "Ĉefurboj posedataj"
+    },
+    "gamestatus.cities": {
+      "en": "{0} cities",
+      "->": "{0} urboj"
+    },
+    "gamestatus.city": {
+      "en": "{0} city",
+      "->": "{0} urbo"
+    },
+    "gamestatus.destroyed": {
+      "en": "destroyed",
+      "->": "detruita"
+    },
+    "gamestatus.difficulty": {
+      "en": "Difficulty rating",
+      "->": "Malfacileco"
+    },
+    "gamestatus.killedonturn": {
+      "en": "killed on turn {0}",
+      "->": ""
+    },
+    "gamestatus.ruled": {
+      "en": "Ruled by {0}",
+      "->": "Regata de {0}"
+    },
+    "gamestatus.ruled.bot": {
+      "en": "bot",
+      "->": ""
+    },
+    "gamestatus.ruled.you": {
+      "en": "Ruled by you",
+      "->": "Regata de vi"
+    },
+    "gamestatus.ruler": {
+      "en": "Ruler of the {0}",
+      "->": ""
+    },
+    "gamestatus.score": {
+      "en": "score: {0} points",
+      "->": "poentoj: {0} poentoj"
+    },
+    "gamestatus.scores": {
+      "en": "Scores",
+      "->": "Poentoj"
+    },
+    "gamestatus.tasks": {
+      "en": "Tasks {0}/{1}",
+      "->": "Taskoj {0}/{1}"
+    },
+    "gamestatus.tasks.complete": {
+      "en": "Complete!",
+      "->": "Kompletigita!"
+    },
+    "gamestatus.tribes": {
+      "en": "Tribes destroyed",
+      "->": "Triboj detruitaj"
+    },
+    "gamestatus.unknown.ruler": {
+      "en": "Unknown ruler",
+      "->": "Nekonata reganto"
+    },
+    "gamestatus.unknown.tribe": {
+      "en": "Unknown tribe",
+      "->": "Nekonata tribo"
+    },
+    "highscore.alltime": {
+      "en": "All Time",
+      "->": "Ĉiam"
+    },
+    "highscore.alltribes": {
+      "en": "All Tribes",
+      "->": "Ĉiuj Triboj"
+    },
+    "highscore.error": {
+      "en": "Failed to upload highscore to server, do you want to retry?",
+      "->": ""
+    },
+    "highscore.error.title": {
+      "en": "Highscore error",
+      "->": ""
+    },
+    "highscore.hiscore": {
+      "en": "hiscore",
+      "->": "ranglisto"
+    },
+    "highscore.loading": {
+      "en": "Loading...",
+      "->": "Ŝarĝante..."
+    },
+    "highscore.notavailable": {
+      "en": "High Score not available.",
+      "->": "La ranglisto ne disponeblas."
+    },
+    "highscore.thisweek": {
+      "en": "This Week",
+      "->": "Ĉi semajne"
+    },
+    "highscore.title": {
+      "en": "HIGH SCORE",
+      "->": "RANGLISTO"
+    },
+    "highscore.today": {
+      "en": "Today",
+      "->": "Hodiaŭ"
+    },
+    "highscore.uploading": {
+      "en": "Uploading high score...",
+      "->": ""
+    },
+    "highscore.uploading.failed": {
+      "en": "Failed to upload high score",
+      "->": ""
+    },
+    "highscore.uploading.successful": {
+      "en": "High score uploaded...",
+      "->": ""
+    },
+    "highscore.uptodate": {
+      "en": "Everything is up to date",
+      "->": ""
+    },
+    "idconsole.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Jen!"
+    },
+    "matchmakinggameinfo.waited": {
+      "en": "Waited",
+      "->": ""
+    },
+    "matchmakinggameinfo.waitingforplayers": {
+      "en": "Waiting for {0} additional {1}",
+      "->": "Waiting for {0} additional players"
+    },
+    "migration.restoredescription": {
+      "en": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
+      "->": ""
+    },
+    "migration.restoreheader": {
+      "en": "Restore?",
+      "->": ""
+    },
+    "misc.error.title": {
+      "en": "Error",
+      "->": ""
+    },
+    "misc.errorloadinggame": {
+      "en": "Failed to load game",
+      "->": ""
+    },
+    "misc.failedcommand": {
+      "en": "Failed to send command to server. Do you want to try again?",
+      "->": ""
+    },
+    "misc.gameoutofsync": {
+      "en": "Your game failed to sync with the server. Do you want to try again?",
+      "->": ""
+    },
+    "misc.player": {
+      "en": "player",
+      "->": ""
+    },
+    "misc.players": {
+      "en": "players",
+      "->": ""
+    },
+    "misc.pushfailed": {
+      "en": "Failed to handle incoming notification from server",
+      "->": ""
+    },
+    "misc.resetfailed": {
+      "en": "Game is missing or corrupt",
+      "->": ""
+    },
+    "mplayerstats.alias": {
+      "en": "Alias",
+      "->": "Kromnomo"
+    },
+    "mplayerstats.appversion": {
+      "en": "App version:",
+      "->": ""
+    },
+    "mplayerstats.avatar.edit": {
+      "en": "<sprite=\"texticons\" index=0><u>Edit</u>",
+      "->": "Edit"
+    },
+    "mplayerstats.clear": {
+      "en": "clear data",
+      "->": "vakigi datumojn"
+    },
+    "mplayerstats.elo": {
+      "en": "Elo",
+      "->": ""
+    },
+    "mplayerstats.elo.description": {
+      "en": "The Elo rating system is a method for calculating the relative skill levels of players.",
+      "->": ""
+    },
+    "mplayerstats.friends": {
+      "en": "nº of friends",
+      "->": "nombro de amikoj"
+    },
+    "mplayerstats.games": {
+      "en": "Games Played",
+      "->": "Partioj Luditaj"
+    },
+    "mplayerstats.gameversion": {
+      "en": "Game version",
+      "->": ""
+    },
+    "mplayerstats.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": ""
+    },
+    "mplayerstats.lost": {
+      "en": "Feeling lost? Check the:",
+      "->": "Ĉu vi sentas vin perdita? Kontrolu:"
+    },
+    "mplayerstats.multiplayer.faq": {
+      "en": "MULTIPLAYER FAQ",
+      "->": "PLURLUDANTA RESPONDARO"
+    },
+    "mplayerstats.multiplayer.faq.lower": {
+      "en": "Multiplayer FAQ",
+      "->": ""
+    },
+    "mplayerstats.rating": {
+      "en": "Elo Rating",
+      "->": "Multiplayer Rating"
+    },
+    "mplayerstats.reload": {
+      "en": "reload multiplayer data",
+      "->": "reŝargi plurludantajn datumojn"
+    },
+    "mplayerstats.reloading": {
+      "en": "Reloading...",
+      "->": "Reloading.."
+    },
+    "mplayerstats.server": {
+      "en": "Server version",
+      "->": "Versio de la Servilo"
+    },
+    "mplayerstats.title": {
+      "en": "PLAYER PROFILE",
+      "->": "PROFILO DE LA LUDANTO"
+    },
+    "mplayerstats.uptodate": {
+      "en": "Everything is up to date",
+      "->": ""
+    },
+    "multiplayer.activegames": {
+      "en": "Active Games",
+      "->": "Aktivaj partioj"
+    },
+    "multiplayer.clipboard": {
+      "en": "Gamedata added to clipboard",
+      "->": "Aldonita al tondujo."
+    },
+    "multiplayer.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Jen!"
+    },
+    "multiplayer.creategame": {
+      "en": "Create game",
+      "->": "Krei partion"
+    },
+    "multiplayer.finishedgames": {
+      "en": "Finished Games",
+      "->": "Finitaj Partioj"
+    },
+    "multiplayer.passplay": {
+      "en": "Pass & Play",
+      "->": "Pasi kaj Ludi"
+    },
+    "multiplayer.passplay.info": {
+      "en": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
+      "->": "Defii viajn amikojn en plurdanta partio sur la sama aparato. Nur transdonu ĝin al la sekva ludanto, kiam via vico finiĝos."
+    },
+    "news.description": {
+      "en": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
+      "->": "Bonvenon!\n Ĉi tie ni afiŝas novaĵojn pri la Polytopia universo!"
+    },
+    "news.error.failed": {
+      "en": "Failed to load news",
+      "->": ""
+    },
+    "news.error.title": {
+      "en": "Error",
+      "->": ""
+    },
+    "news.timeago": {
+      "en": "{0} ago",
+      "->": "{0} days ago"
+    },
+    "news.title": {
+      "en": "POLYTOPIA NEWS",
+      "->": "NOVAĴOJ"
+    },
+    "notifications.defaultheader": {
+      "en": "Alert",
+      "->": ""
+    },
+    "notifications.restorecomplete": {
+      "en": "{0} items restored",
+      "->": ""
+    },
+    "onlineview.check": {
+      "en": "check",
+      "->": "kontroli"
+    },
+    "onlineview.clipboard": {
+      "en": "Game ID added to clipboard: {0}",
+      "->": "ID aldonita al tondilo: {0}"
+    },
+    "onlineview.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Jen!"
+    },
+    "onlineview.completed": {
+      "en": "completed",
+      "->": "kompletita"
+    },
+    "onlineview.favorites": {
+      "en": "Favourites ({0}/{1})",
+      "->": ""
+    },
+    "onlineview.fixit": {
+      "en": "FIX IT",
+      "->": "RIPARI ĜIN"
+    },
+    "onlineview.friendlist.available": {
+      "en": "Friend List is only available when connected to the server.",
+      "->": "Amiklisto nur disponeblas kiam konektita al la servilo."
+    },
+    "onlineview.friends": {
+      "en": "Friends",
+      "->": "Amikoj"
+    },
+    "onlineview.game.decline": {
+      "en": "DECLINE",
+      "->": "RIFUZI"
+    },
+    "onlineview.game.delete": {
+      "en": "DELETE",
+      "->": "FORIGI"
+    },
+    "onlineview.game.gameinfo": {
+      "en": "Game Info",
+      "->": "Informoj"
+    },
+    "onlineview.game.join": {
+      "en": "JOIN GAME",
+      "->": "ALIGI AL PARTIO"
+    },
+    "onlineview.game.leavematchmaking": {
+      "en": "LEAVE",
+      "->": ""
+    },
+    "onlineview.game.leavematchmaking.info": {
+      "en": "Are you sure you want to stop waiting for this game?",
+      "->": ""
+    },
+    "onlineview.game.leavematchmaking.title": {
+      "en": "Leave",
+      "->": ""
+    },
+    "onlineview.game.missingplayer": {
+      "en": "Empty",
+      "->": ""
+    },
+    "onlineview.game.moreinfo": {
+      "en": "More info",
+      "->": "Pli da informoj"
+    },
+    "onlineview.game.old.info": {
+      "en": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
+      "->": "Ĉi tiu partio estis kreita kun malaktuala versio de la ludo. Ĝi bedaŭrinde ne povas esti ŝarĝita :( Mia sugesto estas, ke vi forigu ĝin kaj komencu novan. Pardonu la malkomforton."
+    },
+    "onlineview.game.old.title": {
+      "en": "Old file version",
+      "->": "Malnova dosiera versio"
+    },
+    "onlineview.game.open": {
+      "en": "OPEN",
+      "->": "MALFERMI"
+    },
+    "onlineview.game.player.invited": {
+      "en": "You are invited to a new game, {0}",
+      "->": ""
+    },
+    "onlineview.game.player.kicked": {
+      "en": "You have been removed from game {0}",
+      "->": ""
+    },
+    "onlineview.game.player.left": {
+      "en": "{0} has left the game {1} and has been replaced by a bot.",
+      "->": ""
+    },
+    "onlineview.game.replays.share.button": {
+      "en": "Share",
+      "->": ""
+    },
+    "onlineview.game.replays.share.description": {
+      "en": "Use this link to show this replay to your friends or enemies:",
+      "->": ""
+    },
+    "onlineview.game.replays.share.title": {
+      "en": "Share This Replay",
+      "->": ""
+    },
+    "onlineview.game.resign": {
+      "en": "RESIGN",
+      "->": "REZIGNI"
+    },
+    "onlineview.game.resign.info": {
+      "en": "Are you sure you want to leave this game permanently?",
+      "->": "Ĉu vi certas, ke vi volas forlasi ĉi tiun partion porĉiame?"
+    },
+    "onlineview.game.resign.title": {
+      "en": "Resign",
+      "->": "Rezigni"
+    },
+    "onlineview.game.resigned": {
+      "en": "You are now resigned.",
+      "->": ""
+    },
+    "onlineview.game.resigning": {
+      "en": "Resigning...",
+      "->": ""
+    },
+    "onlineview.game.size": {
+      "en": "Map Size",
+      "->": "Amplekso de la karto"
+    },
+    "onlineview.game.start": {
+      "en": "START GAME",
+      "->": "KOMENCI PARTION"
+    },
+    "onlineview.game.you": {
+      "en": "You",
+      "->": "Vi"
+    },
+    "onlineview.gamedeleted.info": {
+      "en": "The game {0} has been deleted because all other players rejected the game.",
+      "->": ""
+    },
+    "onlineview.gamedeleted.title": {
+      "en": "Game Deleted",
+      "->": ""
+    },
+    "onlineview.gamedeleted.unknowngame": {
+      "en": "Unknown Game",
+      "->": ""
+    },
+    "onlineview.gameinvitations": {
+      "en": "Game Invitations",
+      "->": "Invitoj"
+    },
+    "onlineview.intro.fix": {
+      "en": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
+      "->": "Saluton {0}! \n\nPor ludi interretan plurludantan partion, estas kelkaj aferoj, kiujn vi devas ripari:"
+    },
+    "onlineview.intro.update": {
+      "en": "Online multiplayer is not available, please update Polytopia to the latest version",
+      "->": "Interreta plurludanta partio ne disponeblas, bonvolu ĝisdatigi Polytopia al la plej nova versio"
+    },
+    "onlineview.kicked.automatic": {
+      "en": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
+      "->": ""
+    },
+    "onlineview.kicked.automatic.other": {
+      "en": "{0} was automatically kicked from the game {1} and is now frozen.",
+      "->": ""
+    },
+    "onlineview.kicked.info": {
+      "en": "{0} have kicked you from the game {1} since you took too long to finish your turn.",
+      "->": ""
+    },
+    "onlineview.kicked.title": {
+      "en": "You got Kicked",
+      "->": ""
+    },
+    "onlineview.kicked.title.other": {
+      "en": "{0} was kicked",
+      "->": ""
+    },
+    "onlineview.ladder.ended": {
+      "en": "Ended",
+      "->": ""
+    },
+    "onlineview.ladder.ends": {
+      "en": "Ends in {0}",
+      "->": ""
+    },
+    "onlineview.ladder.join": {
+      "en": "JOIN LADDER",
+      "->": ""
+    },
+    "onlineview.ladder.leave": {
+      "en": "LEAVE LADDER",
+      "->": ""
+    },
+    "onlineview.ladder.loading": {
+      "en": "Loading ladder data...",
+      "->": ""
+    },
+    "onlineview.ladder.placements.header": {
+      "en": "Placements",
+      "->": ""
+    },
+    "onlineview.ladder.play": {
+      "en": "PLAY LADDER",
+      "->": ""
+    },
+    "onlineview.ladders": {
+      "en": "Ladders",
+      "->": ""
+    },
+    "onlineview.lastgames": {
+      "en": "Last {0} Games",
+      "->": ""
+    },
+    "onlineview.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": "Ne eblis konekti al la plurludanta servilo. Kontrolu vian interretan konekton kaj provu denove."
+    },
+    "onlineview.loading.title": {
+      "en": "Loading...",
+      "->": ""
+    },
+    "onlineview.loadingservice": {
+      "en": "Loading Service",
+      "->": "Ŝarĝante servon"
+    },
+    "onlineview.lobby.invite.title": {
+      "en": "Invite players ({0}/{1})",
+      "->": ""
+    },
+    "onlineview.lobby.leave.info": {
+      "en": "Are you sure you want to leave this lobby?",
+      "->": ""
+    },
+    "onlineview.lobby.leave.title": {
+      "en": "Leave",
+      "->": ""
+    },
+    "onlineview.lobby.player.add": {
+      "en": "Add",
+      "->": ""
+    },
+    "onlineview.lobby.readytostart": {
+      "en": "Ready to start",
+      "->": ""
+    },
+    "onlineview.lobby.starting": {
+      "en": "Game is starting...",
+      "->": ""
+    },
+    "onlineview.lobby.waitingforplayers": {
+      "en": "Waiting for {0} additional {1}",
+      "->": ""
+    },
+    "onlineview.lobby.waitingforplayers.title": {
+      "en": "Are you sure",
+      "->": ""
+    },
+    "onlineview.lobby.waitingforplayers.warning": {
+      "en": "Not everyone has accepted your invite, do you wish to start the game without them?",
+      "->": ""
+    },
+    "onlineview.login.ios": {
+      "en": "Log in to {0}",
+      "->": "Ensaluti al {0}"
+    },
+    "onlineview.login.ios.info": {
+      "en": "Using {0} ensures that you have a unique and persistent Player ID that will keep your data safe across devices.",
+      "->": "Uzi {0} certigas, ke vi havas unikan kaj konstantan ID, kiu gardos viajn datumojn sekure tra aparatoj."
+    },
+    "onlineview.login.ios.info2": {
+      "en": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
+      "->": ""
+    },
+    "onlineview.login.tesla": {
+      "en": "Create Online Profile",
+      "->": ""
+    },
+    "onlineview.login.tesla.info": {
+      "en": "Create a profile in Tesla Arcade to play online with friends",
+      "->": ""
+    },
+    "onlineview.matchmaking": {
+      "en": "RANDOM MATCH",
+      "->": ""
+    },
+    "onlineview.newgame": {
+      "en": "New Game",
+      "->": "Nova Partio"
+    },
+    "onlineview.nogames.first": {
+      "en": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
+      "->": "La unua afero, kiun vi bezonas, estas konekti kun aliaj homoj, kiuj ludas Polytopia. Toŝetu 'Amikoj' por aldoni ilin."
+    },
+    "onlineview.nogames.intro": {
+      "en": "Hi {0}!",
+      "->": "Saluton {0}!"
+    },
+    "onlineview.nogames.start": {
+      "en": "Let's get some online games going with your friends. Tap 'New game' to start one.",
+      "->": "Ni ludu iujn interretajn partiojn kun viaj amikoj. Tuŝetu 'Nova partio' por komenci unu."
+    },
+    "onlineview.noladders": {
+      "en": "No ladders available",
+      "->": ""
+    },
+    "onlineview.noreplays": {
+      "en": "When you have completed a multiplayer game it will show up here so you can watch the replay",
+      "->": ""
+    },
+    "onlineview.notifications": {
+      "en": "Enable notifications",
+      "->": "Ebligi sciigojn"
+    },
+    "onlineview.notifications.info": {
+      "en": "We use notifications to communicate the status of your ongoing multiplayer games.",
+      "->": "Ni uzas sciigojn por komuniki la staton de viaj plurludantaj partioj."
+    },
+    "onlineview.ongoing": {
+      "en": "Ongoing",
+      "->": ""
+    },
+    "onlineview.or": {
+      "en": "or",
+      "->": "aŭ"
+    },
+    "onlineview.passplay": {
+      "en": "Pass & Play",
+      "->": "Pasi kaj Ludi"
+    },
+    "onlineview.passplay.start": {
+      "en": "Start a local Pass & Play game by tapping 'New Game'",
+      "->": "Komencu lokan Pasi kaj Ludi partion tuŝetante 'Nova Partio'"
+    },
+    "onlineview.profile": {
+      "en": "Profile",
+      "->": "Profilo"
+    },
+    "onlineview.profile.available": {
+      "en": "Profile is only available when connected to the server.",
+      "->": "Profilo nur disponeblas kiam konektita al la servilo."
+    },
+    "onlineview.purchase": {
+      "en": "Purchase one Tribe",
+      "->": "Aĉeti Tribon"
+    },
+    "onlineview.purchase.info": {
+      "en": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
+      "->": "Administri interretan plurludantan servilon kostas realan monon kaj ni travivas nur kun afabla subteno de ludantoj kiel vi."
+    },
+    "onlineview.randommatch.start": {
+      "en": "Start a game with a random opponent",
+      "->": ""
+    },
+    "onlineview.refresh": {
+      "en": "Refresh",
+      "->": "Aktualigi"
+    },
+    "onlineview.reloading": {
+      "en": "Reloading...",
+      "->": "Reŝarĝante.."
+    },
+    "onlineview.reloading.release": {
+      "en": "Release to reload...",
+      "->": "Maltenu por reŝarĝi..."
+    },
+    "onlineview.replay.delete.info": {
+      "en": "Are you sure you want to delete this replay?",
+      "->": ""
+    },
+    "onlineview.replay.delete.title": {
+      "en": "Delete",
+      "->": ""
+    },
+    "onlineview.replays": {
+      "en": "Replays",
+      "->": ""
+    },
+    "onlineview.replays.loading": {
+      "en": "Loading replay data...",
+      "->": ""
+    },
+    "onlineview.required": {
+      "en": "required",
+      "->": "bezonata"
+    },
+    "onlineview.resigned.competitive.info": {
+      "en": "{0} resigned from the game {1} and is now frozen.",
+      "->": ""
+    },
+    "onlineview.resigned.info": {
+      "en": "{0} resigned from the game {1} and have been replaced by a bot.",
+      "->": ""
+    },
+    "onlineview.resigned.title": {
+      "en": "{0} Resigned",
+      "->": ""
+    },
+    "onlineview.servicedisabled": {
+      "en": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
+      "->": "La plurludanta servilo provizore estas malebligita, bonvolu reprovi poste. Ankaŭ certigu, ke vi uzas la plej novan version de Polytopia."
+    },
+    "onlineview.skipped.info.local": {
+      "en": "You were skipped.",
+      "->": ""
+    },
+    "onlineview.skipped.info.other": {
+      "en": "{0} was skipped.",
+      "->": ""
+    },
+    "onlineview.skipped.info.tribe.local": {
+      "en": "You were assigned a random tribe due to inactivity.",
+      "->": ""
+    },
+    "onlineview.skipped.info.tribe.other": {
+      "en": "{0} was assigned a random tribe due to inactivity.",
+      "->": ""
+    },
+    "onlineview.skipped.title.empty": {
+      "en": "Skipped",
+      "->": ""
+    },
+    "onlineview.skipped.title.game": {
+      "en": "Skipped in {0}",
+      "->": ""
+    },
+    "onlineview.theirturn": {
+      "en": "Their Turn",
+      "->": "Vico de la kontraŭulo"
+    },
+    "onlineview.title": {
+      "en": "MULTIPLAYER",
+      "->": "PLURLUDANTA PARTIO"
+    },
+    "onlineview.uptodate": {
+      "en": "All games are up to date",
+      "->": "Ĉiuj partioj estas ĝisdatigitaj"
+    },
+    "onlineview.uptodate.ladders": {
+      "en": "All ladders are up to date",
+      "->": ""
+    },
+    "onlineview.uptodate.replays": {
+      "en": "All replays are up to date",
+      "->": ""
+    },
+    "onlineview.waiting": {
+      "en": "Waiting for Players",
+      "->": ""
+    },
+    "onlineview.waiting.server": {
+      "en": "Waiting for server response...",
+      "->": ""
+    },
+    "onlineview.yourturn": {
+      "en": "Your Turn",
+      "->": "Via vico"
+    },
+    "opinion.noopinion": {
+      "en": "They don't know about you yet",
+      "->": ""
+    },
+    "opinion.reason.aggression": {
+      "en": "violent",
+      "->": ""
+    },
+    "opinion.reason.aggression.description": {
+      "en": "You recently attacked them",
+      "->": ""
+    },
+    "opinion.reason.brave": {
+      "en": "brave",
+      "->": ""
+    },
+    "opinion.reason.brave.description": {
+      "en": "You fighting against the strongest tribe",
+      "->": ""
+    },
+    "opinion.reason.commonrelation": {
+      "en": "wise",
+      "->": ""
+    },
+    "opinion.reason.commonrelation.description": {
+      "en": "You share the same friends or enemies",
+      "->": ""
+    },
+    "opinion.reason.differentrelation": {
+      "en": "foolish",
+      "->": ""
+    },
+    "opinion.reason.differentrelation.description": {
+      "en": "You are at war with their friends, or have made peace with their enemies",
+      "->": ""
+    },
+    "opinion.reason.dislike": {
+      "en": "annoying",
+      "->": ""
+    },
+    "opinion.reason.dislike.description": {
+      "en": "They just don't like you",
+      "->": ""
+    },
+    "opinion.reason.embassy": {
+      "en": "diplomatic",
+      "->": ""
+    },
+    "opinion.reason.embassy.description": {
+      "en": "You have good diplomatic connections through your embassies",
+      "->": ""
+    },
+    "opinion.reason.intrusive": {
+      "en": "intrusive",
+      "->": ""
+    },
+    "opinion.reason.intrusive.description": {
+      "en": "Your borders are very close",
+      "->": ""
+    },
+    "opinion.reason.like": {
+      "en": "charming",
+      "->": ""
+    },
+    "opinion.reason.like.description": {
+      "en": "For some reason they just seem to like you",
+      "->": ""
+    },
+    "opinion.reason.peaceful": {
+      "en": "peaceful",
+      "->": ""
+    },
+    "opinion.reason.peaceful.description": {
+      "en": "You have not attacked them in a long time",
+      "->": ""
+    },
+    "opinion.reason.powerful": {
+      "en": "powerful",
+      "->": ""
+    },
+    "opinion.reason.powerful.description": {
+      "en": "They are impressed by your military power",
+      "->": ""
+    },
+    "opinion.reason.threatening": {
+      "en": "threatening",
+      "->": ""
+    },
+    "opinion.reason.threatening.description": {
+      "en": "You have military units near their territory",
+      "->": ""
+    },
+    "opinion.reason.weak": {
+      "en": "weak",
+      "->": ""
+    },
+    "opinion.reason.weak.description": {
+      "en": "Your army is weak compared to them, you are an easy target",
+      "->": ""
+    },
+    "opinion.reason.winning": {
+      "en": "dominating",
+      "->": ""
+    },
+    "opinion.reason.winning.description": {
+      "en": "You are about to win the game",
+      "->": ""
+    },
+    "player.abilities.capitalvision": {
+      "en": "Capital Vision",
+      "->": ""
+    },
+    "player.abilities.decompose": {
+      "en": "Decompose",
+      "->": ""
+    },
+    "player.abilities.destroy": {
+      "en": "Destroy",
+      "->": "pereigi"
+    },
+    "player.abilities.disband": {
+      "en": "Disband",
+      "->": "disigi"
+    },
+    "player.abilities.embassy": {
+      "en": "Embassy",
+      "->": ""
+    },
+    "player.abilities.glide": {
+      "en": "Glide",
+      "->": "glisi"
+    },
+    "player.abilities.literacy": {
+      "en": "Literacy",
+      "->": "legoscio"
+    },
+    "player.abilities.peacetreaty": {
+      "en": "Peace Treaty",
+      "->": ""
+    },
+    "playerinfo.locked.researchdiplomacy": {
+      "en": "Research Diplomacy to gain more insight.",
+      "->": ""
+    },
+    "playerinfo.locked.upgradeembassy": {
+      "en": "Upgrade embassy to gain more insight.",
+      "->": ""
+    },
+    "playerinfo.stats.income": {
+      "en": "Income",
+      "->": ""
+    },
+    "playerinfo.summary.dead": {
+      "en": "{0} was destroyed by {1} on turn {2}.",
+      "->": ""
+    },
+    "playerinfo.summary.reasons": {
+      "en": "They think you are {0}.",
+      "->": ""
+    },
+    "playerinfo.summary.ruledby": {
+      "en": "The {0} tribe is ruled by {1}.",
+      "->": ""
+    },
+    "playerinfo.title": {
+      "en": "Tribe Info",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.neutral.description": {
+      "en": "{0} has a neutral relation to {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.peaceneutral.description": {
+      "en": "{0} has a peace treaty with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.peacepeace.description": {
+      "en": "You are both at peace with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.peacewar.description": {
+      "en": "{0} has a peace treaty with your enemy {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.title": {
+      "en": "Tribe Relation",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.warneutral.description": {
+      "en": "{0} is at war with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.warpeace.description": {
+      "en": "{0} is at war with your ally {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.warwar.description": {
+      "en": "You are both at war with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.title": {
+      "en": "Tribe Relations:",
+      "->": ""
+    },
+    "playerinfo.triberelations.unknown": {
+      "en": "You have not met this tribe yet.",
+      "->": ""
+    },
+    "playerinfopopup.bot.description": {
+      "en": "This is a bot. Bzzt!",
+      "->": ""
+    },
+    "playerinfopopup.friend": {
+      "en": "friend",
+      "->": ""
+    },
+    "playerinfopopup.passandplay.description": {
+      "en": "A pass and play player. Epic!",
+      "->": ""
+    },
+    "playerinfopopup.you.description": {
+      "en": "This is you. Go you!",
+      "->": ""
+    },
+    "playerpickerview.addplayer": {
+      "en": "ADD PLAYER",
+      "->": "ALDONI LUDANTO"
+    },
+    "playerpickerview.bot": {
+      "en": "{0} ({1} bot)",
+      "->": "{0} ({1} Roboto)"
+    },
+    "playerpickerview.human": {
+      "en": "No human player",
+      "->": "Ne estas homaj ludantoj"
+    },
+    "playerpickerview.human.info": {
+      "en": "There needs to be at least one human player to start a game",
+      "->": "Necesas almenaŭ unu homa ludanto por komenci la partion"
+    },
+    "playerpickerview.maptype": {
+      "en": "Map type: {0}",
+      "->": ""
+    },
+    "playerpickerview.mode": {
+      "en": "Game mode: {0}",
+      "->": "Ludreĝimo: {0}"
+    },
+    "playerpickerview.name": {
+      "en": "Game Name",
+      "->": "Nomo de la Partio"
+    },
+    "playerpickerview.players": {
+      "en": "Players ({0}/{1})",
+      "->": "Ludantoj ({0}/{1})"
+    },
+    "playerpickerview.size": {
+      "en": "Map size: {0} tiles",
+      "->": "Amplekso de la karto: {0} kaheloj"
+    },
+    "playerpickerview.startgame": {
+      "en": "START GAME",
+      "->": "KOMENCI"
+    },
+    "playerpickerview.title": {
+      "en": "PICK PLAYERS",
+      "->": "Elekti ludanto"
+    },
+    "playerpickerview.you": {
+      "en": "{0} (you)",
+      "->": "{0} (vi)"
+    },
+    "polyplayer.task": {
+      "en": "task",
+      "->": "Tasko"
+    },
+    "polyplayer.task.explorer.description": {
+      "en": "Explore every single tile in this square world",
+      "->": "Esploru ĉiun kahelon en ĉi tiu kvadrata mondo"
+    },
+    "polyplayer.task.explorer.title": {
+      "en": "Explorer",
+      "->": "Esploristo"
+    },
+    "polyplayer.task.genius.description": {
+      "en": "Discover all available technologies",
+      "->": "Malkovru ĉiujn disponeblajn teĥnologiojn"
+    },
+    "polyplayer.task.genius.title": {
+      "en": "Genius",
+      "->": "Geniulo"
+    },
+    "polyplayer.task.killer.description": {
+      "en": "Kill 10 enemies in battle",
+      "->": "Mortigu 10 malamikojn en batalo"
+    },
+    "polyplayer.task.killer.title": {
+      "en": "Killer",
+      "->": "Murdisto"
+    },
+    "polyplayer.task.metropolis.description": {
+      "en": "Create a level 5 city",
+      "->": "Kreu urbon de nivelo 5"
+    },
+    "polyplayer.task.metropolis.title": {
+      "en": "Metropolis",
+      "->": "Metropolo"
+    },
+    "polyplayer.task.network.description": {
+      "en": "Connect 5 cities to your capital",
+      "->": "Ligu 5 urbojn al via ĉefurbo"
+    },
+    "polyplayer.task.network.title": {
+      "en": "Network",
+      "->": "Reto"
+    },
+    "polyplayer.task.pacifist.description": {
+      "en": "Make no attacks for 5 turns",
+      "->": "Ne ataku dum 5 vicoj"
+    },
+    "polyplayer.task.pacifist.title": {
+      "en": "Pacifist",
+      "->": "Pacifisto"
+    },
+    "polyplayer.task.wealth.description": {
+      "en": "Gather 100 stars",
+      "->": "Kolektu 100 stelojn"
+    },
+    "polyplayer.task.wealth.title": {
+      "en": "Wealth",
+      "->": "Riĉeco"
+    },
+    "price.points": {
+      "en": "point",
+      "->": "poento"
+    },
+    "price.points.plural": {
+      "en": "points",
+      "->": "poentoj"
+    },
+    "price.population": {
+      "en": "population",
+      "->": "loĝanto"
+    },
+    "price.population.plural": {
+      "en": "population",
+      "->": "loĝantoj"
+    },
+    "price.stars": {
+      "en": "star",
+      "->": "stelo"
+    },
+    "price.stars.plural": {
+      "en": "stars",
+      "->": "steloj"
+    },
+    "purchasing.error.androidinitializationfailed": {
+      "en": "Unable to connect to the Google Play Billing service. This might mean that your Google account is missing or incorrectly set up.",
+      "->": ""
+    },
+    "purchasing.error.duplicatetransaction": {
+      "en": "A duplicate transaction error when the transaction has already been completed successfully.",
+      "->": ""
+    },
+    "purchasing.error.existingpurchasepending": {
+      "en": "A purchase was already in progress when a new purchase was requested.",
+      "->": ""
+    },
+    "purchasing.error.initializationfailed": {
+      "en": "Purchasing failed to initialise",
+      "->": ""
+    },
+    "purchasing.error.paymentdeclined": {
+      "en": "There was a problem with the payment.",
+      "->": ""
+    },
+    "purchasing.error.productunavailable": {
+      "en": "The product is not available to purchase on the store.",
+      "->": ""
+    },
+    "purchasing.error.purchasingunavailable": {
+      "en": "The system purchasing feature is unavailable.",
+      "->": ""
+    },
+    "purchasing.error.signatureinvalid": {
+      "en": "Signature validation of the purchase's receipt failed.",
+      "->": ""
+    },
+    "purchasing.error.title": {
+      "en": "Purchasing Error",
+      "->": ""
+    },
+    "purchasing.error.unknown": {
+      "en": "Something unknown went wrong with the purchase. Please try again later.",
+      "->": ""
+    },
+    "purchasing.error.usercancelled": {
+      "en": "The user opted to cancel rather than proceed with the purchase.",
+      "->": ""
+    },
+    "purchasing.restore.error.message": {
+      "en": "Something went wrong while trying to restore your purchases. Please try again later.",
+      "->": ""
+    },
+    "purchasing.restore.error.title": {
+      "en": "Restore Purchases Failed",
+      "->": ""
+    },
+    "push.ended": {
+      "en": "{0} has ended, check to see who won!",
+      "->": ""
+    },
+    "push.invited": {
+      "en": "You are invited to a new game, {0}",
+      "->": ""
+    },
+    "push.kicked": {
+      "en": "You have been removed from {0}",
+      "->": ""
+    },
+    "push.picktribe": {
+      "en": "It is your turn to pick tribe in {0}",
+      "->": ""
+    },
+    "push.playerkicked": {
+      "en": "Player {0} has been kicked from {1}.",
+      "->": ""
+    },
+    "push.playerresigned": {
+      "en": "Player {0} has resigned from {1}.",
+      "->": ""
+    },
+    "push.randommatchready": {
+      "en": "Random match {0} is ready to go!",
+      "->": ""
+    },
+    "push.readytostart": {
+      "en": "{0} is ready to start on your command",
+      "->": ""
+    },
+    "push.reminder": {
+      "en": "We are waiting for you to play in {0}. Come on!!",
+      "->": ""
+    },
+    "push.skipped": {
+      "en": "Your turn in {0} was skipped since you timed out.",
+      "->": ""
+    },
+    "push.yourturn": {
+      "en": "It is your turn in {0} (turn {1})",
+      "->": ""
+    },
+    "replay.clipboard": {
+      "en": "Replay link added to clipboard",
+      "->": ""
+    },
+    "replay.clipboard.title": {
+      "en": "Voilà!",
+      "->": ""
+    },
+    "replay.ended": {
+      "en": "Ended {0}",
+      "->": ""
+    },
+    "replay.ongoing": {
+      "en": "Ongoing",
+      "->": ""
+    },
+    "replay.tech.new.message": {
+      "en": "{0} discovered the secret of {1}",
+      "->": ""
+    },
+    "replay.turnlabel": {
+      "en": "Turn {0}",
+      "->": ""
+    },
+    "replay.viewmode.auto": {
+      "en": "Auto",
+      "->": ""
+    },
+    "replay.viewmode.header": {
+      "en": "Pick Point of View",
+      "->": ""
+    },
+    "replay.winner": {
+      "en": "Won by: {0}",
+      "->": ""
+    },
+    "resource.names.crop": {
+      "en": "crop",
+      "->": "rikolto"
+    },
+    "resource.names.fish": {
+      "en": "fish",
+      "->": "fiŝo"
+    },
+    "resource.names.fruit": {
+      "en": "fruit",
+      "->": "frukto"
+    },
+    "resource.names.game": {
+      "en": "wild animal",
+      "->": "ĉaŝaĵo"
+    },
+    "resource.names.metal": {
+      "en": "metal",
+      "->": "metalo"
+    },
+    "resource.names.spores": {
+      "en": "Spores",
+      "->": ""
+    },
+    "resource.names.whale": {
+      "en": "whale",
+      "->": "baleno"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "->": "Sonatmosfero"
+    },
+    "settings.antialias": {
+      "en": "Anti-aliasing",
+      "->": ""
+    },
+    "settings.compactui": {
+      "en": "Compact UI",
+      "->": ""
+    },
+    "settings.confirm": {
+      "en": "Confirm turn",
+      "->": "Konfirmi vicon"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "->": ""
+    },
+    "settings.hideadvanced": {
+      "en": "Hide Advanced Settings",
+      "->": ""
+    },
+    "settings.info": {
+      "en": "Info on Build",
+      "->": "Informoj pri versio"
+    },
+    "settings.language": {
+      "en": "Language",
+      "->": "Lingvo"
+    },
+    "settings.language.load.button": {
+      "en": "LOAD",
+      "->": "ŜARĜI"
+    },
+    "settings.language.load.error.info": {
+      "en": "The loaded file does not have a valid JSON Format and can't be parsed.",
+      "->": ""
+    },
+    "settings.language.load.error.title": {
+      "en": "Error loading file",
+      "->": ""
+    },
+    "settings.language.load.info": {
+      "en": "Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
+      "->": "Ŝarĝi lingvan dosieron el fora servilo uzante https. Ĉi tio estas eksperimenta funckio, do ĝi ne taŭgas por la malfortaj koroj."
+    },
+    "settings.language.load.input": {
+      "en": "Language file url:",
+      "->": "URL de lingva dosiero:"
+    },
+    "settings.language.load.title": {
+      "en": "Custom language (BETA)",
+      "->": "Laŭmenda lingvo (BETA)"
+    },
+    "settings.off": {
+      "en": "OFF",
+      "->": "NE"
+    },
+    "settings.on": {
+      "en": "ON",
+      "->": "JES"
+    },
+    "settings.saveexit": {
+      "en": "EXIT TO MENU",
+      "->": "SAVI KAJ ELIRI"
+    },
+    "settings.scale": {
+      "en": "UI Scale",
+      "->": ""
+    },
+    "settings.scale.auto": {
+      "en": "Auto",
+      "->": ""
+    },
+    "settings.scale.large": {
+      "en": "Large",
+      "->": ""
+    },
+    "settings.scale.medium": {
+      "en": "Medium",
+      "->": "Madium"
+    },
+    "settings.scale.small": {
+      "en": "Small",
+      "->": ""
+    },
+    "settings.scale.verylarge": {
+      "en": "Very Large",
+      "->": ""
+    },
+    "settings.showadvanced": {
+      "en": "Advanced Settings",
+      "->": ""
+    },
+    "settings.soundeffects": {
+      "en": "Sound Effects",
+      "->": "Sonefektoj"
+    },
+    "settings.suggestions": {
+      "en": "Suggestions",
+      "->": "Konsiloj"
+    },
+    "settings.title": {
+      "en": "SETTINGS",
+      "->": "AGORDOJ"
+    },
+    "settings.tribemusic": {
+      "en": "Tribe Music",
+      "->": "Triba Muziko"
+    },
+    "settings.volume": {
+      "en": "Audio volume {0}",
+      "->": "Sonforteco {0}"
+    },
+    "splashscreen.switch.12tribes": {
+      "en": "12 unique Tribes",
+      "->": ""
+    },
+    "splashscreen.switch.again": {
+      "en": "Play again!",
+      "->": ""
+    },
+    "splashscreen.switch.challenging": {
+      "en": "Challenging AI",
+      "->": ""
+    },
+    "splashscreen.switch.full": {
+      "en": "The full version of the game includes:",
+      "->": ""
+    },
+    "splashscreen.switch.gamemodes": {
+      "en": "More game modes",
+      "->": ""
+    },
+    "splashscreen.switch.thankyou": {
+      "en": "Thank you for playing!",
+      "->": ""
+    },
+    "splashscreen.switch.upgrade": {
+      "en": "Upgrade",
+      "->": ""
+    },
+    "startmenu.about": {
+      "en": "About",
+      "->": "Pri"
+    },
+    "startmenu.high_score": {
+      "en": "High Score",
+      "->": "Ranglisto"
+    },
+    "startmenu.multiplayer": {
+      "en": "MULTIPLAYER",
+      "->": "PLURLUDANTA PARTIO"
+    },
+    "startmenu.new_game": {
+      "en": "NEW GAME",
+      "->": "NOVA PARTIO"
+    },
+    "startmenu.quit": {
+      "en": "QUIT",
+      "->": ""
+    },
+    "startmenu.resume_game": {
+      "en": "RESUME GAME",
+      "->": "DAŬRIGI PARTION"
+    },
+    "startmenu.settings": {
+      "en": "Settings",
+      "->": "Agordoj"
+    },
+    "startmenu.throne_room": {
+      "en": "Throne Room",
+      "->": "Tronĉambro"
+    },
+    "stringtools.typelist.and": {
+      "en": "and",
+      "->": "kaj"
+    },
+    "task.info": {
+      "en": "{0} to get {1}",
+      "->": "{0} por gajni '{1}'."
+    },
+    "technology.ability": {
+      "en": "ability",
+      "->": "Kapablo"
+    },
+    "technology.ability.info": {
+      "en": "{1} gives you the ability to {1}",
+      "->": "{1} donas al vi la kapablon '{1}'."
+    },
+    "technology.build": {
+      "en": "{0} makes it possible to build {1}",
+      "->": "{0} ebligas konstruadon de {1}n."
+    },
+    "technology.defence": {
+      "en": "Defense Bonus",
+      "->": "Defenda bonuso"
+    },
+    "technology.defence.info": {
+      "en": "gives your unit extra strength when defending in {0}",
+      "->": "donas al via unuaĵo pli da forto defendante {0}n."
+    },
+    "technology.intro": {
+      "en": "This tech will enable the following:",
+      "->": "Ĉi tiu teĥnologio ebligos:"
+    },
+    "technology.movement": {
+      "en": "Movement",
+      "->": "Movado"
+    },
+    "technology.movement.info": {
+      "en": "enables movement in {0}",
+      "->": "ebligas movadon en {0}n."
+    },
+    "technology.names.aquatism": {
+      "en": "Aquatism",
+      "->": "Akvemismo"
+    },
+    "technology.names.archery": {
+      "en": "Archery",
+      "->": "Arkpafado"
+    },
+    "technology.names.basic": {
+      "en": "basic",
+      "->": "baza"
+    },
+    "technology.names.chivalry": {
+      "en": "Chivalry",
+      "->": "Kavalireco"
+    },
+    "technology.names.climbing": {
+      "en": "Climbing",
+      "->": "Surgrimpado"
+    },
+    "technology.names.construction": {
+      "en": "Construction",
+      "->": "Konstruado"
+    },
+    "technology.names.diplomacy": {
+      "en": "Diplomacy",
+      "->": ""
+    },
+    "technology.names.farming": {
+      "en": "Farming",
+      "->": "Agrikulturo"
+    },
+    "technology.names.fishing": {
+      "en": "Fishing",
+      "->": "Fiŝado"
+    },
+    "technology.names.forestmagic": {
+      "en": "Forest Magic",
+      "->": "Arbara Sorĉado"
+    },
+    "technology.names.forestry": {
+      "en": "Forestry",
+      "->": "Forstado"
+    },
+    "technology.names.freediving": {
+      "en": "Free Diving",
+      "->": "Plonĝado"
+    },
+    "technology.names.freespirit": {
+      "en": "Free Spirit",
+      "->": "Libera Animo"
+    },
+    "technology.names.frostwork": {
+      "en": "Frostwork",
+      "->": "Glaciruzo"
+    },
+    "technology.names.hunting": {
+      "en": "Hunting",
+      "->": "Ĉasado"
+    },
+    "technology.names.hydrology": {
+      "en": "Hydrology",
+      "->": ""
+    },
+    "technology.names.mathematics": {
+      "en": "Mathematics",
+      "->": "Matematiko"
+    },
+    "technology.names.meditation": {
+      "en": "Meditation",
+      "->": "Meditado"
+    },
+    "technology.names.mining": {
+      "en": "Mining",
+      "->": "Minado"
+    },
+    "technology.names.navigation": {
+      "en": "Navigation",
+      "->": "Navigado"
+    },
+    "technology.names.oceanology": {
+      "en": "Oceanology",
+      "->": ""
+    },
+    "technology.names.organization": {
+      "en": "Organization",
+      "->": "Organizado"
+    },
+    "technology.names.philosophy": {
+      "en": "Philosophy",
+      "->": "Filozofio"
+    },
+    "technology.names.polarism": {
+      "en": "Polarism",
+      "->": "Polarismo"
+    },
+    "technology.names.polarwarfare": {
+      "en": "Polar Warfare",
+      "->": "Polara Militado"
+    },
+    "technology.names.recycling": {
+      "en": "Recycling",
+      "->": ""
+    },
+    "technology.names.riding": {
+      "en": "Riding",
+      "->": "Rajdado"
+    },
+    "technology.names.riding2": {
+      "en": "Riding",
+      "->": ""
+    },
+    "technology.names.roads": {
+      "en": "Roads",
+      "->": "Vojoj"
+    },
+    "technology.names.sailing": {
+      "en": "Sailing",
+      "->": "Velado"
+    },
+    "technology.names.shields": {
+      "en": "Strategy",
+      "->": "Ŝildoj"
+    },
+    "technology.names.shock": {
+      "en": "Shock Tactics",
+      "->": ""
+    },
+    "technology.names.smithery": {
+      "en": "Smithery",
+      "->": "Forĝado"
+    },
+    "technology.names.spearing": {
+      "en": "Spearing",
+      "->": "Lancpikado"
+    },
+    "technology.names.spiritualism": {
+      "en": "Spiritualism",
+      "->": "Spiritualismo"
+    },
+    "technology.names.trade": {
+      "en": "Trade",
+      "->": "Komerco"
+    },
+    "technology.names.watermagic": {
+      "en": "Water Magic",
+      "->": "Akva Sorĉado"
+    },
+    "technology.names.whaling": {
+      "en": "Whaling",
+      "->": "Balenkaptado"
+    },
+    "technology.requirements": {
+      "en": "You need to research {0} to enable this action.",
+      "->": ""
+    },
+    "technology.task": {
+      "en": "{0} activates the {1} task",
+      "->": "{0} aktivigas la taskon {1}n."
+    },
+    "techview.completed": {
+      "en": "(completed)",
+      "->": "(kompletigita)"
+    },
+    "techview.completed.info": {
+      "en": "You have already researched this technology.",
+      "->": "Vi jam esploris ĉi tiun teĥnologion."
+    },
+    "techview.expensive.info": {
+      "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
+      "->": "Vi ne havas sufiĉe da steloj por aĉeti ĉi tion. Tuŝetu 'Fini vicon' por akiri pli da steloj."
+    },
+    "techview.info": {
+      "en": "Tech costs increase for each city in your empire.",
+      "->": "La kosto de la teĥnologioj pliiĝas po ĉiu urbo en via imperio."
+    },
+    "techview.info.literacy": {
+      "en": "Literacy reduces the price of all technologies by {0}%!",
+      "->": "Alfabetigo reduktas la prezon de ĉiuj teĥnologioj je {0}%!"
+    },
+    "techview.locked": {
+      "en": "(locked)",
+      "->": "(ŝlosita)"
+    },
+    "techview.locked.info": {
+      "en": "You must research {0} before you can learn {1}.",
+      "->": "Vi devas esplori '{0}' antaŭ ol vi povas lerni '{1}'."
+    },
+    "techview.research": {
+      "en": "RESEARCH",
+      "->": "ESPLORI"
+    },
+    "terrain.field": {
+      "en": "Field",
+      "->": "Kampo"
+    },
+    "terrain.forest": {
+      "en": "Forest",
+      "->": "Arbaro"
+    },
+    "terrain.ice": {
+      "en": "Ice",
+      "->": "Glacio"
+    },
+    "terrain.mountain": {
+      "en": "Mountain",
+      "->": "Monto"
+    },
+    "terrain.ocean": {
+      "en": "Ocean",
+      "->": "Oceano"
+    },
+    "terrain.unknown": {
+      "en": "Unknown lands",
+      "->": "Nekonataj landoj"
+    },
+    "terrain.water": {
+      "en": "Water",
+      "->": "Akvo"
+    },
+    "throne.alias": {
+      "en": "Alias",
+      "->": "Alinomo"
+    },
+    "throne.clipboard": {
+      "en": "Player ID added to clipboard",
+      "->": "ID aldonita al tondujo"
+    },
+    "throne.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Jen!"
+    },
+    "throne.google.achievements": {
+      "en": "ACHIEVEMENTS",
+      "->": "ATINGOJ"
+    },
+    "throne.google.in": {
+      "en": "SIGN IN",
+      "->": "ENSALUTI"
+    },
+    "throne.google.info": {
+      "en": "(!)You need to sign in with Google Play to save your game data and high scores.",
+      "->": "(!)Vi devas ensaluti per Google Play por konservi viajn datumojn."
+    },
+    "throne.google.out": {
+      "en": "SIGN OUT",
+      "->": "ELSALUTI"
+    },
+    "throne.google.signedin": {
+      "en": "You are signed in using Google Play",
+      "->": "Vi ensalutis uzante Google Play"
+    },
+    "throne.played": {
+      "en": "Games Played",
+      "->": "Partioj luditaj"
+    },
+    "throne.playerid": {
+      "en": "Player ID",
+      "->": "ID"
+    },
+    "throne.playerinfo": {
+      "en": "Player Info",
+      "->": "Informoj pri la ludanto"
+    },
+    "throne.reset": {
+      "en": "Reset Scores",
+      "->": "Rekomencigi poentarojn"
+    },
+    "throne.reset.complete": {
+      "en": "Scores are now reset",
+      "->": "Poentaroj estis rekomencigitaj"
+    },
+    "throne.resetwarning": {
+      "en": "Are you sure you want to reset all your saved scores and ratings? This can not be undone.",
+      "->": "Ĉu vi certas, ke vi volas rekomencigi ĉiujn konservitajn poentarojn kaj pritaksojn?"
+    },
+    "throne.resetwarning.title": {
+      "en": "Reset Scores",
+      "->": "Rekomencigi poentarojn"
+    },
+    "throne.title": {
+      "en": "THRONE ROOM",
+      "->": "Tronĉambro"
+    },
+    "throne.toprating": {
+      "en": "Top Rating",
+      "->": "Maksimuma pritakso"
+    },
+    "throne.topscore": {
+      "en": "Top Score",
+      "->": "Maksimuma poentaro"
+    },
+    "tooltip.ability.agent": {
+      "en": "This unit can be built in enemy territory",
+      "->": ""
+    },
+    "tooltip.ability.autofreeze": {
+      "en": "This unit freezes any surrounding tiles and units when moving.",
+      "->": ""
+    },
+    "tooltip.ability.boost": {
+      "en": "Give surrounding friendly units a temporary boost in attack and speed.",
+      "->": ""
+    },
+    "tooltip.ability.capitalvision": {
+      "en": "Reveals the capital of all tribes you encounter.",
+      "->": ""
+    },
+    "tooltip.ability.carry": {
+      "en": "This unit is carrying another unit inside.",
+      "->": "Ĉi tiu unuaĵo portas alian unuaĵon interne."
+    },
+    "tooltip.ability.convert": {
+      "en": "This unit can convert an enemy to your own tribe by attacking it.",
+      "->": "Ĉi tiu unuaĵo povas konverti malamikon al via propra tribo atakante ĝin."
+    },
+    "tooltip.ability.creep": {
+      "en": "This unit does not get any movement penalties in rough terrain.",
+      "->": ""
+    },
+    "tooltip.ability.dash": {
+      "en": "This unit can attack after moving if there is an enemy in range.",
+      "->": "Ĉi tiu unuaĵo povas ataki post movo se ekzistas malamiko en la rango."
+    },
+    "tooltip.ability.decompose": {
+      "en": "Decompose any building within your borders and get its full cost in stars back at the end of the turn.",
+      "->": ""
+    },
+    "tooltip.ability.destroy": {
+      "en": "Remove any building within your borders, great for reconstructing your empire.",
+      "->": "Forigu ajnan konstruaĵon ene de viaj limoj, bonega por rekonstruado de via imperio."
+    },
+    "tooltip.ability.detect": {
+      "en": "This unit can detect nearby invisible units.",
+      "->": ""
+    },
+    "tooltip.ability.disband": {
+      "en": "Remove any of your own units and get half of its cost in return.",
+      "->": "Forigu iujn el viaj propraj unuaĵoj kaj ricevu la duonon de ĝia kosto kontraŭrezulte."
+    },
+    "tooltip.ability.disloyal": {
+      "en": "This unit switches side to the previous ruler when the area they are in is captured",
+      "->": ""
+    },
+    "tooltip.ability.dividend": {
+      "en": "Gives 1 star income per peace treaty per turn.",
+      "->": ""
+    },
+    "tooltip.ability.eat": {
+      "en": "This unit grows in length for each enemy it kills.",
+      "->": ""
+    },
+    "tooltip.ability.embassy": {
+      "en": "Allow construction of Embassies in foreign capitals. Embassies provide income for both parties as long as they are not at war. The income is doubled if you have a peace treaty.",
+      "->": ""
+    },
+    "tooltip.ability.escape": {
+      "en": "This unit can move again after attacking.",
+      "->": "Ĉi tiu unuaĵo povas moviĝi alifoje post atakado."
+    },
+    "tooltip.ability.explode": {
+      "en": "Make your units explode inflicting poison and collateral damage to surrounding enemies.",
+      "->": ""
+    },
+    "tooltip.ability.fly": {
+      "en": "This unit can fly over any terrain with no movement penalties or bonuses.",
+      "->": "Ĉi tiu unuaĵo povas flugi super iu ajn tereno sen movaj punoj aŭ bonusoj."
+    },
+    "tooltip.ability.fortify": {
+      "en": "This unit gets a defense bonus when defending in its own cities, double bonus with a city wall.",
+      "->": "Ĉi tiu unuaĵo ricevas defendan bonuson kiam ĝi defendas siajn proprajn urbojn (duoblan bonuson kun urbomuro)."
+    },
+    "tooltip.ability.freeze": {
+      "en": "This unit freezes its enemies when attacking them so they cannot move.",
+      "->": "Ĉi tiu unuaĵo frostigas siajn malamikojn atakante ilin, por ke ili ne moviĝu."
+    },
+    "tooltip.ability.freezearea": {
+      "en": "This unit can freeze the surrounding tiles including any enemy units.",
+      "->": ""
+    },
+    "tooltip.ability.glide": {
+      "en": "All non-skating units get an extra move when moving on ice.",
+      "->": "Ĉiuj neglita unuaĵoj akiras ekstran movon kiam moviĝas sur glacio."
+    },
+    "tooltip.ability.grow": {
+      "en": "This unit will eventually grow and become something else.",
+      "->": "Ĉi tiu unuaĵo iutempe kreskos kaj iĝos io alia."
+    },
+    "tooltip.ability.heal": {
+      "en": "This unit can heal surrounding units.",
+      "->": "Ĉi tiu unuaĵo povas resanigi ĉirkaŭajn unuaĵojn."
+    },
+    "tooltip.ability.hide": {
+      "en": "This unit hides when it moves, becoming invisible to the enemy.",
+      "->": ""
+    },
+    "tooltip.ability.independent": {
+      "en": "This unit does not require any support from its home city.",
+      "->": ""
+    },
+    "tooltip.ability.infiltrate": {
+      "en": "This unit can enter enemy cities to incite revolts.",
+      "->": ""
+    },
+    "tooltip.ability.literacy": {
+      "en": "Reduce the price of all technologies by {0}%.",
+      "->": "Redukti la prezon de ĉiuj teĥnologioj je 20%."
+    },
+    "tooltip.ability.navigate": {
+      "en": "This unit can move in any terrain even if you do not have the tech needed to move there.",
+      "->": "Ĉi tiu unuaĵo povas moviĝi en iu ajn tereno eĉ se vi ne havas la bezonatan teĥnologion por movi tien."
+    },
+    "tooltip.ability.peacetreaty": {
+      "en": "Send an offer of entering a peace treaty to another tribe. \nYou find this function in the 'Tribe Info Screen', click the name of a tribe to get there.",
+      "->": ""
+    },
+    "tooltip.ability.persist": {
+      "en": "This unit can keep attacking as long as it completely kills its victims.",
+      "->": "Ĉi tiu unuaĵo povas daŭre ataki tiel longe kiel ĝi tute mortigas siajn viktimojn."
+    },
+    "tooltip.ability.poison": {
+      "en": "Inflicts poison to enemies when attacking. Poisoned units lose all defense bonuses and spread spores when they die.",
+      "->": ""
+    },
+    "tooltip.ability.scout": {
+      "en": "This unit has double vision range.",
+      "->": "Ĉi tiu unuaĵo havas duoblan vidrangon."
+    },
+    "tooltip.ability.skate": {
+      "en": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
+      "->": "Ĉi tiu unuaĵo ricevas duoblan movadon sur glaciaj kaheloj sed surtere ilia movado estas limigita al 1 kahelo kaj ĉiuj aliaj kapabloj estas malebligitaj."
+    },
+    "tooltip.ability.sneak": {
+      "en": "This unit can move past enemy units without stopping.",
+      "->": "Ĉi tiu unuaĵo povas movi preter malamikaj unuaĵoj sen halti."
+    },
+    "tooltip.ability.splash": {
+      "en": "This unit causes splash damage to nearby units when attacking.",
+      "->": "Ĉi tiu unuaĵo kaŭzas damaĝojn al proksimaj unuaĵo kiam atakas."
+    },
+    "tooltip.ability.surprise": {
+      "en": "Enemies don't retaliate when you attack them, even at close range.",
+      "->": ""
+    },
+    "tooltip.ability.swim": {
+      "en": "This unit can move on water.",
+      "->": "Ĉi tiu unuaĵo estas amfibia kaj povas moviĝi sur kaj tero kaj akvo."
+    },
+    "tooltip.tile.blocked": {
+      "en": "This resource is blocked by an enemy unit",
+      "->": "Ĉi tiu rimedo estas blokita de malamika unuaĵo."
+    },
+    "tooltip.tile.capture": {
+      "en": "This city is being captured.",
+      "->": "La urbo estas kaptata."
+    },
+    "tooltip.tile.capture.enemy": {
+      "en": "Your city is being captured by the enemy!",
+      "->": "Via urbo estas kaptata de malamiko!"
+    },
+    "tooltip.tile.capture.tip": {
+      "en": "Move a unit here to capture this city!",
+      "->": "Movu unuaĵon ĉi tien por kapti ĉi tiun urbon!"
+    },
+    "tooltip.tile.choose_unit": {
+      "en": "Choose a unit to train.",
+      "->": "Elekti unuaĵon por produki."
+    },
+    "tooltip.tile.explore": {
+      "en": "Explore this area to see what it holds!",
+      "->": "Esploru ĉi tiun areon por vidi kion ĝi enhavas!"
+    },
+    "tooltip.tile.extract.convert": {
+      "en": "This resource can be transformed into a unit",
+      "->": "Ĉi tiu rimedo povas esti transformita en unuaĵo."
+    },
+    "tooltip.tile.extract.research": {
+      "en": "You need to research {0} to extract this resource",
+      "->": "Vi bezonas esplori '{0}' por ĉerpi ĉi tiun rimedon."
+    },
+    "tooltip.tile.extract.stars": {
+      "en": "Extract this resource to earn stars instantly",
+      "->": "Eltiri ĉi tiun rimedon por senprokraste gajni stelojn."
+    },
+    "tooltip.tile.extract.upgrade": {
+      "en": "Extract this resource to upgrade your city",
+      "->": "Eltiri ĉi tiun rimedon por plibonigi vian urbon."
+    },
+    "tooltip.tile.level.max": {
+      "en": "Has reached maximum level",
+      "->": "Jam atingis maksimuman nivelon."
+    },
+    "tooltip.tile.level.next": {
+      "en": "Next level in {0} turns",
+      "->": "Venonta nivelo en {0} vicoj."
+    },
+    "tooltip.tile.level.polaris": {
+      "en": "Freeze {0} more tiles to reach the next level",
+      "->": "Frostigu {0} pliajn kahelojn por atingi la sekvan nivelon."
+    },
+    "tooltip.tile.limit": {
+      "en": "This city cannot support any more units.",
+      "->": "Ĉi tiu urbo ne plu subtenas unuaĵojn."
+    },
+    "tooltip.tile.monuments": {
+      "en": "Monuments give your empire extra score!",
+      "->": "Monumentoj donas al via imperio ekstraj poentojn!"
+    },
+    "tooltip.tile.outside": {
+      "en": "This resource is outside of your empire",
+      "->": "Ĉi tiu rimedo estas ekster via imperio."
+    },
+    "tooltip.tile.produces": {
+      "en": "Produces {0} each turn.",
+      "->": "Produktas {0} ĉiuvice."
+    },
+    "tooltip.tile.research": {
+      "en": "You need to research {0} to be able to move here",
+      "->": "Vi bezonas esplori {0} por movi ĉi tien."
+    },
+    "tooltip.tile.riot": {
+      "en": "There are riots in this city! It produces no income this turn.",
+      "->": ""
+    },
+    "tooltip.tile.road": {
+      "en": "Build a road to connect this city to your capital.",
+      "->": "Konstruu vojon por konekti ĉi tiun urbon al via ĉefurbo."
+    },
+    "tooltip.tile.ruin": {
+      "en": "Move a unit here and examine these ancient ruins.",
+      "->": "Movu unuaĵon ĉi tien kaj ekzamenu ĉi tiujn antikvajn ruinojn."
+    },
+    "tooltip.tile.sailing": {
+      "en": "Move a unit here to start sailing!",
+      "->": "Movu unuaĵo ĉi tien por navigi!"
+    },
+    "tooltip.unit.actions.attack": {
+      "en": "Click a red mark to attack!",
+      "->": "Tuŝetu ruĝan markon por ataki!"
+    },
+    "tooltip.unit.actions.move": {
+      "en": "Click a blue mark to move.",
+      "->": "Tuŝetu bluan markon por movi."
+    },
+    "tooltip.unit.actions.none": {
+      "en": "No actions left. Press 'Next Turn' to move this unit again.",
+      "->": "Neniu ago disponeblas. Tuŝetu 'Fini vicon' por movi ĉi tiun unuaĵon denove."
+    },
+    "tooltip.unit.ally": {
+      "en": "This is your ally.",
+      "->": ""
+    },
+    "tooltip.unit.city.capture": {
+      "en": "Tap 'Capture' to add this city to your empire",
+      "->": "Tuŝetu 'Kapti' por aldoni ĉi tiun urbon al via imperio."
+    },
+    "tooltip.unit.city.capture.next": {
+      "en": "This city will be ready to capture next turn",
+      "->": "Ĉi tiu urbo pretos por kapti la venontan vicon."
+    },
+    "tooltip.unit.enemy": {
+      "en": "This is the enemy!",
+      "->": "Jen la malamiko!"
+    },
+    "tooltip.unit.enemy.brokenpeace": {
+      "en": "You can attack this unit next turn.",
+      "->": ""
+    },
+    "tooltip.unit.enemy.city": {
+      "en": "This enemy is capturing your city!",
+      "->": "Ĉi tiu malamiko kaptas vian urbon!"
+    },
+    "tooltip.unit.enemy.territory": {
+      "en": "This enemy is in your territory!",
+      "->": "Ĉi tiu malamiko estas en via teritorio!"
+    },
+    "tooltip.unit.grow.later": {
+      "en": "Will grow to {0} in {1} turns.",
+      "->": "Kreskos ĝis {0} en {1} vicoj."
+    },
+    "tooltip.unit.grow.now": {
+      "en": "Will grow to {0} at the end of this turn!",
+      "->": "Kreskos ĝis {0} fine de ĉi tiu vico!"
+    },
+    "topbar.score": {
+      "en": "Score",
+      "->": "Poentoj"
+    },
+    "topbar.stars": {
+      "en": "Stars (+{0})",
+      "->": "Steloj (+{0})"
+    },
+    "topbar.turn": {
+      "en": "Turn",
+      "->": "Vicoj"
+    },
+    "tribepicker.anonymous": {
+      "en": "Anonymous",
+      "->": "Anonimulo"
+    },
+    "tribepicker.buy": {
+      "en": "BUY",
+      "->": ""
+    },
+    "tribepicker.categories.humantribes": {
+      "en": "Regular Tribes",
+      "->": "Regulaj Triboj"
+    },
+    "tribepicker.categories.random": {
+      "en": "Let fate decide!",
+      "->": "La sorto decidu!"
+    },
+    "tribepicker.categories.random.button": {
+      "en": "RANDOM TRIBE",
+      "->": "HAZARDA TRIBO"
+    },
+    "tribepicker.categories.random.selected.text": {
+      "en": "Random tribe selected",
+      "->": "Hazarda tribo elektita"
+    },
+    "tribepicker.categories.random.selected.title": {
+      "en": "Alakazam!",
+      "->": ""
+    },
+    "tribepicker.categories.specialtribes": {
+      "en": "Special Tribes",
+      "->": "Specialaj Triboj"
+    },
+    "tribepicker.categories.specialtribes.description": {
+      "en": "A collection of tribes that are a bit out of this world...",
+      "->": "Kolekto de triboj iomete foraj de ĉi tiu mondo..."
+    },
+    "tribepicker.disable": {
+      "en": "DISABLE",
+      "->": "MALEBLIGI"
+    },
+    "tribepicker.disabled": {
+      "en": "Disabled",
+      "->": "MALELEBLIGITA"
+    },
+    "tribepicker.disabled.description": {
+      "en": "Tribe disabled, it cannot be used by you or the AI.",
+      "->": "Tribo malelebligita, nek vi nek la AI povas uzi ĝin."
+    },
+    "tribepicker.enable": {
+      "en": "ENABLE",
+      "->": "EBLIGI"
+    },
+    "tribepicker.firstplayer": {
+      "en": "First player must be a human",
+      "->": "La unua ludanto devas esti homo"
+    },
+    "tribepicker.freetribe": {
+      "en": "Free Tribe",
+      "->": "Senpaga Tribo"
+    },
+    "tribepicker.freetribe.description": {
+      "en": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
+      "->": "Ĉi tiu tribo disponeblas senpage kaj ĝi ne povas esti aĉetita por ebligi interretajn plurludantajn partiojn."
+    },
+    "tribepicker.gamemode": {
+      "en": "Game Mode: {0}",
+      "->": "Ludreĝimo: {0}"
+    },
+    "tribepicker.getdlc": {
+      "en": "GET DLC",
+      "->": ""
+    },
+    "tribepicker.mapsize": {
+      "en": "Map Size: {0} tiles",
+      "->": "Amplekso de la karto: {0} kaheloj"
+    },
+    "tribepicker.maptype": {
+      "en": "Map Type: {0}",
+      "->": ""
+    },
+    "tribepicker.news.readmore": {
+      "en": "Read more...",
+      "->": "Legi pli..."
+    },
+    "tribepicker.pick": {
+      "en": "PICK",
+      "->": "ELEKTI"
+    },
+    "tribepicker.pickyour": {
+      "en": "Pick your tribe",
+      "->": "Elekti vian tribon"
+    },
+    "tribepicker.players": {
+      "en": "{0} players",
+      "->": "{0} ludantoj"
+    },
+    "tribepicker.playertype": {
+      "en": "Player type",
+      "->": "Speco de ludanto"
+    },
+    "tribepicker.reset": {
+      "en": "Reset Purchases",
+      "->": "restartigi aĉetojn"
+    },
+    "tribepicker.restore": {
+      "en": "Restore Purchases",
+      "->": "restaŭri aĉetojn"
+    },
+    "tribepicker.restoring": {
+      "en": "Restoring...",
+      "->": "restaŭrante..."
+    },
+    "tribepicker.taken": {
+      "en": "Taken",
+      "->": "Jam Prenita"
+    },
+    "tribepicker.tba": {
+      "en": "TBA",
+      "->": ""
+    },
+    "tribepicker.title": {
+      "en": "PICK YOUR TRIBE",
+      "->": "ELEKTI VIAN TRIBON"
+    },
+    "tribepicker.toprating": {
+      "en": "Top rating {0}%",
+      "->": "Maksimuma pritakso: {0}%"
+    },
+    "tribepicker.toprating.next": {
+      "en": "{0}% needed for next star",
+      "->": "{0}% ĝis la venonta stelo"
+    },
+    "tribepicker.topscore": {
+      "en": "Top score {0}",
+      "->": "Maksimuma poentaro: {0}"
+    },
+    "tribepicker.topscore.next": {
+      "en": "{0} for next star",
+      "->": "{0} ĝis la venonta stelo"
+    },
+    "tribepicker.underconstruction": {
+      "en": "Under Construction",
+      "->": "Konstruata"
+    },
+    "tribepicker.underconstruction.description": {
+      "en": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
+      "->": "Ni ankoraŭ inventas ĉi tiun tribon. Kultivi fruktojn, disvolvi lingvojn kaj arĥitekturon necesas tempon! Sekvu @Midjiwan ĉe Instagram aŭ Twitter kaj vi estos la unua kiu scios kiam alvenos novaj triboj!"
+    },
+    "tribepicker.waiting": {
+      "en": "WAITING",
+      "->": ""
+    },
+    "tribepicker.yourname": {
+      "en": "Your Name",
+      "->": "Via nomo"
+    },
+    "tribes.aimo": {
+      "en": "Ai-Mo",
+      "->": ""
+    },
+    "tribes.aimo.info": {
+      "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "La trankvila kaj saĝa tribo {0} loĝas ĉe la plej severa, plej ventegema kaj plej alta montaro de la Kvadrato, kie ili trovis internan pacon meditante en la eterna vespera lumo. \n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.aquarion": {
+      "en": "Aquarion",
+      "->": ""
+    },
+    "tribes.aquarion.info": {
+      "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
+      "->": "El la profundaj oceanoj aperas longa perdita civilizo! Ilia ekstrema izoleco donis al ili specialajn akvajn kapablojn nekonatajn al aliaj plihomaj triboj.\n\nLa {0} havas unikan teĥnologian arbon kaj unikajn amfibiajn unuaĵojn."
+    },
+    "tribes.bardur": {
+      "en": "Bardur",
+      "->": ""
+    },
+    "tribes.bardur.info": {
+      "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "Travivi la severan eternan vintron de la arbaroj de {0} ne estas facila tasko, sed la {0} ŝajnas prosperi tie.\n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.cymanti": {
+      "en": "Cymanti",
+      "->": ""
+    },
+    "tribes.cymanti.info": {
+      "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
+      "->": ""
+    },
+    "tribes.elyrion": {
+      "en": "∑∫ỹriȱŋ",
+      "->": "âˆ‘âˆ«á»¹riÈ±Å‹"
+    },
+    "tribes.elyrion.info": {
+      "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
+      "->": "La misteraj {0} defendas siajn lignajn hejmojn per bunta magio kaj la krueleco de fajrspirantaj drakoj! \n\n Ili konsideras la Naturon kiel sanktan spiriton kaj ne povas ĉasi bestojn aŭ haki arbojn, anstataŭe ili komencas la partion kun unika teĥnologio de ensorĉo, kiu povas igi regulajn bestojn en potencajn monstrojn."
+    },
+    "tribes.hoodrick": {
+      "en": "Hoodrick",
+      "->": ""
+    },
+    "tribes.hoodrick.info": {
+      "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "La flavaj aŭtunaj folioj de la arbaroj de {0} estas perfektaj kaŝejoj por siaj strangaj fungmanĝantaj loĝantoj. \n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.imperius": {
+      "en": "Imperius",
+      "->": ""
+    },
+    "tribes.imperius.info": {
+      "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "Grandegaj montoj kaj verdaj valoj. La klimato de {0} estas perfekta por kultivi fruktojn.\n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.kickoo": {
+      "en": "Kickoo",
+      "->": ""
+    },
+    "tribes.kickoo.info": {
+      "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "Blankaj sablaj strandoj kun kokosaj palmoj. Abundo de frukto kaj fiŝo. Bonvenon al la hejmo de la {0}. \n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.luxidoor": {
+      "en": "Luxidoor",
+      "->": ""
+    },
+    "tribes.luxidoor.info": {
+      "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
+      "->": "La civitanoj de {0} kondukas tre komfortajn vivojn, drapitajn en la plej fajna purpura silko. Sed ĉu ili travivos ekster la muroj de sia amata ĉefurbo?  \n\nLa {0} komencas la partion kun grandega ĉefurbo."
+    },
+    "tribes.nature": {
+      "en": "Nature",
+      "->": "Karaktero"
+    },
+    "tribes.oumaji": {
+      "en": "Oumaji",
+      "->": ""
+    },
+    "tribes.oumaji.info": {
+      "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "La dezerto senfina kaj benita de suno estas la hejmo de la {0}.\n\nLa {0} komencas la partio kun la teĥnologio '{1}'."
+    },
+    "tribes.polaris": {
+      "en": "Polaris",
+      "->": ""
+    },
+    "tribes.polaris.info": {
+      "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
+      "->": "La {0} restis kaptitaj en la malproksimaj regionoj de la frostigita tundro dum eonoj, sed la nekonata Gaami estis benita kun la povo vastigi sian nenaturan glacian terenon pli malproksime ol la vetero permesas. \n\nPer sledoj kaj Mamuj, la mistikaj {0} decidis entombigi la Kvadraton en glacion kaj transformi la landon en fridan paradizon. \n\nLa {0} komencas la partion kun la kapablo frostigi ĉirkaŭan terenon per Munioj."
+    },
+    "tribes.quetzali": {
+      "en": "Quetzali",
+      "->": ""
+    },
+    "tribes.quetzali.info": {
+      "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "La tribo {0} adoras la birdajn diojn de la ruĝa grundo kaj vivas harmonie kun la natura simetrio de iliaj kubaj ĝangaloj. Ili estas kutime vidataj rajdante grandegajn neflugantajn birdojn. \n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.vengir": {
+      "en": "Vengir",
+      "->": ""
+    },
+    "tribes.vengir.info": {
+      "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
+      "->": "Malamataj la aliaj triboj kaj enŝovitaj al la malagrablaj dezertoj. Ĉu ili toleros ĉi tiun maljustecon aŭ ĉu ili kontraŭbatalos?  \n\nLa {0} komencas la partion kun la teĥnologio '{1}' kaj potenca glavisto."
+    },
+    "tribes.xinxi": {
+      "en": "Xin-xi",
+      "->": ""
+    },
+    "tribes.xinxi.info": {
+      "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "Ili komencas sian vojaĝon en densaj montoj, ĉirkaŭitaj de belaj sakuroj.\n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.yadakk": {
+      "en": "Yădakk",
+      "->": "YÄƒdakk"
+    },
+    "tribes.yadakk.info": {
+      "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "La {0} komencis kiel nomada tribo en la belaj kaj brutaj ebenaĵoj de Khalee. Nun ili estas la komercistoj de la Kvadrato, konektante sian imperion per impresaj komercaj vojoj. \n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.zebasi": {
+      "en": "Zebasi",
+      "->": ""
+    },
+    "tribes.zebasi.info": {
+      "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "La {0} prosperas en la varma savano, kultivante la riĉan grundon por provizi nutraĵon al iliaj potencaj loĝantoj. \n\nLa {0} komencas la partion kun la teĥnologio '{1}'."
+    },
+    "tribes.zebasi.news": {
+      "en": "All profits from the Zebasi tribe is invested in solar energy projects.",
+      "->": "Ĉiuj profitoj de la tribo Zebasi estas investitaj en sunenergiaj projektoj."
+    },
+    "tutorial.completed.description": {
+      "en": "You have now mastered the basic skills to play Polytopia, but there is so much more to discover!\nFinish this game by getting the highest possible score before the time runs out.",
+      "->": ""
+    },
+    "tutorial.completed.title": {
+      "en": "Boot Camp Completed!",
+      "->": ""
+    },
+    "tutorial.suggestion.description": {
+      "en": "Someone is hiding here in the clouds...",
+      "->": ""
+    },
+    "tutorial.task.capturevillage": {
+      "en": "Move your unit to a village and capture it.",
+      "->": ""
+    },
+    "tutorial.task.capturevillage.description": {
+      "en": "Click your unit in the city. The blue markers that appear on the map are places the unit can move to this turn.\nAfter moving the unit you need to end your turn for it to be able to move again.",
+      "->": ""
+    },
+    "tutorial.task.capturevillage.title": {
+      "en": "Move a Unit",
+      "->": ""
+    },
+    "tutorial.task.endTurn": {
+      "en": "A good first round! End your turn to give your unit new energy.",
+      "->": ""
+    },
+    "tutorial.task.endTurn.description": {
+      "en": "Click the 'End Turn' button to give new energy to your units and collect more stars.",
+      "->": ""
+    },
+    "tutorial.task.endTurn.title": {
+      "en": "End Turn",
+      "->": ""
+    },
+    "tutorial.task.harvestfruit": {
+      "en": "Harvest fruit to grow your city!",
+      "->": ""
+    },
+    "tutorial.task.harvestfruit.description": {
+      "en": "Click a fruit tile within the borders of your city and select the 'Harvest Fruit' option. By extracting resources within your borders you can level up your city.",
+      "->": ""
+    },
+    "tutorial.task.harvestfruit.title": {
+      "en": "Grow your city",
+      "->": ""
+    },
+    "tutorial.task.meetTribe": {
+      "en": "There is another tribe hiding somewhere on the Square. See if you can find them!",
+      "->": ""
+    },
+    "tutorial.task.meetTribe.description": {
+      "en": "You are not alone! There are other tribes in this game too and they also try to expand their empires as much as possible. That often leads to conflicts so keep an eye out for your opponents.",
+      "->": ""
+    },
+    "tutorial.task.meetTribe.title": {
+      "en": "Other Tribes",
+      "->": ""
+    },
+    "tutorial.task.trainunit": {
+      "en": "Train a warrior so we can capture that village.",
+      "->": ""
+    },
+    "tutorial.task.trainunit.description": {
+      "en": "Click on your city and select the unit you want to train. Units can be used to explore the map, capture villages and fight your opponents.",
+      "->": ""
+    },
+    "tutorial.task.trainunit.title": {
+      "en": "Training units",
+      "->": ""
+    },
+    "tutorial.task.unlockTech": {
+      "en": "Wild animals can be hunted to grow your city even more. Let's research how to hunt!",
+      "->": ""
+    },
+    "tutorial.task.unlockTech.description": {
+      "en": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!",
+      "->": ""
+    },
+    "tutorial.task.unlockTech.title": {
+      "en": "Tech tree",
+      "->": ""
+    },
+    "unit": {
+      "en": "unit",
+      "->": "Unuaĵo"
+    },
+    "unit.abilities.agent": {
+      "en": "AGENT",
+      "->": ""
+    },
+    "unit.abilities.autofreeze": {
+      "en": "AUTO FREEZE",
+      "->": "FROSTIGI AŬTOMATE"
+    },
+    "unit.abilities.boost": {
+      "en": "BOOST",
+      "->": ""
+    },
+    "unit.abilities.build": {
+      "en": "BUILD",
+      "->": "KONSTRUI"
+    },
+    "unit.abilities.carry": {
+      "en": "CARRY",
+      "->": "PORTI"
+    },
+    "unit.abilities.convert": {
+      "en": "CONVERT",
+      "->": "KONVERTI"
+    },
+    "unit.abilities.creep": {
+      "en": "CREEP",
+      "->": ""
+    },
+    "unit.abilities.crush": {
+      "en": "CRUSH",
+      "->": ""
+    },
+    "unit.abilities.dash": {
+      "en": "DASH",
+      "->": "KUREGI"
+    },
+    "unit.abilities.decay": {
+      "en": "DECAY",
+      "->": "PUTRI"
+    },
+    "unit.abilities.detect": {
+      "en": "DETECT",
+      "->": ""
+    },
+    "unit.abilities.disloyal": {
+      "en": "DISLOYAL",
+      "->": ""
+    },
+    "unit.abilities.eat": {
+      "en": "EAT",
+      "->": ""
+    },
+    "unit.abilities.escape": {
+      "en": "ESCAPE",
+      "->": "FORKURI"
+    },
+    "unit.abilities.explode": {
+      "en": "EXPLODE",
+      "->": ""
+    },
+    "unit.abilities.fly": {
+      "en": "FLY",
+      "->": "FLUGI"
+    },
+    "unit.abilities.fortify": {
+      "en": "FORTIFY",
+      "->": "PLIFORTIGI"
+    },
+    "unit.abilities.freeze": {
+      "en": "FREEZE",
+      "->": "FROSTIGI"
+    },
+    "unit.abilities.freezearea": {
+      "en": "FREEZE AREA",
+      "->": "FROSTIGI ZONON"
+    },
+    "unit.abilities.grow": {
+      "en": "GROW",
+      "->": "KRESKI"
+    },
+    "unit.abilities.heal": {
+      "en": "HEAL",
+      "->": "KURACI"
+    },
+    "unit.abilities.hide": {
+      "en": "HIDE",
+      "->": "KAŜI"
+    },
+    "unit.abilities.independent": {
+      "en": "INDEPENDENT",
+      "->": ""
+    },
+    "unit.abilities.infiltrate": {
+      "en": "INFILTRATE",
+      "->": ""
+    },
+    "unit.abilities.navigate": {
+      "en": "NAVIGATE",
+      "->": "NAVIGI"
+    },
+    "unit.abilities.persist": {
+      "en": "PERSIST",
+      "->": "DAŬRI"
+    },
+    "unit.abilities.poison": {
+      "en": "POISON",
+      "->": ""
+    },
+    "unit.abilities.scout": {
+      "en": "SCOUT",
+      "->": "ANTAŬRAJDI"
+    },
+    "unit.abilities.skate": {
+      "en": "SKATE",
+      "->": "GLITI"
+    },
+    "unit.abilities.sneak": {
+      "en": "SNEAK",
+      "->": "ŜTELERI"
+    },
+    "unit.abilities.splash": {
+      "en": "SPLASH",
+      "->": "PLAŬDI"
+    },
+    "unit.abilities.surprise": {
+      "en": "SURPRISE",
+      "->": ""
+    },
+    "unit.abilities.swim": {
+      "en": "FLOAT",
+      "->": "NAĜI"
+    },
+    "unit.ability": {
+      "en": "ability",
+      "->": "Kapablo"
+    },
+    "unit.info.attack": {
+      "en": "Attack",
+      "->": "Atako"
+    },
+    "unit.info.defence": {
+      "en": "Defense",
+      "->": "Defendo"
+    },
+    "unit.info.health": {
+      "en": "Health",
+      "->": "Vivpoentoj"
+    },
+    "unit.info.movement": {
+      "en": "Movement",
+      "->": "Movkapablo"
+    },
+    "unit.info.range": {
+      "en": "Range",
+      "->": "Atingopovo"
+    },
+    "unit.info.skills": {
+      "en": "Skills",
+      "->": "Kapabloj"
+    },
+    "unit.names.amphibian": {
+      "en": "Amphibian",
+      "->": "Amfibio"
+    },
+    "unit.names.archer": {
+      "en": "Archer",
+      "->": "Arkisto"
+    },
+    "unit.names.babydragon": {
+      "en": "Baby Dragon",
+      "->": ""
+    },
+    "unit.names.battleship": {
+      "en": "Battleship",
+      "->": "Batalŝipo"
+    },
+    "unit.names.battlesled": {
+      "en": "Battle Sled",
+      "->": "Batalsledo"
+    },
+    "unit.names.boat": {
+      "en": "Boat",
+      "->": "Barko"
+    },
+    "unit.names.bunny": {
+      "en": "Bunny",
+      "->": "Kunikleto"
+    },
+    "unit.names.catapult": {
+      "en": "Catapult",
+      "->": "Ĵetmaŝino"
+    },
+    "unit.names.centipede": {
+      "en": "Centipede",
+      "->": ""
+    },
+    "unit.names.cloak": {
+      "en": "Cloak",
+      "->": ""
+    },
+    "unit.names.cloak_boat": {
+      "en": "Dinghy",
+      "->": ""
+    },
+    "unit.names.crab": {
+      "en": "Crab",
+      "->": "Kankro"
+    },
+    "unit.names.dagger": {
+      "en": "Dagger",
+      "->": ""
+    },
+    "unit.names.defender": {
+      "en": "Defender",
+      "->": "Defendanto"
+    },
+    "unit.names.doomux": {
+      "en": "Doomux",
+      "->": ""
+    },
+    "unit.names.dragonegg": {
+      "en": "Dragon Egg",
+      "->": ""
+    },
+    "unit.names.exida": {
+      "en": "Exida",
+      "->": ""
+    },
+    "unit.names.firedragon": {
+      "en": "Fire Dragon",
+      "->": ""
+    },
+    "unit.names.gaami": {
+      "en": "Gaami",
+      "->": ""
+    },
+    "unit.names.giant": {
+      "en": "Giant",
+      "->": "Giganto"
+    },
+    "unit.names.hexapod": {
+      "en": "Hexapod",
+      "->": ""
+    },
+    "unit.names.icearcher": {
+      "en": "Ice Archer",
+      "->": "Glacia Arkisto"
+    },
+    "unit.names.icefortress": {
+      "en": "Ice Fortress",
+      "->": ""
+    },
+    "unit.names.kiton": {
+      "en": "Kiton",
+      "->": ""
+    },
+    "unit.names.knight": {
+      "en": "Knight",
+      "->": "Kavaliro"
+    },
+    "unit.names.mindbender": {
+      "en": "Mind Bender",
+      "->": ""
+    },
+    "unit.names.mooni": {
+      "en": "Mooni",
+      "->": ""
+    },
+    "unit.names.navalon": {
+      "en": "Navalon",
+      "->": ""
+    },
+    "unit.names.phychi": {
+      "en": "Phychi",
+      "->": ""
+    },
+    "unit.names.polytaur": {
+      "en": "Polytaur",
+      "->": "Politaŭro"
+    },
+    "unit.names.raychi": {
+      "en": "Raychi",
+      "->": ""
+    },
+    "unit.names.rider": {
+      "en": "Rider",
+      "->": "Rajdisto"
+    },
+    "unit.names.santa": {
+      "en": "Bunta",
+      "->": ""
+    },
+    "unit.names.scout": {
+      "en": "Scout",
+      "->": "Antaŭmarŝanto"
+    },
+    "unit.names.segment": {
+      "en": "Segment",
+      "->": ""
+    },
+    "unit.names.shaman": {
+      "en": "Shaman",
+      "->": ""
+    },
+    "unit.names.ship": {
+      "en": "Ship",
+      "->": "Ŝipo"
+    },
+    "unit.names.swordsman": {
+      "en": "Swordsman",
+      "->": ""
+    },
+    "unit.names.tridention": {
+      "en": "Tridention",
+      "->": "Tridentisto"
+    },
+    "unit.names.warrior": {
+      "en": "Warrior",
+      "->": "Batalisto"
+    },
+    "updateavatar.description": {
+      "en": "Press the avatar to give birth to a new wild creation",
+      "->": ""
+    },
+    "updateavatar.save": {
+      "en": "SAVE",
+      "->": ""
+    },
+    "updateavatar.title": {
+      "en": "Update Avatar",
+      "->": ""
+    },
+    "validation.error.steam": {
+      "en": "Failed to validate app through Steam, you need to start the game through Steam to be able to play",
+      "->": ""
+    },
+    "validation.error.title": {
+      "en": "Validation error",
+      "->": ""
+    },
+    "versioning.highscores": {
+      "en": "You can't get your score on the highscore list with this version of the game. Update the game if you're after that sweet fame.",
+      "->": ""
+    },
+    "versioning.highscores.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.newmatchmaking": {
+      "en": "You have to update the game to start new random matches.",
+      "->": ""
+    },
+    "versioning.newmatchmaking.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.newmultiplayer": {
+      "en": "You have to update the game to start new multiplayer games.",
+      "->": ""
+    },
+    "versioning.newmultiplayer.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.systemmessage.title": {
+      "en": "Info",
+      "->": ""
+    },
+    "versioning.unmigrateduser": {
+      "en": "This user has not yet updated to Moonrise",
+      "->": ""
+    },
+    "versioning.unmigrateduser.title": {
+      "en": "User unavailable",
+      "->": ""
+    },
+    "versioning.updateapp": {
+      "en": "We built new cool stuff that unfortunately means this version of the game is no longer playable. Please update to get back into the game!",
+      "->": ""
+    },
+    "versioning.updateapp.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.updatenetwork": {
+      "en": "You need to update to use network features such as multiplayer, highscores, etc.",
+      "->": ""
+    },
+    "versioning.updatenetwork.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "wcontroller.building.upgrade": {
+      "en": "Your {0} upgraded to a {1}!",
+      "->": "Via {0} pliboniĝis al {1}!"
+    },
+    "wcontroller.building.upgrade.reward": {
+      "en": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
+      "->": "{0} pliboniĝis al nivelo {1} kaj ĝia produktado pliiĝis je +1. Elektu ekstran rekompencon:"
+    },
+    "wcontroller.capital.captured.description": {
+      "en": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
+      "->": "Vi kaptis la ĉefurbon de {0}! Ĉiuj iliaj komercaj retoj estas nuligataj ĝis ili reakiros la regon de sia ĉefurbo."
+    },
+    "wcontroller.capital.captured.title": {
+      "en": "Great News!",
+      "->": "Bonegaj novaĵoj!"
+    },
+    "wcontroller.capital.captured2.description": {
+      "en": "{0} is now part of the {1} empire",
+      "->": "{0} nun estas parto de la imperio {1}."
+    },
+    "wcontroller.capital.captured2.title": {
+      "en": "City Captured!",
+      "->": "Urbo kaptita!"
+    },
+    "wcontroller.capital.lost.description": {
+      "en": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
+      "->": "Via ĉefurbo estis kaptita de la hordoj de {0}! Ĉiuj viaj komercaj retoj estas nuligitaj ĝis vi reakiros la kontrolon de via ĉefurbo."
+    },
+    "wcontroller.capital.lost.title": {
+      "en": "Bad News!",
+      "->": "Malbonaj novaĵoj!"
+    },
+    "wcontroller.capital.regained.description": {
+      "en": "You have regained control of your capital, trade networks are reestablished",
+      "->": "Vi reakiris kontrolon de via ĉefurbo, komercaj retoj denove funkcias."
+    },
+    "wcontroller.capital.regained.title": {
+      "en": "Great News!",
+      "->": "Bonaj novaĵoj!"
+    },
+    "wcontroller.city.disconnect": {
+      "en": "{0} was disconnected from {1}",
+      "->": "{0} estis malkonektita el {1}"
+    },
+    "wcontroller.city.disconnect.title": {
+      "en": "Trade route lost!",
+      "->": "Komerca vojo perdita!"
+    },
+    "wcontroller.convertvillage.description": {
+      "en": "The villagers agree to join your emerging empire!",
+      "->": "La vilaĝanoj konsentas aliĝi al via emerĝanta imperio!"
+    },
+    "wcontroller.convertvillage.title": {
+      "en": "Village Converted!",
+      "->": "Vilaĝo konvertita!"
+    },
+    "wcontroller.examine.explorer": {
+      "en": "You meet some locals who show you the surrounding lands.",
+      "->": "Vi renkontas iujn lokulojn kiuj montras al vi la ĉirkaŭajn landojn."
+    },
+    "wcontroller.examine.explorer.title": {
+      "en": "Explorer",
+      "->": "Esploristo"
+    },
+    "wcontroller.examine.giant": {
+      "en": "You found a friendly {0} who joined your tribe!",
+      "->": "Vi renkontis amikan {0}n kiu aliĝis al via tribo!"
+    },
+    "wcontroller.examine.population": {
+      "en": "You meet a nomadic tribe that settle in your capital!",
+      "->": "Vi renkontas nomadan tribon kiu ekloĝiĝas en via ĉefurbo!"
+    },
+    "wcontroller.examine.population.title": {
+      "en": "Population",
+      "->": "Loĝantoj"
+    },
+    "wcontroller.examine.stars": {
+      "en": "The ancient ruins are filled with valuable resources!",
+      "->": "La antikvaj ruinoj plenas de valorplenaj rimedoj!"
+    },
+    "wcontroller.examine.stars.title": {
+      "en": "Resources",
+      "->": "Rimedoj"
+    },
+    "wcontroller.examine.swordsman": {
+      "en": "You encountered a mighty Swordsman who decided to join your tribe!",
+      "->": ""
+    },
+    "wcontroller.examine.swordsman.title": {
+      "en": "New Friends!",
+      "->": ""
+    },
+    "wcontroller.examine.tech": {
+      "en": "You found some old scrolls containing the secret of {0}.",
+      "->": "Vi trovis malnovajn skribaĵojn enhavantajn la sekreton de {0}."
+    },
+    "wcontroller.examine.tech.title": {
+      "en": "Scrolls of Wisdom",
+      "->": "Skribulaĝoj de la Saĝeco"
+    },
+    "wcontroller.examine.water": {
+      "en": "You encountered a band of friendly pirates who joined your tribe!",
+      "->": "Vi renkontis bandon de amikaj piratoj kiuj aliĝis al via tribo!"
+    },
+    "wcontroller.examine.water.elyrion": {
+      "en": "You encountered an enchanted {0} who joined your tribe!",
+      "->": "Vi renkonti sorĉan {0}n kiu aliĝis al via tribo!"
+    },
+    "wcontroller.examine.water.title": {
+      "en": "Battleship",
+      "->": "Batalŝipo"
+    },
+    "wcontroller.game.lost": {
+      "en": "You've been wiped out. You can continue to spectate this game or return to main menu.",
+      "->": ""
+    },
+    "wcontroller.game.lost.title": {
+      "en": "You've been wiped out!",
+      "->": ""
+    },
+    "wcontroller.kill.upgrade.description": {
+      "en": "Unit is ready to upgrade!",
+      "->": "Unuaĵo pretas por plibonigi!"
+    },
+    "wcontroller.kill.upgrade.title": {
+      "en": "Level Up!",
+      "->": "Plibonigo!"
+    },
+    "wcontroller.load.error": {
+      "en": "There is no saved game to resume, start a new game!",
+      "->": "Ne estas konservita partio por rekomenci, komenci novan partion!"
+    },
+    "wcontroller.load.error.title": {
+      "en": "No saved game",
+      "->": "Ne estas konservita partio."
+    },
+    "wcontroller.load.notpartof": {
+      "en": "You are not a part of this game",
+      "->": "Vi ne partoprenas je ĉi tiu partio."
+    },
+    "wcontroller.load.update": {
+      "en": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",
+      "->": "Ĉi tiu partio uzas pli novan version de Polytopia, vi devas ĝisdatigi ĝin antaŭ ol ludi."
+    },
+    "wcontroller.load.update.title": {
+      "en": "Update Required",
+      "->": "Ĝisdatigo Bezonata"
+    },
+    "wcontroller.load.wait": {
+      "en": "Wait until this game has fully downloaded before opening it.",
+      "->": "Atendu ĝis ĉi tiu partio estas plene elŝutita antaŭ ol malfermi ĝin."
+    },
+    "wcontroller.load.wait.title": {
+      "en": "Still loading...",
+      "->": "Ankoraŭ ŝarĝante..."
+    },
+    "wcontroller.matchmaking.gamestarted": {
+      "en": "Random match {0} is ready to go!",
+      "->": ""
+    },
+    "wcontroller.matchmaking.waitingforplayers": {
+      "en": "You joined {0}, waiting for opponents",
+      "->": ""
+    },
+    "wcontroller.meet.tribe.bigger.friendly": {
+      "en": "salutes you friendly but pays no attention to your tiny realm.",
+      "->": "salutas vin amike, sed atentas vian etan reĝlandon."
+    },
+    "wcontroller.meet.tribe.bigger.hostile": {
+      "en": "laughs at your puny excuse of a Tribe.",
+      "->": "ridas pri via tribaĉo..."
+    },
+    "wcontroller.meet.tribe.distant": {
+      "en": "A delegation from a distant land arrives in your capital!",
+      "->": ""
+    },
+    "wcontroller.meet.tribe.leader": {
+      "en": "Their leader {0} ",
+      "->": "Ilia ĉefo"
+    },
+    "wcontroller.meet.tribe.resource.boost": {
+      "en": "The discovery of this {0} tribe gives you a one time trade boost of {1} stars!",
+      "->": ""
+    },
+    "wcontroller.meet.tribe.smaller.friendly": {
+      "en": "bows in awe of your mighty civilization.",
+      "->": "klinas sin pro via forta potenca civilizo."
+    },
+    "wcontroller.meet.tribe.smaller.hostile": {
+      "en": "seems a bit hostile and greet you suspiciously.",
+      "->": "ŝajnas iomete malamika kaj suspektplene salutas vin."
+    },
+    "wcontroller.online.yourturn.description": {
+      "en": "Tap ok to continue the game when you are ready.",
+      "->": "Tuŝetu OK por daŭrigi la partion, kiam vi pretos."
+    },
+    "wcontroller.online.yourturn.title": {
+      "en": "It's your turn!",
+      "->": "Jen via vico!"
+    },
+    "wcontroller.picktribe.notification": {
+      "en": "It's your turn to pick tribe in {0}!",
+      "->": ""
+    },
+    "wcontroller.removingplayer": {
+      "en": "Removing Player",
+      "->": "Forigante Ludanto"
+    },
+    "wcontroller.reward.bordergrowth": {
+      "en": "border growth",
+      "->": "kreskigi limon"
+    },
+    "wcontroller.reward.citywall": {
+      "en": "city wall",
+      "->": "urbomuro"
+    },
+    "wcontroller.reward.explorer": {
+      "en": "explorer",
+      "->": "esploristo"
+    },
+    "wcontroller.reward.park": {
+      "en": "park",
+      "->": "parko"
+    },
+    "wcontroller.reward.populationgrowth": {
+      "en": "population growth",
+      "->": "pliigi loĝantaron"
+    },
+    "wcontroller.reward.rebellion": {
+      "en": "incite rebellion",
+      "->": ""
+    },
+    "wcontroller.reward.resources": {
+      "en": "resources",
+      "->": "rimedoj"
+    },
+    "wcontroller.reward.superunit": {
+      "en": "super unit",
+      "->": "speciala unuaĵo"
+    },
+    "wcontroller.reward.workshop": {
+      "en": "workshop",
+      "->": "laborejo"
+    },
+    "wcontroller.tribe.destroy": {
+      "en": "You have destroyed {0}!",
+      "->": "Vi detruis {0}!"
+    },
+    "wcontroller.tribe.destroy.all": {
+      "en": "You have destroyed all opposing tribes and unified the entire Square under your command!",
+      "->": "Vi detruis ĉiujn kontraŭajn tribojn kaj unuigis la tutan Kvadraton sub via komando!"
+    },
+    "wcontroller.tribe.destroy.all.title": {
+      "en": "Domination!",
+      "->": "Domino!"
+    },
+    "wcontroller.tribe.destroy.title": {
+      "en": "Blood!",
+      "->": "Sango!"
+    },
+    "wcontroller.tribe.destroy2": {
+      "en": "{0} has been destroyed by the {1}!",
+      "->": "{0} estis detruita de {1}!"
+    },
+    "wcontroller.tribe.level_1": {
+      "en": "curious",
+      "->": ""
+    },
+    "wcontroller.tribe.level_2": {
+      "en": "sprawling",
+      "->": ""
+    },
+    "wcontroller.tribe.level_3": {
+      "en": "impressive",
+      "->": ""
+    },
+    "wcontroller.tribe.level_4": {
+      "en": "epic",
+      "->": ""
+    },
+    "wcontroller.turn.end": {
+      "en": "Ending turn...",
+      "->": "Finante vicon..."
+    },
+    "wcontroller.turn.error": {
+      "en": "Could not reach the multiplayer server. Please make sure you are connected to the Internet and try again.",
+      "->": "Ne eblis atingi la multiludantan servilon. Bonvolu certigi, ke vi estas konektita al la interreto kaj provu denove."
+    },
+    "wcontroller.turn.error.title": {
+      "en": "Network Error",
+      "->": "Reto-Eraro"
+    },
+    "wcontroller.turn.next": {
+      "en": "Next up",
+      "->": "Sekva"
+    },
+    "wcontroller.turn.notification": {
+      "en": "It's your turn in {0} (turn {1})",
+      "->": "Ĝi estas via vico en {0} (vico {1})"
+    },
+    "wcontroller.turn.passed": {
+      "en": "Game passed on to {0}",
+      "->": "Partio pasita al {0}"
+    },
+    "wcontroller.turn.passed.title": {
+      "en": "Turn complete",
+      "->": "Vico kompletigita"
+    },
+    "wcontroller.turn.saving": {
+      "en": "Saving game to server...",
+      "->": "Konservante partion en servilo..."
+    },
+    "wcontroller.unit.promotion": {
+      "en": "Your unit has gained veteran status! Health increased.",
+      "->": "Via unuaĵo nun estas veterana! Sano pliiĝis."
+    },
+    "wcontroller.unit.promotion.title": {
+      "en": "Unit Promoted!",
+      "->": "Unuaĵo promociita!"
+    },
+    "world.attract.sanctuary": {
+      "en": "Your sanctuary has attracted a wild animal!",
+      "->": "Via sanktejo allogis sovaĝan beston!"
+    },
+    "world.building.capture.ready": {
+      "en": "Will be ready to capture next turn",
+      "->": "Pretos por kapti je la venonta vico."
+    },
+    "world.building.capture.ready.title": {
+      "en": "Entering {0}!",
+      "->": "Enirante al {0}!"
+    },
+    "world.building.capture.warning": {
+      "en": "Capturing will be completed next turn if you don't stop them.",
+      "->": "La kaptado finiĝos la sekvantan vicon se vi ne haltigos ĝin."
+    },
+    "world.building.capture.warning.title": {
+      "en": "{0} is under siege!",
+      "->": "{0} estas sub sieĝo!"
+    },
+    "world.building.info": {
+      "en": "The city of {0}",
+      "->": "La urbo de {0}"
+    },
+    "world.building.village": {
+      "en": "Village",
+      "->": "Vilaĝo "
+    },
+    "world.infiltrate.header": {
+      "en": "Infiltration Success!",
+      "->": ""
+    },
+    "world.intro.objective": {
+      "en": "Objective: {0}",
+      "->": "Celo: {0}"
+    },
+    "world.intro.text": {
+      "en": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
+      "->": "Vi estis elektita por kondukti la tribon {0}. Esploru la mondon kaj pliampleksigu vian imperion, sed atentu la aliajn tribojn."
+    },
+    "world.intro.title": {
+      "en": "Mighty Leader!",
+      "->": "Potenca ĉefo!"
+    },
+    "world.loading": {
+      "en": "LOADING {0}%",
+      "->": "Ŝarĝante {0}%"
+    },
+    "world.meet.tribe": {
+      "en": "You meet {0}",
+      "->": "Vi renkontas {0}."
+    },
+    "world.ranks": {
+      "en": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
+      "->": "1a,2a,3a,4a,5a,6a,7a,8a,9a,10a,11a,12a"
+    },
+    "world.rebellion.description": {
+      "en": "A {0} from the {1} tribe has infiltrated the city of {2} and incited a revolt agains you!",
+      "->": ""
+    },
+    "world.rebellion.title": {
+      "en": "Riots in {0}!",
+      "->": ""
+    },
+    "world.reveal.header": {
+      "en": "Aha!",
+      "->": ""
+    },
+    "world.reveal.text": {
+      "en": "A {0} was revealed!",
+      "->": ""
+    },
+    "world.reward.building": {
+      "en": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",
+      "->": "Nun vi povas konstrui '{0}'! Ĉi tiu epopea monumento alportos riĉecon kaj gloron al la plej proksima urbo."
+    },
+    "world.reward.building.title": {
+      "en": "{0} was completed",
+      "->": "{0} estis finita."
+    },
+    "world.reward.levelup": {
+      "en": "{0} level up!",
+      "->": "{0} pliniveliĝas!"
+    },
+    "world.road.connected.message": {
+      "en": "{0} is now connected to your capital!",
+      "->": "{0} estas nun konektita al via ĉefurbo!"
+    },
+    "world.road.connected.title": {
+      "en": "New trade route!",
+      "->": "Nova komerca vojo!"
+    },
+    "world.suggestion.disable": {
+      "en": "(These suggestions can be switched off in the menu)",
+      "->": "(Vi povas malŝalti konsilojn ĉe la menuo)"
+    },
+    "world.suggestion.message": {
+      "en": "You should {0}",
+      "->": "Vi devas {0}."
+    },
+    "world.suggestion.title": {
+      "en": "Here's a Tip!",
+      "->": "Jen konsilo!"
+    },
+    "world.task.new": {
+      "en": "You got a new Task!",
+      "->": "Vi havas novan taskon!!"
+    },
+    "world.tech.new.message": {
+      "en": "You have discovered the secret of {0}",
+      "->": "Vi malkovris la sekreton de {0}."
+    },
+    "world.tech.new.title": {
+      "en": "New Tech!",
+      "->": "Nova teĥnologio!"
+    },
+    "world.turn.end": {
+      "en": "End Turn",
+      "->": "Fini vicon"
+    },
+    "world.turn.end.confirm": {
+      "en": "Confirm",
+      "->": "Konfirmi"
+    },
+    "world.turn.end.question": {
+      "en": "End your turn?",
+      "->": "Fini vian vicon?"
+    },
+    "world.turn.exit": {
+      "en": "Exit",
+      "->": "Eliri"
+    },
+    "world.turn.finish": {
+      "en": "Finish Game",
+      "->": "Finigi Partion"
+    },
+    "world.turn.last": {
+      "en": "Last turn!",
+      "->": "Lasta vico!"
+    },
+    "world.turn.next": {
+      "en": "Next Turn",
+      "->": "Fini vicon"
+    },
+    "world.turn.nomoves": {
+      "en": "No more moves available, end turn",
+      "->": "Ne plu haveblas movoj, finu la vicon."
+    },
+    "world.turn.ready": {
+      "en": "Tap save when ready",
+      "->": "Premi konservi kiam preta"
+    },
+    "world.turn.remaining": {
+      "en": "{0} turns left",
+      "->": "{0} vicoj restantaj"
+    },
+    "world.turn.replaying": {
+      "en": "Replaying...",
+      "->": "Reludante..."
+    },
+    "world.turn.skip": {
+      "en": "SKIP",
+      "->": ""
+    },
+    "world.turn.start": {
+      "en": "START",
+      "->": "KOMENCI"
+    },
+    "world.turn.waiting": {
+      "en": "Waiting for {0} to play...",
+      "->": "Atendante la movon de {0}..."
+    },
+    "world.turn.waiting.playing": {
+      "en": "{0} is playing...",
+      "->": ""
+    },
+    "world.turn.waiting.unknown": {
+      "en": "Waiting for an unknown tribe to play...",
+      "->": "Atendante la movon de nekonata tribo..."
+    },
+    "world.turn.your": {
+      "en": "Your turn",
+      "->": "Via vico"
+    },
+    "world.unit.ability": {
+      "en": "Unit Ability",
+      "->": "Kapablo de la unuaĵo:"
+    },
+    "world.unit.attack": {
+      "en": "Attack",
+      "->": "Atako"
+    },
+    "world.unit.defence": {
+      "en": "Defense",
+      "->": "Defendo"
+    },
+    "world.unit.disembark.message": {
+      "en": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
+      "->": "Elboatigi ĉi tiun unuaĵon malmuntigos vian {0}n. Ĉu vi volas daŭrigi?"
+    },
+    "world.unit.disembark.title": {
+      "en": "Leave {0}",
+      "->": "Lasi {0}"
+    },
+    "world.unit.dissolved": {
+      "en": "Your unit has dissolved",
+      "->": "Via unuaĵo estis malmuntigita."
+    },
+    "world.unit.evolve": {
+      "en": "Your unit has grown into a {0}!",
+      "->": "Via unuaĵo iĝis {0}!"
+    },
+    "world.unit.evolve.title": {
+      "en": "Unit Growth",
+      "->": "Kresko de la Unuaĵo"
+    },
+    "world.unit.health": {
+      "en": "Health",
+      "->": "Vivpoentoj"
+    },
+    "world.unit.info.from": {
+      "en": "From the city of {0}.",
+      "->": "El la urbo de {0}."
+    },
+    "world.unit.movement": {
+      "en": "Movement",
+      "->": "Movkapablo"
+    },
+    "world.unit.range": {
+      "en": "Range",
+      "->": "Atingopovo"
+    },
+    "world.unit.veteran": {
+      "en": "This unit is a veteran.",
+      "->": "Ĉi tiu unuaĵo estas veterana."
+    },
+    "world.unit.veteran.progress": {
+      "en": "{0}/{1} to become a veteran.",
+      "->": "{0}/{1} por veteraniĝi."
+    }
+  }
+}

@@ -1,0 +1,5611 @@
+{
+  "language": "Русский - латинский алфавит",
+  "author": "Saichi2Taiko",
+  "editors": "",
+  "text": {
+    "action.info.attack": {
+      "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
+      "->": "atakuyte etim poddannym. vyberite poddannogo i najmite lyubuyu krasnuyu cel', esli vy hotite napast'"
+    },
+    "action.info.boost": {
+      "en": "Boost",
+      "->": ""
+    },
+    "action.info.breakice": {
+      "en": "Break Ice",
+      "->": "slomat' lyod"
+    },
+    "action.info.breakpeace": {
+      "en": "Break Peace",
+      "->": ""
+    },
+    "action.info.build": {
+      "en": "build a {0} here",
+      "->": "postroit' {0} tut"
+    },
+    "action.info.capture": {
+      "en": "Capture",
+      "->": "zahhvatit'"
+    },
+    "action.info.capture2": {
+      "en": "capture this city. Cities generate stars every turn that you can use to develop your empire",
+      "->": "zahvatite gorod. goroda vyrabatyvayut zvyody kajdyy hod, kotorye vy mojete napravit' na uluchshenie imperii"
+    },
+    "action.info.cityreward": {
+      "en": "City Reward",
+      "->": "nagrada goroda"
+    },
+    "action.info.decompose": {
+      "en": "Decompose",
+      "->": ""
+    },
+    "action.info.destroy": {
+      "en": "Destroy",
+      "->": "unichtojit'"
+    },
+    "action.info.disband": {
+      "en": "Disband {0}",
+      "->": "uvolit' {0}"
+    },
+    "action.info.do": {
+      "en": "do {0} here",
+      "->": "sdelat' {0} tut"
+    },
+    "action.info.endturn": {
+      "en": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
+      "->": "ezavershite hod dlya polucheniya bol'she resursov i dvijeniy poddannyh"
+    },
+    "action.info.establishembassy": {
+      "en": "Establish Embassy",
+      "->": ""
+    },
+    "action.info.examineruins": {
+      "en": "Examine",
+      "->": ""
+    },
+    "action.info.explode": {
+      "en": "Explode",
+      "->": ""
+    },
+    "action.info.freezearea": {
+      "en": "Freeze Area",
+      "->": "zamorozit' vokrug"
+    },
+    "action.info.healarea": {
+      "en": "Heal Area",
+      "->": "vylechit' vokrug"
+    },
+    "action.info.healothers": {
+      "en": "Heal Others",
+      "->": "vylechit' drugih"
+    },
+    "action.info.meet": {
+      "en": "Meet",
+      "->": "znakomstvo"
+    },
+    "action.info.move": {
+      "en": "move this unit. Select the unit and tap any of the BLUE targets",
+      "->": "dvigayte poddannogo. vyberite ego i najmite na lyubuyu sniyuyu cel'"
+    },
+    "action.info.peacetreaty": {
+      "en": "Offer Peace",
+      "->": ""
+    },
+    "action.info.promote": {
+      "en": "Promote",
+      "->": "prodvijenie"
+    },
+    "action.info.recover": {
+      "en": "Recover",
+      "->": "podlechit'sya"
+    },
+    "action.info.remove": {
+      "en": "Remove",
+      "->": "udalit'"
+    },
+    "action.info.research": {
+      "en": "research {0}.",
+      "->": "vyuchit' {0}. {0}"
+    },
+    "action.info.reward": {
+      "en": "Reward",
+      "->": "nagrada"
+    },
+    "action.info.reward.population": {
+      "en": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
+      "->": "eto povysit naselenie blijayshego goroda. kogda naselenie stanovitsya dostatochno bol'shim, gorod uluchshaetsya i prinosit bol'she resursov"
+    },
+    "action.info.reward.resources": {
+      "en": "That will give you an instant reward of {0} resources",
+      "->": "dast vam bol'she {0} resursov"
+    },
+    "action.info.stay": {
+      "en": "Stay",
+      "->": "stoyat'"
+    },
+    "action.info.train": {
+      "en": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
+      "->": "sdelayte poddannogo v etom gorode.  poddannye mogut byt' ispol'zovany dlya issledovaniya mira, dlya atak na vragov ili dlya zatshity gorodov"
+    },
+    "action.info.trip": {
+      "en": "Trip",
+      "->": "puteshestvie"
+    },
+    "action.info.upgrade": {
+      "en": "Upgrade to {0}",
+      "->": ""
+    },
+    "actionbox.building.decomposing": {
+      "en": "Decomposing",
+      "->": ""
+    },
+    "actionbox.building.decomposing.info": {
+      "en": "This improvement will decompose at the end of this turn",
+      "->": ""
+    },
+    "actionbox.building.doit": {
+      "en": "DO IT",
+      "->": "da"
+    },
+    "actionbox.building.level": {
+      "en": "level {0}/{1}",
+      "->": "uroven' {0}/{1}"
+    },
+    "actionbox.building.requiredtech": {
+      "en": "You need to research {0} to do this, tap the 'Tech Tree' button.",
+      "->": "vam nado issledovat' {0} dlya etogo, najmite knopku 'teh. drevo'."
+    },
+    "actionbox.building.techtree": {
+      "en": "TECH TREE",
+      "->": "teh. drevo"
+    },
+    "actionbox.cantperformaction.description": {
+      "en": "You cannot perform this action right now.",
+      "->": ""
+    },
+    "actionbox.city": {
+      "en": "City",
+      "->": "gorod {0}"
+    },
+    "actionbox.city.level": {
+      "en": "lvl {0}",
+      "->": "uroven' {0}"
+    },
+    "actionbox.confirm": {
+      "en": "Confirm {0}",
+      "->": "podtverdit' {0}"
+    },
+    "actionbox.confirm.button": {
+      "en": "YES",
+      "->": "da"
+    },
+    "actionbox.confirm.info": {
+      "en": "Are you sure you want to do this?",
+      "->": "vy uvereny v svoyom deystvii?"
+    },
+    "actionbox.confirm.info.breakpeace": {
+      "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
+      "->": ""
+    },
+    "actionbox.confirm.info.breakpeace.disband": {
+      "en": "It will also disband the {0} units you have in their territory.",
+      "->": ""
+    },
+    "actionbox.embassyestablished.description": {
+      "en": "The embassy is already established.",
+      "->": ""
+    },
+    "actionbox.establishembassynocapital.description": {
+      "en": "You cannot establish an embassy if the tribe has no capital.",
+      "->": ""
+    },
+    "actionbox.insufficientfunds": {
+      "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
+      "->": "u vas nedostatochno zvyozd dlya pokupki. najmite 'sled. hod dlya polucheniya bol'she zvyozd."
+    },
+    "actionbox.pendingpeacetreaty.description": {
+      "en": "Peace treaty pending. Waiting for {0} to respond",
+      "->": ""
+    },
+    "actionbox.pendingpeacetreaty.title": {
+      "en": "Pending Peace Treaty",
+      "->": ""
+    },
+    "actionbox.tile.roads": {
+      "en": "roads",
+      "->": "dorogi"
+    },
+    "actionbox.unit.Boosted": {
+      "en": "Boosted",
+      "->": ""
+    },
+    "actionbox.unit.Frozen": {
+      "en": "Frozen",
+      "->": ""
+    },
+    "actionbox.unit.Invisible": {
+      "en": "Invisible",
+      "->": ""
+    },
+    "actionbox.unit.Poisoned": {
+      "en": "Poisoned",
+      "->": ""
+    },
+    "actionbox.unit.ability": {
+      "en": "Unit Ability",
+      "->": "sposobnost' poddannogo"
+    },
+    "actionbox.unit.kills": {
+      "en": "{0}/{1} kills",
+      "->": "{0}/{1} ubiystv"
+    },
+    "actionbox.unit.new": {
+      "en": "Train a new {0} {1}",
+      "->": "proizvesti {0} {1}"
+    },
+    "actionbox.unit.toomany": {
+      "en": "(too many)",
+      "->": "(slishkom mnogo)"
+    },
+    "actionbox.unit.toomany.info": {
+      "en": "This city can't support any more units. Upgrade the city to get more space for units.",
+      "->": "etot gorod ne mojet vyderjat' bol'she poddannyh. uluchshite ego dlya polucheniya bol'shego mesta."
+    },
+    "actionbox.unit.train": {
+      "en": "TRAIN",
+      "->": "proizvesti"
+    },
+    "actionbox.unit.upgrade": {
+      "en": "UPGRADE",
+      "->": "uluchshit'"
+    },
+    "actionbox.unit.veteran": {
+      "en": "Veteran",
+      "->": "veteran"
+    },
+    "actionbox.village": {
+      "en": "Village",
+      "->": "derevnya"
+    },
+    "actionbtn.remove.building": {
+      "en": "Building",
+      "->": "stroenie"
+    },
+    "actionbtn.remove.roads": {
+      "en": "Roads",
+      "->": "dorogi"
+    },
+    "backend.connecting": {
+      "en": "Connecting to server...",
+      "->": ""
+    },
+    "backend.connecting.failed": {
+      "en": "Could not establish a connection to the server",
+      "->": ""
+    },
+    "backend.connection.lost": {
+      "en": "Connection lost",
+      "->": ""
+    },
+    "backend.connection.lost.info": {
+      "en": "Hold on while we're trying to reconnect",
+      "->": ""
+    },
+    "backend.login.failed": {
+      "en": "Login failed",
+      "->": ""
+    },
+    "backend.login.successful": {
+      "en": "Logged in as {0}",
+      "->": ""
+    },
+    "bottommenu.gamestats": {
+      "en": "Game Stats",
+      "->": "statistika"
+    },
+    "bottommenu.menu": {
+      "en": "Menu",
+      "->": "menyu"
+    },
+    "bottommenu.nextturn": {
+      "en": "Next Turn",
+      "->": "sled. hod"
+    },
+    "bottommenu.techtree": {
+      "en": "Tech Tree",
+      "->": "teh. drevo"
+    },
+    "building.ability.attract": {
+      "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
+      "->": "vyvodit jivotnoe v blijayshem lesu kajdye tri hoda"
+    },
+    "building.ability.bridge": {
+      "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
+      "->": ""
+    },
+    "building.ability.embark": {
+      "en": "Units that move here will turn into boats that can move on water.",
+      "->": "poddannye, chto dvigalis' syuda budyut prevratsheny v lodki, kotorye mogut hodit' po vode."
+    },
+    "building.ability.heal": {
+      "en": "{0} heals any friendly unit that end their turn next to them.",
+      "->": ""
+    },
+    "building.ability.limited": {
+      "en": "You can only build one {0} per city.",
+      "->": "vy mojete postroit' tol'ko odno {0} v gorode."
+    },
+    "building.ability.network": {
+      "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
+      "->": ""
+    },
+    "building.ability.patina": {
+      "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
+      "->": "{0} rastyot cherez kakoe-to vremya, tak chto poprobuyte postroit' eto tak bystro, kak vozmojno."
+    },
+    "building.ability.poison": {
+      "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
+      "->": ""
+    },
+    "building.ability.road": {
+      "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
+      "->": "stroyte dorogi, chtoby soedinyat' goroda so stolicey. soedinyonnye goroda pribavlyayut 1 naselenie, kak nagrada. tak je dorogi dayut dop. peredvijenie dlya vseh poddannyh."
+    },
+    "building.ability.route": {
+      "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
+      "->": "sozdayot torgovyy put' {0} k lyubomu drugomu {1} v raduis 5 plitok."
+    },
+    "building.ability.route.and": {
+      "en": "and ",
+      "->": " i "
+    },
+    "building.ability.ruin": {
+      "en": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
+      "->": "ruiny drevnih civilizaciy. oni mogut soderjat' cennye vetshi! idi tuda poddannym, chtoby issledovat' ih."
+    },
+    "building.ability.unique": {
+      "en": "{0} can only be built once.",
+      "->": "{0} mojet byt' postroeno tol'ko odin raz."
+    },
+    "building.capital.owner": {
+      "en": "{0} is the {1} capital",
+      "->": "{0} - stolica {1}."
+    },
+    "building.capital.owner.former": {
+      "en": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
+      "->": "{0} yavlyaetsya byvshey stolicey imperii {1} , seychas okkupirovano silami {2}."
+    },
+    "building.city.owner": {
+      "en": "{0} is a city in the {1} empire",
+      "->": "{0} gorod v imperii {1}."
+    },
+    "building.names.algae": {
+      "en": "Algae",
+      "->": ""
+    },
+    "building.names.burnforest": {
+      "en": "Burn Forest",
+      "->": "sjiganie lesa"
+    },
+    "building.names.city": {
+      "en": "City",
+      "->": "gorod"
+    },
+    "building.names.clathrus": {
+      "en": "Clathrus",
+      "->": ""
+    },
+    "building.names.clearforest": {
+      "en": "Clear Forest",
+      "->": "vyrubka lesa"
+    },
+    "building.names.customshouse": {
+      "en": "Customs House",
+      "->": "pokupatel'skiy domik"
+    },
+    "building.names.enchantanimal": {
+      "en": "Enchant Animal",
+      "->": ""
+    },
+    "building.names.enchantwhale": {
+      "en": "Enchant Whale",
+      "->": ""
+    },
+    "building.names.farm": {
+      "en": "Farm",
+      "->": "fermy"
+    },
+    "building.names.fishing": {
+      "en": "Fishing",
+      "->": "rybolovlya"
+    },
+    "building.names.foresttemple": {
+      "en": "Forest Temple",
+      "->": "lesnoy hram"
+    },
+    "building.names.forge": {
+      "en": "Forge",
+      "->": "kuznica"
+    },
+    "building.names.fungi": {
+      "en": "Fungi",
+      "->": ""
+    },
+    "building.names.growforest": {
+      "en": "Grow Forest",
+      "->": "vyratshivanie lesa"
+    },
+    "building.names.harvestfruit": {
+      "en": "Harvest Fruit",
+      "->": ""
+    },
+    "building.names.hunting": {
+      "en": "Hunting",
+      "->": "ohota"
+    },
+    "building.names.icebank": {
+      "en": "Ice Bank",
+      "->": ""
+    },
+    "building.names.icetemple": {
+      "en": "Ice Temple",
+      "->": "ledyanoy hram"
+    },
+    "building.names.lumberhut": {
+      "en": "Lumber Hut",
+      "->": "dom lesoruba"
+    },
+    "building.names.mine": {
+      "en": "Mine",
+      "->": "shahta"
+    },
+    "building.names.monument1": {
+      "en": "Altar of Peace",
+      "->": "altar' mira"
+    },
+    "building.names.monument2": {
+      "en": "Tower of Wisdom",
+      "->": "bashnya mudrosti"
+    },
+    "building.names.monument3": {
+      "en": "Grand Bazaar",
+      "->": "velikiy rynok"
+    },
+    "building.names.monument4": {
+      "en": "Emperors Tomb",
+      "->": "obelisk imperatorov"
+    },
+    "building.names.monument5": {
+      "en": "Gate of Power",
+      "->": "vorota sily"
+    },
+    "building.names.monument6": {
+      "en": "Park of Fortune",
+      "->": "park fortuny"
+    },
+    "building.names.monument7": {
+      "en": "Eye of God",
+      "->": "glaz boga"
+    },
+    "building.names.mountaintemple": {
+      "en": "Mountain Temple",
+      "->": "gornyy hram"
+    },
+    "building.names.mycelium": {
+      "en": "Mycelium",
+      "->": ""
+    },
+    "building.names.outpost": {
+      "en": "Outpost",
+      "->": ""
+    },
+    "building.names.port": {
+      "en": "Port",
+      "->": "port"
+    },
+    "building.names.road": {
+      "en": "Road",
+      "->": "doroga"
+    },
+    "building.names.ruin": {
+      "en": "Ruin",
+      "->": "ruiny"
+    },
+    "building.names.sanctuary": {
+      "en": "Sanctuary",
+      "->": "svyatynya"
+    },
+    "building.names.sawmill": {
+      "en": "Sawmill",
+      "->": "lesopilka"
+    },
+    "building.names.temple": {
+      "en": "Temple",
+      "->": "hram"
+    },
+    "building.names.watertemple": {
+      "en": "Water Temple",
+      "->": "vodyanoy hram"
+    },
+    "building.names.whalehunting": {
+      "en": "Whale Hunting",
+      "->": "ohota na kitov"
+    },
+    "building.names.windmill": {
+      "en": "Windmill",
+      "->": "mel'nica"
+    },
+    "building.produce": {
+      "en": "produces {0} each turn",
+      "->": "proizvodit {0} kajdyy hod"
+    },
+    "building.produce.multiply": {
+      "en": "({0} for each nearby {1})",
+      "->": " ({0} za kajdoe ryadom {1})"
+    },
+    "building.produce.multiply.polaris": {
+      "en": "({0} for every {1} frozen tiles in the world)",
+      "->": " ({0} za kajduyu {1} zamorojennuyu plitku v mire)"
+    },
+    "building.produce.multiply2": {
+      "en": "produces {0} for each nearby {1} each turn",
+      "->": "proizvodit {0} za kajdoe ryadom {1} kajdyy hod"
+    },
+    "building.produce.multiply2.polaris": {
+      "en": "Produces {0} for every {1} frozen tiles in the world",
+      "->": ""
+    },
+    "building.produce.multiply3": {
+      "en": "produces {0} for each nearby {1}",
+      "->": "proizvodit {0} za kajdoe ryadom {1}"
+    },
+    "building.produce.reward": {
+      "en": "produces {0}",
+      "->": "proihvodit {0}"
+    },
+    "building.produce.reward.named": {
+      "en": "produces {0} for {1}",
+      "->": "proizvodit {0} za {1}"
+    },
+    "building.resource": {
+      "en": "adds a {0} at the selected tile",
+      "->": "dobavlyaet {0} na vybrannuyu plitku"
+    },
+    "building.restriction.near": {
+      "en": "Must be built next to a {0}.",
+      "->": "doljno byt' postroeno pered {0}."
+    },
+    "building.restriction.on": {
+      "en": "Must be on a tile with {0}.",
+      "->": "doljno byt' postroeno na plitke s {0}."
+    },
+    "building.reward.instant": {
+      "en": "instantly gives you {0}",
+      "->": "tut je dayot vam {0}"
+    },
+    "building.reward.tech": {
+      "en": "gives you a {0}",
+      "->": "dayot vam {0}"
+    },
+    "building.transform": {
+      "en": "transforms a {0} into a {1}",
+      "->": "prevratshaet {0} v {1}"
+    },
+    "building.transform2": {
+      "en": "transforms a {0} into a {1} with {2}",
+      "->": "prevratshaet {0} v {1} s {2} "
+    },
+    "building.value": {
+      "en": "is worth {0} points of score",
+      "->": "dobavlyaet {0} ochkov schyota"
+    },
+    "building.village.owner": {
+      "en": "This is a village that doesn't belong to any tribe",
+      "->": "eto derevnya, ne prenadlejatshaya ni odnomu plemeni"
+    },
+    "buttons.accept": {
+      "en": "ACCEPT",
+      "->": ""
+    },
+    "buttons.back": {
+      "en": "BACK",
+      "->": "nazad"
+    },
+    "buttons.decline": {
+      "en": "DECLINE",
+      "->": ""
+    },
+    "buttons.exit": {
+      "en": "EXIT",
+      "->": "vyhod"
+    },
+    "buttons.exitgame": {
+      "en": "EXIT GAME",
+      "->": ""
+    },
+    "buttons.invite": {
+      "en": "INVITE",
+      "->": ""
+    },
+    "buttons.leave": {
+      "en": "LEAVE",
+      "->": ""
+    },
+    "buttons.ok": {
+      "en": "OK",
+      "->": ""
+    },
+    "buttons.quit": {
+      "en": "Quit",
+      "->": ""
+    },
+    "buttons.reconnect": {
+      "en": "RECONNECT",
+      "->": ""
+    },
+    "buttons.remove": {
+      "en": "REMOVE",
+      "->": ""
+    },
+    "buttons.save": {
+      "en": "SAVE",
+      "->": "sohranit'"
+    },
+    "buttons.start": {
+      "en": "START GAME",
+      "->": ""
+    },
+    "buttons.stay": {
+      "en": "STAY",
+      "->": ""
+    },
+    "buttons.tryagain": {
+      "en": "TRY AGAIN",
+      "->": ""
+    },
+    "challengermode.connect.button": {
+      "en": "CONNECT",
+      "->": ""
+    },
+    "challengermode.connect.description": {
+      "en": "To participate in a ladder you need a Challengermode account.",
+      "->": ""
+    },
+    "challengermode.connect.header": {
+      "en": "Connect to Challengermode",
+      "->": ""
+    },
+    "consent.approval.info": {
+      "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
+      "->": ""
+    },
+    "consent.approval.title": {
+      "en": "Welcome to Polytopia!",
+      "->": ""
+    },
+    "consent.approve": {
+      "en": "APPROVE",
+      "->": ""
+    },
+    "consent.deny": {
+      "en": "DENY",
+      "->": ""
+    },
+    "consent.disabled": {
+      "en": "Personal Data Disabled",
+      "->": ""
+    },
+    "consent.disabled.info": {
+      "en": "To save personal data like high scores and usage statistics we need your approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+      "->": "To save personal data like high scores and usage statistics we need you approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>."
+    },
+    "consent.enabled": {
+      "en": "Personal Data Enabled",
+      "->": ""
+    },
+    "consent.enabled.info": {
+      "en": "You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+      "->": ""
+    },
+    "consent.revoke": {
+      "en": "revoke consent",
+      "->": ""
+    },
+    "credits.artists": {
+      "en": "Artists",
+      "->": ""
+    },
+    "credits.build": {
+      "en": "Build version",
+      "->": "versiya patcha"
+    },
+    "credits.community": {
+      "en": "Community Manager",
+      "->": ""
+    },
+    "credits.debuginfo": {
+      "en": "DEBUG INFO",
+      "->": "otladka"
+    },
+    "credits.design": {
+      "en": "Game Design",
+      "->": ""
+    },
+    "credits.device": {
+      "en": "Device",
+      "->": ""
+    },
+    "credits.followus": {
+      "en": "Follow us",
+      "->": ""
+    },
+    "credits.getmerch": {
+      "en": "Get some official Polytopian merch.",
+      "->": "kupite nemnogo nashey odejdy:"
+    },
+    "credits.learnmore1": {
+      "en": "Want to know everything?",
+      "->": "hotite znat' bolshe?"
+    },
+    "credits.learnmore2": {
+      "en": "Check the extensive Wikia database created by the Polytopia community.",
+      "->": "Proverte bolshuyu bazu znaniy, sozdannuyu soobshestvom Politopii:"
+    },
+    "credits.managment": {
+      "en": "Management",
+      "->": ""
+    },
+    "credits.midjiwan": {
+      "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
+      "->": "The Battle of Polytopia sozdana Midjiwan, malen'kaya indi-studiya razrabotki igr, raspolojennaya v stokgol'me, shveciya."
+    },
+    "credits.music": {
+      "en": "MUSIC",
+      "->": ""
+    },
+    "credits.os": {
+      "en": "OS",
+      "->": "os"
+    },
+    "credits.platforms": {
+      "en": "Multiple platforms",
+      "->": ""
+    },
+    "credits.polytopiamusic1": {
+      "en": "Polytopia music!",
+      "->": ""
+    },
+    "credits.polytopiamusic2": {
+      "en": "Listen to full length versions of you favourite tribe's soundtrack on Spotify.",
+      "->": ""
+    },
+    "credits.privacy": {
+      "en": "Privacy Policy",
+      "->": "politika konfidencial'nosti"
+    },
+    "credits.programmers": {
+      "en": "Programmers",
+      "->": ""
+    },
+    "credits.qa": {
+      "en": "Quality Assurance",
+      "->": ""
+    },
+    "credits.screendpi": {
+      "en": "Screen DPI",
+      "->": "ekran (tochek na dyuym)"
+    },
+    "credits.screensize": {
+      "en": "Screen size",
+      "->": "razmer ekrana"
+    },
+    "credits.showsupport": {
+      "en": "Show your support!",
+      "->": "pokajite vashu podderjku!"
+    },
+    "credits.sound": {
+      "en": "Sound & Music",
+      "->": "zvuki i muzyka"
+    },
+    "credits.terms": {
+      "en": "Terms of Service",
+      "->": "usloviya obslujivaniya"
+    },
+    "credits.title": {
+      "en": "ABOUT",
+      "->": "ob igre"
+    },
+    "credits.visitshop": {
+      "en": "SHOP",
+      "->": "posetit' magazin"
+    },
+    "credits.wiki": {
+      "en": "WIKI",
+      "->": "POLYTOPIA WIKI"
+    },
+    "date.day": {
+      "en": "day",
+      "->": "den'"
+    },
+    "date.days": {
+      "en": "days",
+      "->": "dney"
+    },
+    "date.hour": {
+      "en": "hour",
+      "->": "chas"
+    },
+    "date.hours": {
+      "en": "hours",
+      "->": "chasov"
+    },
+    "date.minute": {
+      "en": "minute",
+      "->": "minuta"
+    },
+    "date.minutes": {
+      "en": "minutes",
+      "->": "minut"
+    },
+    "date.second": {
+      "en": "second",
+      "->": "sekunda"
+    },
+    "date.seconds": {
+      "en": "seconds",
+      "->": "sekund"
+    },
+    "diplomacy.acceptpeace.description": {
+      "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
+      "->": ""
+    },
+    "diplomacy.acceptpeace.notification.description": {
+      "en": "Peace treaty with {0} confirmed!",
+      "->": ""
+    },
+    "diplomacy.acceptpeace.notification.description2": {
+      "en": "{0} and {1} has made peace!",
+      "->": ""
+    },
+    "diplomacy.acceptpeace.title": {
+      "en": "Peace treaty accepted!",
+      "->": ""
+    },
+    "diplomacy.breakpeace.description": {
+      "en": "{0} has broken the peace treaty. Next turn you will be able to attack each other again so get prepared!",
+      "->": ""
+    },
+    "diplomacy.breakpeace.notification.description": {
+      "en": "Broke peace with {0}",
+      "->": ""
+    },
+    "diplomacy.breakpeace.notification.description2": {
+      "en": "{0} and {1} are no longer at peace",
+      "->": ""
+    },
+    "diplomacy.breakpeace.title": {
+      "en": "{0} Broke Peace",
+      "->": ""
+    },
+    "diplomacy.declarewar.description": {
+      "en": "{0} has declared war on you!",
+      "->": ""
+    },
+    "diplomacy.declarewar.title": {
+      "en": "War!",
+      "->": ""
+    },
+    "diplomacy.denypeace.description": {
+      "en": "{0} has rejected the peace treaty you offered.",
+      "->": ""
+    },
+    "diplomacy.denypeace.notification.description": {
+      "en": "You rejected the {0} peace treaty.",
+      "->": ""
+    },
+    "diplomacy.denypeace.notification.title": {
+      "en": "No Deal",
+      "->": ""
+    },
+    "diplomacy.denypeace.title": {
+      "en": "Peace treaty rejected",
+      "->": ""
+    },
+    "diplomacy.destroyedembassy.description": {
+      "en": "Your embassy in the {0} capital has been destroyed!",
+      "->": ""
+    },
+    "diplomacy.destroyedembassy.description2": {
+      "en": "The {0} embassy in your capital has been destroyed.",
+      "->": ""
+    },
+    "diplomacy.destroyedembassy.title": {
+      "en": "Embassy Destroyed",
+      "->": ""
+    },
+    "diplomacy.establishedembassy.description": {
+      "en": "You have established an embassy in the {0} capital. It will give you both {1} stars per turn, when you have a peace treaty the income is doubled.",
+      "->": ""
+    },
+    "diplomacy.establishedembassy.description2": {
+      "en": "{0} established an embassy in your capital. It will give you both {1} stars per turn. The income is doubled if you have a peace treaty.",
+      "->": ""
+    },
+    "diplomacy.establishedembassy.title": {
+      "en": "Embassy Established",
+      "->": ""
+    },
+    "diplomacy.peacetreaty.description": {
+      "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
+      "->": ""
+    },
+    "diplomacy.peacetreaty.notification.description": {
+      "en": "Peace treaty sent to {0}",
+      "->": ""
+    },
+    "diplomacy.relation.decent": {
+      "en": "Decent",
+      "->": ""
+    },
+    "diplomacy.relation.great": {
+      "en": "Great",
+      "->": ""
+    },
+    "diplomacy.relation.horrible": {
+      "en": "Horrible",
+      "->": ""
+    },
+    "diplomacy.relation.indifferent": {
+      "en": "Indifferent",
+      "->": ""
+    },
+    "diplomacy.relation.poor": {
+      "en": "Poor",
+      "->": ""
+    },
+    "diplomacy.relation.title": {
+      "en": "Relation",
+      "->": ""
+    },
+    "diplomacy.state.hostile": {
+      "en": "cooldown",
+      "->": ""
+    },
+    "diplomacy.state.hostile.description": {
+      "en": "Your current peace treaty just ended and you will be able to attack each other again next turn.",
+      "->": ""
+    },
+    "diplomacy.state.neutral": {
+      "en": "neutral",
+      "->": ""
+    },
+    "diplomacy.state.neutral.description": {
+      "en": "There has been no recent hostilities between your tribes.",
+      "->": ""
+    },
+    "diplomacy.state.peace": {
+      "en": "peace",
+      "->": ""
+    },
+    "diplomacy.state.peace.description": {
+      "en": "You currently have a peace treaty preventing you from attacking each other. A peace treaty can be canceled at any time, but that will take effect in the following turn.",
+      "->": ""
+    },
+    "diplomacy.state.war": {
+      "en": "war",
+      "->": ""
+    },
+    "diplomacy.state.war.description": {
+      "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
+      "->": ""
+    },
+    "endscreen.army&territory": {
+      "en": "Army & Territory",
+      "->": "armiya i territoriya"
+    },
+    "endscreen.battle": {
+      "en": "Battle skills",
+      "->": "voennye sposobnosti"
+    },
+    "endscreen.battle.info": {
+      "en": "{0} units lost",
+      "->": "{0} poteryano poddannyh"
+    },
+    "endscreen.bonus": {
+      "en": "Difficulty Bonus",
+      "->": "bonus slojnosti"
+    },
+    "endscreen.cities": {
+      "en": "Cities",
+      "->": "goroda"
+    },
+    "endscreen.citiescount": {
+      "en": "{0} cities",
+      "->": "{0}v gorodov"
+    },
+    "endscreen.connectioninfo": {
+      "en": "Log in to submit high scores",
+      "->": ""
+    },
+    "endscreen.culture": {
+      "en": "{0} monuments, {1} temples",
+      "->": "{0} monumentov, {1} hramov"
+    },
+    "endscreen.destroyed": {
+      "en": "Tribes destroyed",
+      "->": "unichtojeno plemyon"
+    },
+    "endscreen.destroyed.info": {
+      "en": "{0}/{1}",
+      "->": ""
+    },
+    "endscreen.domination.loss": {
+      "en": "{0} turns",
+      "->": "{0} hodov"
+    },
+    "endscreen.domination.win": {
+      "en": "{0}/{1} turns",
+      "->": "{0}/{1} hodov"
+    },
+    "endscreen.done": {
+      "en": "DONE",
+      "->": "gotovo"
+    },
+    "endscreen.finalrating": {
+      "en": "FINAL RATING",
+      "->": "itogovyy schyot"
+    },
+    "endscreen.finalscore": {
+      "en": "FINAL SCORE",
+      "->": "itogovyy schyot"
+    },
+    "endscreen.gameover": {
+      "en": "GAME OVER",
+      "->": "igra okonchena"
+    },
+    "endscreen.monuments&temples": {
+      "en": "Monuments & Temples",
+      "->": "monumenty i hramy"
+    },
+    "endscreen.nextstar": {
+      "en": "{0} needed for next star",
+      "->": "{0} neobhodimo do sled. zvezdy"
+    },
+    "endscreen.nextstar.percent": {
+      "en": "{0}% needed for next star",
+      "->": "{0}% neobhodimo do sled. zvezdy"
+    },
+    "endscreen.personal": {
+      "en": "New personal all time high!",
+      "->": "novyy lichnyy schyot!"
+    },
+    "endscreen.personal.title": {
+      "en": "Amazing!",
+      "->": "potryasayutshe!"
+    },
+    "endscreen.rating": {
+      "en": "Difficulty rating",
+      "->": "reyting"
+    },
+    "endscreen.ruledby": {
+      "en": "Ruled by {0}",
+      "->": "pod vlast'yu {0}"
+    },
+    "endscreen.science": {
+      "en": "Science",
+      "->": "nauka"
+    },
+    "endscreen.showhiscore": {
+      "en": "SHOW HISCORE",
+      "->": "pokazat' rekordy"
+    },
+    "endscreen.speedskills": {
+      "en": "Speed skills",
+      "->": "skorost'"
+    },
+    "endscreen.techscore": {
+      "en": "{0}/{1} technologies researched",
+      "->": "{0}/{0} tehnologiy izucheno"
+    },
+    "endscreen.topresult": {
+      "en": "New top result!",
+      "->": "novyy luchshiy schyot!"
+    },
+    "endscreen.topresult.title": {
+      "en": "Great!",
+      "->": "velikolepno!"
+    },
+    "endscreen.units": {
+      "en": "{0} units, {1} tiles empire",
+      "->": "{0} poddannyh, {1} plitok imperii"
+    },
+    "endscreen.victory": {
+      "en": "VICTORY",
+      "->": "pobeda"
+    },
+    "endscreen.winner": {
+      "en": "{0} wins!",
+      "->": "{0} pobeda!"
+    },
+    "epithet.divine": {
+      "en": "the Divine {0}",
+      "->": ""
+    },
+    "epithet.faithful": {
+      "en": "the Faithful {0}",
+      "->": ""
+    },
+    "epithet.pathetic": {
+      "en": "the Pathetic {0}",
+      "->": ""
+    },
+    "epithet.terrible": {
+      "en": "the Terrible {0}",
+      "->": ""
+    },
+    "error.code.1001": {
+      "en": "Submit failed, busy ({0})",
+      "->": ""
+    },
+    "error.code.1002": {
+      "en": "Steam authentication failed ({0})",
+      "->": ""
+    },
+    "error.code.1003": {
+      "en": "Google Play authentication failed ({0})",
+      "->": ""
+    },
+    "error.code.1004": {
+      "en": "Login failed ({0})",
+      "->": ""
+    },
+    "error.code.1005": {
+      "en": "Game not found ({0})",
+      "->": ""
+    },
+    "error.code.1006": {
+      "en": "Player not found ({0})",
+      "->": ""
+    },
+    "error.code.1007": {
+      "en": "Invalid friend request ({0})",
+      "->": ""
+    },
+    "error.code.1008": {
+      "en": "Friendship not found ({0})",
+      "->": ""
+    },
+    "error.code.1009": {
+      "en": "Invalid friendship status ({0})",
+      "->": ""
+    },
+    "error.code.1010": {
+      "en": "Unable to create game, no players ({0})",
+      "->": ""
+    },
+    "error.code.1011": {
+      "en": "Missing game state ({0})",
+      "->": ""
+    },
+    "error.code.1012": {
+      "en": "Game could not be loaded ({0})",
+      "->": ""
+    },
+    "error.code.1013": {
+      "en": "Invalid command ({0})",
+      "->": ""
+    },
+    "error.code.1014": {
+      "en": "Failed to kick player ({0})",
+      "->": ""
+    },
+    "error.code.1015": {
+      "en": "Failed to start game ({0})",
+      "->": ""
+    },
+    "error.code.1016": {
+      "en": "User not found ({0})",
+      "->": ""
+    },
+    "error.code.1017": {
+      "en": "Failed to pick tribe ({0})",
+      "->": ""
+    },
+    "error.code.1018": {
+      "en": "AI Command failed ({0})",
+      "->": ""
+    },
+    "error.code.1019": {
+      "en": "Your version of Polytopia is too old. Update to the latest version to start a new multiplayer game ({0})",
+      "->": ""
+    },
+    "error.code.1023": {
+      "en": "This game is using a newer version of Polytopia, you need to update to the latest version before you can play. ({0})",
+      "->": ""
+    },
+    "error.code.1024": {
+      "en": "This game is still ongoing, you can view it once it has ended ({0})",
+      "->": ""
+    },
+    "error.code.404": {
+      "en": "Connection error ({0})",
+      "->": ""
+    },
+    "error.code.500": {
+      "en": "Internal server error ({0})",
+      "->": ""
+    },
+    "error.unknown": {
+      "en": "Unknown error: {0} ({1})",
+      "->": ""
+    },
+    "esport.verifyaccount.description": {
+      "en": "You’re about to link your Polytopia account to Challengermode.",
+      "->": ""
+    },
+    "esport.verifyaccount.description.login": {
+      "en": "In order to verify your account you need to be logged in",
+      "->": ""
+    },
+    "esport.verifyaccount.login": {
+      "en": "Login",
+      "->": ""
+    },
+    "esport.verifyaccount.service.cm": {
+      "en": "Challengermode",
+      "->": ""
+    },
+    "esport.verifyaccount.success": {
+      "en": "Successfully linked account",
+      "->": ""
+    },
+    "esport.verifyaccount.title": {
+      "en": "Verify Account",
+      "->": ""
+    },
+    "firebaseservice.status.connecting": {
+      "en": "Connecting to the Polytopia server...",
+      "->": "podklyuchenie k serveru..."
+    },
+    "firebaseservice.status.loading": {
+      "en": "Loading game data...",
+      "->": "zagruzka dannyh..."
+    },
+    "firendList.winratio": {
+      "en": "-Win Ratio-",
+      "->": ""
+    },
+    "friendlist.acceptinvite.button": {
+      "en": "ACCEPT INVITE",
+      "->": ""
+    },
+    "friendlist.bot": {
+      "en": "{0} Bot",
+      "->": "{0} bot"
+    },
+    "friendlist.bots": {
+      "en": "Bots",
+      "->": "boty"
+    },
+    "friendlist.cancelinvite.button": {
+      "en": "CANCEL INVITE",
+      "->": ""
+    },
+    "friendlist.checking": {
+      "en": "Checking friend status...",
+      "->": "proverka statusa igroka.."
+    },
+    "friendlist.error": {
+      "en": "Error loading friends",
+      "->": "oshibka zagruzki druzey"
+    },
+    "friendlist.friend.notupdated": {
+      "en": "{0} is still on the old server",
+      "->": "{0} vsyo etshyo na starom servere"
+    },
+    "friendlist.friend.update": {
+      "en": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
+      "->": "{0} neobhodimo obnovit' politopiyu do posledney versii, prejde chem vy smojete priglasit' ego v igry."
+    },
+    "friendlist.friend.updated": {
+      "en": "{0} is now on the new server",
+      "->": "{0} na novom servere"
+    },
+    "friendlist.friendrequests": {
+      "en": "Friend Requests",
+      "->": ""
+    },
+    "friendlist.friends": {
+      "en": "Friends",
+      "->": "druz'ya"
+    },
+    "friendlist.friends.old": {
+      "en": "Outdated friends",
+      "->": "ustarevshie druz'ya"
+    },
+    "friendlist.friendshipstate": {
+      "en": "Friendship status: {0}",
+      "->": ""
+    },
+    "friendlist.friendshipstate.accepted": {
+      "en": "This player is your friend. Lucky you!",
+      "->": "Friend request accepted. You are both friends."
+    },
+    "friendlist.friendshipstate.isyou": {
+      "en": "This is you.",
+      "->": ""
+    },
+    "friendlist.friendshipstate.none": {
+      "en": "You're not friends with this player. Maybe you would like to be?",
+      "->": ""
+    },
+    "friendlist.friendshipstate.receivedrequest": {
+      "en": "This player wants to be your friend. Do you accept?",
+      "->": "{0} has sent you a friend request. If you accept it possible for you to invite each other to multiplayer games."
+    },
+    "friendlist.friendshipstate.rejected": {
+      "en": "Friend request rejected.",
+      "->": ""
+    },
+    "friendlist.friendshipstate.sentrequest": {
+      "en": "You've sent a friend request to this player. No response yet. Fingers crossed!",
+      "->": "Friend request sent. Waiting for response."
+    },
+    "friendlist.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": ""
+    },
+    "friendlist.loading": {
+      "en": "Loading friends...",
+      "->": "zagruzka druzey..."
+    },
+    "friendlist.local": {
+      "en": "Local Players",
+      "->": "lokal'nye igroki"
+    },
+    "friendlist.new.Results": {
+      "en": "Results:",
+      "->": ""
+    },
+    "friendlist.new.Search": {
+      "en": "SEARCH",
+      "->": ""
+    },
+    "friendlist.new.accept": {
+      "en": "ACCEPT",
+      "->": ""
+    },
+    "friendlist.new.added.info": {
+      "en": "Added player {0}",
+      "->": "dobavlen igrok {0}"
+    },
+    "friendlist.new.added.title": {
+      "en": "Player Added",
+      "->": "igrok dobavlen"
+    },
+    "friendlist.new.button": {
+      "en": "ADD",
+      "->": "dobavit'"
+    },
+    "friendlist.new.caps": {
+      "en": "ADD FRIEND",
+      "->": "novyy drug"
+    },
+    "friendlist.new.exists.info": {
+      "en": "You are already friends with {0}",
+      "->": "vy uje drug s {0}"
+    },
+    "friendlist.new.exists.title": {
+      "en": "Duplicate Player",
+      "->": "dublirovat' igroka"
+    },
+    "friendlist.new.info.alias": {
+      "en": "Search for your friend's alias.",
+      "->": ""
+    },
+    "friendlist.new.looking.info": {
+      "en": "Looking for player {0}",
+      "->": "itshem igroka {0}"
+    },
+    "friendlist.new.looking.title": {
+      "en": "Loading Player",
+      "->": "zagruzka igroka"
+    },
+    "friendlist.new.reject": {
+      "en": "REJECT",
+      "->": ""
+    },
+    "friendlist.new.title": {
+      "en": "Add a new friend",
+      "->": "dobavit' novogo druga"
+    },
+    "friendlist.pendinginvitations": {
+      "en": "Pending Invitations",
+      "->": ""
+    },
+    "friendlist.player": {
+      "en": "Player {0}",
+      "->": "igrok {0}"
+    },
+    "friendlist.rejectedinvitations": {
+      "en": "Rejected Invitations",
+      "->": ""
+    },
+    "friendlist.reload": {
+      "en": "RELOAD",
+      "->": "perezagruzit'"
+    },
+    "friendlist.reloading": {
+      "en": "Reloading...",
+      "->": "Reloading.."
+    },
+    "friendlist.remove": {
+      "en": "REMOVE",
+      "->": "udalit'"
+    },
+    "friendlist.removed.info": {
+      "en": "Removed player {0}",
+      "->": "udalyon igrok {0}"
+    },
+    "friendlist.removed.title": {
+      "en": "Player Removed",
+      "->": "igrok udalyon"
+    },
+    "friendlist.requestaccepted": {
+      "en": "Friend Request Accepted",
+      "->": ""
+    },
+    "friendlist.requestrecieved": {
+      "en": "Friend Request Received",
+      "->": ""
+    },
+    "friendlist.requestsent.notification": {
+      "en": "Friend request sent to {0}",
+      "->": ""
+    },
+    "friendlist.title": {
+      "en": "FRIEND LIST",
+      "->": "spisok druzey"
+    },
+    "friendlist.unfriend": {
+      "en": "UNFRIEND",
+      "->": ""
+    },
+    "friendlist.uptodate": {
+      "en": "Everything is up to date",
+      "->": ""
+    },
+    "gameinfo.created": {
+      "en": "Created: {0} ago",
+      "->": ""
+    },
+    "gameinfo.gameover": {
+      "en": "This game is over, open it to view the final result",
+      "->": "igra okonchena, otkroyte, chtoby posmotret' final'nye rezul'taty"
+    },
+    "gameinfo.gameversion": {
+      "en": "Game version: {0}",
+      "->": ""
+    },
+    "gameinfo.id": {
+      "en": "ID: {0}",
+      "->": "id: {0}"
+    },
+    "gameinfo.id.copied": {
+      "en": "Game ID copied",
+      "->": ""
+    },
+    "gameinfo.lastmove": {
+      "en": "Last move: {0} ago",
+      "->": "posledniy hod: {0} nazad"
+    },
+    "gameinfo.move": {
+      "en": "Move: {0}",
+      "->": ""
+    },
+    "gameinfo.nodata": {
+      "en": "There's something wrong with this game, can't show any data for it",
+      "->": ""
+    },
+    "gameinfo.nodata.title": {
+      "en": "No data",
+      "->": ""
+    },
+    "gameinfo.opponentsturn": {
+      "en": "Waiting for {0} to {1}",
+      "->": "jdyom {0} dlya {1}"
+    },
+    "gameinfo.picktribe": {
+      "en": "Pick Tribe",
+      "->": "vyberite plemya"
+    },
+    "gameinfo.play": {
+      "en": "Play",
+      "->": "igrat'"
+    },
+    "gameinfo.serverversion": {
+      "en": "Server version: {0}",
+      "->": "versiya servera: {0}"
+    },
+    "gameinfo.start": {
+      "en": "Start the Game",
+      "->": "nachat' igru"
+    },
+    "gameinfo.turn": {
+      "en": "Turn: {0}",
+      "->": "hod: {0}"
+    },
+    "gameinfo.updated": {
+      "en": "Updated: {0} ago",
+      "->": "obnovleno: {0} nazad"
+    },
+    "gameinfo.yourturn": {
+      "en": "It is your turn to {0}",
+      "->": "vash hod {0}"
+    },
+    "gameitem.ended": {
+      "en": "This game is over.",
+      "->": "igra okonchena."
+    },
+    "gameitem.gameover": {
+      "en": "This game is over, tap to see the end.",
+      "->": "eta igra zakonchena, najmite, chtoby uvidet' rezul'taty."
+    },
+    "gameitem.join": {
+      "en": "Join this game or decline the invitation",
+      "->": "prisoedinites' k igre ili otklonite priglashenie"
+    },
+    "gameitem.join.wait": {
+      "en": "Waiting for {0} to pick tribe",
+      "->": "jdyom {0}, kogda on vyberet plemya"
+    },
+    "gameitem.kick": {
+      "en": "Duh!",
+      "->": ""
+    },
+    "gameitem.kick.action": {
+      "en": "KICK",
+      "->": "vygnat'"
+    },
+    "gameitem.kick.info": {
+      "en": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
+      "->": "vy hotite vygnat' {0} iz igry? bot voz'myot upravlenie nad ego plemenem."
+    },
+    "gameitem.localplayerdead": {
+      "en": "You've been wiped out in this game, still you can spectate.",
+      "->": ""
+    },
+    "gameitem.pick": {
+      "en": "{0}, pick your tribe",
+      "->": "{0}, vyberite plemya"
+    },
+    "gameitem.ready": {
+      "en": "Ready to start!",
+      "->": "gotovy nachat'!"
+    },
+    "gameitem.ready.wait": {
+      "en": "{0} can start the game",
+      "->": "{0} mojet nachat' igru"
+    },
+    "gameitem.ready.wait.noowner": {
+      "en": "Waiting for the game to start",
+      "->": ""
+    },
+    "gameitem.reload": {
+      "en": "RELOAD",
+      "->": "obnovit'"
+    },
+    "gameitem.remind.max": {
+      "en": "That's enough",
+      "->": "eto uje slishkom"
+    },
+    "gameitem.remind.max.info": {
+      "en": "Reminder already sent to {0}",
+      "->": "uje napomnili {0}"
+    },
+    "gameitem.remind.notification": {
+      "en": "We are waiting for you to play in {0}. Come on!!",
+      "->": "my jdyom tebya v igre, {0}. davay!!"
+    },
+    "gameitem.remind.notify": {
+      "en": "Done",
+      "->": "gotovo"
+    },
+    "gameitem.remind.notify.info": {
+      "en": "Reminder sent to {0}",
+      "->": "napominanie otpravleno {0}"
+    },
+    "gameitem.skipturn": {
+      "en": "Duh!",
+      "->": ""
+    },
+    "gameitem.skipturn.action": {
+      "en": "SKIP TURN",
+      "->": ""
+    },
+    "gameitem.skipturn.info": {
+      "en": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
+      "->": ""
+    },
+    "gameitem.slow": {
+      "en": "Come on...",
+      "->": "nu je.."
+    },
+    "gameitem.slow.action": {
+      "en": "REMIND",
+      "->": "napomnit'"
+    },
+    "gameitem.slow.info": {
+      "en": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
+      "->": "u {0} {1}, chtoby sdelat' hod. otpravit' gruboe napominanie {0}?"
+    },
+    "gameitem.start": {
+      "en": "{0}, start the game",
+      "->": "{0}, nachnite igru"
+    },
+    "gameitem.start.inviteplayer": {
+      "en": "You need to invite one or more players",
+      "->": ""
+    },
+    "gameitem.start.wait": {
+      "en": "Waiting for {0} to start the game",
+      "->": ""
+    },
+    "gameitem.timeleft": {
+      "en": "Cool runnings",
+      "->": "kruto..."
+    },
+    "gameitem.timeleft.info": {
+      "en": "{0} still has {1} to make a move.",
+      "->": "u{0} vsyo etshyo {1} na hod."
+    },
+    "gameitem.timelimit": {
+      "en": "Time limit",
+      "->": "limit po vremeni"
+    },
+    "gameitem.timelimit.info": {
+      "en": "You have {0} to make your move, after that you will be removed from the game.",
+      "->": "u vas {0} chtoby sdelat' hod, zatem vy budete udaleny iz igry."
+    },
+    "gameitem.timelimit.timeleft": {
+      "en": "Time Left",
+      "->": ""
+    },
+    "gameitem.timelimit.timeleft.info": {
+      "en": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
+      "->": ""
+    },
+    "gameitem.timeup": {
+      "en": "Time Up!",
+      "->": "vremya!"
+    },
+    "gameitem.timeup.info": {
+      "en": "Your time to make a move is up, do you want to resign?",
+      "->": "vash chas, chtoby hodit'. vy deystvitel'no hotite sdat'sya?"
+    },
+    "gameitem.turn": {
+      "en": "{0}, take your turn",
+      "->": "{0}, vash hod"
+    },
+    "gameitem.turn.other": {
+      "en": "Waiting for {0}",
+      "->": "jdyom {0}"
+    },
+    "gameitem.turn.your": {
+      "en": "Your turn",
+      "->": "vash hod"
+    },
+    "gamemode.custom": {
+      "en": "Creative",
+      "->": ""
+    },
+    "gamemode.custom.caps": {
+      "en": "CREATIVE",
+      "->": ""
+    },
+    "gamemode.custom.description.button": {
+      "en": "Set up your own game and play however you like.",
+      "->": ""
+    },
+    "gamemode.death": {
+      "en": "Your last city was lost, you have been defeated.",
+      "->": "vy poteryali svoy posledniy gorod. vy proigrali."
+    },
+    "gamemode.domination": {
+      "en": "Domination",
+      "->": "dominirovanie"
+    },
+    "gamemode.domination.caps": {
+      "en": "DOMINATION",
+      "->": "dominirovanie"
+    },
+    "gamemode.domination.description": {
+      "en": "Wipe all the other tribes from the face of the Square. There can be only one.",
+      "->": "sotrite drugie plemena s lica zemli. tol'ko odin tut mojet byt'."
+    },
+    "gamemode.domination.description.button": {
+      "en": "Play until there is only one tribe left, with no time limit.",
+      "->": "igrayte, poka na karte ne ostanetsya odno plemya. bez limita."
+    },
+    "gamemode.domination.loss": {
+      "en": "Your last city was lost, you have been defeated.",
+      "->": "vy poteryali svoy posledniy gorod. vy proigrali."
+    },
+    "gamemode.domination.win": {
+      "en": "You have defeated all the other tribes and unified the entire Square!",
+      "->": "vy unichtojili vse drugie plemena i uedinili vsyu plotshad'!"
+    },
+    "gamemode.glory": {
+      "en": "Glory",
+      "->": "slava"
+    },
+    "gamemode.glory.caps": {
+      "en": "GLORY",
+      "->": "slava"
+    },
+    "gamemode.glory.description": {
+      "en": "First to reach {0} points win",
+      "->": "dostignite pervym {0} ochkov dlya pobedy"
+    },
+    "gamemode.glory.win": {
+      "en": "The {0} points score was reached!",
+      "->": ""
+    },
+    "gamemode.glory.win.no.opponents": {
+      "en": "The game is over",
+      "->": ""
+    },
+    "gamemode.might": {
+      "en": "Might",
+      "->": "motsh'"
+    },
+    "gamemode.might.caps": {
+      "en": "MIGHT",
+      "->": "motsh'"
+    },
+    "gamemode.might.description": {
+      "en": "Capture all capitals to win",
+      "->": "zahvatite vse stolicy dlya pobedy"
+    },
+    "gamemode.might.win": {
+      "en": "All capitals were captured",
+      "->": "vse stolicy byli zahvacheny"
+    },
+    "gamemode.might.win.last.human": {
+      "en": "You are the last standing human player, you win!",
+      "->": ""
+    },
+    "gamemode.might.win.no.opponents": {
+      "en": "No opponents left",
+      "->": ""
+    },
+    "gamemode.none": {
+      "en": "Unknown",
+      "->": ""
+    },
+    "gamemode.none.description": {
+      "en": "You might get either game mode. Groovy!",
+      "->": ""
+    },
+    "gamemode.perfection": {
+      "en": "Perfection",
+      "->": "sovershenstvovanie"
+    },
+    "gamemode.perfection.caps": {
+      "en": "PERFECTION",
+      "->": "sovershenstvovanie"
+    },
+    "gamemode.perfection.description": {
+      "en": "Get the highest possible score before the time runs out.",
+      "->": "poluchite naivysshyy schyot, chto mojete do okonchaniya taymera."
+    },
+    "gamemode.perfection.description.button": {
+      "en": "Show your skills on the global hiscore in the classic 30 turns game.",
+      "->": "pokajite svoi sposobnosti na mirovoy tablice ochkov v klasicheskoy igre na 30 hodov."
+    },
+    "gamemode.perfection.loss": {
+      "en": "We have reached the end of time.",
+      "->": "my dostigli konca vremeni."
+    },
+    "gamemode.perfection.win": {
+      "en": "We have reached the end of time. The memory of your tribe will echo in eternity!",
+      "->": "my dostigli konca vremeni. pamyat' o vashem plemeni budet vitat' vechno!"
+    },
+    "gamemode.sandbox": {
+      "en": "Infinity",
+      "->": ""
+    },
+    "gamemode.sandbox.caps": {
+      "en": "INFINITY",
+      "->": ""
+    },
+    "gamemode.sandbox.description": {
+      "en": "Play however you like, forever and ever",
+      "->": ""
+    },
+    "gamemode.tutorial": {
+      "en": "Boot Camp",
+      "->": ""
+    },
+    "gamemode.tutorial.description": {
+      "en": "Your tribe gift you with these resources. Spend them wisely!",
+      "->": ""
+    },
+    "gamemodepicker.title": {
+      "en": "GAME MODE",
+      "->": "rejim igry"
+    },
+    "gamesaverbinary.error.loading.moves": {
+      "en": "Error loading moves",
+      "->": "oshibka v zagruzke dvijeniy"
+    },
+    "gamesaverbinary.unable.to.save": {
+      "en": "I was unable to save the game, make sure you have sufficient storage on your device",
+      "->": "ne udalos' sohranit' igru. ubedites', chto u vas dostatochno mesta na ustroystve."
+    },
+    "gamesaverbinary.unable.to.save.title": {
+      "en": "Could not save :(",
+      "->": "ne udalos' sohranit' :("
+    },
+    "gameservice.android": {
+      "en": "Google Play",
+      "->": ""
+    },
+    "gameservice.ios": {
+      "en": "Game Center",
+      "->": ""
+    },
+    "gameservice.steam": {
+      "en": "Steam",
+      "->": ""
+    },
+    "gamesettings.anonymous": {
+      "en": "Anonymous",
+      "->": "anonim"
+    },
+    "gamesettings.autoskip": {
+      "en": "Auto Skip",
+      "->": ""
+    },
+    "gamesettings.autoskip.disabled": {
+      "en": "Disabled",
+      "->": ""
+    },
+    "gamesettings.autoskip.enabled": {
+      "en": "Enabled",
+      "->": ""
+    },
+    "gamesettings.continue": {
+      "en": "CONTINUE",
+      "->": "prodoljit'"
+    },
+    "gamesettings.createslot": {
+      "en": "Creating game slot...",
+      "->": "sozdanie slota igry..."
+    },
+    "gamesettings.createslot.error": {
+      "en": "Error creating game",
+      "->": "oshibka pri sozdanii igry"
+    },
+    "gamesettings.createslot.error.info": {
+      "en": "Make sure you are online and try again.",
+      "->": "ubedites', chto vy v seti i poprobuyte etshyo raz."
+    },
+    "gamesettings.creatingworld": {
+      "en": "LOADING WORLD",
+      "->": "sozdanie mira"
+    },
+    "gamesettings.difficulty": {
+      "en": "Difficulty",
+      "->": "slojnost'"
+    },
+    "gamesettings.difficulty.crazy": {
+      "en": "Crazy",
+      "->": "bezumnyy"
+    },
+    "gamesettings.difficulty.easy": {
+      "en": "Easy",
+      "->": "lyogkiy"
+    },
+    "gamesettings.difficulty.hard": {
+      "en": "Hard",
+      "->": "slojnyy"
+    },
+    "gamesettings.difficulty.normal": {
+      "en": "Normal",
+      "->": "sredniy"
+    },
+    "gamesettings.disableTribes": {
+      "en": "Enable or Disable Tribes",
+      "->": ""
+    },
+    "gamesettings.findmatch": {
+      "en": "FIND MATCH",
+      "->": ""
+    },
+    "gamesettings.game": {
+      "en": "Game {0}",
+      "->": "igra {0}"
+    },
+    "gamesettings.gamename": {
+      "en": "Game Name",
+      "->": "nazvanie igry"
+    },
+    "gamesettings.info.difficulty.bonus": {
+      "en": "Difficulty bonus: {0}%",
+      "->": "bonus za slojnost': {0}%"
+    },
+    "gamesettings.info.gamepreferences.header": {
+      "en": "Advanced settings",
+      "->": ""
+    },
+    "gamesettings.info.gamepreferences.info": {
+      "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
+      "->": ""
+    },
+    "gamesettings.info.local": {
+      "en": "{0} opponents, {1} tiles map",
+      "->": "{0} protivnikov, {1} plitok"
+    },
+    "gamesettings.info.matchmaking.gamemode": {
+      "en": "{0} game",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.mappreset": {
+      "en": "{0} map type",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.mapsize": {
+      "en": "{0} tiles map",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.opponentcount": {
+      "en": "{0} opponents",
+      "->": ""
+    },
+    "gamesettings.info.matchmaking.timelimit": {
+      "en": "{0} turn time limit",
+      "->": ""
+    },
+    "gamesettings.info.multiplayer": {
+      "en": "{0} players, {1} tiles map",
+      "->": "{0} igrokov, {1} plitok"
+    },
+    "gamesettings.info.seed": {
+      "en": "Seed",
+      "->": ""
+    },
+    "gamesettings.info.turnlimit30": {
+      "en": ", 30 turn limit",
+      "->": ", limit hodov 30"
+    },
+    "gamesettings.livegame": {
+      "en": "Live Game",
+      "->": ""
+    },
+    "gamesettings.livegame.description": {
+      "en": "Live Games use a dynamic timer that increases based on how many units & cities you have. Any time left at the end of your turn will be added to your next turn.",
+      "->": ""
+    },
+    "gamesettings.map": {
+      "en": "Map Type",
+      "->": ""
+    },
+    "gamesettings.map.archipelago": {
+      "en": "Archipelago",
+      "->": ""
+    },
+    "gamesettings.map.continents": {
+      "en": "Continents",
+      "->": ""
+    },
+    "gamesettings.map.dryland": {
+      "en": "Dryland",
+      "->": ""
+    },
+    "gamesettings.map.lakes": {
+      "en": "Lakes",
+      "->": ""
+    },
+    "gamesettings.map.waterworld": {
+      "en": "Water World",
+      "->": ""
+    },
+    "gamesettings.matchmaking.noedit": {
+      "en": "Open for any kind of game",
+      "->": ""
+    },
+    "gamesettings.mode": {
+      "en": "Game Mode",
+      "->": "rejim igry"
+    },
+    "gamesettings.network": {
+      "en": "Network",
+      "->": "set'"
+    },
+    "gamesettings.network.online": {
+      "en": "Online",
+      "->": "setevaya igra"
+    },
+    "gamesettings.network.passplay": {
+      "en": "Pass & Play",
+      "->": "s odnogo ustroystva"
+    },
+    "gamesettings.notavailable": {
+      "en": "Not Available",
+      "->": "ne dostupen"
+    },
+    "gamesettings.notenoughplayers": {
+      "en": "You need at least two players to start a game",
+      "->": ""
+    },
+    "gamesettings.novalidtribes": {
+      "en": "No Valid Tribes",
+      "->": ""
+    },
+    "gamesettings.novalidtribes.info": {
+      "en": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
+      "->": ""
+    },
+    "gamesettings.online.disabled": {
+      "en": "Online is locked",
+      "->": "setevaya igra nedostupna"
+    },
+    "gamesettings.online.disabled.info": {
+      "en": "There are some things you need to fix to play online multiplayer",
+      "->": "isprav'te neskol'ko vetshey, chtoby igrat' po seti"
+    },
+    "gamesettings.online.info": {
+      "en": "Play with your friends online using our multiplayer server.",
+      "->": "igrayte s druz'yami po seti ispol'zuya nash server."
+    },
+    "gamesettings.opponents": {
+      "en": "Opponents",
+      "->": "protivnikov"
+    },
+    "gamesettings.passplay.info": {
+      "en": "Play with your friends offline on this device by passing it around.",
+      "->": "igrayte s druz'yami na etom ustroystve, peredavaya ego kajdomu igroku."
+    },
+    "gamesettings.players": {
+      "en": "Players",
+      "->": "igrokov"
+    },
+    "gamesettings.size": {
+      "en": "Map Size",
+      "->": "razmer karty"
+    },
+    "gamesettings.size.disabled": {
+      "en": "Not Available",
+      "->": "ne dostupno"
+    },
+    "gamesettings.size.huge": {
+      "en": "Huge",
+      "->": ""
+    },
+    "gamesettings.size.large": {
+      "en": "Large",
+      "->": "bol'shaya"
+    },
+    "gamesettings.size.massive": {
+      "en": "Massive",
+      "->": ""
+    },
+    "gamesettings.size.normal": {
+      "en": "Normal",
+      "->": "srednyaya"
+    },
+    "gamesettings.size.small": {
+      "en": "Small",
+      "->": ""
+    },
+    "gamesettings.size.tiles": {
+      "en": "{0} tiles map.",
+      "->": "{0} plitok."
+    },
+    "gamesettings.size.tiles.unspecified": {
+      "en": "You might get any size of a map. Exciting!",
+      "->": ""
+    },
+    "gamesettings.size.tiny": {
+      "en": "Tiny",
+      "->": "malen'kaya"
+    },
+    "gamesettings.startgame": {
+      "en": "START GAME",
+      "->": "nachat' igru"
+    },
+    "gamesettings.timelimit": {
+      "en": "Turn Time Limit",
+      "->": ""
+    },
+    "gamesettings.timer": {
+      "en": "Game Timer",
+      "->": ""
+    },
+    "gamesettings.timer.description": {
+      "en": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
+      "->": ""
+    },
+    "gamesettings.timer.live": {
+      "en": "Live",
+      "->": ""
+    },
+    "gamesettings.title": {
+      "en": "GAME SETUP",
+      "->": "nastroyka igry"
+    },
+    "gamesettings.unknown": {
+      "en": "Unknown",
+      "->": ""
+    },
+    "gamesettings.unlockmore": {
+      "en": "Unlock more tribes to play with more opponents",
+      "->": "razblokiruyte bol'she plemyon dlya igry s bol'shim kolichestvom protivnikov"
+    },
+    "gamesettings.unspecified": {
+      "en": "Any",
+      "->": ""
+    },
+    "gamesettings.yourname": {
+      "en": "Your Name",
+      "->": "vashe imya"
+    },
+    "gamestats.battle": {
+      "en": "Battle skills",
+      "->": "voennye sposobnosti"
+    },
+    "gamestats.battle.info": {
+      "en": "{0} won, {1} lost",
+      "->": "{0} vyygrano, {1} proigrano"
+    },
+    "gamestats.bonus": {
+      "en": "Difficulty bonus: {0}",
+      "->": "slojnosti bonus: {0}"
+    },
+    "gamestats.gamemode": {
+      "en": "Game mode: {0}",
+      "->": "rejim igry: {0}"
+    },
+    "gamestats.speed": {
+      "en": "Speed skills",
+      "->": "skorost'"
+    },
+    "gamestats.speed.info": {
+      "en": "{0}/{1} turns",
+      "->": "{0}/{1} hod(ov)"
+    },
+    "gamestats.title": {
+      "en": "GAME STATS",
+      "->": ""
+    },
+    "gamestatus.capitals": {
+      "en": "Capitals Owned",
+      "->": "zahvacheno stolic"
+    },
+    "gamestatus.cities": {
+      "en": "{0} cities",
+      "->": "{0} gorodov"
+    },
+    "gamestatus.city": {
+      "en": "{0} city",
+      "->": "{0} gorod"
+    },
+    "gamestatus.destroyed": {
+      "en": "destroyed",
+      "->": "unichtojeno"
+    },
+    "gamestatus.difficulty": {
+      "en": "Difficulty rating",
+      "->": "reyting"
+    },
+    "gamestatus.killedonturn": {
+      "en": "killed on turn {0}",
+      "->": ""
+    },
+    "gamestatus.ruled": {
+      "en": "Ruled by {0}",
+      "->": "pod vlast'yu {0}"
+    },
+    "gamestatus.ruled.bot": {
+      "en": "bot",
+      "->": ""
+    },
+    "gamestatus.ruled.you": {
+      "en": "Ruled by you",
+      "->": "v vashey vlasti"
+    },
+    "gamestatus.ruler": {
+      "en": "Ruler of the {0}",
+      "->": ""
+    },
+    "gamestatus.score": {
+      "en": "score: {0} points",
+      "->": "schyot: {0} ochkov"
+    },
+    "gamestatus.scores": {
+      "en": "Scores",
+      "->": "schyot"
+    },
+    "gamestatus.tasks": {
+      "en": "Tasks {0}/{1}",
+      "->": "zadaniya {0}/{1}"
+    },
+    "gamestatus.tasks.complete": {
+      "en": "Complete!",
+      "->": "zaversheno!"
+    },
+    "gamestatus.tribes": {
+      "en": "Tribes destroyed",
+      "->": "plemyon unichtojeno"
+    },
+    "gamestatus.unknown.ruler": {
+      "en": "Unknown ruler",
+      "->": "neizvestnyy vlastelin"
+    },
+    "gamestatus.unknown.tribe": {
+      "en": "Unknown tribe",
+      "->": "neizvestnoe plemya"
+    },
+    "highscore.alltime": {
+      "en": "All Time",
+      "->": "za vsyo vremya"
+    },
+    "highscore.alltribes": {
+      "en": "All Tribes",
+      "->": "vse plemena"
+    },
+    "highscore.error": {
+      "en": "Failed to upload highscore to server, do you want to retry?",
+      "->": ""
+    },
+    "highscore.error.title": {
+      "en": "Highscore error",
+      "->": ""
+    },
+    "highscore.hiscore": {
+      "en": "hiscore",
+      "->": "rekord"
+    },
+    "highscore.loading": {
+      "en": "Loading...",
+      "->": "zagruzka.."
+    },
+    "highscore.notavailable": {
+      "en": "High Score not available.",
+      "->": "rekordy nedostupny."
+    },
+    "highscore.thisweek": {
+      "en": "This Week",
+      "->": "na etoy nedele"
+    },
+    "highscore.title": {
+      "en": "HIGH SCORE",
+      "->": "rekord"
+    },
+    "highscore.today": {
+      "en": "Today",
+      "->": "segodnya"
+    },
+    "highscore.uploading": {
+      "en": "Uploading high score...",
+      "->": ""
+    },
+    "highscore.uploading.failed": {
+      "en": "Failed to upload high score",
+      "->": ""
+    },
+    "highscore.uploading.successful": {
+      "en": "High score uploaded...",
+      "->": ""
+    },
+    "highscore.uptodate": {
+      "en": "Everything is up to date",
+      "->": ""
+    },
+    "idconsole.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Voilg !"
+    },
+    "matchmakinggameinfo.waited": {
+      "en": "Waited",
+      "->": ""
+    },
+    "matchmakinggameinfo.waitingforplayers": {
+      "en": "Waiting for {0} additional {1}",
+      "->": "Waiting for {0} additional players"
+    },
+    "migration.restoredescription": {
+      "en": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
+      "->": ""
+    },
+    "migration.restoreheader": {
+      "en": "Restore?",
+      "->": ""
+    },
+    "misc.error.title": {
+      "en": "Error",
+      "->": ""
+    },
+    "misc.errorloadinggame": {
+      "en": "Failed to load game",
+      "->": ""
+    },
+    "misc.failedcommand": {
+      "en": "Failed to send command to server. Do you want to try again?",
+      "->": ""
+    },
+    "misc.gameoutofsync": {
+      "en": "Your game failed to sync with the server. Do you want to try again?",
+      "->": ""
+    },
+    "misc.player": {
+      "en": "player",
+      "->": ""
+    },
+    "misc.players": {
+      "en": "players",
+      "->": ""
+    },
+    "misc.pushfailed": {
+      "en": "Failed to handle incoming notification from server",
+      "->": ""
+    },
+    "misc.resetfailed": {
+      "en": "Game is missing or corrupt",
+      "->": ""
+    },
+    "mplayerstats.alias": {
+      "en": "Alias",
+      "->": "imya"
+    },
+    "mplayerstats.appversion": {
+      "en": "App version:",
+      "->": ""
+    },
+    "mplayerstats.avatar.edit": {
+      "en": "<sprite=\"texticons\" index=0><u>Edit</u>",
+      "->": "Edit"
+    },
+    "mplayerstats.clear": {
+      "en": "clear data",
+      "->": "ochistit' dannye"
+    },
+    "mplayerstats.elo": {
+      "en": "Elo",
+      "->": ""
+    },
+    "mplayerstats.elo.description": {
+      "en": "The Elo rating system is a method for calculating the relative skill levels of players.",
+      "->": ""
+    },
+    "mplayerstats.friends": {
+      "en": "nº of friends",
+      "->": "nvє druzey"
+    },
+    "mplayerstats.games": {
+      "en": "Games Played",
+      "->": "sygrano"
+    },
+    "mplayerstats.gameversion": {
+      "en": "Game version",
+      "->": ""
+    },
+    "mplayerstats.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": ""
+    },
+    "mplayerstats.lost": {
+      "en": "Feeling lost? Check the:",
+      "->": "poteryalis'? posmotrite:"
+    },
+    "mplayerstats.multiplayer.faq": {
+      "en": "MULTIPLAYER FAQ",
+      "->": "chavo po setevoy igre"
+    },
+    "mplayerstats.multiplayer.faq.lower": {
+      "en": "Multiplayer FAQ",
+      "->": ""
+    },
+    "mplayerstats.rating": {
+      "en": "Elo Rating",
+      "->": "Multiplayer Rating"
+    },
+    "mplayerstats.reload": {
+      "en": "reload multiplayer data",
+      "->": "perezagruzit' dannye igry"
+    },
+    "mplayerstats.reloading": {
+      "en": "Reloading...",
+      "->": "Reloading.."
+    },
+    "mplayerstats.server": {
+      "en": "Server version",
+      "->": "versiya servera"
+    },
+    "mplayerstats.title": {
+      "en": "PLAYER PROFILE",
+      "->": "profil' igroka"
+    },
+    "mplayerstats.uptodate": {
+      "en": "Everything is up to date",
+      "->": ""
+    },
+    "multiplayer.activegames": {
+      "en": "Active Games",
+      "->": "aktivnye igry"
+    },
+    "multiplayer.clipboard": {
+      "en": "Gamedata added to clipboard",
+      "->": "igrovye dannye peredany v bufer obmena"
+    },
+    "multiplayer.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Voilg !"
+    },
+    "multiplayer.creategame": {
+      "en": "Create game",
+      "->": "sozdat' igru"
+    },
+    "multiplayer.finishedgames": {
+      "en": "Finished Games",
+      "->": "zakonchenye igry"
+    },
+    "multiplayer.passplay": {
+      "en": "Pass & Play",
+      "->": "na  odnom ustroystve"
+    },
+    "multiplayer.passplay.info": {
+      "en": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
+      "->": "sorevnuytes' s druz'yami v mnogopol'zovatel'skom matche na odnom ustroystve. prosto peredavayte po krugu, kogda zavershite svoy hod."
+    },
+    "news.description": {
+      "en": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
+      "->": "dobro pojalovat'!\n tut my postim poslednie novosti iz mira politopii. bud'te na svyazi!"
+    },
+    "news.error.failed": {
+      "en": "Failed to load news",
+      "->": ""
+    },
+    "news.error.title": {
+      "en": "Error",
+      "->": ""
+    },
+    "news.timeago": {
+      "en": "{0} ago",
+      "->": "{0} days ago"
+    },
+    "news.title": {
+      "en": "POLYTOPIA NEWS",
+      "->": "novosti politopii"
+    },
+    "notifications.defaultheader": {
+      "en": "Alert",
+      "->": ""
+    },
+    "notifications.restorecomplete": {
+      "en": "{0} items restored",
+      "->": ""
+    },
+    "onlineview.check": {
+      "en": "check",
+      "->": "proverit'"
+    },
+    "onlineview.clipboard": {
+      "en": "Game ID added to clipboard: {0}",
+      "->": "ID igry dobavleno v bufer obmena: {0}"
+    },
+    "onlineview.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Voilg !"
+    },
+    "onlineview.completed": {
+      "en": "completed",
+      "->": "zaversheno"
+    },
+    "onlineview.favorites": {
+      "en": "Favourites ({0}/{1})",
+      "->": ""
+    },
+    "onlineview.fixit": {
+      "en": "FIX IT",
+      "->": "ispravit'"
+    },
+    "onlineview.friendlist.available": {
+      "en": "Friend List is only available when connected to the server.",
+      "->": "tol'ko spisok druzey dostupen, kogda podklyuchyon k serveru."
+    },
+    "onlineview.friends": {
+      "en": "Friends",
+      "->": "druz'ya"
+    },
+    "onlineview.game.decline": {
+      "en": "DECLINE",
+      "->": "otkazat'sya"
+    },
+    "onlineview.game.delete": {
+      "en": "DELETE",
+      "->": "udalit'"
+    },
+    "onlineview.game.gameinfo": {
+      "en": "Game Info",
+      "->": "infa ob igre"
+    },
+    "onlineview.game.join": {
+      "en": "JOIN GAME",
+      "->": "prisoedinit'sya"
+    },
+    "onlineview.game.leavematchmaking": {
+      "en": "LEAVE",
+      "->": ""
+    },
+    "onlineview.game.leavematchmaking.info": {
+      "en": "Are you sure you want to stop waiting for this game?",
+      "->": ""
+    },
+    "onlineview.game.leavematchmaking.title": {
+      "en": "Leave",
+      "->": ""
+    },
+    "onlineview.game.missingplayer": {
+      "en": "Empty",
+      "->": ""
+    },
+    "onlineview.game.moreinfo": {
+      "en": "More info",
+      "->": "bol'she infy"
+    },
+    "onlineview.game.old.info": {
+      "en": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
+      "->": "eta igra byla sozdana v staroy versii prilojeniya. ona mojet byt' zagrujena neudachno :( ya dumayu, luchshe udalit' eyo i sozdat' novuyu. prostite za neudobstva."
+    },
+    "onlineview.game.old.title": {
+      "en": "Old file version",
+      "->": "staraya igra"
+    },
+    "onlineview.game.open": {
+      "en": "OPEN",
+      "->": "otkryt'"
+    },
+    "onlineview.game.player.invited": {
+      "en": "You are invited to a new game, {0}",
+      "->": ""
+    },
+    "onlineview.game.player.kicked": {
+      "en": "You have been removed from game {0}",
+      "->": ""
+    },
+    "onlineview.game.player.left": {
+      "en": "{0} has left the game {1} and has been replaced by a bot.",
+      "->": ""
+    },
+    "onlineview.game.replays.share.button": {
+      "en": "Share",
+      "->": ""
+    },
+    "onlineview.game.replays.share.description": {
+      "en": "Use this link to show this replay to your friends or enemies:",
+      "->": ""
+    },
+    "onlineview.game.replays.share.title": {
+      "en": "Share This Replay",
+      "->": ""
+    },
+    "onlineview.game.resign": {
+      "en": "RESIGN",
+      "->": "sdat'sya"
+    },
+    "onlineview.game.resign.info": {
+      "en": "Are you sure you want to leave this game permanently?",
+      "->": "vy deystvitel'no hotite pokinut' igru?"
+    },
+    "onlineview.game.resign.title": {
+      "en": "Resign",
+      "->": "sdat'sya"
+    },
+    "onlineview.game.resigned": {
+      "en": "You are now resigned.",
+      "->": ""
+    },
+    "onlineview.game.resigning": {
+      "en": "Resigning...",
+      "->": ""
+    },
+    "onlineview.game.size": {
+      "en": "Map Size",
+      "->": "razmer karty"
+    },
+    "onlineview.game.start": {
+      "en": "START GAME",
+      "->": "nachat' igru"
+    },
+    "onlineview.game.you": {
+      "en": "You",
+      "->": "vy"
+    },
+    "onlineview.gamedeleted.info": {
+      "en": "The game {0} has been deleted because all other players rejected the game.",
+      "->": ""
+    },
+    "onlineview.gamedeleted.title": {
+      "en": "Game Deleted",
+      "->": ""
+    },
+    "onlineview.gamedeleted.unknowngame": {
+      "en": "Unknown Game",
+      "->": ""
+    },
+    "onlineview.gameinvitations": {
+      "en": "Game Invitations",
+      "->": "priglasheniya"
+    },
+    "onlineview.intro.fix": {
+      "en": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
+      "->": "privet {0}! \n\ndlya igry po seti neobhodimo koe-chto sdelat':"
+    },
+    "onlineview.intro.update": {
+      "en": "Online multiplayer is not available, please update Polytopia to the latest version",
+      "->": "setvevaya igra nedostupna, obnovite politopiyu do posledney versii"
+    },
+    "onlineview.kicked.automatic": {
+      "en": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
+      "->": ""
+    },
+    "onlineview.kicked.automatic.other": {
+      "en": "{0} was automatically kicked from the game {1} and is now frozen.",
+      "->": ""
+    },
+    "onlineview.kicked.info": {
+      "en": "{0} have kicked you from the game {1} since you took too long to finish your turn.",
+      "->": ""
+    },
+    "onlineview.kicked.title": {
+      "en": "You got Kicked",
+      "->": ""
+    },
+    "onlineview.kicked.title.other": {
+      "en": "{0} was kicked",
+      "->": ""
+    },
+    "onlineview.ladder.ended": {
+      "en": "Ended",
+      "->": ""
+    },
+    "onlineview.ladder.ends": {
+      "en": "Ends in {0}",
+      "->": ""
+    },
+    "onlineview.ladder.join": {
+      "en": "JOIN LADDER",
+      "->": ""
+    },
+    "onlineview.ladder.leave": {
+      "en": "LEAVE LADDER",
+      "->": ""
+    },
+    "onlineview.ladder.loading": {
+      "en": "Loading ladder data...",
+      "->": ""
+    },
+    "onlineview.ladder.placements.header": {
+      "en": "Placements",
+      "->": ""
+    },
+    "onlineview.ladder.play": {
+      "en": "PLAY LADDER",
+      "->": ""
+    },
+    "onlineview.ladders": {
+      "en": "Ladders",
+      "->": ""
+    },
+    "onlineview.lastgames": {
+      "en": "Last {0} Games",
+      "->": ""
+    },
+    "onlineview.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": "ne udalos' podklyuchit'sya k serveru. porver'te podklyuchenie k internetu i poprobuyte etshyo raz."
+    },
+    "onlineview.loading.title": {
+      "en": "Loading...",
+      "->": ""
+    },
+    "onlineview.loadingservice": {
+      "en": "Loading Service",
+      "->": "zagruzka servisov"
+    },
+    "onlineview.lobby.invite.title": {
+      "en": "Invite players ({0}/{1})",
+      "->": ""
+    },
+    "onlineview.lobby.leave.info": {
+      "en": "Are you sure you want to leave this lobby?",
+      "->": ""
+    },
+    "onlineview.lobby.leave.title": {
+      "en": "Leave",
+      "->": ""
+    },
+    "onlineview.lobby.player.add": {
+      "en": "Add",
+      "->": ""
+    },
+    "onlineview.lobby.readytostart": {
+      "en": "Ready to start",
+      "->": ""
+    },
+    "onlineview.lobby.starting": {
+      "en": "Game is starting...",
+      "->": ""
+    },
+    "onlineview.lobby.waitingforplayers": {
+      "en": "Waiting for {0} additional {1}",
+      "->": ""
+    },
+    "onlineview.lobby.waitingforplayers.title": {
+      "en": "Are you sure",
+      "->": ""
+    },
+    "onlineview.lobby.waitingforplayers.warning": {
+      "en": "Not everyone has accepted your invite, do you wish to start the game without them?",
+      "->": ""
+    },
+    "onlineview.login.ios": {
+      "en": "Log in to {0}",
+      "->": "voyti v {0}"
+    },
+    "onlineview.login.ios.info": {
+      "en": "Using {0} ensures that you have a unique and persistent Player ID that will keep your data safe across devices.",
+      "->": "ispol'zuya {0} est' garantiya unikal'nogo ID igroka, kotoryy sohranit vashi dannye na vseh ustroystvah."
+    },
+    "onlineview.login.ios.info2": {
+      "en": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
+      "->": ""
+    },
+    "onlineview.login.tesla": {
+      "en": "Create Online Profile",
+      "->": ""
+    },
+    "onlineview.login.tesla.info": {
+      "en": "Create a profile in Tesla Arcade to play online with friends",
+      "->": ""
+    },
+    "onlineview.matchmaking": {
+      "en": "RANDOM MATCH",
+      "->": ""
+    },
+    "onlineview.newgame": {
+      "en": "New Game",
+      "->": "novaya igra"
+    },
+    "onlineview.nogames.first": {
+      "en": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
+      "->": "pervoe, chto vam nado - soedinit'sya s nekotorymi lyud'mi, kotorye igrayut v politopiyu. najmi 'druz'ya' i dobav' ih."
+    },
+    "onlineview.nogames.intro": {
+      "en": "Hi {0}!",
+      "->": "privet {0}!"
+    },
+    "onlineview.nogames.start": {
+      "en": "Let's get some online games going with your friends. Tap 'New game' to start one.",
+      "->": "davayte pristupim k igre. najmite 'novaya igra'."
+    },
+    "onlineview.noladders": {
+      "en": "No ladders available",
+      "->": ""
+    },
+    "onlineview.noreplays": {
+      "en": "When you have completed a multiplayer game it will show up here so you can watch the replay",
+      "->": ""
+    },
+    "onlineview.notifications": {
+      "en": "Enable notifications",
+      "->": "vklyuchit' uvedomleniya"
+    },
+    "onlineview.notifications.info": {
+      "en": "We use notifications to communicate the status of your ongoing multiplayer games.",
+      "->": "my ispol'zuem uvedomleniya dlya otslejivaniya statusov vashih idutshih igr."
+    },
+    "onlineview.ongoing": {
+      "en": "Ongoing",
+      "->": ""
+    },
+    "onlineview.or": {
+      "en": "or",
+      "->": "ili"
+    },
+    "onlineview.passplay": {
+      "en": "Pass & Play",
+      "->": "s odnogo ustroystva"
+    },
+    "onlineview.passplay.start": {
+      "en": "Start a local Pass & Play game by tapping 'New Game'",
+      "->": "nachnite lokal'nuyu igru na odnom ustroystve. najmite 'novaya igra'"
+    },
+    "onlineview.profile": {
+      "en": "Profile",
+      "->": "profil'"
+    },
+    "onlineview.profile.available": {
+      "en": "Profile is only available when connected to the server.",
+      "->": "tol'ko profil' dostupen, kogda podklyuchyon k serveru."
+    },
+    "onlineview.purchase": {
+      "en": "Purchase one Tribe",
+      "->": "kupite odno plemya"
+    },
+    "onlineview.purchase.info": {
+      "en": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
+      "->": "servis dlya zapuska setevyh igr stoit real'nyh deneg i my budet priznatel'ny, esli my budet poluchat' podderjku ot igrokov."
+    },
+    "onlineview.randommatch.start": {
+      "en": "Start a game with a random opponent",
+      "->": ""
+    },
+    "onlineview.refresh": {
+      "en": "Refresh",
+      "->": "obnovit'"
+    },
+    "onlineview.reloading": {
+      "en": "Reloading...",
+      "->": "perezagruzka.."
+    },
+    "onlineview.reloading.release": {
+      "en": "Release to reload...",
+      "->": "gotov k perezagruzke..."
+    },
+    "onlineview.replay.delete.info": {
+      "en": "Are you sure you want to delete this replay?",
+      "->": ""
+    },
+    "onlineview.replay.delete.title": {
+      "en": "Delete",
+      "->": ""
+    },
+    "onlineview.replays": {
+      "en": "Replays",
+      "->": ""
+    },
+    "onlineview.replays.loading": {
+      "en": "Loading replay data...",
+      "->": ""
+    },
+    "onlineview.required": {
+      "en": "required",
+      "->": "trebuetsya"
+    },
+    "onlineview.resigned.competitive.info": {
+      "en": "{0} resigned from the game {1} and is now frozen.",
+      "->": ""
+    },
+    "onlineview.resigned.info": {
+      "en": "{0} resigned from the game {1} and have been replaced by a bot.",
+      "->": ""
+    },
+    "onlineview.resigned.title": {
+      "en": "{0} Resigned",
+      "->": ""
+    },
+    "onlineview.servicedisabled": {
+      "en": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
+      "->": "mnogopol'zovatel'skiy server vremenno nedostupen, poprobuyte pozje. tak je, poprobuyte ubedit'sya v tom, chto u vas poslednyaya versiya politopii."
+    },
+    "onlineview.skipped.info.local": {
+      "en": "You were skipped.",
+      "->": ""
+    },
+    "onlineview.skipped.info.other": {
+      "en": "{0} was skipped.",
+      "->": ""
+    },
+    "onlineview.skipped.info.tribe.local": {
+      "en": "You were assigned a random tribe due to inactivity.",
+      "->": ""
+    },
+    "onlineview.skipped.info.tribe.other": {
+      "en": "{0} was assigned a random tribe due to inactivity.",
+      "->": ""
+    },
+    "onlineview.skipped.title.empty": {
+      "en": "Skipped",
+      "->": ""
+    },
+    "onlineview.skipped.title.game": {
+      "en": "Skipped in {0}",
+      "->": ""
+    },
+    "onlineview.theirturn": {
+      "en": "Their Turn",
+      "->": "ih hod"
+    },
+    "onlineview.title": {
+      "en": "MULTIPLAYER",
+      "->": "setevaya igra"
+    },
+    "onlineview.uptodate": {
+      "en": "All games are up to date",
+      "->": "vse igry aktual'ny"
+    },
+    "onlineview.uptodate.ladders": {
+      "en": "All ladders are up to date",
+      "->": ""
+    },
+    "onlineview.uptodate.replays": {
+      "en": "All replays are up to date",
+      "->": ""
+    },
+    "onlineview.waiting": {
+      "en": "Waiting for Players",
+      "->": ""
+    },
+    "onlineview.waiting.server": {
+      "en": "Waiting for server response...",
+      "->": ""
+    },
+    "onlineview.yourturn": {
+      "en": "Your Turn",
+      "->": "vash hod"
+    },
+    "opinion.noopinion": {
+      "en": "They don't know about you yet",
+      "->": ""
+    },
+    "opinion.reason.aggression": {
+      "en": "violent",
+      "->": ""
+    },
+    "opinion.reason.aggression.description": {
+      "en": "You recently attacked them",
+      "->": ""
+    },
+    "opinion.reason.brave": {
+      "en": "brave",
+      "->": ""
+    },
+    "opinion.reason.brave.description": {
+      "en": "You fighting against the strongest tribe",
+      "->": ""
+    },
+    "opinion.reason.commonrelation": {
+      "en": "wise",
+      "->": ""
+    },
+    "opinion.reason.commonrelation.description": {
+      "en": "You share the same friends or enemies",
+      "->": ""
+    },
+    "opinion.reason.differentrelation": {
+      "en": "foolish",
+      "->": ""
+    },
+    "opinion.reason.differentrelation.description": {
+      "en": "You are at war with their friends, or have made peace with their enemies",
+      "->": ""
+    },
+    "opinion.reason.dislike": {
+      "en": "annoying",
+      "->": ""
+    },
+    "opinion.reason.dislike.description": {
+      "en": "They just don't like you",
+      "->": ""
+    },
+    "opinion.reason.embassy": {
+      "en": "diplomatic",
+      "->": ""
+    },
+    "opinion.reason.embassy.description": {
+      "en": "You have good diplomatic connections through your embassies",
+      "->": ""
+    },
+    "opinion.reason.intrusive": {
+      "en": "intrusive",
+      "->": ""
+    },
+    "opinion.reason.intrusive.description": {
+      "en": "Your borders are very close",
+      "->": ""
+    },
+    "opinion.reason.like": {
+      "en": "charming",
+      "->": ""
+    },
+    "opinion.reason.like.description": {
+      "en": "For some reason they just seem to like you",
+      "->": ""
+    },
+    "opinion.reason.peaceful": {
+      "en": "peaceful",
+      "->": ""
+    },
+    "opinion.reason.peaceful.description": {
+      "en": "You have not attacked them in a long time",
+      "->": ""
+    },
+    "opinion.reason.powerful": {
+      "en": "powerful",
+      "->": ""
+    },
+    "opinion.reason.powerful.description": {
+      "en": "They are impressed by your military power",
+      "->": ""
+    },
+    "opinion.reason.threatening": {
+      "en": "threatening",
+      "->": ""
+    },
+    "opinion.reason.threatening.description": {
+      "en": "You have military units near their territory",
+      "->": ""
+    },
+    "opinion.reason.weak": {
+      "en": "weak",
+      "->": ""
+    },
+    "opinion.reason.weak.description": {
+      "en": "Your army is weak compared to them, you are an easy target",
+      "->": ""
+    },
+    "opinion.reason.winning": {
+      "en": "dominating",
+      "->": ""
+    },
+    "opinion.reason.winning.description": {
+      "en": "You are about to win the game",
+      "->": ""
+    },
+    "player.abilities.capitalvision": {
+      "en": "Capital Vision",
+      "->": ""
+    },
+    "player.abilities.decompose": {
+      "en": "Decompose",
+      "->": ""
+    },
+    "player.abilities.destroy": {
+      "en": "Destroy",
+      "->": "razrushenie"
+    },
+    "player.abilities.disband": {
+      "en": "Disband",
+      "->": "uvolit'"
+    },
+    "player.abilities.embassy": {
+      "en": "Embassy",
+      "->": ""
+    },
+    "player.abilities.glide": {
+      "en": "Glide",
+      "->": "skol'jenie"
+    },
+    "player.abilities.literacy": {
+      "en": "Literacy",
+      "->": "gramotnost'"
+    },
+    "player.abilities.peacetreaty": {
+      "en": "Peace Treaty",
+      "->": ""
+    },
+    "playerinfo.locked.researchdiplomacy": {
+      "en": "Research Diplomacy to gain more insight.",
+      "->": ""
+    },
+    "playerinfo.locked.upgradeembassy": {
+      "en": "Upgrade embassy to gain more insight.",
+      "->": ""
+    },
+    "playerinfo.stats.income": {
+      "en": "Income",
+      "->": ""
+    },
+    "playerinfo.summary.dead": {
+      "en": "{0} was destroyed by {1} on turn {2}.",
+      "->": ""
+    },
+    "playerinfo.summary.reasons": {
+      "en": "They think you are {0}.",
+      "->": ""
+    },
+    "playerinfo.summary.ruledby": {
+      "en": "The {0} tribe is ruled by {1}.",
+      "->": ""
+    },
+    "playerinfo.title": {
+      "en": "Tribe Info",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.neutral.description": {
+      "en": "{0} has a neutral relation to {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.peaceneutral.description": {
+      "en": "{0} has a peace treaty with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.peacepeace.description": {
+      "en": "You are both at peace with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.peacewar.description": {
+      "en": "{0} has a peace treaty with your enemy {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.title": {
+      "en": "Tribe Relation",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.warneutral.description": {
+      "en": "{0} is at war with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.warpeace.description": {
+      "en": "{0} is at war with your ally {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.popup.warwar.description": {
+      "en": "You are both at war with {1}",
+      "->": ""
+    },
+    "playerinfo.triberelations.title": {
+      "en": "Tribe Relations:",
+      "->": ""
+    },
+    "playerinfo.triberelations.unknown": {
+      "en": "You have not met this tribe yet.",
+      "->": ""
+    },
+    "playerinfopopup.bot.description": {
+      "en": "This is a bot. Bzzt!",
+      "->": ""
+    },
+    "playerinfopopup.friend": {
+      "en": "friend",
+      "->": ""
+    },
+    "playerinfopopup.passandplay.description": {
+      "en": "A pass and play player. Epic!",
+      "->": ""
+    },
+    "playerinfopopup.you.description": {
+      "en": "This is you. Go you!",
+      "->": ""
+    },
+    "playerpickerview.addplayer": {
+      "en": "ADD PLAYER",
+      "->": "dobavit' igroka"
+    },
+    "playerpickerview.bot": {
+      "en": "{0} ({1} bot)",
+      "->": ""
+    },
+    "playerpickerview.human": {
+      "en": "No human player",
+      "->": "net lyudey"
+    },
+    "playerpickerview.human.info": {
+      "en": "There needs to be at least one human player to start a game",
+      "->": "nujen hotya by odin chelovek dlya nachala igry"
+    },
+    "playerpickerview.maptype": {
+      "en": "Map type: {0}",
+      "->": ""
+    },
+    "playerpickerview.mode": {
+      "en": "Game mode: {0}",
+      "->": "rejim igry: {0}"
+    },
+    "playerpickerview.name": {
+      "en": "Game Name",
+      "->": "nazvanie igry"
+    },
+    "playerpickerview.players": {
+      "en": "Players ({0}/{1})",
+      "->": "igrokov ({0}/{1})"
+    },
+    "playerpickerview.size": {
+      "en": "Map size: {0} tiles",
+      "->": "razmer karty: {0} plitok"
+    },
+    "playerpickerview.startgame": {
+      "en": "START GAME",
+      "->": "nachat'"
+    },
+    "playerpickerview.title": {
+      "en": "PICK PLAYERS",
+      "->": "vybrat' igrokov"
+    },
+    "playerpickerview.you": {
+      "en": "{0} (you)",
+      "->": "{0} (vy)"
+    },
+    "polyplayer.task": {
+      "en": "task",
+      "->": "zadanie"
+    },
+    "polyplayer.task.explorer.description": {
+      "en": "Explore every single tile in this square world",
+      "->": "issleduyte kajduyu plitku v mire"
+    },
+    "polyplayer.task.explorer.title": {
+      "en": "Explorer",
+      "->": "razvedchik"
+    },
+    "polyplayer.task.genius.description": {
+      "en": "Discover all available technologies",
+      "->": "issleduyte vse tehnologii"
+    },
+    "polyplayer.task.genius.title": {
+      "en": "Genius",
+      "->": "geniy"
+    },
+    "polyplayer.task.killer.description": {
+      "en": "Kill 10 enemies in battle",
+      "->": "ubeyte 10 vragov"
+    },
+    "polyplayer.task.killer.title": {
+      "en": "Killer",
+      "->": "ubiyca"
+    },
+    "polyplayer.task.metropolis.description": {
+      "en": "Create a level 5 city",
+      "->": "sozdayte gorod urovnem 5"
+    },
+    "polyplayer.task.metropolis.title": {
+      "en": "Metropolis",
+      "->": "metropolis"
+    },
+    "polyplayer.task.network.description": {
+      "en": "Connect 5 cities to your capital",
+      "->": "soedinite 5 gorodov s vashey stolicey"
+    },
+    "polyplayer.task.network.title": {
+      "en": "Network",
+      "->": "set'"
+    },
+    "polyplayer.task.pacifist.description": {
+      "en": "Make no attacks for 5 turns",
+      "->": "ne atakuyte 5 hodov"
+    },
+    "polyplayer.task.pacifist.title": {
+      "en": "Pacifist",
+      "->": "pacifist"
+    },
+    "polyplayer.task.wealth.description": {
+      "en": "Gather 100 stars",
+      "->": "dostignite 100 zvyozd"
+    },
+    "polyplayer.task.wealth.title": {
+      "en": "Wealth",
+      "->": "bogach"
+    },
+    "price.points": {
+      "en": "point",
+      "->": "edinica"
+    },
+    "price.points.plural": {
+      "en": "points",
+      "->": "edinic"
+    },
+    "price.population": {
+      "en": "population",
+      "->": "naselenie"
+    },
+    "price.population.plural": {
+      "en": "population",
+      "->": "nasleniya"
+    },
+    "price.stars": {
+      "en": "star",
+      "->": "zvezda"
+    },
+    "price.stars.plural": {
+      "en": "stars",
+      "->": "zvyozd"
+    },
+    "purchasing.error.androidinitializationfailed": {
+      "en": "Unable to connect to the Google Play Billing service. This might mean that your Google account is missing or incorrectly set up.",
+      "->": ""
+    },
+    "purchasing.error.duplicatetransaction": {
+      "en": "A duplicate transaction error when the transaction has already been completed successfully.",
+      "->": ""
+    },
+    "purchasing.error.existingpurchasepending": {
+      "en": "A purchase was already in progress when a new purchase was requested.",
+      "->": ""
+    },
+    "purchasing.error.initializationfailed": {
+      "en": "Purchasing failed to initialise",
+      "->": ""
+    },
+    "purchasing.error.paymentdeclined": {
+      "en": "There was a problem with the payment.",
+      "->": ""
+    },
+    "purchasing.error.productunavailable": {
+      "en": "The product is not available to purchase on the store.",
+      "->": ""
+    },
+    "purchasing.error.purchasingunavailable": {
+      "en": "The system purchasing feature is unavailable.",
+      "->": ""
+    },
+    "purchasing.error.signatureinvalid": {
+      "en": "Signature validation of the purchase's receipt failed.",
+      "->": ""
+    },
+    "purchasing.error.title": {
+      "en": "Purchasing Error",
+      "->": ""
+    },
+    "purchasing.error.unknown": {
+      "en": "Something unknown went wrong with the purchase. Please try again later.",
+      "->": ""
+    },
+    "purchasing.error.usercancelled": {
+      "en": "The user opted to cancel rather than proceed with the purchase.",
+      "->": ""
+    },
+    "purchasing.restore.error.message": {
+      "en": "Something went wrong while trying to restore your purchases. Please try again later.",
+      "->": ""
+    },
+    "purchasing.restore.error.title": {
+      "en": "Restore Purchases Failed",
+      "->": ""
+    },
+    "push.ended": {
+      "en": "{0} has ended, check to see who won!",
+      "->": ""
+    },
+    "push.invited": {
+      "en": "You are invited to a new game, {0}",
+      "->": ""
+    },
+    "push.kicked": {
+      "en": "You have been removed from {0}",
+      "->": ""
+    },
+    "push.picktribe": {
+      "en": "It is your turn to pick tribe in {0}",
+      "->": ""
+    },
+    "push.playerkicked": {
+      "en": "Player {0} has been kicked from {1}.",
+      "->": ""
+    },
+    "push.playerresigned": {
+      "en": "Player {0} has resigned from {1}.",
+      "->": ""
+    },
+    "push.randommatchready": {
+      "en": "Random match {0} is ready to go!",
+      "->": ""
+    },
+    "push.readytostart": {
+      "en": "{0} is ready to start on your command",
+      "->": ""
+    },
+    "push.reminder": {
+      "en": "We are waiting for you to play in {0}. Come on!!",
+      "->": ""
+    },
+    "push.skipped": {
+      "en": "Your turn in {0} was skipped since you timed out.",
+      "->": ""
+    },
+    "push.yourturn": {
+      "en": "It is your turn in {0} (turn {1})",
+      "->": ""
+    },
+    "replay.clipboard": {
+      "en": "Replay link added to clipboard",
+      "->": ""
+    },
+    "replay.clipboard.title": {
+      "en": "Voilà!",
+      "->": ""
+    },
+    "replay.ended": {
+      "en": "Ended {0}",
+      "->": ""
+    },
+    "replay.ongoing": {
+      "en": "Ongoing",
+      "->": ""
+    },
+    "replay.tech.new.message": {
+      "en": "{0} discovered the secret of {1}",
+      "->": ""
+    },
+    "replay.turnlabel": {
+      "en": "Turn {0}",
+      "->": ""
+    },
+    "replay.viewmode.auto": {
+      "en": "Auto",
+      "->": ""
+    },
+    "replay.viewmode.header": {
+      "en": "Pick Point of View",
+      "->": ""
+    },
+    "replay.winner": {
+      "en": "Won by: {0}",
+      "->": ""
+    },
+    "resource.names.crop": {
+      "en": "crop",
+      "->": "oroshenie"
+    },
+    "resource.names.fish": {
+      "en": "fish",
+      "->": "ryba"
+    },
+    "resource.names.fruit": {
+      "en": "fruit",
+      "->": "frukt"
+    },
+    "resource.names.game": {
+      "en": "wild animal",
+      "->": ""
+    },
+    "resource.names.metal": {
+      "en": "metal",
+      "->": ""
+    },
+    "resource.names.spores": {
+      "en": "Spores",
+      "->": ""
+    },
+    "resource.names.whale": {
+      "en": "whale",
+      "->": "kit"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "->": "atmosfera"
+    },
+    "settings.antialias": {
+      "en": "Anti-aliasing",
+      "->": ""
+    },
+    "settings.compactui": {
+      "en": "Compact UI",
+      "->": ""
+    },
+    "settings.confirm": {
+      "en": "Confirm turn",
+      "->": "podtverjdenie hoda"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "->": ""
+    },
+    "settings.hideadvanced": {
+      "en": "Hide Advanced Settings",
+      "->": ""
+    },
+    "settings.info": {
+      "en": "Info on Build",
+      "->": "podtverjenie postroyki"
+    },
+    "settings.language": {
+      "en": "Language",
+      "->": "yazyk"
+    },
+    "settings.language.load.button": {
+      "en": "LOAD",
+      "->": "zagruzit'"
+    },
+    "settings.language.load.error.info": {
+      "en": "The loaded file does not have a valid JSON Format and can't be parsed.",
+      "->": ""
+    },
+    "settings.language.load.error.title": {
+      "en": "Error loading file",
+      "->": ""
+    },
+    "settings.language.load.info": {
+      "en": "Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
+      "->": ""
+    },
+    "settings.language.load.input": {
+      "en": "Language file url:",
+      "->": ""
+    },
+    "settings.language.load.title": {
+      "en": "Custom language (BETA)",
+      "->": ""
+    },
+    "settings.off": {
+      "en": "OFF",
+      "->": "vykl"
+    },
+    "settings.on": {
+      "en": "ON",
+      "->": "vkl"
+    },
+    "settings.saveexit": {
+      "en": "EXIT TO MENU",
+      "->": "sohranit' i vyyti"
+    },
+    "settings.scale": {
+      "en": "UI Scale",
+      "->": ""
+    },
+    "settings.scale.auto": {
+      "en": "Auto",
+      "->": ""
+    },
+    "settings.scale.large": {
+      "en": "Large",
+      "->": ""
+    },
+    "settings.scale.medium": {
+      "en": "Medium",
+      "->": "Madium"
+    },
+    "settings.scale.small": {
+      "en": "Small",
+      "->": ""
+    },
+    "settings.scale.verylarge": {
+      "en": "Very Large",
+      "->": ""
+    },
+    "settings.showadvanced": {
+      "en": "Advanced Settings",
+      "->": ""
+    },
+    "settings.soundeffects": {
+      "en": "Sound Effects",
+      "->": "zvukovye effekty"
+    },
+    "settings.suggestions": {
+      "en": "Suggestions",
+      "->": "informaciya"
+    },
+    "settings.title": {
+      "en": "SETTINGS",
+      "->": "nastroyki"
+    },
+    "settings.tribemusic": {
+      "en": "Tribe Music",
+      "->": "muzyka"
+    },
+    "settings.volume": {
+      "en": "Audio volume {0}",
+      "->": "mishker gromkosti {0}"
+    },
+    "splashscreen.switch.12tribes": {
+      "en": "12 unique Tribes",
+      "->": ""
+    },
+    "splashscreen.switch.again": {
+      "en": "Play again!",
+      "->": ""
+    },
+    "splashscreen.switch.challenging": {
+      "en": "Challenging AI",
+      "->": ""
+    },
+    "splashscreen.switch.full": {
+      "en": "The full version of the game includes:",
+      "->": ""
+    },
+    "splashscreen.switch.gamemodes": {
+      "en": "More game modes",
+      "->": ""
+    },
+    "splashscreen.switch.thankyou": {
+      "en": "Thank you for playing!",
+      "->": ""
+    },
+    "splashscreen.switch.upgrade": {
+      "en": "Upgrade",
+      "->": ""
+    },
+    "startmenu.about": {
+      "en": "About",
+      "->": "ob igre"
+    },
+    "startmenu.high_score": {
+      "en": "High Score",
+      "->": "rekordy"
+    },
+    "startmenu.multiplayer": {
+      "en": "MULTIPLAYER",
+      "->": "CeTeBa9I urpa"
+    },
+    "startmenu.new_game": {
+      "en": "NEW GAME",
+      "->": "HoBa9I urpa"
+    },
+    "startmenu.quit": {
+      "en": "QUIT",
+      "->": ""
+    },
+    "startmenu.resume_game": {
+      "en": "RESUME GAME",
+      "->": "IIpogoJI)|(uTb"
+    },
+    "startmenu.settings": {
+      "en": "Settings",
+      "->": "nastroyki"
+    },
+    "startmenu.throne_room": {
+      "en": "Throne Room",
+      "->": "zal slavy"
+    },
+    "stringtools.typelist.and": {
+      "en": "and",
+      "->": "i"
+    },
+    "task.info": {
+      "en": "{0} to get {1}",
+      "->": "{0} do polucheniya {1}"
+    },
+    "technology.ability": {
+      "en": "ability",
+      "->": "sposobnost'"
+    },
+    "technology.ability.info": {
+      "en": "{1} gives you the ability to {1}",
+      "->": "{1} dayot vam sposobnost' k {1}"
+    },
+    "technology.build": {
+      "en": "{0} makes it possible to build {1}",
+      "->": "{0} delaet vozmojnym stroit' {1}"
+    },
+    "technology.defence": {
+      "en": "Defense Bonus",
+      "->": "dop. zatshita"
+    },
+    "technology.defence.info": {
+      "en": "gives your unit extra strength when defending in {0}",
+      "->": "dayot vashemu poddannomu dop. zatshitu, kogda on v {0}"
+    },
+    "technology.intro": {
+      "en": "This tech will enable the following:",
+      "->": "eta tehnologiya otkroet sleduyutshee:"
+    },
+    "technology.movement": {
+      "en": "Movement",
+      "->": "peredvijenie"
+    },
+    "technology.movement.info": {
+      "en": "enables movement in {0}",
+      "->": "delaet dostupnym peredvejenie v {0}"
+    },
+    "technology.names.aquatism": {
+      "en": "Aquatism",
+      "->": "akvatizm"
+    },
+    "technology.names.archery": {
+      "en": "Archery",
+      "->": "masterstvo luka"
+    },
+    "technology.names.basic": {
+      "en": "basic",
+      "->": "bazavoe"
+    },
+    "technology.names.chivalry": {
+      "en": "Chivalry",
+      "->": "kavaleriya"
+    },
+    "technology.names.climbing": {
+      "en": "Climbing",
+      "->": "skalozazanie"
+    },
+    "technology.names.construction": {
+      "en": "Construction",
+      "->": "konstruirovanie"
+    },
+    "technology.names.diplomacy": {
+      "en": "Diplomacy",
+      "->": ""
+    },
+    "technology.names.farming": {
+      "en": "Farming",
+      "->": "fermerstvo"
+    },
+    "technology.names.fishing": {
+      "en": "Fishing",
+      "->": "rybolovlya"
+    },
+    "technology.names.forestmagic": {
+      "en": "Forest Magic",
+      "->": "lesnaya magiya"
+    },
+    "technology.names.forestry": {
+      "en": "Forestry",
+      "->": "lesnichestvo"
+    },
+    "technology.names.freediving": {
+      "en": "Free Diving",
+      "->": "svobodnoe pogrujenie"
+    },
+    "technology.names.freespirit": {
+      "en": "Free Spirit",
+      "->": "jertvoprinoshenie"
+    },
+    "technology.names.frostwork": {
+      "en": "Frostwork",
+      "->": "moroznaya rabota"
+    },
+    "technology.names.hunting": {
+      "en": "Hunting",
+      "->": "ohota"
+    },
+    "technology.names.hydrology": {
+      "en": "Hydrology",
+      "->": ""
+    },
+    "technology.names.mathematics": {
+      "en": "Mathematics",
+      "->": "matematika"
+    },
+    "technology.names.meditation": {
+      "en": "Meditation",
+      "->": "meditaciya"
+    },
+    "technology.names.mining": {
+      "en": "Mining",
+      "->": "shahtyorstvo"
+    },
+    "technology.names.navigation": {
+      "en": "Navigation",
+      "->": "navigaciya"
+    },
+    "technology.names.oceanology": {
+      "en": "Oceanology",
+      "->": ""
+    },
+    "technology.names.organization": {
+      "en": "Organization",
+      "->": "sobiratel'stvo"
+    },
+    "technology.names.philosophy": {
+      "en": "Philosophy",
+      "->": "filosofiya"
+    },
+    "technology.names.polarism": {
+      "en": "Polarism",
+      "->": "polyarizm"
+    },
+    "technology.names.polarwarfare": {
+      "en": "Polar Warfare",
+      "->": "polyarnaya voyna"
+    },
+    "technology.names.recycling": {
+      "en": "Recycling",
+      "->": ""
+    },
+    "technology.names.riding": {
+      "en": "Riding",
+      "->": "verhovaya ezda"
+    },
+    "technology.names.riding2": {
+      "en": "Riding",
+      "->": ""
+    },
+    "technology.names.roads": {
+      "en": "Roads",
+      "->": "dorogi"
+    },
+    "technology.names.sailing": {
+      "en": "Sailing",
+      "->": "plavanie"
+    },
+    "technology.names.shields": {
+      "en": "Strategy",
+      "->": "tshity"
+    },
+    "technology.names.shock": {
+      "en": "Shock Tactics",
+      "->": ""
+    },
+    "technology.names.smithery": {
+      "en": "Smithery",
+      "->": "kuznica"
+    },
+    "technology.names.spearing": {
+      "en": "Spearing",
+      "->": "metanie kop'ya"
+    },
+    "technology.names.spiritualism": {
+      "en": "Spiritualism",
+      "->": "spiritualizm"
+    },
+    "technology.names.trade": {
+      "en": "Trade",
+      "->": "torgovlya"
+    },
+    "technology.names.watermagic": {
+      "en": "Water Magic",
+      "->": "vodyanaya magiya"
+    },
+    "technology.names.whaling": {
+      "en": "Whaling",
+      "->": "kitolovlya"
+    },
+    "technology.requirements": {
+      "en": "You need to research {0} to enable this action.",
+      "->": ""
+    },
+    "technology.task": {
+      "en": "{0} activates the {1} task",
+      "->": "{0} aktiviruet zadanie {1} "
+    },
+    "techview.completed": {
+      "en": "(completed)",
+      "->": "(est')"
+    },
+    "techview.completed.info": {
+      "en": "You have already researched this technology.",
+      "->": "vy uje vyuchili etu tehnologiyu."
+    },
+    "techview.expensive.info": {
+      "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
+      "->": "u vas nedostatochno zvyozd dlya etogo. najmite 'sled. hod', chtoby poluchit' bol'she zvyozd."
+    },
+    "techview.info": {
+      "en": "Tech costs increase for each city in your empire.",
+      "->": "stoimost' tehnologiy povyshaetsya s kajdym novym gorodom u vas."
+    },
+    "techview.info.literacy": {
+      "en": "Literacy reduces the price of all technologies by {0}%!",
+      "->": "gramotnost' snizit stoimost' vseh tehnologiy na {0}%!"
+    },
+    "techview.locked": {
+      "en": "(locked)",
+      "->": "(zakryto)"
+    },
+    "techview.locked.info": {
+      "en": "You must research {0} before you can learn {1}.",
+      "->": "vy doljny issledovat' {0} prejde, chem vyuchit' {1}."
+    },
+    "techview.research": {
+      "en": "RESEARCH",
+      "->": "vyuchit'"
+    },
+    "terrain.field": {
+      "en": "Field",
+      "->": "pole"
+    },
+    "terrain.forest": {
+      "en": "Forest",
+      "->": "les"
+    },
+    "terrain.ice": {
+      "en": "Ice",
+      "->": "lyod"
+    },
+    "terrain.mountain": {
+      "en": "Mountain",
+      "->": "gora"
+    },
+    "terrain.ocean": {
+      "en": "Ocean",
+      "->": "okean"
+    },
+    "terrain.unknown": {
+      "en": "Unknown lands",
+      "->": "neizvestnye zemli"
+    },
+    "terrain.water": {
+      "en": "Water",
+      "->": "voda"
+    },
+    "throne.alias": {
+      "en": "Alias",
+      "->": "imya"
+    },
+    "throne.clipboard": {
+      "en": "Player ID added to clipboard",
+      "->": "ID igroka skopirovano v bufer obmena"
+    },
+    "throne.clipboard.title": {
+      "en": "Voilà!",
+      "->": "Voilg !"
+    },
+    "throne.google.achievements": {
+      "en": "ACHIEVEMENTS",
+      "->": "dostijeniya"
+    },
+    "throne.google.in": {
+      "en": "SIGN IN",
+      "->": "voyti"
+    },
+    "throne.google.info": {
+      "en": "(!)You need to sign in with Google Play to save your game data and high scores.",
+      "->": "(!)vy doljny voyti cherez Google Play dlya sohraneniya rekordov i dannyh ob igre."
+    },
+    "throne.google.out": {
+      "en": "SIGN OUT",
+      "->": "vyyti"
+    },
+    "throne.google.signedin": {
+      "en": "You are signed in using Google Play",
+      "->": "vy voshli cherez Google Play"
+    },
+    "throne.played": {
+      "en": "Games Played",
+      "->": "sygrano igr"
+    },
+    "throne.playerid": {
+      "en": "Player ID",
+      "->": "ID igroka"
+    },
+    "throne.playerinfo": {
+      "en": "Player Info",
+      "->": "infa ob igroke"
+    },
+    "throne.reset": {
+      "en": "Reset Scores",
+      "->": "sbrosit' schyot"
+    },
+    "throne.reset.complete": {
+      "en": "Scores are now reset",
+      "->": "rekordy sbrosheny"
+    },
+    "throne.resetwarning": {
+      "en": "Are you sure you want to reset all your saved scores and ratings? This can not be undone.",
+      "->": "vy deystvitel'no hotite sbrosit' schyot? otmenit' nel'zya."
+    },
+    "throne.resetwarning.title": {
+      "en": "Reset Scores",
+      "->": "sbros schyota"
+    },
+    "throne.title": {
+      "en": "THRONE ROOM",
+      "->": "zal slavy"
+    },
+    "throne.toprating": {
+      "en": "Top Rating",
+      "->": "luchshiy reyting"
+    },
+    "throne.topscore": {
+      "en": "Top Score",
+      "->": "luchshiy schyot"
+    },
+    "tooltip.ability.agent": {
+      "en": "This unit can be built in enemy territory",
+      "->": ""
+    },
+    "tooltip.ability.autofreeze": {
+      "en": "This unit freezes any surrounding tiles and units when moving.",
+      "->": ""
+    },
+    "tooltip.ability.boost": {
+      "en": "Give surrounding friendly units a temporary boost in attack and speed.",
+      "->": ""
+    },
+    "tooltip.ability.capitalvision": {
+      "en": "Reveals the capital of all tribes you encounter.",
+      "->": ""
+    },
+    "tooltip.ability.carry": {
+      "en": "This unit is carrying another unit inside.",
+      "->": "poddannyy mojet vynesti drugogo poddannogo."
+    },
+    "tooltip.ability.convert": {
+      "en": "This unit can convert an enemy to your own tribe by attacking it.",
+      "->": "etot poddannyy mojet prevratit' vraga v vashego pri atake."
+    },
+    "tooltip.ability.creep": {
+      "en": "This unit does not get any movement penalties in rough terrain.",
+      "->": ""
+    },
+    "tooltip.ability.dash": {
+      "en": "This unit can attack after moving if there is an enemy in range.",
+      "->": "poddannyy mojet atakovat' posle hoda, esli vrag v dostigaemom radiuse."
+    },
+    "tooltip.ability.decompose": {
+      "en": "Decompose any building within your borders and get its full cost in stars back at the end of the turn.",
+      "->": ""
+    },
+    "tooltip.ability.destroy": {
+      "en": "Remove any building within your borders, great for reconstructing your empire.",
+      "->": "udalite lyuboe stroenie v predelah vashih granic, zamechatel'naya perestroyka imperii."
+    },
+    "tooltip.ability.detect": {
+      "en": "This unit can detect nearby invisible units.",
+      "->": ""
+    },
+    "tooltip.ability.disband": {
+      "en": "Remove any of your own units and get half of its cost in return.",
+      "->": "uvol'te lyubogo vashego poddannogo i poluchite polovinu ego stoimosti obratno."
+    },
+    "tooltip.ability.disloyal": {
+      "en": "This unit switches side to the previous ruler when the area they are in is captured",
+      "->": ""
+    },
+    "tooltip.ability.dividend": {
+      "en": "Gives 1 star income per peace treaty per turn.",
+      "->": ""
+    },
+    "tooltip.ability.eat": {
+      "en": "This unit grows in length for each enemy it kills.",
+      "->": ""
+    },
+    "tooltip.ability.embassy": {
+      "en": "Allow construction of Embassies in foreign capitals. Embassies provide income for both parties as long as they are not at war. The income is doubled if you have a peace treaty.",
+      "->": ""
+    },
+    "tooltip.ability.escape": {
+      "en": "This unit can move again after attacking.",
+      "->": "poddannyy mojet peredvigat'sya vnov' posle ataki."
+    },
+    "tooltip.ability.explode": {
+      "en": "Make your units explode inflicting poison and collateral damage to surrounding enemies.",
+      "->": ""
+    },
+    "tooltip.ability.fly": {
+      "en": "This unit can fly over any terrain with no movement penalties or bonuses.",
+      "->": "poddannyy mojet letat' nad lyuboy territoriey bez zamedleniy ili uskoreniy."
+    },
+    "tooltip.ability.fortify": {
+      "en": "This unit gets a defense bonus when defending in its own cities, double bonus with a city wall.",
+      "->": "poddannyy poluchaet bonus zatshity, kogda nahoditsya v svoyom gorode. dvoynoy bonus so stenoy."
+    },
+    "tooltip.ability.freeze": {
+      "en": "This unit freezes its enemies when attacking them so they cannot move.",
+      "->": "poddannyy zamorajivaet svoih vragov. kogda ih atakuyut, oni ne mogut dvigat'sya."
+    },
+    "tooltip.ability.freezearea": {
+      "en": "This unit can freeze the surrounding tiles including any enemy units.",
+      "->": ""
+    },
+    "tooltip.ability.glide": {
+      "en": "All non-skating units get an extra move when moving on ice.",
+      "->": "vse nesanochnye poddannye dvigayutsya na l'du."
+    },
+    "tooltip.ability.grow": {
+      "en": "This unit will eventually grow and become something else.",
+      "->": "poddannyy vyrastet ili stanet chem-to drugim."
+    },
+    "tooltip.ability.heal": {
+      "en": "This unit can heal surrounding units.",
+      "->": "poddanyy mojet vylechit' drugih v okruge."
+    },
+    "tooltip.ability.hide": {
+      "en": "This unit hides when it moves, becoming invisible to the enemy.",
+      "->": ""
+    },
+    "tooltip.ability.independent": {
+      "en": "This unit does not require any support from its home city.",
+      "->": ""
+    },
+    "tooltip.ability.infiltrate": {
+      "en": "This unit can enter enemy cities to incite revolts.",
+      "->": ""
+    },
+    "tooltip.ability.literacy": {
+      "en": "Reduce the price of all technologies by {0}%.",
+      "->": "umen'shaet stoimost' vseh tehnologiy na 20%."
+    },
+    "tooltip.ability.navigate": {
+      "en": "This unit can move in any terrain even if you do not have the tech needed to move there.",
+      "->": "poddanyy mojet dvigat'sya po lyuboy territorii, daje esli neobhodimo issledovanie."
+    },
+    "tooltip.ability.peacetreaty": {
+      "en": "Send an offer of entering a peace treaty to another tribe. \nYou find this function in the 'Tribe Info Screen', click the name of a tribe to get there.",
+      "->": ""
+    },
+    "tooltip.ability.persist": {
+      "en": "This unit can keep attacking as long as it completely kills its victims.",
+      "->": "poddannyy mojet delat' atakovat' vnov', esli do etogo predydutshaya cel' byla ubita."
+    },
+    "tooltip.ability.poison": {
+      "en": "Inflicts poison to enemies when attacking. Poisoned units lose all defense bonuses and spread spores when they die.",
+      "->": ""
+    },
+    "tooltip.ability.scout": {
+      "en": "This unit has double vision range.",
+      "->": "poddannyy imeet dvoynoy radius obzora."
+    },
+    "tooltip.ability.skate": {
+      "en": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
+      "->": "poddannyy poluchaet dvoynoe peredvijenie po l'du, no na zemle on teryaet sposobnosti i dvigaetsya tol'ko na 1 plitku."
+    },
+    "tooltip.ability.sneak": {
+      "en": "This unit can move past enemy units without stopping.",
+      "->": "poddannyy mojet prohodit' mimo vragov bez zamedleniya."
+    },
+    "tooltip.ability.splash": {
+      "en": "This unit causes splash damage to nearby units when attacking.",
+      "->": "poddannyy nanosit rasseyyannyy uron po vsem blijayshim poddannym pri atake."
+    },
+    "tooltip.ability.surprise": {
+      "en": "Enemies don't retaliate when you attack them, even at close range.",
+      "->": ""
+    },
+    "tooltip.ability.swim": {
+      "en": "This unit can move on water.",
+      "->": "etot poddannyy - amfibiya i mojet peredvigat'sya po vode i sushe."
+    },
+    "tooltip.tile.blocked": {
+      "en": "This resource is blocked by an enemy unit",
+      "->": "etot resurs zablokirovan vrajeskim poddannym"
+    },
+    "tooltip.tile.capture": {
+      "en": "This city is being captured.",
+      "->": "etot gorod byl zahvachen."
+    },
+    "tooltip.tile.capture.enemy": {
+      "en": "Your city is being captured by the enemy!",
+      "->": "vash gorod zahvatyvaetsya vragom!"
+    },
+    "tooltip.tile.capture.tip": {
+      "en": "Move a unit here to capture this city!",
+      "->": "peredvin'te poddannogo syuda, chtoby zahvatit' gorod!"
+    },
+    "tooltip.tile.choose_unit": {
+      "en": "Choose a unit to train.",
+      "->": "vyberite, kakogo poddannogo proizvesti."
+    },
+    "tooltip.tile.explore": {
+      "en": "Explore this area to see what it holds!",
+      "->": "issleduyte plotshad', chtoby uznat', chto ona soderjit!"
+    },
+    "tooltip.tile.extract.convert": {
+      "en": "This resource can be transformed into a unit",
+      "->": "etot resurs mojet byt' prevratshyon v poddannogo"
+    },
+    "tooltip.tile.extract.research": {
+      "en": "You need to research {0} to extract this resource",
+      "->": "vam nujno issledovat' {0} dlya dobychi etogo resursa"
+    },
+    "tooltip.tile.extract.stars": {
+      "en": "Extract this resource to earn stars instantly",
+      "->": "dobud'te etot resurs dlya mgnovennogo polucheniya zvyozd"
+    },
+    "tooltip.tile.extract.upgrade": {
+      "en": "Extract this resource to upgrade your city",
+      "->": "dobud'te etot resurs dlya uluchsheniya goroda"
+    },
+    "tooltip.tile.level.max": {
+      "en": "Has reached maximum level",
+      "->": "dostig maks. urovnya"
+    },
+    "tooltip.tile.level.next": {
+      "en": "Next level in {0} turns",
+      "->": "sleduyutshiy uroven' cherez {0} hod(ov)"
+    },
+    "tooltip.tile.level.polaris": {
+      "en": "Freeze {0} more tiles to reach the next level",
+      "->": "zamoroz'te {0} bol'she plitok, chtoby poluchit' sleduyutshiy uroven'"
+    },
+    "tooltip.tile.limit": {
+      "en": "This city cannot support any more units.",
+      "->": "etot gorod ne pojet vyderjat' bol'she poddannyh."
+    },
+    "tooltip.tile.monuments": {
+      "en": "Monuments give your empire extra score!",
+      "->": "monumenty dayut dop. ochki vashey imperii!"
+    },
+    "tooltip.tile.outside": {
+      "en": "This resource is outside of your empire",
+      "->": "etot resurs za predelami imperii"
+    },
+    "tooltip.tile.produces": {
+      "en": "Produces {0} each turn.",
+      "->": "proizvodit {0} kajdyy hod."
+    },
+    "tooltip.tile.research": {
+      "en": "You need to research {0} to be able to move here",
+      "->": "vam nujno issledovat' {0} dlya peredvijeniya zdes'"
+    },
+    "tooltip.tile.riot": {
+      "en": "There are riots in this city! It produces no income this turn.",
+      "->": ""
+    },
+    "tooltip.tile.road": {
+      "en": "Build a road to connect this city to your capital.",
+      "->": "postroyte dorogu, chtoby soedinit' etot gorod so stolicey."
+    },
+    "tooltip.tile.ruin": {
+      "en": "Move a unit here and examine these ancient ruins.",
+      "->": "peredvigayte poddannogo syuda dlya izucheniya drevnih ruin."
+    },
+    "tooltip.tile.sailing": {
+      "en": "Move a unit here to start sailing!",
+      "->": "peredvin'te syuda poddannogo dlya plavaniya!"
+    },
+    "tooltip.unit.actions.attack": {
+      "en": "Click a red mark to attack!",
+      "->": "najmite krasnoe pole dlya ataki!"
+    },
+    "tooltip.unit.actions.move": {
+      "en": "Click a blue mark to move.",
+      "->": "najmite na sinee pole dlya dvijeniya."
+    },
+    "tooltip.unit.actions.none": {
+      "en": "No actions left. Press 'Next Turn' to move this unit again.",
+      "->": "net dostupnyh deystviy. najmite 'sled. hod', chtoby peredvigat' etogo poddannogo snova."
+    },
+    "tooltip.unit.ally": {
+      "en": "This is your ally.",
+      "->": ""
+    },
+    "tooltip.unit.city.capture": {
+      "en": "Tap 'Capture' to add this city to your empire",
+      "->": "najmite 'zahvatit'' chtoby vnesti etot gorod v vashu imperiyu"
+    },
+    "tooltip.unit.city.capture.next": {
+      "en": "This city will be ready to capture next turn",
+      "->": "etot gorod budet gotov k zavhvatu na sleduyutshem hodu"
+    },
+    "tooltip.unit.enemy": {
+      "en": "This is the enemy!",
+      "->": "eto vrag!"
+    },
+    "tooltip.unit.enemy.brokenpeace": {
+      "en": "You can attack this unit next turn.",
+      "->": ""
+    },
+    "tooltip.unit.enemy.city": {
+      "en": "This enemy is capturing your city!",
+      "->": "etot vrag zahvatyvaet vash gorod!"
+    },
+    "tooltip.unit.enemy.territory": {
+      "en": "This enemy is in your territory!",
+      "->": "eto vrag na vashey territorii!"
+    },
+    "tooltip.unit.grow.later": {
+      "en": "Will grow to {0} in {1} turns.",
+      "->": "budet rasti do {0} cherez {1} hod(ov)."
+    },
+    "tooltip.unit.grow.now": {
+      "en": "Will grow to {0} at the end of this turn!",
+      "->": "budet rasti do {0} k koncu hoda!"
+    },
+    "topbar.score": {
+      "en": "Score",
+      "->": "schyot"
+    },
+    "topbar.stars": {
+      "en": "Stars (+{0})",
+      "->": "zvyozd (+{0})"
+    },
+    "topbar.turn": {
+      "en": "Turn",
+      "->": "hod"
+    },
+    "tribepicker.anonymous": {
+      "en": "Anonymous",
+      "->": "anonim"
+    },
+    "tribepicker.buy": {
+      "en": "BUY",
+      "->": ""
+    },
+    "tribepicker.categories.humantribes": {
+      "en": "Regular Tribes",
+      "->": "obychnye plemena"
+    },
+    "tribepicker.categories.random": {
+      "en": "Let fate decide!",
+      "->": "pust' reshit sluchaynost'!"
+    },
+    "tribepicker.categories.random.button": {
+      "en": "RANDOM TRIBE",
+      "->": "sluchaynoe plemya"
+    },
+    "tribepicker.categories.random.selected.text": {
+      "en": "Random tribe selected",
+      "->": "vybrano sluchaynoe plemya"
+    },
+    "tribepicker.categories.random.selected.title": {
+      "en": "Alakazam!",
+      "->": "abra-kadabra!"
+    },
+    "tribepicker.categories.specialtribes": {
+      "en": "Special Tribes",
+      "->": "osobennye plemena"
+    },
+    "tribepicker.categories.specialtribes.description": {
+      "en": "A collection of tribes that are a bit out of this world...",
+      "->": "sborka plemyon, kotorye nemnogo udivili etot mir..."
+    },
+    "tribepicker.disable": {
+      "en": "DISABLE",
+      "->": "otklyuchyon"
+    },
+    "tribepicker.disabled": {
+      "en": "Disabled",
+      "->": "otklyuchyon"
+    },
+    "tribepicker.disabled.description": {
+      "en": "Tribe disabled, it cannot be used by you or the AI.",
+      "->": "plemya otklyucheno, ono ne mojet byt' zadeystvovano vami ili ii."
+    },
+    "tribepicker.enable": {
+      "en": "ENABLE",
+      "->": "dostupen"
+    },
+    "tribepicker.firstplayer": {
+      "en": "First player must be a human",
+      "->": "pervym plemenem doljen byt' chelovek"
+    },
+    "tribepicker.freetribe": {
+      "en": "Free Tribe",
+      "->": "besplatnye plemena"
+    },
+    "tribepicker.freetribe.description": {
+      "en": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
+      "->": "eto plemya besplatno i ne mojet byt' kupleno dlya razblokirovki mnogopol'zovatel'skogo rejima."
+    },
+    "tribepicker.gamemode": {
+      "en": "Game Mode: {0}",
+      "->": "rejim igry: {0}"
+    },
+    "tribepicker.getdlc": {
+      "en": "GET DLC",
+      "->": ""
+    },
+    "tribepicker.mapsize": {
+      "en": "Map Size: {0} tiles",
+      "->": "razmer karty: {0} plitok"
+    },
+    "tribepicker.maptype": {
+      "en": "Map Type: {0}",
+      "->": ""
+    },
+    "tribepicker.news.readmore": {
+      "en": "Read more...",
+      "->": "uznat' bol'she..."
+    },
+    "tribepicker.pick": {
+      "en": "PICK",
+      "->": "vybrat'"
+    },
+    "tribepicker.pickyour": {
+      "en": "Pick your tribe",
+      "->": "vyberite svoyo plemya"
+    },
+    "tribepicker.players": {
+      "en": "{0} players",
+      "->": "{0} igrokov"
+    },
+    "tribepicker.playertype": {
+      "en": "Player type",
+      "->": "tip igroka"
+    },
+    "tribepicker.reset": {
+      "en": "Reset Purchases",
+      "->": "sbros pokupok"
+    },
+    "tribepicker.restore": {
+      "en": "Restore Purchases",
+      "->": "vosstanovit' pokupki"
+    },
+    "tribepicker.restoring": {
+      "en": "Restoring...",
+      "->": "vosstanovlenie..."
+    },
+    "tribepicker.taken": {
+      "en": "Taken",
+      "->": "vybran"
+    },
+    "tribepicker.tba": {
+      "en": "TBA",
+      "->": ""
+    },
+    "tribepicker.title": {
+      "en": "PICK YOUR TRIBE",
+      "->": "vyberite plemya"
+    },
+    "tribepicker.toprating": {
+      "en": "Top rating {0}%",
+      "->": "luchshiy reyting {0}%"
+    },
+    "tribepicker.toprating.next": {
+      "en": "{0}% needed for next star",
+      "->": "{0}% nujno do sleduyutshey zvezdy"
+    },
+    "tribepicker.topscore": {
+      "en": "Top score {0}",
+      "->": "luchshiy schyot {0}"
+    },
+    "tribepicker.topscore.next": {
+      "en": "{0} for next star",
+      "->": "{0} do sleduyutshey zvezdy"
+    },
+    "tribepicker.underconstruction": {
+      "en": "Under Construction",
+      "->": "v razrabotke"
+    },
+    "tribepicker.underconstruction.description": {
+      "en": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
+      "->": "my etshyo rabotaet nad vneseniem novyh plemyon. rastim kul'tury, razrabatyvaem yazyk i arhitekturu. eto dolgo, poymite. sleduyte @Midjiwan v Instagram ili Twitter i bud'te pervym, kto uznaet o novom plemeni!"
+    },
+    "tribepicker.waiting": {
+      "en": "WAITING",
+      "->": ""
+    },
+    "tribepicker.yourname": {
+      "en": "Your Name",
+      "->": "vashe imya"
+    },
+    "tribes.aimo": {
+      "en": "Ai-Mo",
+      "->": ""
+    },
+    "tribes.aimo.info": {
+      "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "spokoynye i mudrye {0} obitayut v samyh surovyh, vetryannyh i vysokih gorah,gde oni obreli mir po sredstvom meditacii v vechnom svete vechera. \n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.aquarion": {
+      "en": "Aquarion",
+      "->": ""
+    },
+    "tribes.aquarion.info": {
+      "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
+      "->": "s glubin okeanov poyavlyaetsya davno poteryannaya civilizaciya! ih absolyutnaya izolyaciya dala im special'nye akvaticheskie sposobnosti, chto ne izvestny nikomu drugomu.\n\n{0} imeyut nemnogo drugoe drevo tehnologiy i dostup k unikal'nym amfibiyam-naezdnikam, chto nikakoe drugoe plemya ne mojet vyvesti."
+    },
+    "tribes.bardur": {
+      "en": "Bardur",
+      "->": ""
+    },
+    "tribes.bardur.info": {
+      "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "perejit' surovuyu zimu lesov plemeni {0} ne lyozkaya zadacha,no {0}, kajetsya procvetaet tut.\n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.cymanti": {
+      "en": "Cymanti",
+      "->": ""
+    },
+    "tribes.cymanti.info": {
+      "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
+      "->": ""
+    },
+    "tribes.elyrion": {
+      "en": "∑∫ỹriȱŋ",
+      "->": "el'rion"
+    },
+    "tribes.elyrion.info": {
+      "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
+      "->": "misticheskie {0} oboronyayut svoi lesa so svetloy magiey i svirepyh ognedyshashih drakonov! \n\n otnosyatsya k prirode, kak k svyatyne i ne mogut vyrubat' lesa ili ohotit'sya na jivotnyhm, vmesto etogo oni nachinayut igru s unikal'noy zacharovannoy tehnologiey, kotoraya prevratshaet obychnyh jivotnyh v sil'nyh politavrov."
+    },
+    "tribes.hoodrick": {
+      "en": "Hoodrick",
+      "->": ""
+    },
+    "tribes.hoodrick.info": {
+      "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "pojeltevshaya osennya listva lesov {0} yavlyayutsya otlichnoy maskirovkoy dlya ih obitateley. \n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.imperius": {
+      "en": "Imperius",
+      "->": ""
+    },
+    "tribes.imperius.info": {
+      "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "bol'shie gory i zelyonye luna. klimat idealen dlya vyratshivaniya fruktov. \n\n{0} nachinayut igru s tehnologiey '{1}' ."
+    },
+    "tribes.kickoo": {
+      "en": "Kickoo",
+      "->": "Kikoo"
+    },
+    "tribes.kickoo.info": {
+      "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "belye peschannye plyaji s kokosovymi pal'mami. izobilie fruktov i ryby. dobro pojalovat' v domik {0}. \n\n{0} nachinayut igru s tehnologiey '{1}' tech."
+    },
+    "tribes.luxidoor": {
+      "en": "Luxidoor",
+      "->": ""
+    },
+    "tribes.luxidoor.info": {
+      "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
+      "->": "jiteli {0} vedut ochen' komfortnuyu jizn', ukutanymi v luchshie fioletovye shelka. no smogut li oni vyjit' snaruji ih prekrasnogo goroda? \n\n{0} nachinayut igru s bol'shoy stolicy."
+    },
+    "tribes.nature": {
+      "en": "Nature",
+      "->": "priroda"
+    },
+    "tribes.oumaji": {
+      "en": "Oumaji",
+      "->": "Oumadji"
+    },
+    "tribes.oumaji.info": {
+      "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "pohojee na beskonechnost', solnce blagoslovlyalo pustynyu, dom plemeni {0}.\n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.polaris": {
+      "en": "Polaris",
+      "->": "polaris"
+    },
+    "tribes.polaris.info": {
+      "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
+      "->": " {0} zatocheny v dalyokih ledyanyh tundrah na veka, no osvobodilis' neizvestnym gaami s siloy, kotoraya rasshiryaet ih nenastoyatshuyu ledyanuyu territoriyu dal'she, chem pozvoleno pogodoy. \n\n s moguchimi sanyami i mamontami, misticheskie {0} namereny pogruzit' mir v lyod i prevratit' zemli v zamorojennyy ray. \n\n{0} nachinaet igru so sposobnosti k zamorozke vokrug territorii s pomotsh'yu muni."
+    },
+    "tribes.quetzali": {
+      "en": "Quetzali",
+      "->": ""
+    },
+    "tribes.quetzali.info": {
+      "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "plemya {0} poklonyaetsya pticam-bogam krasnoy zemli i jivut v garmonii s ih natural'noy simmetriey kubisticheskih djungley. tak je oni osedlali bol'shih neletayutshih ptic. \n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.vengir": {
+      "en": "Vengir",
+      "->": ""
+    },
+    "tribes.vengir.info": {
+      "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
+      "->": "nahmurivshis', ih otpravili v neblagopriyatnye pustoshi. budut li oni terpet' eto unijenie ili poboryatsya za mesto pod solncem? \n\n{0} nachinayut igru s tehnologiey '{1}' i sil'nyh mechnikov."
+    },
+    "tribes.xinxi": {
+      "en": "Xin-xi",
+      "->": "Xin'-Xi"
+    },
+    "tribes.xinxi.info": {
+      "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "oni nachali svoyo puteshestvie v gorah, okrujyonnyh krasivymi cvetutshimi vishnyami.\n\n{0} nachinayut igru s tehnologiey '{1}' ."
+    },
+    "tribes.yadakk": {
+      "en": "Yădakk",
+      "->": "yadakk"
+    },
+    "tribes.yadakk.info": {
+      "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
+      "->": " {0} nachali, kak kochuetshee plemya v prekrasnyh i surovyh halivofyh ravninah. teper' oni glavnye torgovcy v okruge, kotorye podklyuchayut k svoey imperii mnojestvo torgovyh putey. \n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.zebasi": {
+      "en": "Zebasi",
+      "->": ""
+    },
+    "tribes.zebasi.info": {
+      "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "{0} procvetayut v tyoploy savanne, vyratshivayut kul'tury v obogatshyonnoy pochve dlya prokormki ih moguchego naroda. \n\n{0} nachinayut igru s tehnologiey '{1}'."
+    },
+    "tribes.zebasi.news": {
+      "en": "All profits from the Zebasi tribe is invested in solar energy projects.",
+      "->": "vse zarabotannye den'gi na zebasi investiruyutsya v proekty po vyrabotke solnechnoy energii."
+    },
+    "tutorial.completed.description": {
+      "en": "You have now mastered the basic skills to play Polytopia, but there is so much more to discover!\nFinish this game by getting the highest possible score before the time runs out.",
+      "->": ""
+    },
+    "tutorial.completed.title": {
+      "en": "Boot Camp Completed!",
+      "->": ""
+    },
+    "tutorial.suggestion.description": {
+      "en": "Someone is hiding here in the clouds...",
+      "->": ""
+    },
+    "tutorial.task.capturevillage": {
+      "en": "Move your unit to a village and capture it.",
+      "->": ""
+    },
+    "tutorial.task.capturevillage.description": {
+      "en": "Click your unit in the city. The blue markers that appear on the map are places the unit can move to this turn.\nAfter moving the unit you need to end your turn for it to be able to move again.",
+      "->": ""
+    },
+    "tutorial.task.capturevillage.title": {
+      "en": "Move a Unit",
+      "->": ""
+    },
+    "tutorial.task.endTurn": {
+      "en": "A good first round! End your turn to give your unit new energy.",
+      "->": ""
+    },
+    "tutorial.task.endTurn.description": {
+      "en": "Click the 'End Turn' button to give new energy to your units and collect more stars.",
+      "->": ""
+    },
+    "tutorial.task.endTurn.title": {
+      "en": "End Turn",
+      "->": ""
+    },
+    "tutorial.task.harvestfruit": {
+      "en": "Harvest fruit to grow your city!",
+      "->": ""
+    },
+    "tutorial.task.harvestfruit.description": {
+      "en": "Click a fruit tile within the borders of your city and select the 'Harvest Fruit' option. By extracting resources within your borders you can level up your city.",
+      "->": ""
+    },
+    "tutorial.task.harvestfruit.title": {
+      "en": "Grow your city",
+      "->": ""
+    },
+    "tutorial.task.meetTribe": {
+      "en": "There is another tribe hiding somewhere on the Square. See if you can find them!",
+      "->": ""
+    },
+    "tutorial.task.meetTribe.description": {
+      "en": "You are not alone! There are other tribes in this game too and they also try to expand their empires as much as possible. That often leads to conflicts so keep an eye out for your opponents.",
+      "->": ""
+    },
+    "tutorial.task.meetTribe.title": {
+      "en": "Other Tribes",
+      "->": ""
+    },
+    "tutorial.task.trainunit": {
+      "en": "Train a warrior so we can capture that village.",
+      "->": ""
+    },
+    "tutorial.task.trainunit.description": {
+      "en": "Click on your city and select the unit you want to train. Units can be used to explore the map, capture villages and fight your opponents.",
+      "->": ""
+    },
+    "tutorial.task.trainunit.title": {
+      "en": "Training units",
+      "->": ""
+    },
+    "tutorial.task.unlockTech": {
+      "en": "Wild animals can be hunted to grow your city even more. Let's research how to hunt!",
+      "->": ""
+    },
+    "tutorial.task.unlockTech.description": {
+      "en": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!",
+      "->": ""
+    },
+    "tutorial.task.unlockTech.title": {
+      "en": "Tech tree",
+      "->": ""
+    },
+    "unit": {
+      "en": "unit",
+      "->": "poddanyy"
+    },
+    "unit.abilities.agent": {
+      "en": "AGENT",
+      "->": ""
+    },
+    "unit.abilities.autofreeze": {
+      "en": "AUTO FREEZE",
+      "->": "avto-zamorozka"
+    },
+    "unit.abilities.boost": {
+      "en": "BOOST",
+      "->": ""
+    },
+    "unit.abilities.build": {
+      "en": "BUILD",
+      "->": "stroenie"
+    },
+    "unit.abilities.carry": {
+      "en": "CARRY",
+      "->": "vynesti"
+    },
+    "unit.abilities.convert": {
+      "en": "CONVERT",
+      "->": "prevratshenie"
+    },
+    "unit.abilities.creep": {
+      "en": "CREEP",
+      "->": ""
+    },
+    "unit.abilities.crush": {
+      "en": "CRUSH",
+      "->": ""
+    },
+    "unit.abilities.dash": {
+      "en": "DASH",
+      "->": "udar"
+    },
+    "unit.abilities.decay": {
+      "en": "DECAY",
+      "->": "raspad"
+    },
+    "unit.abilities.detect": {
+      "en": "DETECT",
+      "->": ""
+    },
+    "unit.abilities.disloyal": {
+      "en": "DISLOYAL",
+      "->": ""
+    },
+    "unit.abilities.eat": {
+      "en": "EAT",
+      "->": ""
+    },
+    "unit.abilities.escape": {
+      "en": "ESCAPE",
+      "->": "pobeg"
+    },
+    "unit.abilities.explode": {
+      "en": "EXPLODE",
+      "->": ""
+    },
+    "unit.abilities.fly": {
+      "en": "FLY",
+      "->": "polyot"
+    },
+    "unit.abilities.fortify": {
+      "en": "FORTIFY",
+      "->": "oborona"
+    },
+    "unit.abilities.freeze": {
+      "en": "FREEZE",
+      "->": "zamorajivanie"
+    },
+    "unit.abilities.freezearea": {
+      "en": "FREEZE AREA",
+      "->": "zamorozit' plotshad'"
+    },
+    "unit.abilities.grow": {
+      "en": "GROW",
+      "->": "rostit'"
+    },
+    "unit.abilities.heal": {
+      "en": "HEAL",
+      "->": "lechenie"
+    },
+    "unit.abilities.hide": {
+      "en": "HIDE",
+      "->": "spryatat'sya"
+    },
+    "unit.abilities.independent": {
+      "en": "INDEPENDENT",
+      "->": ""
+    },
+    "unit.abilities.infiltrate": {
+      "en": "INFILTRATE",
+      "->": ""
+    },
+    "unit.abilities.navigate": {
+      "en": "NAVIGATE",
+      "->": "navigaciya"
+    },
+    "unit.abilities.persist": {
+      "en": "PERSIST",
+      "->": "soprotivlenie"
+    },
+    "unit.abilities.poison": {
+      "en": "POISON",
+      "->": ""
+    },
+    "unit.abilities.scout": {
+      "en": "SCOUT",
+      "->": "razvedka"
+    },
+    "unit.abilities.skate": {
+      "en": "SKATE",
+      "->": "katit'sya"
+    },
+    "unit.abilities.sneak": {
+      "en": "SNEAK",
+      "->": "krast'sya"
+    },
+    "unit.abilities.splash": {
+      "en": "SPLASH",
+      "->": "srpey"
+    },
+    "unit.abilities.surprise": {
+      "en": "SURPRISE",
+      "->": ""
+    },
+    "unit.abilities.swim": {
+      "en": "FLOAT",
+      "->": "plavat'"
+    },
+    "unit.ability": {
+      "en": "ability",
+      "->": "sposobnost'"
+    },
+    "unit.info.attack": {
+      "en": "Attack",
+      "->": "uron"
+    },
+    "unit.info.defence": {
+      "en": "Defense",
+      "->": "zatshita"
+    },
+    "unit.info.health": {
+      "en": "Health",
+      "->": "zdorov'e"
+    },
+    "unit.info.movement": {
+      "en": "Movement",
+      "->": "peredvijenie"
+    },
+    "unit.info.range": {
+      "en": "Range",
+      "->": "distanciya"
+    },
+    "unit.info.skills": {
+      "en": "Skills",
+      "->": "sposobnosti"
+    },
+    "unit.names.amphibian": {
+      "en": "Amphibian",
+      "->": "amfibiya"
+    },
+    "unit.names.archer": {
+      "en": "Archer",
+      "->": "luchnik"
+    },
+    "unit.names.babydragon": {
+      "en": "Baby Dragon",
+      "->": ""
+    },
+    "unit.names.battleship": {
+      "en": "Battleship",
+      "->": "linkorn"
+    },
+    "unit.names.battlesled": {
+      "en": "Battle Sled",
+      "->": "boevye sani"
+    },
+    "unit.names.boat": {
+      "en": "Boat",
+      "->": "lodka"
+    },
+    "unit.names.bunny": {
+      "en": "Bunny",
+      "->": "krolik"
+    },
+    "unit.names.catapult": {
+      "en": "Catapult",
+      "->": "katapul'ta"
+    },
+    "unit.names.centipede": {
+      "en": "Centipede",
+      "->": ""
+    },
+    "unit.names.cloak": {
+      "en": "Cloak",
+      "->": ""
+    },
+    "unit.names.cloak_boat": {
+      "en": "Dinghy",
+      "->": ""
+    },
+    "unit.names.crab": {
+      "en": "Crab",
+      "->": "krab"
+    },
+    "unit.names.dagger": {
+      "en": "Dagger",
+      "->": ""
+    },
+    "unit.names.defender": {
+      "en": "Defender",
+      "->": "tshitovik"
+    },
+    "unit.names.doomux": {
+      "en": "Doomux",
+      "->": ""
+    },
+    "unit.names.dragonegg": {
+      "en": "Dragon Egg",
+      "->": ""
+    },
+    "unit.names.exida": {
+      "en": "Exida",
+      "->": ""
+    },
+    "unit.names.firedragon": {
+      "en": "Fire Dragon",
+      "->": ""
+    },
+    "unit.names.gaami": {
+      "en": "Gaami",
+      "->": ""
+    },
+    "unit.names.giant": {
+      "en": "Giant",
+      "->": "gigant"
+    },
+    "unit.names.hexapod": {
+      "en": "Hexapod",
+      "->": ""
+    },
+    "unit.names.icearcher": {
+      "en": "Ice Archer",
+      "->": "ledyanoy luchnik"
+    },
+    "unit.names.icefortress": {
+      "en": "Ice Fortress",
+      "->": ""
+    },
+    "unit.names.kiton": {
+      "en": "Kiton",
+      "->": ""
+    },
+    "unit.names.knight": {
+      "en": "Knight",
+      "->": "rycar'"
+    },
+    "unit.names.mindbender": {
+      "en": "Mind Bender",
+      "->": ""
+    },
+    "unit.names.mooni": {
+      "en": "Mooni",
+      "->": ""
+    },
+    "unit.names.navalon": {
+      "en": "Navalon",
+      "->": ""
+    },
+    "unit.names.phychi": {
+      "en": "Phychi",
+      "->": ""
+    },
+    "unit.names.polytaur": {
+      "en": "Polytaur",
+      "->": "politavr"
+    },
+    "unit.names.raychi": {
+      "en": "Raychi",
+      "->": ""
+    },
+    "unit.names.rider": {
+      "en": "Rider",
+      "->": "naezdnik"
+    },
+    "unit.names.santa": {
+      "en": "Bunta",
+      "->": ""
+    },
+    "unit.names.scout": {
+      "en": "Scout",
+      "->": "razvedchik"
+    },
+    "unit.names.segment": {
+      "en": "Segment",
+      "->": ""
+    },
+    "unit.names.shaman": {
+      "en": "Shaman",
+      "->": ""
+    },
+    "unit.names.ship": {
+      "en": "Ship",
+      "->": "shhuna"
+    },
+    "unit.names.swordsman": {
+      "en": "Swordsman",
+      "->": ""
+    },
+    "unit.names.tridention": {
+      "en": "Tridention",
+      "->": ""
+    },
+    "unit.names.warrior": {
+      "en": "Warrior",
+      "->": "voin"
+    },
+    "updateavatar.description": {
+      "en": "Press the avatar to give birth to a new wild creation",
+      "->": ""
+    },
+    "updateavatar.save": {
+      "en": "SAVE",
+      "->": ""
+    },
+    "updateavatar.title": {
+      "en": "Update Avatar",
+      "->": ""
+    },
+    "validation.error.steam": {
+      "en": "Failed to validate app through Steam, you need to start the game through Steam to be able to play",
+      "->": ""
+    },
+    "validation.error.title": {
+      "en": "Validation error",
+      "->": ""
+    },
+    "versioning.highscores": {
+      "en": "You can't get your score on the highscore list with this version of the game. Update the game if you're after that sweet fame.",
+      "->": ""
+    },
+    "versioning.highscores.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.newmatchmaking": {
+      "en": "You have to update the game to start new random matches.",
+      "->": ""
+    },
+    "versioning.newmatchmaking.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.newmultiplayer": {
+      "en": "You have to update the game to start new multiplayer games.",
+      "->": ""
+    },
+    "versioning.newmultiplayer.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.systemmessage.title": {
+      "en": "Info",
+      "->": ""
+    },
+    "versioning.unmigrateduser": {
+      "en": "This user has not yet updated to Moonrise",
+      "->": ""
+    },
+    "versioning.unmigrateduser.title": {
+      "en": "User unavailable",
+      "->": ""
+    },
+    "versioning.updateapp": {
+      "en": "We built new cool stuff that unfortunately means this version of the game is no longer playable. Please update to get back into the game!",
+      "->": ""
+    },
+    "versioning.updateapp.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "versioning.updatenetwork": {
+      "en": "You need to update to use network features such as multiplayer, highscores, etc.",
+      "->": ""
+    },
+    "versioning.updatenetwork.title": {
+      "en": "Update Needed",
+      "->": ""
+    },
+    "wcontroller.building.upgrade": {
+      "en": "Your {0} upgraded to a {1}!",
+      "->": "vashe {0} uluchshen do {1}!"
+    },
+    "wcontroller.building.upgrade.reward": {
+      "en": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
+      "->": "{0} uluchshen do urovnya {1} i ego vyrabotka vozrosla na +1. vy tak je poluchili doa. bonus:"
+    },
+    "wcontroller.capital.captured.description": {
+      "en": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
+      "->": "vy zahvatili stolicu {0}! vse ih torgovye svyazi otkloneni, poka oni ne vosstanovyat vlast' v stolice"
+    },
+    "wcontroller.capital.captured.title": {
+      "en": "Great News!",
+      "->": "horoshie novosti!"
+    },
+    "wcontroller.capital.captured2.description": {
+      "en": "{0} is now part of the {1} empire",
+      "->": "{0} seychas chast' imperii {1}"
+    },
+    "wcontroller.capital.captured2.title": {
+      "en": "City Captured!",
+      "->": "gorod zahvachen!"
+    },
+    "wcontroller.capital.lost.description": {
+      "en": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
+      "->": "vasha stolica zahvachena {0}! vse vashi torgovye svyazi otkloneny, poka vy ne vosstanovite vlast' v stolice"
+    },
+    "wcontroller.capital.lost.title": {
+      "en": "Bad News!",
+      "->": "plohie novosti!"
+    },
+    "wcontroller.capital.regained.description": {
+      "en": "You have regained control of your capital, trade networks are reestablished",
+      "->": "vy utrarili vlast' nad stolicey, torgovye puti destabilizirovany"
+    },
+    "wcontroller.capital.regained.title": {
+      "en": "Great News!",
+      "->": "horoshie novosti!"
+    },
+    "wcontroller.city.disconnect": {
+      "en": "{0} was disconnected from {1}",
+      "->": "{0} byl otsoedinyon {1}"
+    },
+    "wcontroller.city.disconnect.title": {
+      "en": "Trade route lost!",
+      "->": "torgovyy put' poteryan!"
+    },
+    "wcontroller.convertvillage.description": {
+      "en": "The villagers agree to join your emerging empire!",
+      "->": "jiteli prinyali vas i prisoedinilis' k imperii!"
+    },
+    "wcontroller.convertvillage.title": {
+      "en": "Village Converted!",
+      "->": "derevnya prisoedinena!"
+    },
+    "wcontroller.examine.explorer": {
+      "en": "You meet some locals who show you the surrounding lands.",
+      "->": "vy vstretili neskol'ko mestnyh jiteley, kotorye pokazali vam okrestnosti."
+    },
+    "wcontroller.examine.explorer.title": {
+      "en": "Explorer",
+      "->": "razvedchik"
+    },
+    "wcontroller.examine.giant": {
+      "en": "You found a friendly {0} who joined your tribe!",
+      "->": "vy nashli druga {0},kotoryy prisoedinilsya k vam!"
+    },
+    "wcontroller.examine.population": {
+      "en": "You meet a nomadic tribe that settle in your capital!",
+      "->": "vy vstretili kochevnikov, kotorye prisoedinilis' k vashey stolice!"
+    },
+    "wcontroller.examine.population.title": {
+      "en": "Population",
+      "->": "naselenie"
+    },
+    "wcontroller.examine.stars": {
+      "en": "The ancient ruins are filled with valuable resources!",
+      "->": "drevnie ruiny zabity sokrovitshami!"
+    },
+    "wcontroller.examine.stars.title": {
+      "en": "Resources",
+      "->": "resursy"
+    },
+    "wcontroller.examine.swordsman": {
+      "en": "You encountered a mighty Swordsman who decided to join your tribe!",
+      "->": ""
+    },
+    "wcontroller.examine.swordsman.title": {
+      "en": "New Friends!",
+      "->": ""
+    },
+    "wcontroller.examine.tech": {
+      "en": "You found some old scrolls containing the secret of {0}.",
+      "->": "vy nashli neskol'ko staryh svitkov, povestvuyutshih o sekretah {0}."
+    },
+    "wcontroller.examine.tech.title": {
+      "en": "Scrolls of Wisdom",
+      "->": "svitki mudrosti"
+    },
+    "wcontroller.examine.water": {
+      "en": "You encountered a band of friendly pirates who joined your tribe!",
+      "->": "k vam prisoedinilis' piraty!"
+    },
+    "wcontroller.examine.water.elyrion": {
+      "en": "You encountered an enchanted {0} who joined your tribe!",
+      "->": "vy nashli ocharovannogo {0}, kotorye prisoedinilsya k vam!"
+    },
+    "wcontroller.examine.water.title": {
+      "en": "Battleship",
+      "->": "tyaj. korabl'"
+    },
+    "wcontroller.game.lost": {
+      "en": "You've been wiped out. You can continue to spectate this game or return to main menu.",
+      "->": ""
+    },
+    "wcontroller.game.lost.title": {
+      "en": "You've been wiped out!",
+      "->": ""
+    },
+    "wcontroller.kill.upgrade.description": {
+      "en": "Unit is ready to upgrade!",
+      "->": "poddannyy gotov k zahvatu!"
+    },
+    "wcontroller.kill.upgrade.title": {
+      "en": "Level Up!",
+      "->": "povyshenie!"
+    },
+    "wcontroller.load.error": {
+      "en": "There is no saved game to resume, start a new game!",
+      "->": "net staryh igr, nachnite novuyu!"
+    },
+    "wcontroller.load.error.title": {
+      "en": "No saved game",
+      "->": "net sohranyonnyh igr"
+    },
+    "wcontroller.load.notpartof": {
+      "en": "You are not a part of this game",
+      "->": "vy ne v etoy igre"
+    },
+    "wcontroller.load.update": {
+      "en": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",
+      "->": "eta igra ispol'zuet noveyshuyu versiyu politopii, vam nado napravit'sya k {0} i obnovit' eyo."
+    },
+    "wcontroller.load.update.title": {
+      "en": "Update Required",
+      "->": "neobhodimo obnovlenie"
+    },
+    "wcontroller.load.wait": {
+      "en": "Wait until this game has fully downloaded before opening it.",
+      "->": "jdite, poka eta igra polnost'yu skachaetsya, prejde chem otkryt' eyo."
+    },
+    "wcontroller.load.wait.title": {
+      "en": "Still loading...",
+      "->": "vsyo etshyo kachaetsya..."
+    },
+    "wcontroller.matchmaking.gamestarted": {
+      "en": "Random match {0} is ready to go!",
+      "->": ""
+    },
+    "wcontroller.matchmaking.waitingforplayers": {
+      "en": "You joined {0}, waiting for opponents",
+      "->": ""
+    },
+    "wcontroller.meet.tribe.bigger.friendly": {
+      "en": "salutes you friendly but pays no attention to your tiny realm.",
+      "->": "drujelyubno privetstvuet, no ne otdayot chesti vashim malym vladeniyam."
+    },
+    "wcontroller.meet.tribe.bigger.hostile": {
+      "en": "laughs at your puny excuse of a Tribe.",
+      "->": "nad vashimi nichtojnymi izvineniyami."
+    },
+    "wcontroller.meet.tribe.distant": {
+      "en": "A delegation from a distant land arrives in your capital!",
+      "->": ""
+    },
+    "wcontroller.meet.tribe.leader": {
+      "en": "Their leader {0} ",
+      "->": "ih lider"
+    },
+    "wcontroller.meet.tribe.resource.boost": {
+      "en": "The discovery of this {0} tribe gives you a one time trade boost of {1} stars!",
+      "->": ""
+    },
+    "wcontroller.meet.tribe.smaller.friendly": {
+      "en": "bows in awe of your mighty civilization.",
+      "->": "blagogoveyno klanyaetsya vashey moguchey civilizacii."
+    },
+    "wcontroller.meet.tribe.smaller.hostile": {
+      "en": "seems a bit hostile and greet you suspiciously.",
+      "->": "kajetsya nemnogo vrajdebnym i podozritel'no privetstvuet."
+    },
+    "wcontroller.online.yourturn.description": {
+      "en": "Tap ok to continue the game when you are ready.",
+      "->": "najmite ok dlya prodoljeniya igry, esli gotovy."
+    },
+    "wcontroller.online.yourturn.title": {
+      "en": "It's your turn!",
+      "->": "vash hod!"
+    },
+    "wcontroller.picktribe.notification": {
+      "en": "It's your turn to pick tribe in {0}!",
+      "->": ""
+    },
+    "wcontroller.removingplayer": {
+      "en": "Removing Player",
+      "->": "udalenie igroka"
+    },
+    "wcontroller.reward.bordergrowth": {
+      "en": "border growth",
+      "->": "rasshirenie granic"
+    },
+    "wcontroller.reward.citywall": {
+      "en": "city wall",
+      "->": "stena"
+    },
+    "wcontroller.reward.explorer": {
+      "en": "explorer",
+      "->": "razvedchik"
+    },
+    "wcontroller.reward.park": {
+      "en": "park",
+      "->": ""
+    },
+    "wcontroller.reward.populationgrowth": {
+      "en": "population growth",
+      "->": "rost naseleniya"
+    },
+    "wcontroller.reward.rebellion": {
+      "en": "incite rebellion",
+      "->": ""
+    },
+    "wcontroller.reward.resources": {
+      "en": "resources",
+      "->": "resursy"
+    },
+    "wcontroller.reward.superunit": {
+      "en": "super unit",
+      "->": "gigant"
+    },
+    "wcontroller.reward.workshop": {
+      "en": "workshop",
+      "->": "masterskaya"
+    },
+    "wcontroller.tribe.destroy": {
+      "en": "You have destroyed {0}!",
+      "->": "vy unichtojeny {0}!"
+    },
+    "wcontroller.tribe.destroy.all": {
+      "en": "You have destroyed all opposing tribes and unified the entire Square under your command!",
+      "->": "vy unichtojili vseh opponentov i vsya zemlya pod vashim vladeniem!"
+    },
+    "wcontroller.tribe.destroy.all.title": {
+      "en": "Domination!",
+      "->": "dominirovanie!"
+    },
+    "wcontroller.tribe.destroy.title": {
+      "en": "Blood!",
+      "->": "ujas!"
+    },
+    "wcontroller.tribe.destroy2": {
+      "en": "{0} has been destroyed by the {1}!",
+      "->": "{0} unichtojen {1}!"
+    },
+    "wcontroller.tribe.level_1": {
+      "en": "curious",
+      "->": ""
+    },
+    "wcontroller.tribe.level_2": {
+      "en": "sprawling",
+      "->": ""
+    },
+    "wcontroller.tribe.level_3": {
+      "en": "impressive",
+      "->": ""
+    },
+    "wcontroller.tribe.level_4": {
+      "en": "epic",
+      "->": ""
+    },
+    "wcontroller.turn.end": {
+      "en": "Ending turn...",
+      "->": "konec hoda..."
+    },
+    "wcontroller.turn.error": {
+      "en": "Could not reach the multiplayer server. Please make sure you are connected to the Internet and try again.",
+      "->": "ne udalos' dostignut' mnogopol'zovatel'skogo servera. ubedites', chto vy podklyucheny k internetu i poprobuyte etshyo raz."
+    },
+    "wcontroller.turn.error.title": {
+      "en": "Network Error",
+      "->": "oshibka seti"
+    },
+    "wcontroller.turn.next": {
+      "en": "Next up",
+      "->": "dal'she"
+    },
+    "wcontroller.turn.notification": {
+      "en": "It's your turn in {0} (turn {1})",
+      "->": "vash hod v {0} (hod {1})"
+    },
+    "wcontroller.turn.passed": {
+      "en": "Game passed on to {0}",
+      "->": "igra peredana {0}"
+    },
+    "wcontroller.turn.passed.title": {
+      "en": "Turn complete",
+      "->": "hod zavershyon"
+    },
+    "wcontroller.turn.saving": {
+      "en": "Saving game to server...",
+      "->": "sohranenie igry na server..."
+    },
+    "wcontroller.unit.promotion": {
+      "en": "Your unit has gained veteran status! Health increased.",
+      "->": "vash poddannyy poluchil status veterana! povysheno zdorov'e."
+    },
+    "wcontroller.unit.promotion.title": {
+      "en": "Unit Promoted!",
+      "->": "poddannyy prodvinut!"
+    },
+    "world.attract.sanctuary": {
+      "en": "Your sanctuary has attracted a wild animal!",
+      "->": "vashe svyatitshlitshe vyrabotalo dikoe jivotnoe!"
+    },
+    "world.building.capture.ready": {
+      "en": "Will be ready to capture next turn",
+      "->": "budet gotovo k zavhatu na sleduyutshem hodu"
+    },
+    "world.building.capture.ready.title": {
+      "en": "Entering {0}!",
+      "->": "vhod {0}!"
+    },
+    "world.building.capture.warning": {
+      "en": "Capturing will be completed next turn if you don't stop them.",
+      "->": "zahvat budet zavershyon k sleduyutshemu hodu, esli vy ego ne prervyote."
+    },
+    "world.building.capture.warning.title": {
+      "en": "{0} is under siege!",
+      "->": "{0} osajdyon!"
+    },
+    "world.building.info": {
+      "en": "The city of {0}",
+      "->": "gorod {0}"
+    },
+    "world.building.village": {
+      "en": "Village",
+      "->": "derevnya"
+    },
+    "world.infiltrate.header": {
+      "en": "Infiltration Success!",
+      "->": ""
+    },
+    "world.intro.objective": {
+      "en": "Objective: {0}",
+      "->": "ob`ekt: {0}"
+    },
+    "world.intro.text": {
+      "en": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
+      "->": "vy byli vybrany, chtoby upravlyat' plemenem {0}. isleduyte mir i rasshiryayte imperiyu, no opasaytes' drugih plemyon."
+    },
+    "world.intro.title": {
+      "en": "Mighty Leader!",
+      "->": "velikiy lider!"
+    },
+    "world.loading": {
+      "en": "LOADING {0}%",
+      "->": "zagruzka {0}%"
+    },
+    "world.meet.tribe": {
+      "en": "You meet {0}",
+      "->": "vy vstretili {0}"
+    },
+    "world.ranks": {
+      "en": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
+      "->": "1-y,2-y,3-y,4-y,5-y,6-y,7-y,8-y,9-y,10-y,11-y,12-y"
+    },
+    "world.rebellion.description": {
+      "en": "A {0} from the {1} tribe has infiltrated the city of {2} and incited a revolt agains you!",
+      "->": ""
+    },
+    "world.rebellion.title": {
+      "en": "Riots in {0}!",
+      "->": ""
+    },
+    "world.reveal.header": {
+      "en": "Aha!",
+      "->": ""
+    },
+    "world.reveal.text": {
+      "en": "A {0} was revealed!",
+      "->": ""
+    },
+    "world.reward.building": {
+      "en": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",
+      "->": "teper' vy mojete stroit' {0}! etot epichnyy monument budet prinosit' bogatstvo i slavu blijayshemu gorodu."
+    },
+    "world.reward.building.title": {
+      "en": "{0} was completed",
+      "->": "{0} byl zavershyon"
+    },
+    "world.reward.levelup": {
+      "en": "{0} level up!",
+      "->": "{0} povyshen!"
+    },
+    "world.road.connected.message": {
+      "en": "{0} is now connected to your capital!",
+      "->": "{0} teper' soedinyon so stolicey!"
+    },
+    "world.road.connected.title": {
+      "en": "New trade route!",
+      "->": "novyy marshrut torgovli!"
+    },
+    "world.suggestion.disable": {
+      "en": "(These suggestions can be switched off in the menu)",
+      "->": "(eti podskazki mogut byt' vyklyucheny v menyu)"
+    },
+    "world.suggestion.message": {
+      "en": "You should {0}",
+      "->": "vam sleduet {0}"
+    },
+    "world.suggestion.title": {
+      "en": "Here's a Tip!",
+      "->": "podskazka!"
+    },
+    "world.task.new": {
+      "en": "You got a new Task!",
+      "->": "novoe zadanie!"
+    },
+    "world.tech.new.message": {
+      "en": "You have discovered the secret of {0}",
+      "->": "vy issledovali sekret {0}"
+    },
+    "world.tech.new.title": {
+      "en": "New Tech!",
+      "->": "novaya tehnologiya!"
+    },
+    "world.turn.end": {
+      "en": "End Turn",
+      "->": "konec hoda"
+    },
+    "world.turn.end.confirm": {
+      "en": "Confirm",
+      "->": "podtverdit'"
+    },
+    "world.turn.end.question": {
+      "en": "End your turn?",
+      "->": "zavershit' hod?"
+    },
+    "world.turn.exit": {
+      "en": "Exit",
+      "->": "vyhod"
+    },
+    "world.turn.finish": {
+      "en": "Finish Game",
+      "->": "zavershit'"
+    },
+    "world.turn.last": {
+      "en": "Last turn!",
+      "->": "posledniy hod!"
+    },
+    "world.turn.next": {
+      "en": "Next Turn",
+      "->": "sled. hod"
+    },
+    "world.turn.nomoves": {
+      "en": "No more moves available, end turn",
+      "->": "dostupnyh hodov net, zavershite hod"
+    },
+    "world.turn.ready": {
+      "en": "Tap save when ready",
+      "->": "najmite sohranit' ,kogda gotovy"
+    },
+    "world.turn.remaining": {
+      "en": "{0} turns left",
+      "->": "{0} hodov ostalos'"
+    },
+    "world.turn.replaying": {
+      "en": "Replaying...",
+      "->": "povtor..."
+    },
+    "world.turn.skip": {
+      "en": "SKIP",
+      "->": ""
+    },
+    "world.turn.start": {
+      "en": "START",
+      "->": "nachat'"
+    },
+    "world.turn.waiting": {
+      "en": "Waiting for {0} to play...",
+      "->": "jdyom {0} dlya prodoljeniya..."
+    },
+    "world.turn.waiting.playing": {
+      "en": "{0} is playing...",
+      "->": ""
+    },
+    "world.turn.waiting.unknown": {
+      "en": "Waiting for an unknown tribe to play...",
+      "->": "jdyom neizvestnoe plemya dlya prodojeniya..."
+    },
+    "world.turn.your": {
+      "en": "Your turn",
+      "->": "vash hod"
+    },
+    "world.unit.ability": {
+      "en": "Unit Ability",
+      "->": "sposobnost' poddanogo"
+    },
+    "world.unit.attack": {
+      "en": "Attack",
+      "->": "uron"
+    },
+    "world.unit.defence": {
+      "en": "Defense",
+      "->": "zatshita"
+    },
+    "world.unit.disembark.message": {
+      "en": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
+      "->": "ustranenie etogo poddanogo privedyot k ustraneniyu {0}. hotite prodoljit'?"
+    },
+    "world.unit.disembark.title": {
+      "en": "Leave {0}",
+      "->": "pokinut' {0}"
+    },
+    "world.unit.dissolved": {
+      "en": "Your unit has dissolved",
+      "->": "vash poddannyy rastvorilsya"
+    },
+    "world.unit.evolve": {
+      "en": "Your unit has grown into a {0}!",
+      "->": "vash poddannyy vyros do {0}!"
+    },
+    "world.unit.evolve.title": {
+      "en": "Unit Growth",
+      "->": "rost poddannogo"
+    },
+    "world.unit.health": {
+      "en": "Health",
+      "->": "zdorov'e"
+    },
+    "world.unit.info.from": {
+      "en": "From the city of {0}.",
+      "->": "iz goroda {0}."
+    },
+    "world.unit.movement": {
+      "en": "Movement",
+      "->": "peredvijenie"
+    },
+    "world.unit.range": {
+      "en": "Range",
+      "->": "distanciya"
+    },
+    "world.unit.veteran": {
+      "en": "This unit is a veteran.",
+      "->": "etot poddannyy - veteran."
+    },
+    "world.unit.veteran.progress": {
+      "en": "{0}/{1} to become a veteran.",
+      "->": "{0}/{1} do stanovleniya veteranom."
+    }
+  }
+}
