@@ -1,11 +1,11 @@
 {
-  "language": "Polski",
-  "author": "Maciej Cąderek",
+  "language": "English",
+  "author": "",
   "editors": "",
   "text": {
     "action.info.attack": {
       "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-      "->": "wykonać atak tą jednostką. Wybierz jednostkę i kliknij dowolny CZERWONY cel jeśli chcesz zaatakować"
+      "->": ""
     },
     "action.info.boost": {
       "en": "Boost",
@@ -13,7 +13,7 @@
     },
     "action.info.breakice": {
       "en": "Break Ice",
-      "->": "Rozbij Lód"
+      "->": ""
     },
     "action.info.breakpeace": {
       "en": "Break Peace",
@@ -21,19 +21,19 @@
     },
     "action.info.build": {
       "en": "build a {0} here",
-      "->": "zbudować tu {0}"
+      "->": ""
     },
     "action.info.capture": {
       "en": "Capture",
-      "->": "przejąć"
+      "->": ""
     },
     "action.info.capture2": {
       "en": "capture this city. Cities generate stars every turn that you can use to develop your empire",
-      "->": "przejąć to miasto. Miasta generują gwiazdki co turę, możesz je użyć do rozbudowy swojego imperium."
+      "->": ""
     },
     "action.info.cityreward": {
       "en": "City Reward",
-      "->": "Miejska Nagroda"
+      "->": ""
     },
     "action.info.decompose": {
       "en": "Decompose",
@@ -41,19 +41,19 @@
     },
     "action.info.destroy": {
       "en": "Destroy",
-      "->": "zniszczyć"
+      "->": ""
     },
     "action.info.disband": {
       "en": "Disband {0}",
-      "->": "zwolnij {0}"
+      "->": ""
     },
     "action.info.do": {
       "en": "do {0} here",
-      "->": "zrobić tu {0}"
+      "->": ""
     },
     "action.info.endturn": {
       "en": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
-      "->": "zakończyć turę by zyskać dodatkowe zasoby i ruchy jednostek. Naciśnij przycisk 'Nowa Tura'"
+      "->": ""
     },
     "action.info.establishembassy": {
       "en": "Establish Embassy",
@@ -69,23 +69,23 @@
     },
     "action.info.freezearea": {
       "en": "Freeze Area",
-      "->": "Zamrażanie Obszaru"
+      "->": ""
     },
     "action.info.healarea": {
       "en": "Heal Area",
-      "->": "Leczenie Obszaru"
+      "->": ""
     },
     "action.info.healothers": {
       "en": "Heal Others",
-      "->": "uleczyć pozostałych"
+      "->": ""
     },
     "action.info.meet": {
       "en": "Meet",
-      "->": "Spotkanie"
+      "->": ""
     },
     "action.info.move": {
       "en": "move this unit. Select the unit and tap any of the BLUE targets",
-      "->": "przesunąć tą jednostkę. Wybierz jednostkę i kliknij w dowolny NIEBIESKI cel."
+      "->": ""
     },
     "action.info.peacetreaty": {
       "en": "Offer Peace",
@@ -93,43 +93,43 @@
     },
     "action.info.promote": {
       "en": "Promote",
-      "->": "Awansuj"
+      "->": ""
     },
     "action.info.recover": {
       "en": "Recover",
-      "->": "ulecz"
+      "->": ""
     },
     "action.info.remove": {
       "en": "Remove",
-      "->": "usunąć"
+      "->": ""
     },
     "action.info.research": {
       "en": "research {0}.",
-      "->": "odkryć {0}."
+      "->": ""
     },
     "action.info.reward": {
       "en": "Reward",
-      "->": "Nagroda"
+      "->": ""
     },
     "action.info.reward.population": {
       "en": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
-      "->": "Zwiększy to populację najbliższego miasta. Gdy populacja będzie wystarczająco duża, miasto zostanie ulepszone i będzie produkować więcej zasobów."
+      "->": ""
     },
     "action.info.reward.resources": {
       "en": "That will give you an instant reward of {0} resources",
-      "->": "Otrzymasz natychmiastową nagrodę w postaci {0} zasobów"
+      "->": ""
     },
     "action.info.stay": {
       "en": "Stay",
-      "->": "Zostań"
+      "->": ""
     },
     "action.info.train": {
       "en": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
-      "->": "tworzyć jednostki w tym mieście. Jednostki mogą być użyte do eksplorowania świata, atakowania wrogów i obrony miast."
+      "->": ""
     },
     "action.info.trip": {
       "en": "Trip",
-      "->": "Podróż"
+      "->": ""
     },
     "action.info.upgrade": {
       "en": "Upgrade to {0}",
@@ -145,19 +145,19 @@
     },
     "actionbox.building.doit": {
       "en": "DO IT",
-      "->": "ZRÓB TO"
+      "->": ""
     },
     "actionbox.building.level": {
       "en": "level {0}/{1}",
-      "->": "poziom {0}/{1}"
+      "->": ""
     },
     "actionbox.building.requiredtech": {
       "en": "You need to research {0} to do this, tap the 'Tech Tree' button.",
-      "->": "Musisz wynaleźć {0} by to zrobić, naciśnij przycisk 'Badania'."
+      "->": ""
     },
     "actionbox.building.techtree": {
       "en": "TECH TREE",
-      "->": "BADANIA"
+      "->": ""
     },
     "actionbox.cantperformaction.description": {
       "en": "You cannot perform this action right now.",
@@ -165,23 +165,23 @@
     },
     "actionbox.city": {
       "en": "City",
-      "->": "Miasto {0}"
+      "->": ""
     },
     "actionbox.city.level": {
       "en": "lvl {0}",
-      "->": "poziom {0}"
+      "->": ""
     },
     "actionbox.confirm": {
       "en": "Confirm {0}",
-      "->": "Potwierdź {0}"
+      "->": ""
     },
     "actionbox.confirm.button": {
       "en": "YES",
-      "->": "TAK"
+      "->": ""
     },
     "actionbox.confirm.info": {
       "en": "Are you sure you want to do this?",
-      "->": "Jesteś pewien?"
+      "->": ""
     },
     "actionbox.confirm.info.breakpeace": {
       "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
@@ -201,7 +201,7 @@
     },
     "actionbox.insufficientfunds": {
       "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-      "->": "Masz za mało gwiazdek by to zrobić. Naciśnij 'Nowa Tura' by zyskać więcej gwiazdek."
+      "->": ""
     },
     "actionbox.pendingpeacetreaty.description": {
       "en": "Peace treaty pending. Waiting for {0} to respond",
@@ -213,7 +213,11 @@
     },
     "actionbox.tile.roads": {
       "en": "roads",
-      "->": "drogi"
+      "->": ""
+    },
+    "actionbox.unit.ability": {
+      "en": "Unit Ability",
+      "->": ""
     },
     "actionbox.unit.Boosted": {
       "en": "Boosted",
@@ -227,53 +231,53 @@
       "en": "Invisible",
       "->": ""
     },
+    "actionbox.unit.kills": {
+      "en": "{0}/{1} kills",
+      "->": ""
+    },
+    "actionbox.unit.new": {
+      "en": "Train a new {0} {1}",
+      "->": ""
+    },
     "actionbox.unit.Poisoned": {
       "en": "Poisoned",
       "->": ""
     },
-    "actionbox.unit.ability": {
-      "en": "Unit Ability",
-      "->": "Zdolność Jednostki"
-    },
-    "actionbox.unit.kills": {
-      "en": "{0}/{1} kills",
-      "->": "{0}/{1} zabójstwa"
-    },
-    "actionbox.unit.new": {
-      "en": "Train a new {0} {1}",
-      "->": "Trenuj {0} {1}"
-    },
     "actionbox.unit.toomany": {
       "en": "(too many)",
-      "->": "(zbyt wiele)"
+      "->": ""
     },
     "actionbox.unit.toomany.info": {
       "en": "This city can't support any more units. Upgrade the city to get more space for units.",
-      "->": "To miasto nie pomieści więcej jednostek. Ulepsz miasto by uzyskać wolne miejsce na jednostki."
+      "->": ""
     },
     "actionbox.unit.train": {
       "en": "TRAIN",
-      "->": "TRENUJ"
+      "->": ""
     },
     "actionbox.unit.upgrade": {
       "en": "UPGRADE",
-      "->": "ULEPSZ"
+      "->": ""
     },
     "actionbox.unit.veteran": {
       "en": "Veteran",
-      "->": "Weteran"
+      "->": ""
     },
     "actionbox.village": {
       "en": "Village",
-      "->": "Wioska"
+      "->": ""
     },
     "actionbtn.remove.building": {
       "en": "Building",
-      "->": "Budowanie"
+      "->": ""
     },
     "actionbtn.remove.roads": {
       "en": "Roads",
-      "->": "Drogi"
+      "->": ""
+    },
+    "author": {
+      "en": "",
+      "->": ""
     },
     "backend.connecting": {
       "en": "Connecting to server...",
@@ -301,7 +305,7 @@
     },
     "bottommenu.gamestats": {
       "en": "Game Stats",
-      "->": "Statystyki"
+      "->": ""
     },
     "bottommenu.menu": {
       "en": "Menu",
@@ -309,15 +313,15 @@
     },
     "bottommenu.nextturn": {
       "en": "Next Turn",
-      "->": "Nowa tura"
+      "->": ""
     },
     "bottommenu.techtree": {
       "en": "Tech Tree",
-      "->": "Badania"
+      "->": ""
     },
     "building.ability.attract": {
       "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
-      "->": "zwabia dzikie zwierzęta do pobliskiego kafelka lasu co 3 tury"
+      "->": ""
     },
     "building.ability.bridge": {
       "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
@@ -325,7 +329,7 @@
     },
     "building.ability.embark": {
       "en": "Units that move here will turn into boats that can move on water.",
-      "->": "Jednostki które tu wkroczą zamienią się w łódki i będą mogły poruszać się po wodzie."
+      "->": ""
     },
     "building.ability.heal": {
       "en": "{0} heals any friendly unit that end their turn next to them.",
@@ -333,7 +337,7 @@
     },
     "building.ability.limited": {
       "en": "You can only build one {0} per city.",
-      "->": "Możesz zbudować {0} tylko raz na miasto."
+      "->": ""
     },
     "building.ability.network": {
       "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
@@ -341,7 +345,7 @@
     },
     "building.ability.patina": {
       "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
-      "->": "{0} rośnie z upływem czasu, więc staraj się ją zbudować najszybciej jak się da."
+      "->": ""
     },
     "building.ability.poison": {
       "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
@@ -349,35 +353,35 @@
     },
     "building.ability.road": {
       "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
-      "->": "Buduj drogi aby połączyć miasta ze stolicą. Połączone miasta zwiększają w nagrodę swoją populację o 1. Drogi dadzą Ci także bonus do ruchu wszystkich jednostek."
+      "->": ""
     },
     "building.ability.route": {
       "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
-      "->": "Tworzy szlaki handlowe przez {0} do każdej innej placówki w promieniu 5 kafelków."
+      "->": ""
     },
     "building.ability.route.and": {
       "en": "and ",
-      "->": " i "
+      "->": ""
     },
     "building.ability.ruin": {
       "en": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
-      "->": "Ruiny starożytnej cywilizacji może kryć wartościowe rzeczy! Udaj się tam swoją jednostką aby to zbadać."
+      "->": ""
     },
     "building.ability.unique": {
       "en": "{0} can only be built once.",
-      "->": "{0} można zbudować tylko raz."
+      "->": ""
     },
     "building.capital.owner": {
       "en": "{0} is the {1} capital",
-      "->": "{0} jest stolicą {1}"
+      "->": ""
     },
     "building.capital.owner.former": {
       "en": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
-      "->": "{0} jest byłą stolicą {1}, aktualnie okupowana przez siły {2}"
+      "->": ""
     },
     "building.city.owner": {
       "en": "{0} is a city in the {1} empire",
-      "->": "{0} jest miastem w imperium {1}"
+      "->": ""
     },
     "building.names.algae": {
       "en": "Algae",
@@ -385,11 +389,11 @@
     },
     "building.names.burnforest": {
       "en": "Burn Forest",
-      "->": "Spal Las"
+      "->": ""
     },
     "building.names.city": {
       "en": "City",
-      "->": "Miasto"
+      "->": ""
     },
     "building.names.clathrus": {
       "en": "Clathrus",
@@ -397,11 +401,11 @@
     },
     "building.names.clearforest": {
       "en": "Clear Forest",
-      "->": "Wykarczuj Las"
+      "->": ""
     },
     "building.names.customshouse": {
       "en": "Customs House",
-      "->": "Urząd Celny"
+      "->": ""
     },
     "building.names.enchantanimal": {
       "en": "Enchant Animal",
@@ -413,19 +417,19 @@
     },
     "building.names.farm": {
       "en": "Farm",
-      "->": "Farma"
+      "->": ""
     },
     "building.names.fishing": {
       "en": "Fishing",
-      "->": "Łowienie"
+      "->": ""
     },
     "building.names.foresttemple": {
       "en": "Forest Temple",
-      "->": "Leśna Świątynia"
+      "->": ""
     },
     "building.names.forge": {
       "en": "Forge",
-      "->": "Kuźnia"
+      "->": ""
     },
     "building.names.fungi": {
       "en": "Fungi",
@@ -433,7 +437,7 @@
     },
     "building.names.growforest": {
       "en": "Grow Forest",
-      "->": "Zasadź Las"
+      "->": ""
     },
     "building.names.harvestfruit": {
       "en": "Harvest Fruit",
@@ -441,7 +445,7 @@
     },
     "building.names.hunting": {
       "en": "Hunting",
-      "->": "Polowanie"
+      "->": ""
     },
     "building.names.icebank": {
       "en": "Ice Bank",
@@ -449,47 +453,47 @@
     },
     "building.names.icetemple": {
       "en": "Ice Temple",
-      "->": "Lodowa Świątynia"
+      "->": ""
     },
     "building.names.lumberhut": {
       "en": "Lumber Hut",
-      "->": "Chatka Drwala"
+      "->": ""
     },
     "building.names.mine": {
       "en": "Mine",
-      "->": "Kopalnia"
+      "->": ""
     },
     "building.names.monument1": {
       "en": "Altar of Peace",
-      "->": "Ołtarz Pokoju"
+      "->": ""
     },
     "building.names.monument2": {
       "en": "Tower of Wisdom",
-      "->": "Wieża Mądrości"
+      "->": ""
     },
     "building.names.monument3": {
       "en": "Grand Bazaar",
-      "->": "Wielkie Targowisko"
+      "->": ""
     },
     "building.names.monument4": {
       "en": "Emperors Tomb",
-      "->": "Grób Imperatora"
+      "->": ""
     },
     "building.names.monument5": {
       "en": "Gate of Power",
-      "->": "Brama Mocy"
+      "->": ""
     },
     "building.names.monument6": {
       "en": "Park of Fortune",
-      "->": "Park Szczęścia"
+      "->": ""
     },
     "building.names.monument7": {
       "en": "Eye of God",
-      "->": "Boskie Oko"
+      "->": ""
     },
     "building.names.mountaintemple": {
       "en": "Mountain Temple",
-      "->": "Górska Świątynia"
+      "->": ""
     },
     "building.names.mycelium": {
       "en": "Mycelium",
@@ -505,103 +509,103 @@
     },
     "building.names.road": {
       "en": "Road",
-      "->": "Droga"
+      "->": ""
     },
     "building.names.ruin": {
       "en": "Ruin",
-      "->": "Ruiny"
+      "->": ""
     },
     "building.names.sanctuary": {
       "en": "Sanctuary",
-      "->": "Azyl"
+      "->": ""
     },
     "building.names.sawmill": {
       "en": "Sawmill",
-      "->": "Tartak"
+      "->": ""
     },
     "building.names.temple": {
       "en": "Temple",
-      "->": "Świątynia"
+      "->": ""
     },
     "building.names.watertemple": {
       "en": "Water Temple",
-      "->": "Wodna Świątynia"
+      "->": ""
     },
     "building.names.whalehunting": {
       "en": "Whale Hunting",
-      "->": "Wielorybnictwo"
+      "->": ""
     },
     "building.names.windmill": {
       "en": "Windmill",
-      "->": "Młyn"
+      "->": ""
     },
     "building.produce": {
       "en": "produces {0} each turn",
-      "->": "produkuje {0} co turę"
+      "->": ""
     },
     "building.produce.multiply": {
       "en": "({0} for each nearby {1})",
-      "->": "({0} na każde pobliskie {1})"
+      "->": ""
     },
     "building.produce.multiply.polaris": {
       "en": "({0} for every {1} frozen tiles in the world)",
-      "->": "({0} na każde {1} zamrożone kafelki na mapie)"
+      "->": ""
     },
     "building.produce.multiply2": {
       "en": "produces {0} for each nearby {1} each turn",
-      "->": "produkuje {0} na każde pobliskie {1} co turę"
+      "->": ""
     },
     "building.produce.multiply2.polaris": {
       "en": "Produces {0} for every {1} frozen tiles in the world",
-      "->": "Produkuje {0} na każde {1} zamrożone kafelki na mapie"
+      "->": ""
     },
     "building.produce.multiply3": {
       "en": "produces {0} for each nearby {1}",
-      "->": "produkuje {0} na każde pobliskie {1}"
+      "->": ""
     },
     "building.produce.reward": {
       "en": "produces {0}",
-      "->": "produkuje {0}"
+      "->": ""
     },
     "building.produce.reward.named": {
       "en": "produces {0} for {1}",
-      "->": "produkuje {0} dla {1}"
+      "->": ""
     },
     "building.resource": {
       "en": "adds a {0} at the selected tile",
-      "->": "dodaje {0} na wybranym kafelku"
+      "->": ""
     },
     "building.restriction.near": {
       "en": "Must be built next to a {0}.",
-      "->": "Musi być zbudowane obok {0}."
+      "->": ""
     },
     "building.restriction.on": {
       "en": "Must be on a tile with {0}.",
-      "->": "Musi być na kafelku z {0}."
+      "->": ""
     },
     "building.reward.instant": {
       "en": "instantly gives you {0}",
-      "->": "natychmiastowo daje Ci {0}"
+      "->": ""
     },
     "building.reward.tech": {
       "en": "gives you a {0}",
-      "->": "daje Ci {0}"
+      "->": ""
     },
     "building.transform": {
       "en": "transforms a {0} into a {1}",
-      "->": "przekształca {0} w {1}"
+      "->": ""
     },
     "building.transform2": {
       "en": "transforms a {0} into a {1} with {2}",
-      "->": "przekształca {0} w {1} z {2} "
+      "->": ""
     },
     "building.value": {
       "en": "is worth {0} points of score",
-      "->": "jest warte {0} punktów do wyniku"
+      "->": ""
     },
     "building.village.owner": {
       "en": "This is a village that doesn't belong to any tribe",
-      "->": "Ta wioska nie należy do żadnego plemienia"
+      "->": ""
     },
     "buttons.accept": {
       "en": "ACCEPT",
@@ -609,7 +613,7 @@
     },
     "buttons.back": {
       "en": "BACK",
-      "->": "WSTECZ"
+      "->": ""
     },
     "buttons.decline": {
       "en": "DECLINE",
@@ -617,7 +621,7 @@
     },
     "buttons.exit": {
       "en": "EXIT",
-      "->": "WYJDŹ"
+      "->": ""
     },
     "buttons.exitgame": {
       "en": "EXIT GAME",
@@ -637,7 +641,7 @@
     },
     "buttons.quit": {
       "en": "Quit",
-      "->": "Wyjdź"
+      "->": ""
     },
     "buttons.reconnect": {
       "en": "RECONNECT",
@@ -649,7 +653,7 @@
     },
     "buttons.save": {
       "en": "SAVE",
-      "->": "ZAPISZ"
+      "->": ""
     },
     "buttons.start": {
       "en": "START GAME",
@@ -677,39 +681,39 @@
     },
     "consent.approval.info": {
       "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
-      "->": "Aby ulepszyć Polytopię za pomocą statystyk użytkowania oraz zapisywać Twoje rekordy i ustawienia musisz udostępnić nam swoje dane osobiste\nMożesz dowiedzieć się więcej o danych, które zbieramy z naszej <u><a href='{0}'>polityki prywatności</a></u>.\n(Możesz cofnąć zgodę w dowolnym momencie w 'Sali Tronowej')"
+      "->": ""
     },
     "consent.approval.title": {
       "en": "Welcome to Polytopia!",
-      "->": "Witamy w Polytopii!"
+      "->": ""
     },
     "consent.approve": {
       "en": "APPROVE",
-      "->": "AKCEPTUJ"
+      "->": ""
     },
     "consent.deny": {
       "en": "DENY",
-      "->": "ODRZUĆ"
+      "->": ""
     },
     "consent.disabled": {
       "en": "Personal Data Disabled",
-      "->": "Dane Osobiste Dezaktywowane"
+      "->": ""
     },
     "consent.disabled.info": {
       "en": "To save personal data like high scores and usage statistics we need your approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
-      "->": "Aby zapisywać Twoje rekordy i statystyki potrzebujemy Twojej zgody. Więcej informacji znajdziesz w <u><a href='{0}'>polityce prywatności</a></u>."
+      "->": ""
     },
     "consent.enabled": {
       "en": "Personal Data Enabled",
-      "->": "Dane Osobiste Aktywne"
+      "->": ""
     },
     "consent.enabled.info": {
       "en": "You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
-      "->": "Pozwalasz obecnie Polytopii na dostęp do kilku informacji osobistych aby ulepszyć usługę i zapisywać Twoje rekordy itp. Więcej informacji znajdziesz w <u><a href='{0}'>polityce prywatności</a></u>."
+      "->": ""
     },
     "consent.revoke": {
       "en": "revoke consent",
-      "->": "cofnij zgodę"
+      "->": ""
     },
     "credits.artists": {
       "en": "Artists",
@@ -717,7 +721,7 @@
     },
     "credits.build": {
       "en": "Build version",
-      "->": "Wersja gry"
+      "->": ""
     },
     "credits.community": {
       "en": "Community Manager",
@@ -725,7 +729,7 @@
     },
     "credits.debuginfo": {
       "en": "DEBUG INFO",
-      "->": "Informacje dla pomocy technicznej"
+      "->": ""
     },
     "credits.design": {
       "en": "Game Design",
@@ -733,7 +737,7 @@
     },
     "credits.device": {
       "en": "Device",
-      "->": "Urządzenie"
+      "->": ""
     },
     "credits.followus": {
       "en": "Follow us",
@@ -741,15 +745,15 @@
     },
     "credits.getmerch": {
       "en": "Get some official Polytopian merch.",
-      "->": "Mamy dla was oficjalną markę Polytopii:"
+      "->": ""
     },
     "credits.learnmore1": {
       "en": "Want to know everything?",
-      "->": "Chcesz wiedzieć wszystko?"
+      "->": ""
     },
     "credits.learnmore2": {
       "en": "Check the extensive Wikia database created by the Polytopia community.",
-      "->": "Sprawdź obszerną Wiki tworzoną przez społeczność Polytopii:"
+      "->": ""
     },
     "credits.managment": {
       "en": "Management",
@@ -757,7 +761,7 @@
     },
     "credits.midjiwan": {
       "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
-      "->": "Polytopia jest ciągle rozwijana przez Midjiwan, małe studio ze Sztokholmu w Szwecji, tworzące niezależne gry."
+      "->": ""
     },
     "credits.music": {
       "en": "MUSIC",
@@ -765,7 +769,7 @@
     },
     "credits.os": {
       "en": "OS",
-      "->": "System"
+      "->": ""
     },
     "credits.platforms": {
       "en": "Multiple platforms",
@@ -781,7 +785,7 @@
     },
     "credits.privacy": {
       "en": "Privacy Policy",
-      "->": "Polityka Prywatności"
+      "->": ""
     },
     "credits.programmers": {
       "en": "Programmers",
@@ -793,67 +797,67 @@
     },
     "credits.screendpi": {
       "en": "Screen DPI",
-      "->": "DPI ekranu"
+      "->": ""
     },
     "credits.screensize": {
       "en": "Screen size",
-      "->": "Rozmiar ekranu"
+      "->": ""
     },
     "credits.showsupport": {
       "en": "Show your support!",
-      "->": "Okaż wsparcie!"
+      "->": ""
     },
     "credits.sound": {
       "en": "Sound & Music",
-      "->": "Dźwięk i Muzyka"
+      "->": ""
     },
     "credits.terms": {
       "en": "Terms of Service",
-      "->": "Warunki Użytkowania"
+      "->": ""
     },
     "credits.title": {
       "en": "ABOUT",
-      "->": "O NAS"
+      "->": ""
     },
     "credits.visitshop": {
       "en": "SHOP",
-      "->": "ODWIEDŹ SKLEP"
+      "->": ""
     },
     "credits.wiki": {
       "en": "WIKI",
-      "->": "WIKI POLYTOPII"
+      "->": ""
     },
     "date.day": {
       "en": "day",
-      "->": "dzień"
+      "->": ""
     },
     "date.days": {
       "en": "days",
-      "->": "dni"
+      "->": ""
     },
     "date.hour": {
       "en": "hour",
-      "->": "godzina"
+      "->": ""
     },
     "date.hours": {
       "en": "hours",
-      "->": "godziny"
+      "->": ""
     },
     "date.minute": {
       "en": "minute",
-      "->": "minuta"
+      "->": ""
     },
     "date.minutes": {
       "en": "minutes",
-      "->": "minuty"
+      "->": ""
     },
     "date.second": {
       "en": "second",
-      "->": "sekunda"
+      "->": ""
     },
     "date.seconds": {
       "en": "seconds",
-      "->": "sekundy"
+      "->": ""
     },
     "diplomacy.acceptpeace.description": {
       "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
@@ -999,29 +1003,33 @@
       "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
       "->": ""
     },
+    "editors": {
+      "en": "",
+      "->": ""
+    },
     "endscreen.army&territory": {
       "en": "Army & Territory",
-      "->": "Armia i terytorium"
+      "->": ""
     },
     "endscreen.battle": {
       "en": "Battle skills",
-      "->": "Walka"
+      "->": ""
     },
     "endscreen.battle.info": {
       "en": "{0} units lost",
-      "->": "{0} stracone jednostki"
+      "->": ""
     },
     "endscreen.bonus": {
       "en": "Difficulty Bonus",
-      "->": "Bonus za trudność"
+      "->": ""
     },
     "endscreen.cities": {
       "en": "Cities",
-      "->": "Miasta"
+      "->": ""
     },
     "endscreen.citiescount": {
       "en": "{0} cities",
-      "->": "{0} miasta"
+      "->": ""
     },
     "endscreen.connectioninfo": {
       "en": "Log in to submit high scores",
@@ -1029,11 +1037,11 @@
     },
     "endscreen.culture": {
       "en": "{0} monuments, {1} temples",
-      "->": "{0} posągi, {1} świątynie"
+      "->": ""
     },
     "endscreen.destroyed": {
       "en": "Tribes destroyed",
-      "->": "Zniszczone plemiona"
+      "->": ""
     },
     "endscreen.destroyed.info": {
       "en": "{0}/{1}",
@@ -1041,91 +1049,91 @@
     },
     "endscreen.domination.loss": {
       "en": "{0} turns",
-      "->": "{0} tury"
+      "->": ""
     },
     "endscreen.domination.win": {
       "en": "{0}/{1} turns",
-      "->": "{0}/{1} tury"
+      "->": ""
     },
     "endscreen.done": {
       "en": "DONE",
-      "->": "GOTOWE"
+      "->": ""
     },
     "endscreen.finalrating": {
       "en": "FINAL RATING",
-      "->": "OSTATECZNY RANKING"
+      "->": ""
     },
     "endscreen.finalscore": {
       "en": "FINAL SCORE",
-      "->": "OSTATECZNY WYNIK"
+      "->": ""
     },
     "endscreen.gameover": {
       "en": "GAME OVER",
-      "->": "KONIEC GRY"
+      "->": ""
     },
     "endscreen.monuments&temples": {
       "en": "Monuments & Temples",
-      "->": "Posągi i świątynie"
+      "->": ""
     },
     "endscreen.nextstar": {
       "en": "{0} needed for next star",
-      "->": "{0} potrzebne do następnej gwiazdki"
+      "->": ""
     },
     "endscreen.nextstar.percent": {
       "en": "{0}% needed for next star",
-      "->": "{0}% potrzebne do następnej gwiazdki"
+      "->": ""
     },
     "endscreen.personal": {
       "en": "New personal all time high!",
-      "->": "Nowy osobisty rekord wszechczasów!"
+      "->": ""
     },
     "endscreen.personal.title": {
       "en": "Amazing!",
-      "->": "Niesamowite!"
+      "->": ""
     },
     "endscreen.rating": {
       "en": "Difficulty rating",
-      "->": "Ranking trudności"
+      "->": ""
     },
     "endscreen.ruledby": {
       "en": "Ruled by {0}",
-      "->": "Rządzone przez {0}"
+      "->": ""
     },
     "endscreen.science": {
       "en": "Science",
-      "->": "Nauka"
+      "->": ""
     },
     "endscreen.showhiscore": {
       "en": "SHOW HISCORE",
-      "->": "POKAŻ NAJLEPSZE WYNIKI"
+      "->": ""
     },
     "endscreen.speedskills": {
       "en": "Speed skills",
-      "->": "Szybkość"
+      "->": ""
     },
     "endscreen.techscore": {
       "en": "{0}/{1} technologies researched",
-      "->": "{0}/{1} odkryte technologie"
+      "->": ""
     },
     "endscreen.topresult": {
       "en": "New top result!",
-      "->": "Nowy rekord!"
+      "->": ""
     },
     "endscreen.topresult.title": {
       "en": "Great!",
-      "->": "Świetnie!"
+      "->": ""
     },
     "endscreen.units": {
       "en": "{0} units, {1} tiles empire",
-      "->": "{0} jednostki, imperium na {1} kafelków"
+      "->": ""
     },
     "endscreen.victory": {
       "en": "VICTORY",
-      "->": "ZWYCIĘSTWO"
+      "->": ""
     },
     "endscreen.winner": {
       "en": "{0} wins!",
-      "->": "{0} wygrywa!"
+      "->": ""
     },
     "epithet.divine": {
       "en": "the Divine {0}",
@@ -1265,11 +1273,11 @@
     },
     "firebaseservice.status.connecting": {
       "en": "Connecting to the Polytopia server...",
-      "->": "Łączenie z serwerem Polytopii..."
+      "->": ""
     },
     "firebaseservice.status.loading": {
       "en": "Loading game data...",
-      "->": "Ładowanie danych gry..."
+      "->": ""
     },
     "firendList.winratio": {
       "en": "-Win Ratio-",
@@ -1277,7 +1285,7 @@
     },
     "friendlist.acceptinvite.button": {
       "en": "ACCEPT INVITE",
-      "->": "AKCEPTUJ ZAPROSZENIE"
+      "->": ""
     },
     "friendlist.bot": {
       "en": "{0} Bot",
@@ -1285,179 +1293,179 @@
     },
     "friendlist.bots": {
       "en": "Bots",
-      "->": "Boty"
+      "->": ""
     },
     "friendlist.cancelinvite.button": {
       "en": "CANCEL INVITE",
-      "->": "ANULUJ ZAPROSZENIE"
+      "->": ""
     },
     "friendlist.checking": {
       "en": "Checking friend status...",
-      "->": "Sprawdzanie statusu przyjaciela.."
+      "->": ""
     },
     "friendlist.error": {
       "en": "Error loading friends",
-      "->": "Błąd ładowania przyjaciół"
+      "->": ""
     },
     "friendlist.friend.notupdated": {
       "en": "{0} is still on the old server",
-      "->": "{0} jest wciąż na starym serwerze"
+      "->": ""
     },
     "friendlist.friend.update": {
       "en": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
-      "->": "{0} musi zaktualizować grę do najnowszej wersji zanim będziesz mógł zaprosić go do nowej gry."
+      "->": ""
     },
     "friendlist.friend.updated": {
       "en": "{0} is now on the new server",
-      "->": "{0} jest teraz na nowym serwerze"
+      "->": ""
     },
     "friendlist.friendrequests": {
       "en": "Friend Requests",
-      "->": "Zaproszenia"
+      "->": ""
     },
     "friendlist.friends": {
       "en": "Friends",
-      "->": "Przyjaciele"
+      "->": ""
     },
     "friendlist.friends.old": {
       "en": "Outdated friends",
-      "->": "Nieaktualni przyjaciele"
+      "->": ""
     },
     "friendlist.friendshipstate": {
       "en": "Friendship status: {0}",
-      "->": "Status przyjaciół: {0}"
+      "->": ""
     },
     "friendlist.friendshipstate.accepted": {
       "en": "This player is your friend. Lucky you!",
-      "->": "Zaproszenie zaakceptowane. Jesteście teraz przyjaciółmi."
+      "->": ""
     },
     "friendlist.friendshipstate.isyou": {
       "en": "This is you.",
-      "->": "To ty."
+      "->": ""
     },
     "friendlist.friendshipstate.none": {
       "en": "You're not friends with this player. Maybe you would like to be?",
-      "->": "Brak."
+      "->": ""
     },
     "friendlist.friendshipstate.receivedrequest": {
       "en": "This player wants to be your friend. Do you accept?",
-      "->": "Otrzymano zaproszenie. Akceptujesz??"
+      "->": ""
     },
     "friendlist.friendshipstate.rejected": {
       "en": "Friend request rejected.",
-      "->": "Zaproszenie odrzucone."
+      "->": ""
     },
     "friendlist.friendshipstate.sentrequest": {
       "en": "You've sent a friend request to this player. No response yet. Fingers crossed!",
-      "->": "Zaproszenie wysłane. Oczekiwanie na odpowiedź."
+      "->": ""
     },
     "friendlist.loaderror": {
       "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-      "->": "Nie udało się połączyć z serwerem. Sprawdź połączenie i spróbuj ponownie."
+      "->": ""
     },
     "friendlist.loading": {
       "en": "Loading friends...",
-      "->": "Ładowanie przyjaciół..."
+      "->": ""
     },
     "friendlist.local": {
       "en": "Local Players",
-      "->": "Lokalni Gracze"
-    },
-    "friendlist.new.Results": {
-      "en": "Results:",
-      "->": "Wyniki:"
-    },
-    "friendlist.new.Search": {
-      "en": "SEARCH",
-      "->": "SZUKAJ"
+      "->": ""
     },
     "friendlist.new.accept": {
       "en": "ACCEPT",
-      "->": "AKCEPTUJ"
+      "->": ""
     },
     "friendlist.new.added.info": {
       "en": "Added player {0}",
-      "->": "Dodano gracza {0}"
+      "->": ""
     },
     "friendlist.new.added.title": {
       "en": "Player Added",
-      "->": "Gracz Dodany"
+      "->": ""
     },
     "friendlist.new.button": {
       "en": "ADD",
-      "->": "DODAJ"
+      "->": ""
     },
     "friendlist.new.caps": {
       "en": "ADD FRIEND",
-      "->": "NOWY PRZYJACIEL"
+      "->": ""
     },
     "friendlist.new.exists.info": {
       "en": "You are already friends with {0}",
-      "->": "{0} jest już Twoim przyjacielem"
+      "->": ""
     },
     "friendlist.new.exists.title": {
       "en": "Duplicate Player",
-      "->": "Zduplikowany Gracz"
+      "->": ""
     },
     "friendlist.new.info.alias": {
       "en": "Search for your friend's alias.",
-      "->": "Szukaj pseudonimu przyjaciela."
+      "->": ""
     },
     "friendlist.new.looking.info": {
       "en": "Looking for player {0}",
-      "->": "Wyszukiwanie gracza {0}"
+      "->": ""
     },
     "friendlist.new.looking.title": {
       "en": "Loading Player",
-      "->": "Ładowanie Gracza"
+      "->": ""
     },
     "friendlist.new.reject": {
       "en": "REJECT",
-      "->": "ODRZUĆ"
+      "->": ""
+    },
+    "friendlist.new.Results": {
+      "en": "Results:",
+      "->": ""
+    },
+    "friendlist.new.Search": {
+      "en": "SEARCH",
+      "->": ""
     },
     "friendlist.new.title": {
       "en": "Add a new friend",
-      "->": "Dodaj nowego przyjaciel"
+      "->": ""
     },
     "friendlist.pendinginvitations": {
       "en": "Pending Invitations",
-      "->": "Oczekujące zaproszenia"
+      "->": ""
     },
     "friendlist.player": {
       "en": "Player {0}",
-      "->": "Gracz {0}"
+      "->": ""
     },
     "friendlist.rejectedinvitations": {
       "en": "Rejected Invitations",
-      "->": "Odrzucone zaproszenia"
+      "->": ""
     },
     "friendlist.reload": {
       "en": "RELOAD",
-      "->": "PRZEŁADUJ"
+      "->": ""
     },
     "friendlist.reloading": {
       "en": "Reloading...",
-      "->": "Przeładowywanie.."
+      "->": ""
     },
     "friendlist.remove": {
       "en": "REMOVE",
-      "->": "USUŃ"
+      "->": ""
     },
     "friendlist.removed.info": {
       "en": "Removed player {0}",
-      "->": "Usunięto gracza {0}"
+      "->": ""
     },
     "friendlist.removed.title": {
       "en": "Player Removed",
-      "->": "Gracz usunięty"
+      "->": ""
     },
     "friendlist.requestaccepted": {
       "en": "Friend Request Accepted",
-      "->": "Zaakceptowano zaproszenie"
+      "->": ""
     },
     "friendlist.requestrecieved": {
       "en": "Friend Request Received",
-      "->": "Otrzymano Zaproszenie"
+      "->": ""
     },
     "friendlist.requestsent.notification": {
       "en": "Friend request sent to {0}",
@@ -1465,7 +1473,7 @@
     },
     "friendlist.title": {
       "en": "FRIEND LIST",
-      "->": "LISTA PRZYJACIÓŁ"
+      "->": ""
     },
     "friendlist.unfriend": {
       "en": "UNFRIEND",
@@ -1473,7 +1481,7 @@
     },
     "friendlist.uptodate": {
       "en": "Everything is up to date",
-      "->": "Wszystko jest aktualne"
+      "->": ""
     },
     "gameinfo.created": {
       "en": "Created: {0} ago",
@@ -1481,7 +1489,7 @@
     },
     "gameinfo.gameover": {
       "en": "This game is over, open it to view the final result",
-      "->": "Gra zakończona, otwórz ją, aby zobaczyć wyniki."
+      "->": ""
     },
     "gameinfo.gameversion": {
       "en": "Game version: {0}",
@@ -1489,7 +1497,7 @@
     },
     "gameinfo.id": {
       "en": "ID: {0}",
-      "->": "id: {0}"
+      "->": ""
     },
     "gameinfo.id.copied": {
       "en": "Game ID copied",
@@ -1497,7 +1505,7 @@
     },
     "gameinfo.lastmove": {
       "en": "Last move: {0} ago",
-      "->": "Ostatni ruch: {0} temu"
+      "->": ""
     },
     "gameinfo.move": {
       "en": "Move: {0}",
@@ -1513,63 +1521,63 @@
     },
     "gameinfo.opponentsturn": {
       "en": "Waiting for {0} to {1}",
-      "->": "Oczekiwanie na {0} aby {1}"
+      "->": ""
     },
     "gameinfo.picktribe": {
       "en": "Pick Tribe",
-      "->": "wybierz plemię"
+      "->": ""
     },
     "gameinfo.play": {
       "en": "Play",
-      "->": "graj"
+      "->": ""
     },
     "gameinfo.serverversion": {
       "en": "Server version: {0}",
-      "->": "Wersja serwera: {0}"
+      "->": ""
     },
     "gameinfo.start": {
       "en": "Start the Game",
-      "->": "rozpocznij grę"
+      "->": ""
     },
     "gameinfo.turn": {
       "en": "Turn: {0}",
-      "->": "Tura: {0}"
+      "->": ""
     },
     "gameinfo.updated": {
       "en": "Updated: {0} ago",
-      "->": "uaktualniono: {0} temu"
+      "->": ""
     },
     "gameinfo.yourturn": {
       "en": "It is your turn to {0}",
-      "->": "Twoja kolej na {0}"
+      "->": ""
     },
     "gameitem.ended": {
       "en": "This game is over.",
-      "->": "Koniec gry."
+      "->": ""
     },
     "gameitem.gameover": {
       "en": "This game is over, tap to see the end.",
-      "->": "Koniec gry, naciśnij by zakończyć."
+      "->": ""
     },
     "gameitem.join": {
       "en": "Join this game or decline the invitation",
-      "->": "Dołącz do gry lub odrzuć zaproszenie"
+      "->": ""
     },
     "gameitem.join.wait": {
       "en": "Waiting for {0} to pick tribe",
-      "->": "Oczekiwanie na wybranie plemienia przez {0}"
+      "->": ""
     },
     "gameitem.kick": {
       "en": "Duh!",
-      "->": "Ej!"
+      "->": ""
     },
     "gameitem.kick.action": {
       "en": "KICK",
-      "->": "WYRZUĆ"
+      "->": ""
     },
     "gameitem.kick.info": {
       "en": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
-      "->": "Czy chcesz wyrzucić {0} z gry? Bot przejmie kontrolę nad tym plemieniem."
+      "->": ""
     },
     "gameitem.localplayerdead": {
       "en": "You've been wiped out in this game, still you can spectate.",
@@ -1577,15 +1585,15 @@
     },
     "gameitem.pick": {
       "en": "{0}, pick your tribe",
-      "->": "{0}, wybierz plemię"
+      "->": ""
     },
     "gameitem.ready": {
       "en": "Ready to start!",
-      "->": "Wszystko gotowe!"
+      "->": ""
     },
     "gameitem.ready.wait": {
       "en": "{0} can start the game",
-      "->": "{0} może rozpocząć grę"
+      "->": ""
     },
     "gameitem.ready.wait.noowner": {
       "en": "Waiting for the game to start",
@@ -1593,27 +1601,27 @@
     },
     "gameitem.reload": {
       "en": "RELOAD",
-      "->": "PRZEŁADUJ"
+      "->": ""
     },
     "gameitem.remind.max": {
       "en": "That's enough",
-      "->": "Starczy już"
+      "->": ""
     },
     "gameitem.remind.max.info": {
       "en": "Reminder already sent to {0}",
-      "->": "Już wysłano przypomnienie do {0}"
+      "->": ""
     },
     "gameitem.remind.notification": {
       "en": "We are waiting for you to play in {0}. Come on!!",
-      "->": "Wciąż na Ciebie czekamy, masz {0}. Dajesz!!"
+      "->": ""
     },
     "gameitem.remind.notify": {
       "en": "Done",
-      "->": "Gotowe"
+      "->": ""
     },
     "gameitem.remind.notify.info": {
       "en": "Reminder sent to {0}",
-      "->": "Wysłano przypomnienie do {0}"
+      "->": ""
     },
     "gameitem.skipturn": {
       "en": "Duh!",
@@ -1629,19 +1637,19 @@
     },
     "gameitem.slow": {
       "en": "Come on...",
-      "->": "No dalej.."
+      "->": ""
     },
     "gameitem.slow.action": {
       "en": "REMIND",
-      "->": "PRZYPOMNIJ"
+      "->": ""
     },
     "gameitem.slow.info": {
       "en": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
-      "->": "{0} ma {1} by wykonać ruch. Czy wysłać {0} odzywkę by się pospieszył?"
+      "->": ""
     },
     "gameitem.start": {
       "en": "{0}, start the game",
-      "->": "{0}, rozpocznij grę"
+      "->": ""
     },
     "gameitem.start.inviteplayer": {
       "en": "You need to invite one or more players",
@@ -1649,23 +1657,23 @@
     },
     "gameitem.start.wait": {
       "en": "Waiting for {0} to start the game",
-      "->": "Oczekiwanie na {0} by rozpocząć grę"
+      "->": ""
     },
     "gameitem.timeleft": {
       "en": "Cool runnings",
-      "->": "Hej!"
+      "->": ""
     },
     "gameitem.timeleft.info": {
       "en": "{0} still has {1} to make a move.",
-      "->": "{0} wciąż ma {1} by wykonać ruch."
+      "->": ""
     },
     "gameitem.timelimit": {
       "en": "Time limit",
-      "->": "Limit czasu"
+      "->": ""
     },
     "gameitem.timelimit.info": {
       "en": "You have {0} to make your move, after that you will be removed from the game.",
-      "->": "Masz {0} by wykonać ruch, po tym czasie zostaniesz wyrzucony z gry."
+      "->": ""
     },
     "gameitem.timelimit.timeleft": {
       "en": "Time Left",
@@ -1677,23 +1685,23 @@
     },
     "gameitem.timeup": {
       "en": "Time Up!",
-      "->": "Koniec czasu!"
+      "->": ""
     },
     "gameitem.timeup.info": {
       "en": "Your time to make a move is up, do you want to resign?",
-      "->": "Twój czas na wykonanie ruchu się zakończył, czy chcesz zrezygnować?"
+      "->": ""
     },
     "gameitem.turn": {
       "en": "{0}, take your turn",
-      "->": "{0}, Twoja tura"
+      "->": ""
     },
     "gameitem.turn.other": {
       "en": "Waiting for {0}",
-      "->": "Oczekiwanie na {0}"
+      "->": ""
     },
     "gameitem.turn.your": {
       "en": "Your turn",
-      "->": "Twoja tura"
+      "->": ""
     },
     "gamemode.custom": {
       "en": "Creative",
@@ -1701,55 +1709,55 @@
     },
     "gamemode.custom.caps": {
       "en": "CREATIVE",
-      "->": "KREATYWNY"
+      "->": ""
     },
     "gamemode.custom.description.button": {
       "en": "Set up your own game and play however you like.",
-      "->": "Ustaw własną grę i graj tak jak chcesz."
+      "->": ""
     },
     "gamemode.death": {
       "en": "Your last city was lost, you have been defeated.",
-      "->": "Ostatnie miasto stracone, zostałeś pokonany."
+      "->": ""
     },
     "gamemode.domination": {
       "en": "Domination",
-      "->": "Dominacja"
+      "->": ""
     },
     "gamemode.domination.caps": {
       "en": "DOMINATION",
-      "->": "DOMINACJA"
+      "->": ""
     },
     "gamemode.domination.description": {
       "en": "Wipe all the other tribes from the face of the Square. There can be only one.",
-      "->": "Zmieć pozostałe plemiona z powierzchni kwadratu. Przeżyć może tylko jeden."
+      "->": ""
     },
     "gamemode.domination.description.button": {
       "en": "Play until there is only one tribe left, with no time limit.",
-      "->": "Graj póki zostanie tylko jedno plemię, bez limitu czasu."
+      "->": ""
     },
     "gamemode.domination.loss": {
       "en": "Your last city was lost, you have been defeated.",
-      "->": "Straciłeś ostatnie miasto, zostałeś pokonany."
+      "->": ""
     },
     "gamemode.domination.win": {
       "en": "You have defeated all the other tribes and unified the entire Square!",
-      "->": "Pokonano wszystkie plemiona i zjednoczono cały Kwadrat!"
+      "->": ""
     },
     "gamemode.glory": {
       "en": "Glory",
-      "->": "Chwała"
+      "->": ""
     },
     "gamemode.glory.caps": {
       "en": "GLORY",
-      "->": "CHWAŁA"
+      "->": ""
     },
     "gamemode.glory.description": {
       "en": "First to reach {0} points win",
-      "->": "Pierwszy kto zdobędzie {0} punktów wygrywa"
+      "->": ""
     },
     "gamemode.glory.win": {
       "en": "The {0} points score was reached!",
-      "->": "Osiągnięto {0} punktów!"
+      "->": ""
     },
     "gamemode.glory.win.no.opponents": {
       "en": "The game is over",
@@ -1757,19 +1765,19 @@
     },
     "gamemode.might": {
       "en": "Might",
-      "->": "Potęga"
+      "->": ""
     },
     "gamemode.might.caps": {
       "en": "MIGHT",
-      "->": "POTĘGA"
+      "->": ""
     },
     "gamemode.might.description": {
       "en": "Capture all capitals to win",
-      "->": "Przejmij wszystkie stolice by wygrać"
+      "->": ""
     },
     "gamemode.might.win": {
       "en": "All capitals were captured",
-      "->": "Wszystkie stolice zostały przejęte"
+      "->": ""
     },
     "gamemode.might.win.last.human": {
       "en": "You are the last standing human player, you win!",
@@ -1781,7 +1789,7 @@
     },
     "gamemode.none": {
       "en": "Unknown",
-      "->": "Nieznany"
+      "->": ""
     },
     "gamemode.none.description": {
       "en": "You might get either game mode. Groovy!",
@@ -1789,31 +1797,31 @@
     },
     "gamemode.perfection": {
       "en": "Perfection",
-      "->": "Perfekcja"
+      "->": ""
     },
     "gamemode.perfection.caps": {
       "en": "PERFECTION",
-      "->": "PERFEKCJA"
+      "->": ""
     },
     "gamemode.perfection.description": {
       "en": "Get the highest possible score before the time runs out.",
-      "->": "Zdobądź jak najwyższy wynik zanim skończy się czas."
+      "->": ""
     },
     "gamemode.perfection.description.button": {
       "en": "Show your skills on the global hiscore in the classic 30 turns game.",
-      "->": "Pokaż swoje umiejętności na globalnej tablicy wyników w klasycznej grze na 30 tur."
+      "->": ""
     },
     "gamemode.perfection.loss": {
       "en": "We have reached the end of time.",
-      "->": "Koniec czasu."
+      "->": ""
     },
     "gamemode.perfection.win": {
       "en": "We have reached the end of time. The memory of your tribe will echo in eternity!",
-      "->": "Koniec czasu. Pamięć o twoim plemieniu będzie trwała po wsze czasy!"
+      "->": ""
     },
     "gamemode.sandbox": {
       "en": "Infinity",
-      "->": "Niskończoność"
+      "->": ""
     },
     "gamemode.sandbox.caps": {
       "en": "INFINITY",
@@ -1821,7 +1829,7 @@
     },
     "gamemode.sandbox.description": {
       "en": "Play however you like, forever and ever",
-      "->": "Graj dowolnie, przez dowolny czas"
+      "->": ""
     },
     "gamemode.tutorial": {
       "en": "Boot Camp",
@@ -1833,19 +1841,19 @@
     },
     "gamemodepicker.title": {
       "en": "GAME MODE",
-      "->": "TRYB GRY"
+      "->": ""
     },
     "gamesaverbinary.error.loading.moves": {
       "en": "Error loading moves",
-      "->": "Błąd ładowania ruchów"
+      "->": ""
     },
     "gamesaverbinary.unable.to.save": {
       "en": "I was unable to save the game, make sure you have sufficient storage on your device",
-      "->": "Nie udało się zapisać gry, upewnij się, że masz miejsce na urządzeniu."
+      "->": ""
     },
     "gamesaverbinary.unable.to.save.title": {
       "en": "Could not save :(",
-      "->": "Nie można zapisać :("
+      "->": ""
     },
     "gameservice.android": {
       "en": "Google Play",
@@ -1861,7 +1869,7 @@
     },
     "gamesettings.anonymous": {
       "en": "Anonymous",
-      "->": "Anonim"
+      "->": ""
     },
     "gamesettings.autoskip": {
       "en": "Auto Skip",
@@ -1877,63 +1885,63 @@
     },
     "gamesettings.continue": {
       "en": "CONTINUE",
-      "->": "KONTYNUUJ"
+      "->": ""
     },
     "gamesettings.createslot": {
       "en": "Creating game slot...",
-      "->": "Tworzenie miejsca na grę..."
+      "->": ""
     },
     "gamesettings.createslot.error": {
       "en": "Error creating game",
-      "->": "Błąd tworzenia gry"
+      "->": ""
     },
     "gamesettings.createslot.error.info": {
       "en": "Make sure you are online and try again.",
-      "->": "Upewnij się, że masz połączenie i spróbuj ponownie."
+      "->": ""
     },
     "gamesettings.creatingworld": {
       "en": "LOADING WORLD",
-      "->": "TWORZENIE ŚWIATA"
+      "->": ""
     },
     "gamesettings.difficulty": {
       "en": "Difficulty",
-      "->": "Poziom trudności"
+      "->": ""
     },
     "gamesettings.difficulty.crazy": {
       "en": "Crazy",
-      "->": "Szalony"
+      "->": ""
     },
     "gamesettings.difficulty.easy": {
       "en": "Easy",
-      "->": "Łatwy"
+      "->": ""
     },
     "gamesettings.difficulty.hard": {
       "en": "Hard",
-      "->": "Trudny"
+      "->": ""
     },
     "gamesettings.difficulty.normal": {
       "en": "Normal",
-      "->": "Normalny"
+      "->": ""
     },
     "gamesettings.disableTribes": {
       "en": "Enable or Disable Tribes",
-      "->": "Aktywuj lub deaktywuj plemiona"
+      "->": ""
     },
     "gamesettings.findmatch": {
       "en": "FIND MATCH",
-      "->": "ZNAJDŹ PRZECIWNIKA"
+      "->": ""
     },
     "gamesettings.game": {
       "en": "Game {0}",
-      "->": "Gra {0}"
+      "->": ""
     },
     "gamesettings.gamename": {
       "en": "Game Name",
-      "->": "Nazwa gry"
+      "->": ""
     },
     "gamesettings.info.difficulty.bonus": {
       "en": "Difficulty bonus: {0}%",
-      "->": "Bonus za poziom trudności: {0}%"
+      "->": ""
     },
     "gamesettings.info.gamepreferences.header": {
       "en": "Advanced settings",
@@ -1941,11 +1949,11 @@
     },
     "gamesettings.info.gamepreferences.info": {
       "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
-      "->": "Im więcej usawień zmienisz, tym dłużej będziesz czekać na znalezienie przeciwnika. Jeśli chcesz rozpocząć szybką grę, zostaw ustawienia domyślne."
+      "->": ""
     },
     "gamesettings.info.local": {
       "en": "{0} opponents, {1} tiles map",
-      "->": "{0} przeciwników, mapa na {1} kafelków"
+      "->": ""
     },
     "gamesettings.info.matchmaking.gamemode": {
       "en": "{0} game",
@@ -1953,23 +1961,23 @@
     },
     "gamesettings.info.matchmaking.mappreset": {
       "en": "{0} map type",
-      "->": "Typ mapy: {0}"
+      "->": ""
     },
     "gamesettings.info.matchmaking.mapsize": {
       "en": "{0} tiles map",
-      "->": "Wielkość mapy: {0}"
+      "->": ""
     },
     "gamesettings.info.matchmaking.opponentcount": {
       "en": "{0} opponents",
-      "->": "Przeciwnicy: {0}"
+      "->": ""
     },
     "gamesettings.info.matchmaking.timelimit": {
       "en": "{0} turn time limit",
-      "->": "Czas na turę: {0}"
+      "->": ""
     },
     "gamesettings.info.multiplayer": {
       "en": "{0} players, {1} tiles map",
-      "->": "{0} graczy, mapa na {1} kafelków"
+      "->": ""
     },
     "gamesettings.info.seed": {
       "en": "Seed",
@@ -1977,7 +1985,7 @@
     },
     "gamesettings.info.turnlimit30": {
       "en": ", 30 turn limit",
-      "->": ", limit 30 tur"
+      "->": ""
     },
     "gamesettings.livegame": {
       "en": "Live Game",
@@ -1993,47 +2001,47 @@
     },
     "gamesettings.map.archipelago": {
       "en": "Archipelago",
-      "->": "Archipelag"
+      "->": ""
     },
     "gamesettings.map.continents": {
       "en": "Continents",
-      "->": "Kontynenty"
+      "->": ""
     },
     "gamesettings.map.dryland": {
       "en": "Dryland",
-      "->": "Suchy Ląd"
+      "->": ""
     },
     "gamesettings.map.lakes": {
       "en": "Lakes",
-      "->": "Jeziora"
+      "->": ""
     },
     "gamesettings.map.waterworld": {
       "en": "Water World",
-      "->": "Wodny Świat"
+      "->": ""
     },
     "gamesettings.matchmaking.noedit": {
       "en": "Open for any kind of game",
-      "->": "Otwarte na dowolną grę"
+      "->": ""
     },
     "gamesettings.mode": {
       "en": "Game Mode",
-      "->": "Tryb Gry"
+      "->": ""
     },
     "gamesettings.network": {
       "en": "Network",
-      "->": "Wielu Graczy"
+      "->": ""
     },
     "gamesettings.network.online": {
       "en": "Online",
-      "->": "W Sieci"
+      "->": ""
     },
     "gamesettings.network.passplay": {
       "en": "Pass & Play",
-      "->": "Podawaj i Graj"
+      "->": ""
     },
     "gamesettings.notavailable": {
       "en": "Not Available",
-      "->": "Niedostępne"
+      "->": ""
     },
     "gamesettings.notenoughplayers": {
       "en": "You need at least two players to start a game",
@@ -2049,59 +2057,59 @@
     },
     "gamesettings.online.disabled": {
       "en": "Online is locked",
-      "->": "Gra sieciowa zablokowana"
+      "->": ""
     },
     "gamesettings.online.disabled.info": {
       "en": "There are some things you need to fix to play online multiplayer",
-      "->": "Jest kilka rzeczy, które musisz zrobić by grać w sieci"
+      "->": ""
     },
     "gamesettings.online.info": {
       "en": "Play with your friends online using our multiplayer server.",
-      "->": "Graj z przyjaciółmi w sieci, używając naszego serwera dla wielu graczy."
+      "->": ""
     },
     "gamesettings.opponents": {
       "en": "Opponents",
-      "->": "Przeciwnicy"
+      "->": ""
     },
     "gamesettings.passplay.info": {
       "en": "Play with your friends offline on this device by passing it around.",
-      "->": "Graj z przyjaciółmi lokalnie na urządzeniu, podając je wokół."
+      "->": ""
     },
     "gamesettings.players": {
       "en": "Players",
-      "->": "Gracze"
+      "->": ""
     },
     "gamesettings.size": {
       "en": "Map Size",
-      "->": "Rozmiar Mapy"
+      "->": ""
     },
     "gamesettings.size.disabled": {
       "en": "Not Available",
-      "->": "Niedostępne"
+      "->": ""
     },
     "gamesettings.size.huge": {
       "en": "Huge",
-      "->": "Wielka"
+      "->": ""
     },
     "gamesettings.size.large": {
       "en": "Large",
-      "->": "Duża"
+      "->": ""
     },
     "gamesettings.size.massive": {
       "en": "Massive",
-      "->": "Ogromna"
+      "->": ""
     },
     "gamesettings.size.normal": {
       "en": "Normal",
-      "->": "Normalna"
+      "->": ""
     },
     "gamesettings.size.small": {
       "en": "Small",
-      "->": "Mała"
+      "->": ""
     },
     "gamesettings.size.tiles": {
       "en": "{0} tiles map.",
-      "->": "Mapa na {0} kafelków."
+      "->": ""
     },
     "gamesettings.size.tiles.unspecified": {
       "en": "You might get any size of a map. Exciting!",
@@ -2109,15 +2117,15 @@
     },
     "gamesettings.size.tiny": {
       "en": "Tiny",
-      "->": "Bardzo mała"
+      "->": ""
     },
     "gamesettings.startgame": {
       "en": "START GAME",
-      "->": "ROZPOCZNIJ GRĘ"
+      "->": ""
     },
     "gamesettings.timelimit": {
       "en": "Turn Time Limit",
-      "->": "Limit Czasu Tury"
+      "->": ""
     },
     "gamesettings.timer": {
       "en": "Game Timer",
@@ -2133,7 +2141,7 @@
     },
     "gamesettings.title": {
       "en": "GAME SETUP",
-      "->": "USTAWIENIA GRY"
+      "->": ""
     },
     "gamesettings.unknown": {
       "en": "Unknown",
@@ -2141,39 +2149,39 @@
     },
     "gamesettings.unlockmore": {
       "en": "Unlock more tribes to play with more opponents",
-      "->": "Odblokuj więcej plemion by grać z większą ilością przeciwników"
+      "->": ""
     },
     "gamesettings.unspecified": {
       "en": "Any",
-      "->": "Dowolne"
+      "->": ""
     },
     "gamesettings.yourname": {
       "en": "Your Name",
-      "->": "Twoje imię"
+      "->": ""
     },
     "gamestats.battle": {
       "en": "Battle skills",
-      "->": "Walka"
+      "->": ""
     },
     "gamestats.battle.info": {
       "en": "{0} won, {1} lost",
-      "->": "{0} wygrane, {1} przegrane"
+      "->": ""
     },
     "gamestats.bonus": {
       "en": "Difficulty bonus: {0}",
-      "->": "Bonus za trudność: {0}"
+      "->": ""
     },
     "gamestats.gamemode": {
       "en": "Game mode: {0}",
-      "->": "Tryb gry: {0}"
+      "->": ""
     },
     "gamestats.speed": {
       "en": "Speed skills",
-      "->": "Szybkość"
+      "->": ""
     },
     "gamestats.speed.info": {
       "en": "{0}/{1} turns",
-      "->": "{0}/{1} tur"
+      "->": ""
     },
     "gamestats.title": {
       "en": "GAME STATS",
@@ -2181,23 +2189,23 @@
     },
     "gamestatus.capitals": {
       "en": "Capitals Owned",
-      "->": "Posiadane Stolice"
+      "->": ""
     },
     "gamestatus.cities": {
       "en": "{0} cities",
-      "->": "{0} miasta"
+      "->": ""
     },
     "gamestatus.city": {
       "en": "{0} city",
-      "->": "{0} miasto"
+      "->": ""
     },
     "gamestatus.destroyed": {
       "en": "destroyed",
-      "->": "zniszczono"
+      "->": ""
     },
     "gamestatus.difficulty": {
       "en": "Difficulty rating",
-      "->": "Ranking trudności"
+      "->": ""
     },
     "gamestatus.killedonturn": {
       "en": "killed on turn {0}",
@@ -2205,7 +2213,7 @@
     },
     "gamestatus.ruled": {
       "en": "Ruled by {0}",
-      "->": "Rządzone przez {0}"
+      "->": ""
     },
     "gamestatus.ruled.bot": {
       "en": "bot",
@@ -2213,7 +2221,7 @@
     },
     "gamestatus.ruled.you": {
       "en": "Ruled by you",
-      "->": "Rządzone przez Ciebie"
+      "->": ""
     },
     "gamestatus.ruler": {
       "en": "Ruler of the {0}",
@@ -2221,39 +2229,39 @@
     },
     "gamestatus.score": {
       "en": "score: {0} points",
-      "->": "wynik: {0} punktów"
+      "->": ""
     },
     "gamestatus.scores": {
       "en": "Scores",
-      "->": "Wyniki"
+      "->": ""
     },
     "gamestatus.tasks": {
       "en": "Tasks {0}/{1}",
-      "->": "Zadania {0}/{1}"
+      "->": ""
     },
     "gamestatus.tasks.complete": {
       "en": "Complete!",
-      "->": "Gotowe!"
+      "->": ""
     },
     "gamestatus.tribes": {
       "en": "Tribes destroyed",
-      "->": "Zniszczone plemiona"
+      "->": ""
     },
     "gamestatus.unknown.ruler": {
       "en": "Unknown ruler",
-      "->": "Nieznany władca"
+      "->": ""
     },
     "gamestatus.unknown.tribe": {
       "en": "Unknown tribe",
-      "->": "Nieznane plemię"
+      "->": ""
     },
     "highscore.alltime": {
       "en": "All Time",
-      "->": "Wszystkie"
+      "->": ""
     },
     "highscore.alltribes": {
       "en": "All Tribes",
-      "->": "Wszystkie plemiona"
+      "->": ""
     },
     "highscore.error": {
       "en": "Failed to upload highscore to server, do you want to retry?",
@@ -2265,27 +2273,27 @@
     },
     "highscore.hiscore": {
       "en": "hiscore",
-      "->": "najlepszy wynik"
+      "->": ""
     },
     "highscore.loading": {
       "en": "Loading...",
-      "->": "Ładowanie.."
+      "->": ""
     },
     "highscore.notavailable": {
       "en": "High Score not available.",
-      "->": "Najlepsze wyniki niedostępne."
+      "->": ""
     },
     "highscore.thisweek": {
       "en": "This Week",
-      "->": "Ten tydzień"
+      "->": ""
     },
     "highscore.title": {
       "en": "HIGH SCORE",
-      "->": "NAJLEPSZE WYNIKI"
+      "->": ""
     },
     "highscore.today": {
       "en": "Today",
-      "->": "Dzisiaj"
+      "->": ""
     },
     "highscore.uploading": {
       "en": "Uploading high score...",
@@ -2305,15 +2313,19 @@
     },
     "idconsole.clipboard.title": {
       "en": "Voilà!",
-      "->": "Gotowe!"
+      "->": ""
+    },
+    "language": {
+      "en": "English",
+      "->": ""
     },
     "matchmakinggameinfo.waited": {
       "en": "Waited",
-      "->": "Czekano"
+      "->": ""
     },
     "matchmakinggameinfo.waitingforplayers": {
       "en": "Waiting for {0} additional {1}",
-      "->": "Czekanie na {0} dodatkowych graczy"
+      "->": ""
     },
     "migration.restoredescription": {
       "en": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
@@ -2357,19 +2369,19 @@
     },
     "mplayerstats.alias": {
       "en": "Alias",
-      "->": "Pseudonim"
+      "->": ""
     },
     "mplayerstats.appversion": {
       "en": "App version:",
-      "->": "Wersja aplikacji:"
+      "->": ""
     },
     "mplayerstats.avatar.edit": {
       "en": "<sprite=\"texticons\" index=0><u>Edit</u>",
-      "->": "Edytuj"
+      "->": ""
     },
     "mplayerstats.clear": {
       "en": "clear data",
-      "->": "wyczyść dane"
+      "->": ""
     },
     "mplayerstats.elo": {
       "en": "Elo",
@@ -2381,87 +2393,87 @@
     },
     "mplayerstats.friends": {
       "en": "nº of friends",
-      "->": "Liczba przyjaciół"
+      "->": ""
     },
     "mplayerstats.games": {
       "en": "Games Played",
-      "->": "Rozegrane Gry"
+      "->": ""
     },
     "mplayerstats.gameversion": {
       "en": "Game version",
-      "->": "Wersja gry"
+      "->": ""
     },
     "mplayerstats.loaderror": {
       "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-      "->": "Nie udało się połączyć z serwerem. Sprawdź połączenie i spróbuj ponownie."
+      "->": ""
     },
     "mplayerstats.lost": {
       "en": "Feeling lost? Check the:",
-      "->": "Zagubiony? Sprawdź:"
+      "->": ""
     },
     "mplayerstats.multiplayer.faq": {
       "en": "MULTIPLAYER FAQ",
-      "->": "NAJCZĘSTSZE PYTANIA"
+      "->": ""
     },
     "mplayerstats.multiplayer.faq.lower": {
       "en": "Multiplayer FAQ",
-      "->": "Najczęstsze Pytania"
+      "->": ""
     },
     "mplayerstats.rating": {
       "en": "Elo Rating",
-      "->": "Ranking Sieciowy"
+      "->": ""
     },
     "mplayerstats.reload": {
       "en": "reload multiplayer data",
-      "->": "przeładuj dane trybu dla wielu graczy"
+      "->": ""
     },
     "mplayerstats.reloading": {
       "en": "Reloading...",
-      "->": "Przeładowywanie.."
+      "->": ""
     },
     "mplayerstats.server": {
       "en": "Server version",
-      "->": "Wersja Serwera"
+      "->": ""
     },
     "mplayerstats.title": {
       "en": "PLAYER PROFILE",
-      "->": "PROFIL GRACZA"
+      "->": ""
     },
     "mplayerstats.uptodate": {
       "en": "Everything is up to date",
-      "->": "Wszystko jest aktualne"
+      "->": ""
     },
     "multiplayer.activegames": {
       "en": "Active Games",
-      "->": "Gry w toku"
+      "->": ""
     },
     "multiplayer.clipboard": {
       "en": "Gamedata added to clipboard",
-      "->": "Dane gry dodane do schowka"
+      "->": ""
     },
     "multiplayer.clipboard.title": {
       "en": "Voilà!",
-      "->": "Gotowe!"
+      "->": ""
     },
     "multiplayer.creategame": {
       "en": "Create game",
-      "->": "Stwórz grę"
+      "->": ""
     },
     "multiplayer.finishedgames": {
       "en": "Finished Games",
-      "->": "Zakończone gry"
+      "->": ""
     },
     "multiplayer.passplay": {
       "en": "Pass & Play",
-      "->": "Podawaj i Graj"
+      "->": ""
     },
     "multiplayer.passplay.info": {
       "en": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
-      "->": "Postaw wyzwanie swoim przyjaciołom w rozgrywce dla wielu graczy na jednym urządzeniu. Po prostu podaj urządzenie do następnego gracza gdy zakończysz turę."
+      "->": ""
     },
     "news.description": {
       "en": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
-      "->": "Witaj!\nDzielimy się tutaj nowościami ze świata Polytopii. Bądź na bieżąco!"
+      "->": ""
     },
     "news.error.failed": {
       "en": "Failed to load news",
@@ -2473,11 +2485,11 @@
     },
     "news.timeago": {
       "en": "{0} ago",
-      "->": "{0} dni temu"
+      "->": ""
     },
     "news.title": {
       "en": "POLYTOPIA NEWS",
-      "->": "Aktualności"
+      "->": ""
     },
     "notifications.defaultheader": {
       "en": "Alert",
@@ -2489,19 +2501,19 @@
     },
     "onlineview.check": {
       "en": "check",
-      "->": "zaznacz"
+      "->": ""
     },
     "onlineview.clipboard": {
       "en": "Game ID added to clipboard: {0}",
-      "->": "ID gry dodane do schowka: {0}"
+      "->": ""
     },
     "onlineview.clipboard.title": {
       "en": "Voilà!",
-      "->": "Gotowe!"
+      "->": ""
     },
     "onlineview.completed": {
       "en": "completed",
-      "->": "gotowe"
+      "->": ""
     },
     "onlineview.favorites": {
       "en": "Favourites ({0}/{1})",
@@ -2509,35 +2521,35 @@
     },
     "onlineview.fixit": {
       "en": "FIX IT",
-      "->": "NAPRAW"
+      "->": ""
     },
     "onlineview.friendlist.available": {
       "en": "Friend List is only available when connected to the server.",
-      "->": "Lista przyjaciół jest dostępna tylko gdy jesteś połączony z serwerem."
+      "->": ""
     },
     "onlineview.friends": {
       "en": "Friends",
-      "->": "Przyjaciele"
+      "->": ""
     },
     "onlineview.game.decline": {
       "en": "DECLINE",
-      "->": "ODMÓW"
+      "->": ""
     },
     "onlineview.game.delete": {
       "en": "DELETE",
-      "->": "USUŃ"
+      "->": ""
     },
     "onlineview.game.gameinfo": {
       "en": "Game Info",
-      "->": "Info o Grze"
+      "->": ""
     },
     "onlineview.game.join": {
       "en": "JOIN GAME",
-      "->": "DOŁĄCZ"
+      "->": ""
     },
     "onlineview.game.leavematchmaking": {
       "en": "LEAVE",
-      "->": "OPUŚĆ"
+      "->": ""
     },
     "onlineview.game.leavematchmaking.info": {
       "en": "Are you sure you want to stop waiting for this game?",
@@ -2549,35 +2561,35 @@
     },
     "onlineview.game.missingplayer": {
       "en": "Empty",
-      "->": "Puste"
+      "->": ""
     },
     "onlineview.game.moreinfo": {
       "en": "More info",
-      "->": "Więcej"
+      "->": ""
     },
     "onlineview.game.old.info": {
       "en": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
-      "->": "Ta rozgrywka została utworzona za pomocą starej wersji gry. Niestety, nie może zostać załadowana :( Usuń ją i rozpocznij nową. Przepraszamy za utrudnienie."
+      "->": ""
     },
     "onlineview.game.old.title": {
       "en": "Old file version",
-      "->": "Stara wersja pliku"
+      "->": ""
     },
     "onlineview.game.open": {
       "en": "OPEN",
-      "->": "OTWÓRZ"
+      "->": ""
     },
     "onlineview.game.player.invited": {
       "en": "You are invited to a new game, {0}",
-      "->": "Zaproszono Cię do nowe rozgrywki, {0}"
+      "->": ""
     },
     "onlineview.game.player.kicked": {
       "en": "You have been removed from game {0}",
-      "->": "Usunięto Cię z rozgrywki {0}"
+      "->": ""
     },
     "onlineview.game.player.left": {
       "en": "{0} has left the game {1} and has been replaced by a bot.",
-      "->": "{0} opuścił rozgrywkę {1} i został zastąpiony przez bota."
+      "->": ""
     },
     "onlineview.game.replays.share.button": {
       "en": "Share",
@@ -2593,15 +2605,15 @@
     },
     "onlineview.game.resign": {
       "en": "RESIGN",
-      "->": "ZREZYGNUJ"
+      "->": ""
     },
     "onlineview.game.resign.info": {
       "en": "Are you sure you want to leave this game permanently?",
-      "->": "Czy jesteś pewien, że chcesz opuścić grę?"
+      "->": ""
     },
     "onlineview.game.resign.title": {
       "en": "Resign",
-      "->": "Zrezygnuj"
+      "->": ""
     },
     "onlineview.game.resigned": {
       "en": "You are now resigned.",
@@ -2613,15 +2625,15 @@
     },
     "onlineview.game.size": {
       "en": "Map Size",
-      "->": "Rozmiar Mapy"
+      "->": ""
     },
     "onlineview.game.start": {
       "en": "START GAME",
-      "->": "GRAJ"
+      "->": ""
     },
     "onlineview.game.you": {
       "en": "You",
-      "->": "Ty"
+      "->": ""
     },
     "onlineview.gamedeleted.info": {
       "en": "The game {0} has been deleted because all other players rejected the game.",
@@ -2637,15 +2649,15 @@
     },
     "onlineview.gameinvitations": {
       "en": "Game Invitations",
-      "->": "Zaproszenia Do Gry"
+      "->": ""
     },
     "onlineview.intro.fix": {
       "en": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
-      "->": "Witaj {0}! \n\nBy zagrać przez sieć musisz wykonać kilka kroków:"
+      "->": ""
     },
     "onlineview.intro.update": {
       "en": "Online multiplayer is not available, please update Polytopia to the latest version",
-      "->": "Tryb sieciowy jest niedostępny, zaktualizuj Polytopię do najnowszej wersji"
+      "->": ""
     },
     "onlineview.kicked.automatic": {
       "en": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
@@ -2705,7 +2717,7 @@
     },
     "onlineview.loaderror": {
       "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
-      "->": "Nie można połączyć z serwerem. Sprawdź połączenie internetowe i spróbuj ponownie."
+      "->": ""
     },
     "onlineview.loading.title": {
       "en": "Loading...",
@@ -2713,7 +2725,7 @@
     },
     "onlineview.loadingservice": {
       "en": "Loading Service",
-      "->": "Ładowanie Usług"
+      "->": ""
     },
     "onlineview.lobby.invite.title": {
       "en": "Invite players ({0}/{1})",
@@ -2753,11 +2765,11 @@
     },
     "onlineview.login.ios": {
       "en": "Log in to {0}",
-      "->": "Zaloguj do {0}"
+      "->": ""
     },
     "onlineview.login.ios.info": {
       "en": "Using {0} ensures that you have a unique and persistent Player ID that will keep your data safe across devices.",
-      "->": "Używając {0} upewnij się, że posiadasz unikalne ID gracza, które zapewni zachowanie Twoich danych pomiędzy urządzeniami."
+      "->": ""
     },
     "onlineview.login.ios.info2": {
       "en": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
@@ -2773,23 +2785,23 @@
     },
     "onlineview.matchmaking": {
       "en": "RANDOM MATCH",
-      "->": "LOSOWA ROZGRYWKA"
+      "->": ""
     },
     "onlineview.newgame": {
       "en": "New Game",
-      "->": "Nowa Gra"
+      "->": ""
     },
     "onlineview.nogames.first": {
       "en": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
-      "->": "Zacznij od nawiązania kontaktu z innymi graczami. Kliknij 'Przyjaciele' by ich dodać."
+      "->": ""
     },
     "onlineview.nogames.intro": {
       "en": "Hi {0}!",
-      "->": "Witaj {0}!"
+      "->": ""
     },
     "onlineview.nogames.start": {
       "en": "Let's get some online games going with your friends. Tap 'New game' to start one.",
-      "->": "Zagraj z przyjaciółmi. Naciśnij 'Nowa gra' by rozpocząć."
+      "->": ""
     },
     "onlineview.noladders": {
       "en": "No ladders available",
@@ -2801,11 +2813,11 @@
     },
     "onlineview.notifications": {
       "en": "Enable notifications",
-      "->": "Włącz powiadomienia"
+      "->": ""
     },
     "onlineview.notifications.info": {
       "en": "We use notifications to communicate the status of your ongoing multiplayer games.",
-      "->": "Używamy powiadomień aby informować Cię o statusie twoich gier sieciowych.."
+      "->": ""
     },
     "onlineview.ongoing": {
       "en": "Ongoing",
@@ -2813,47 +2825,47 @@
     },
     "onlineview.or": {
       "en": "or",
-      "->": "lub"
+      "->": ""
     },
     "onlineview.passplay": {
       "en": "Pass & Play",
-      "->": "Podawaj i Graj"
+      "->": ""
     },
     "onlineview.passplay.start": {
       "en": "Start a local Pass & Play game by tapping 'New Game'",
-      "->": "Rozpocznij lokalną grę 'Podawaj i Graj' stukając w 'Nowa Gra'"
+      "->": ""
     },
     "onlineview.profile": {
       "en": "Profile",
-      "->": "Profil"
+      "->": ""
     },
     "onlineview.profile.available": {
       "en": "Profile is only available when connected to the server.",
-      "->": "Profil jest dostępny tylko gdy jesteś połączony z serwerem."
+      "->": ""
     },
     "onlineview.purchase": {
       "en": "Purchase one Tribe",
-      "->": "Kup jedno plemię"
+      "->": ""
     },
     "onlineview.purchase.info": {
       "en": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
-      "->": "Utrzymywanie infrastruktury gier sieciowych kosztuje prawdziwe pieniądze a my polegamy wyłącznie na cennym wsparciu graczy takich jak Ty."
+      "->": ""
     },
     "onlineview.randommatch.start": {
       "en": "Start a game with a random opponent",
-      "->": "Rozpocznij grę z losowym przeciwnikiem"
+      "->": ""
     },
     "onlineview.refresh": {
       "en": "Refresh",
-      "->": "Odśwież"
+      "->": ""
     },
     "onlineview.reloading": {
       "en": "Reloading...",
-      "->": "Przeładowywanie.."
+      "->": ""
     },
     "onlineview.reloading.release": {
       "en": "Release to reload...",
-      "->": "Puść by przeładować..."
+      "->": ""
     },
     "onlineview.replay.delete.info": {
       "en": "Are you sure you want to delete this replay?",
@@ -2873,7 +2885,7 @@
     },
     "onlineview.required": {
       "en": "required",
-      "->": "wymagane"
+      "->": ""
     },
     "onlineview.resigned.competitive.info": {
       "en": "{0} resigned from the game {1} and is now frozen.",
@@ -2889,7 +2901,7 @@
     },
     "onlineview.servicedisabled": {
       "en": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
-      "->": "Serwer jest tymczasowo niedostępny, spróbuj ponownie później. Upewnij się także, czy używasz najnowszej wersji gry."
+      "->": ""
     },
     "onlineview.skipped.info.local": {
       "en": "You were skipped.",
@@ -2917,15 +2929,15 @@
     },
     "onlineview.theirturn": {
       "en": "Their Turn",
-      "->": "Ich Tura"
+      "->": ""
     },
     "onlineview.title": {
       "en": "MULTIPLAYER",
-      "->": "TRYB DLA WIELU GRACZY"
+      "->": ""
     },
     "onlineview.uptodate": {
       "en": "All games are up to date",
-      "->": "Wszystkie gry są aktualne"
+      "->": ""
     },
     "onlineview.uptodate.ladders": {
       "en": "All ladders are up to date",
@@ -2937,7 +2949,7 @@
     },
     "onlineview.waiting": {
       "en": "Waiting for Players",
-      "->": "Oczekiwanie na Graczy"
+      "->": ""
     },
     "onlineview.waiting.server": {
       "en": "Waiting for server response...",
@@ -2945,7 +2957,7 @@
     },
     "onlineview.yourturn": {
       "en": "Your Turn",
-      "->": "Twoja Tura"
+      "->": ""
     },
     "opinion.noopinion": {
       "en": "They don't know about you yet",
@@ -3065,11 +3077,11 @@
     },
     "player.abilities.destroy": {
       "en": "Destroy",
-      "->": "zniszcz"
+      "->": ""
     },
     "player.abilities.disband": {
       "en": "Disband",
-      "->": "zwolnij"
+      "->": ""
     },
     "player.abilities.embassy": {
       "en": "Embassy",
@@ -3077,11 +3089,11 @@
     },
     "player.abilities.glide": {
       "en": "Glide",
-      "->": "poślizg"
+      "->": ""
     },
     "player.abilities.literacy": {
       "en": "Literacy",
-      "->": "piśmienność"
+      "->": ""
     },
     "player.abilities.peacetreaty": {
       "en": "Peace Treaty",
@@ -3173,7 +3185,7 @@
     },
     "playerpickerview.addplayer": {
       "en": "ADD PLAYER",
-      "->": "DODAJ GRACZA"
+      "->": ""
     },
     "playerpickerview.bot": {
       "en": "{0} ({1} bot)",
@@ -3181,11 +3193,11 @@
     },
     "playerpickerview.human": {
       "en": "No human player",
-      "->": "Brak prawdziwych graczy"
+      "->": ""
     },
     "playerpickerview.human.info": {
       "en": "There needs to be at least one human player to start a game",
-      "->": "Musi być co najmniej jeden prawdziwy gracz by zacząć grę"
+      "->": ""
     },
     "playerpickerview.maptype": {
       "en": "Map type: {0}",
@@ -3193,115 +3205,115 @@
     },
     "playerpickerview.mode": {
       "en": "Game mode: {0}",
-      "->": "Tryb gry: {0}"
+      "->": ""
     },
     "playerpickerview.name": {
       "en": "Game Name",
-      "->": "Nazwa Gry"
+      "->": ""
     },
     "playerpickerview.players": {
       "en": "Players ({0}/{1})",
-      "->": "Gracze ({0}/{1})"
+      "->": ""
     },
     "playerpickerview.size": {
       "en": "Map size: {0} tiles",
-      "->": "Rozmiar mapy: {0} kafelków"
+      "->": ""
     },
     "playerpickerview.startgame": {
       "en": "START GAME",
-      "->": "ROZPOCZNIJ GRĘ"
+      "->": ""
     },
     "playerpickerview.title": {
       "en": "PICK PLAYERS",
-      "->": "WYBIERZ GRACZY"
+      "->": ""
     },
     "playerpickerview.you": {
       "en": "{0} (you)",
-      "->": "{0} (Ty)"
+      "->": ""
     },
     "polyplayer.task": {
       "en": "task",
-      "->": "zadanie"
+      "->": ""
     },
     "polyplayer.task.explorer.description": {
       "en": "Explore every single tile in this square world",
-      "->": "Odkryj każdy kafelek w tym kwadratowym świecie"
+      "->": ""
     },
     "polyplayer.task.explorer.title": {
       "en": "Explorer",
-      "->": "Odkrywca"
+      "->": ""
     },
     "polyplayer.task.genius.description": {
       "en": "Discover all available technologies",
-      "->": "Odkryj wszystkie dostępne technologie"
+      "->": ""
     },
     "polyplayer.task.genius.title": {
       "en": "Genius",
-      "->": "Geniusz"
+      "->": ""
     },
     "polyplayer.task.killer.description": {
       "en": "Kill 10 enemies in battle",
-      "->": "Zabij 10 przeciwników w bitwie"
+      "->": ""
     },
     "polyplayer.task.killer.title": {
       "en": "Killer",
-      "->": "Zabójca"
+      "->": ""
     },
     "polyplayer.task.metropolis.description": {
       "en": "Create a level 5 city",
-      "->": "Stwórz miasto 5 poziomu"
+      "->": ""
     },
     "polyplayer.task.metropolis.title": {
       "en": "Metropolis",
-      "->": "Metropolia"
+      "->": ""
     },
     "polyplayer.task.network.description": {
       "en": "Connect 5 cities to your capital",
-      "->": "Połącz 5 miast ze swoją stolicą"
+      "->": ""
     },
     "polyplayer.task.network.title": {
       "en": "Network",
-      "->": "Sieć"
+      "->": ""
     },
     "polyplayer.task.pacifist.description": {
       "en": "Make no attacks for 5 turns",
-      "->": "Nie atakuj przez 5 tur"
+      "->": ""
     },
     "polyplayer.task.pacifist.title": {
       "en": "Pacifist",
-      "->": "Pacyfista"
+      "->": ""
     },
     "polyplayer.task.wealth.description": {
       "en": "Gather 100 stars",
-      "->": "Zbierz 100 gwiazdek"
+      "->": ""
     },
     "polyplayer.task.wealth.title": {
       "en": "Wealth",
-      "->": "Bogactwo"
+      "->": ""
     },
     "price.points": {
       "en": "point",
-      "->": "punkt"
+      "->": ""
     },
     "price.points.plural": {
       "en": "points",
-      "->": "punkty"
+      "->": ""
     },
     "price.population": {
       "en": "population",
-      "->": "populację"
+      "->": ""
     },
     "price.population.plural": {
       "en": "population",
-      "->": "populacje"
+      "->": ""
     },
     "price.stars": {
       "en": "star",
-      "->": "gwiazdkę"
+      "->": ""
     },
     "price.stars.plural": {
       "en": "stars",
-      "->": "gwiazdki"
+      "->": ""
     },
     "purchasing.error.androidinitializationfailed": {
       "en": "Unable to connect to the Google Play Billing service. This might mean that your Google account is missing or incorrectly set up.",
@@ -3437,19 +3449,19 @@
     },
     "resource.names.crop": {
       "en": "crop",
-      "->": "plon"
+      "->": ""
     },
     "resource.names.fish": {
       "en": "fish",
-      "->": "ryba"
+      "->": ""
     },
     "resource.names.fruit": {
       "en": "fruit",
-      "->": "owoc"
+      "->": ""
     },
     "resource.names.game": {
       "en": "wild animal",
-      "->": "dzikie zwierzę"
+      "->": ""
     },
     "resource.names.metal": {
       "en": "metal",
@@ -3461,15 +3473,15 @@
     },
     "resource.names.whale": {
       "en": "whale",
-      "->": "wieloryb"
+      "->": ""
     },
     "settings.ambience": {
       "en": "Ambience",
-      "->": "Dźwięk tła"
+      "->": ""
     },
     "settings.antialias": {
       "en": "Anti-aliasing",
-      "->": "Wygładzanie krawędzi"
+      "->": ""
     },
     "settings.compactui": {
       "en": "Compact UI",
@@ -3477,27 +3489,27 @@
     },
     "settings.confirm": {
       "en": "Confirm turn",
-      "->": "Potwierdzenie tury"
+      "->": ""
     },
     "settings.fullscreen": {
       "en": "Fullscreen",
-      "->": "Pełny ekran"
+      "->": ""
     },
     "settings.hideadvanced": {
       "en": "Hide Advanced Settings",
-      "->": "Schowaj Ustawienia Zaawansowane"
+      "->": ""
     },
     "settings.info": {
       "en": "Info on Build",
-      "->": "Wskazówki przy budowaniu"
+      "->": ""
     },
     "settings.language": {
       "en": "Language",
-      "->": "Język"
+      "->": ""
     },
     "settings.language.load.button": {
       "en": "LOAD",
-      "->": "ZAŁADUJ"
+      "->": ""
     },
     "settings.language.load.error.info": {
       "en": "The loaded file does not have a valid JSON Format and can't be parsed.",
@@ -3509,75 +3521,75 @@
     },
     "settings.language.load.info": {
       "en": "Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
-      "->": "Załaduj plik językowy ze zdalnego serwera używając https. Opcja eksperymentalna, nie dla strachliwych."
+      "->": ""
     },
     "settings.language.load.input": {
       "en": "Language file url:",
-      "->": "Link do pliku językowego:"
+      "->": ""
     },
     "settings.language.load.title": {
       "en": "Custom language (BETA)",
-      "->": "Własny język (BETA)"
+      "->": ""
     },
     "settings.off": {
       "en": "OFF",
-      "->": "NIE"
+      "->": ""
     },
     "settings.on": {
       "en": "ON",
-      "->": "TAK"
+      "->": ""
     },
     "settings.saveexit": {
       "en": "EXIT TO MENU",
-      "->": "ZAPISZ i WYJDŹ"
+      "->": ""
     },
     "settings.scale": {
       "en": "UI Scale",
-      "->": "Skala interfejsu"
+      "->": ""
     },
     "settings.scale.auto": {
       "en": "Auto",
-      "->": "Automatyczna"
+      "->": ""
     },
     "settings.scale.large": {
       "en": "Large",
-      "->": "Duża"
+      "->": ""
     },
     "settings.scale.medium": {
       "en": "Medium",
-      "->": "Średnia"
+      "->": ""
     },
     "settings.scale.small": {
       "en": "Small",
-      "->": "Mała"
+      "->": ""
     },
     "settings.scale.verylarge": {
       "en": "Very Large",
-      "->": "Bardzo Duża"
+      "->": ""
     },
     "settings.showadvanced": {
       "en": "Advanced Settings",
-      "->": "Ustawienia Zaawansowane"
+      "->": ""
     },
     "settings.soundeffects": {
       "en": "Sound Effects",
-      "->": "Efekty Dźwiękowe"
+      "->": ""
     },
     "settings.suggestions": {
       "en": "Suggestions",
-      "->": "Sugestie"
+      "->": ""
     },
     "settings.title": {
       "en": "SETTINGS",
-      "->": "USTAWIENIA"
+      "->": ""
     },
     "settings.tribemusic": {
       "en": "Tribe Music",
-      "->": "Muzyka Plemienna"
+      "->": ""
     },
     "settings.volume": {
       "en": "Audio volume {0}",
-      "->": "Poziom głośności {0}"
+      "->": ""
     },
     "splashscreen.switch.12tribes": {
       "en": "12 unique Tribes",
@@ -3609,99 +3621,99 @@
     },
     "startmenu.about": {
       "en": "About",
-      "->": "O nas"
+      "->": ""
     },
     "startmenu.high_score": {
       "en": "High Score",
-      "->": "Rekordy"
+      "->": ""
     },
     "startmenu.multiplayer": {
       "en": "MULTIPLAYER",
-      "->": "WIELU GRACZY"
+      "->": ""
     },
     "startmenu.new_game": {
       "en": "NEW GAME",
-      "->": "NOWA GRA"
+      "->": ""
     },
     "startmenu.quit": {
       "en": "QUIT",
-      "->": "WYJDŹ"
+      "->": ""
     },
     "startmenu.resume_game": {
       "en": "RESUME GAME",
-      "->": "WZNÓW GRĘ"
+      "->": ""
     },
     "startmenu.settings": {
       "en": "Settings",
-      "->": "Ustawienia"
+      "->": ""
     },
     "startmenu.throne_room": {
       "en": "Throne Room",
-      "->": "Sala tronowa"
+      "->": ""
     },
     "stringtools.typelist.and": {
       "en": "and",
-      "->": "i"
+      "->": ""
     },
     "task.info": {
       "en": "{0} to get {1}",
-      "->": "{0} by otrzymać {1}"
+      "->": ""
     },
     "technology.ability": {
       "en": "ability",
-      "->": "zdolność"
+      "->": ""
     },
     "technology.ability.info": {
       "en": "{1} gives you the ability to {1}",
-      "->": "{1} daje Ci zdolność {1}"
+      "->": ""
     },
     "technology.build": {
       "en": "{0} makes it possible to build {1}",
-      "->": "{0} umożliwia zbudowanie {1}"
+      "->": ""
     },
     "technology.defence": {
       "en": "Defense Bonus",
-      "->": "Bonus do obrony"
+      "->": ""
     },
     "technology.defence.info": {
       "en": "gives your unit extra strength when defending in {0}",
-      "->": "daje twojej jednostce dodatkową siłę podczas obrony na kafelku {0}"
+      "->": ""
     },
     "technology.intro": {
       "en": "This tech will enable the following:",
-      "->": "Ta technologia umożliwia:"
+      "->": ""
     },
     "technology.movement": {
       "en": "Movement",
-      "->": "Ruch"
+      "->": ""
     },
     "technology.movement.info": {
       "en": "enables movement in {0}",
-      "->": "umożliwia ruch w {0}"
+      "->": ""
     },
     "technology.names.aquatism": {
       "en": "Aquatism",
-      "->": "Władca Wód"
+      "->": ""
     },
     "technology.names.archery": {
       "en": "Archery",
-      "->": "Łucznictwo"
+      "->": ""
     },
     "technology.names.basic": {
       "en": "basic",
-      "->": "podstawowy"
+      "->": ""
     },
     "technology.names.chivalry": {
       "en": "Chivalry",
-      "->": "Rycerstwo"
+      "->": ""
     },
     "technology.names.climbing": {
       "en": "Climbing",
-      "->": "Wspinaczka"
+      "->": ""
     },
     "technology.names.construction": {
       "en": "Construction",
-      "->": "Konstrukcje"
+      "->": ""
     },
     "technology.names.diplomacy": {
       "en": "Diplomacy",
@@ -3709,35 +3721,35 @@
     },
     "technology.names.farming": {
       "en": "Farming",
-      "->": "Rolnictwo"
+      "->": ""
     },
     "technology.names.fishing": {
       "en": "Fishing",
-      "->": "Łowienie"
+      "->": ""
     },
     "technology.names.forestmagic": {
       "en": "Forest Magic",
-      "->": "Leśna Magia"
+      "->": ""
     },
     "technology.names.forestry": {
       "en": "Forestry",
-      "->": "Leśnictwo"
+      "->": ""
     },
     "technology.names.freediving": {
       "en": "Free Diving",
-      "->": "Nurkowanie"
+      "->": ""
     },
     "technology.names.freespirit": {
       "en": "Free Spirit",
-      "->": "Wolna Dusza"
+      "->": ""
     },
     "technology.names.frostwork": {
       "en": "Frostwork",
-      "->": "Zamrażanie"
+      "->": ""
     },
     "technology.names.hunting": {
       "en": "Hunting",
-      "->": "Polowanie"
+      "->": ""
     },
     "technology.names.hydrology": {
       "en": "Hydrology",
@@ -3745,19 +3757,19 @@
     },
     "technology.names.mathematics": {
       "en": "Mathematics",
-      "->": "Matematyka"
+      "->": ""
     },
     "technology.names.meditation": {
       "en": "Meditation",
-      "->": "Medytacja"
+      "->": ""
     },
     "technology.names.mining": {
       "en": "Mining",
-      "->": "Kopalnictwo"
+      "->": ""
     },
     "technology.names.navigation": {
       "en": "Navigation",
-      "->": "Nawigacja"
+      "->": ""
     },
     "technology.names.oceanology": {
       "en": "Oceanology",
@@ -3765,19 +3777,19 @@
     },
     "technology.names.organization": {
       "en": "Organization",
-      "->": "Organizacja"
+      "->": ""
     },
     "technology.names.philosophy": {
       "en": "Philosophy",
-      "->": "Filozofia"
+      "->": ""
     },
     "technology.names.polarism": {
       "en": "Polarism",
-      "->": "Polarność"
+      "->": ""
     },
     "technology.names.polarwarfare": {
       "en": "Polar Warfare",
-      "->": "Polarne Pole Walki"
+      "->": ""
     },
     "technology.names.recycling": {
       "en": "Recycling",
@@ -3785,7 +3797,7 @@
     },
     "technology.names.riding": {
       "en": "Riding",
-      "->": "Jeździectwo"
+      "->": ""
     },
     "technology.names.riding2": {
       "en": "Riding",
@@ -3793,15 +3805,15 @@
     },
     "technology.names.roads": {
       "en": "Roads",
-      "->": "Drogi"
+      "->": ""
     },
     "technology.names.sailing": {
       "en": "Sailing",
-      "->": "Żeglarstwo"
+      "->": ""
     },
     "technology.names.shields": {
       "en": "Strategy",
-      "->": "Tarcze"
+      "->": ""
     },
     "technology.names.shock": {
       "en": "Shock Tactics",
@@ -3809,27 +3821,27 @@
     },
     "technology.names.smithery": {
       "en": "Smithery",
-      "->": "Kowalstwo"
+      "->": ""
     },
     "technology.names.spearing": {
       "en": "Spearing",
-      "->": "Włócznictwo"
+      "->": ""
     },
     "technology.names.spiritualism": {
       "en": "Spiritualism",
-      "->": "Spirytualizm"
+      "->": ""
     },
     "technology.names.trade": {
       "en": "Trade",
-      "->": "Handel"
+      "->": ""
     },
     "technology.names.watermagic": {
       "en": "Water Magic",
-      "->": "Wodna Magia"
+      "->": ""
     },
     "technology.names.whaling": {
       "en": "Whaling",
-      "->": "Wielorybnictwo"
+      "->": ""
     },
     "technology.requirements": {
       "en": "You need to research {0} to enable this action.",
@@ -3837,55 +3849,55 @@
     },
     "technology.task": {
       "en": "{0} activates the {1} task",
-      "->": "{0} aktywuje zadanie {1}"
+      "->": ""
     },
     "techview.completed": {
       "en": "(completed)",
-      "->": "(gotowe)"
+      "->": ""
     },
     "techview.completed.info": {
       "en": "You have already researched this technology.",
-      "->": "Technologia jest już odkryta."
+      "->": ""
     },
     "techview.expensive.info": {
       "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-      "->": "Masz za mało gwiazdek by to kupić. Naciśnij 'Nowa Tura' aby dostać więcej gwiazdek."
+      "->": ""
     },
     "techview.info": {
       "en": "Tech costs increase for each city in your empire.",
-      "->": "Koszt technologii zwiększa się wraz z każdym miastem imperium."
+      "->": ""
     },
     "techview.info.literacy": {
       "en": "Literacy reduces the price of all technologies by {0}%!",
-      "->": "Czytelnictwo zmniejsza koszt technologi o {0}%!"
+      "->": ""
     },
     "techview.locked": {
       "en": "(locked)",
-      "->": "(zablokowane)"
+      "->": ""
     },
     "techview.locked.info": {
       "en": "You must research {0} before you can learn {1}.",
-      "->": "Musisz odkryć {0} zanim będziesz mógł studiować {1}."
+      "->": ""
     },
     "techview.research": {
       "en": "RESEARCH",
-      "->": "ODKRYJ"
+      "->": ""
     },
     "terrain.field": {
       "en": "Field",
-      "->": "Pole"
+      "->": ""
     },
     "terrain.forest": {
       "en": "Forest",
-      "->": "Las"
+      "->": ""
     },
     "terrain.ice": {
       "en": "Ice",
-      "->": "Lód"
+      "->": ""
     },
     "terrain.mountain": {
       "en": "Mountain",
-      "->": "Góry"
+      "->": ""
     },
     "terrain.ocean": {
       "en": "Ocean",
@@ -3893,83 +3905,83 @@
     },
     "terrain.unknown": {
       "en": "Unknown lands",
-      "->": "Nieznane ziemie"
+      "->": ""
     },
     "terrain.water": {
       "en": "Water",
-      "->": "Woda"
+      "->": ""
     },
     "throne.alias": {
       "en": "Alias",
-      "->": "Pseudonim"
+      "->": ""
     },
     "throne.clipboard": {
       "en": "Player ID added to clipboard",
-      "->": "ID gracza dodane do schowka"
+      "->": ""
     },
     "throne.clipboard.title": {
       "en": "Voilà!",
-      "->": "Gotowe!"
+      "->": ""
     },
     "throne.google.achievements": {
       "en": "ACHIEVEMENTS",
-      "->": "OSIĄGNIĘCIA"
+      "->": ""
     },
     "throne.google.in": {
       "en": "SIGN IN",
-      "->": "REJESTRUJ"
+      "->": ""
     },
     "throne.google.info": {
       "en": "(!)You need to sign in with Google Play to save your game data and high scores.",
-      "->": "(!)Musisz się zarejestrować za pomocą Google Play by zapisać dane gier i wyniki."
+      "->": ""
     },
     "throne.google.out": {
       "en": "SIGN OUT",
-      "->": "WYLOGUJ"
+      "->": ""
     },
     "throne.google.signedin": {
       "en": "You are signed in using Google Play",
-      "->": "Jesteś zalogowany z użyciem Google Play"
+      "->": ""
     },
     "throne.played": {
       "en": "Games Played",
-      "->": "Rozegrane gry"
+      "->": ""
     },
     "throne.playerid": {
       "en": "Player ID",
-      "->": "ID gracza"
+      "->": ""
     },
     "throne.playerinfo": {
       "en": "Player Info",
-      "->": "Info o Graczu"
+      "->": ""
     },
     "throne.reset": {
       "en": "Reset Scores",
-      "->": "wyczyść wyniki"
+      "->": ""
     },
     "throne.reset.complete": {
       "en": "Scores are now reset",
-      "->": "Wyniki wyczyszczone"
+      "->": ""
     },
     "throne.resetwarning": {
       "en": "Are you sure you want to reset all your saved scores and ratings? This can not be undone.",
-      "->": "Czy na pewno chcesz wyczyścić wszystkie zapisane wyniki i rankingi? Nie można tego cofnąć."
+      "->": ""
     },
     "throne.resetwarning.title": {
       "en": "Reset Scores",
-      "->": "Wyczyść Wyniki"
+      "->": ""
     },
     "throne.title": {
       "en": "THRONE ROOM",
-      "->": "SALA TRONOWA"
+      "->": ""
     },
     "throne.toprating": {
       "en": "Top Rating",
-      "->": "Najwyższy ranking"
+      "->": ""
     },
     "throne.topscore": {
       "en": "Top Score",
-      "->": "Najwyższy wynik"
+      "->": ""
     },
     "tooltip.ability.agent": {
       "en": "This unit can be built in enemy territory",
@@ -3989,11 +4001,11 @@
     },
     "tooltip.ability.carry": {
       "en": "This unit is carrying another unit inside.",
-      "->": "Ta jednostka przenosi wewnątrz inną jednostkę."
+      "->": ""
     },
     "tooltip.ability.convert": {
       "en": "This unit can convert an enemy to your own tribe by attacking it.",
-      "->": "Ta jednostka potrafi przemienić wroga w twoją własną jednostkę atakując go."
+      "->": ""
     },
     "tooltip.ability.creep": {
       "en": "This unit does not get any movement penalties in rough terrain.",
@@ -4001,7 +4013,7 @@
     },
     "tooltip.ability.dash": {
       "en": "This unit can attack after moving if there is an enemy in range.",
-      "->": "Ta jednostka może atakować po przemieszczeniu się jeśli wróg jest w zasięgu."
+      "->": ""
     },
     "tooltip.ability.decompose": {
       "en": "Decompose any building within your borders and get its full cost in stars back at the end of the turn.",
@@ -4009,7 +4021,7 @@
     },
     "tooltip.ability.destroy": {
       "en": "Remove any building within your borders, great for reconstructing your empire.",
-      "->": "Usuń dowolny budynek wewnątrz własnych granic, przydatne do przebudowy imperium."
+      "->": ""
     },
     "tooltip.ability.detect": {
       "en": "This unit can detect nearby invisible units.",
@@ -4017,7 +4029,7 @@
     },
     "tooltip.ability.disband": {
       "en": "Remove any of your own units and get half of its cost in return.",
-      "->": "Usuń swoją dowolną jednostkę i otrzymaj z powrotem połowę jej kosztu."
+      "->": ""
     },
     "tooltip.ability.disloyal": {
       "en": "This unit switches side to the previous ruler when the area they are in is captured",
@@ -4037,7 +4049,7 @@
     },
     "tooltip.ability.escape": {
       "en": "This unit can move again after attacking.",
-      "->": "Ta jednostka potrafi przemieścić się ponownie po ataku."
+      "->": ""
     },
     "tooltip.ability.explode": {
       "en": "Make your units explode inflicting poison and collateral damage to surrounding enemies.",
@@ -4045,15 +4057,15 @@
     },
     "tooltip.ability.fly": {
       "en": "This unit can fly over any terrain with no movement penalties or bonuses.",
-      "->": "Ta jednostka może latać nad dowolnym terenie, bez żadnych kar ani bonusów do ruchu."
+      "->": ""
     },
     "tooltip.ability.fortify": {
       "en": "This unit gets a defense bonus when defending in its own cities, double bonus with a city wall.",
-      "->": "Ta jednostka dostaje bonus do obrony gdy broni się wewnątrz miasta, podwójny bonus jeśli miasto ma mury."
+      "->": ""
     },
     "tooltip.ability.freeze": {
       "en": "This unit freezes its enemies when attacking them so they cannot move.",
-      "->": "Ta jednostka zamraża wrogów podczas ataku, nie mogą się wtedy ruszyć."
+      "->": ""
     },
     "tooltip.ability.freezearea": {
       "en": "This unit can freeze the surrounding tiles including any enemy units.",
@@ -4061,15 +4073,15 @@
     },
     "tooltip.ability.glide": {
       "en": "All non-skating units get an extra move when moving on ice.",
-      "->": "Wszystkie nieślizgające się jednostki dostają dodatkowy ruch gdy poruszają się po lodzie."
+      "->": ""
     },
     "tooltip.ability.grow": {
       "en": "This unit will eventually grow and become something else.",
-      "->": "Ta jednostka z czasem urośnie i przemieni się w coś innego."
+      "->": ""
     },
     "tooltip.ability.heal": {
       "en": "This unit can heal surrounding units.",
-      "->": "Ta jednostka może leczyć pobliskie jednostki."
+      "->": ""
     },
     "tooltip.ability.hide": {
       "en": "This unit hides when it moves, becoming invisible to the enemy.",
@@ -4085,11 +4097,11 @@
     },
     "tooltip.ability.literacy": {
       "en": "Reduce the price of all technologies by {0}%.",
-      "->": "Zredukuj koszt wszystkich technologii o 20%."
+      "->": ""
     },
     "tooltip.ability.navigate": {
       "en": "This unit can move in any terrain even if you do not have the tech needed to move there.",
-      "->": "Ta jednostka może przemieszczać się po dowolnym terenie, nawet jeśli nie masz potrzebnych technologii."
+      "->": ""
     },
     "tooltip.ability.peacetreaty": {
       "en": "Send an offer of entering a peace treaty to another tribe. \nYou find this function in the 'Tribe Info Screen', click the name of a tribe to get there.",
@@ -4097,7 +4109,7 @@
     },
     "tooltip.ability.persist": {
       "en": "This unit can keep attacking as long as it completely kills its victims.",
-      "->": "Ta jednostka może kontynuować atak tak długo jak w całości zabija swoich przeciwników."
+      "->": ""
     },
     "tooltip.ability.poison": {
       "en": "Inflicts poison to enemies when attacking. Poisoned units lose all defense bonuses and spread spores when they die.",
@@ -4105,19 +4117,19 @@
     },
     "tooltip.ability.scout": {
       "en": "This unit has double vision range.",
-      "->": "Ta jednostka ma podwójny zasięg widzenia."
+      "->": ""
     },
     "tooltip.ability.skate": {
       "en": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
-      "->": "Ta jednostka ma podwójny ruch na lodzie, lecz na lądzie jej ruch jest ograniczony do jednego kafelka a wszystkie pozostałe umiejętności są nieaktywne."
+      "->": ""
     },
     "tooltip.ability.sneak": {
       "en": "This unit can move past enemy units without stopping.",
-      "->": "Ta jednostka może przemieszczać się przez wrogie jednostki bez zatrzymywania."
+      "->": ""
     },
     "tooltip.ability.splash": {
       "en": "This unit causes splash damage to nearby units when attacking.",
-      "->": "Ta jednostka gdt atakuje może powodować obrażenia od chlapania pobliskim jednostkom."
+      "->": ""
     },
     "tooltip.ability.surprise": {
       "en": "Enemies don't retaliate when you attack them, even at close range.",
@@ -4125,79 +4137,79 @@
     },
     "tooltip.ability.swim": {
       "en": "This unit can move on water.",
-      "->": "Ta jednostka jest amfibią i może poruszać się zarówno po lądzie jak i wodzie."
+      "->": ""
     },
     "tooltip.tile.blocked": {
       "en": "This resource is blocked by an enemy unit",
-      "->": "Te zasoby są blokowane przez wrogą jednostkę"
+      "->": ""
     },
     "tooltip.tile.capture": {
       "en": "This city is being captured.",
-      "->": "Miasto zostało zdobyte."
+      "->": ""
     },
     "tooltip.tile.capture.enemy": {
       "en": "Your city is being captured by the enemy!",
-      "->": "Twoje miasto zostało zdobyte przez wroga!"
+      "->": ""
     },
     "tooltip.tile.capture.tip": {
       "en": "Move a unit here to capture this city!",
-      "->": "Przesuń tutaj jednostkę by zdobyć miasto!"
+      "->": ""
     },
     "tooltip.tile.choose_unit": {
       "en": "Choose a unit to train.",
-      "->": "Wybierz jednostkę do wyprodukowania."
+      "->": ""
     },
     "tooltip.tile.explore": {
       "en": "Explore this area to see what it holds!",
-      "->": "Eksploruj ten teren aby zobaczyć co się w nim kryje!"
+      "->": ""
     },
     "tooltip.tile.extract.convert": {
       "en": "This resource can be transformed into a unit",
-      "->": "Te zasoby mogą być przekształcony w jednostkę"
+      "->": ""
     },
     "tooltip.tile.extract.research": {
       "en": "You need to research {0} to extract this resource",
-      "->": "Musisz wynaleźć {0} aby wydobyć te zasoby"
+      "->": ""
     },
     "tooltip.tile.extract.stars": {
       "en": "Extract this resource to earn stars instantly",
-      "->": "Wydobądź te zasoby by natychmiastowo zarobić gwiazdki"
+      "->": ""
     },
     "tooltip.tile.extract.upgrade": {
       "en": "Extract this resource to upgrade your city",
-      "->": "Wydobądź te zasoby by zwiększyć poziom Twojego miasta"
+      "->": ""
     },
     "tooltip.tile.level.max": {
       "en": "Has reached maximum level",
-      "->": "Osiągnięto maksymalny poziom"
+      "->": ""
     },
     "tooltip.tile.level.next": {
       "en": "Next level in {0} turns",
-      "->": "Następy poziom za {0} tur"
+      "->": ""
     },
     "tooltip.tile.level.polaris": {
       "en": "Freeze {0} more tiles to reach the next level",
-      "->": "Zamroź jeszcze {0} kafelków aby zdobyć następny poziom"
+      "->": ""
     },
     "tooltip.tile.limit": {
       "en": "This city cannot support any more units.",
-      "->": "To miasto nie pomieści więcej jednostek."
+      "->": ""
     },
     "tooltip.tile.monuments": {
       "en": "Monuments give your empire extra score!",
-      "->": "Posągi dają Twojemu imperium dodatkowe punkty!"
+      "->": ""
     },
     "tooltip.tile.outside": {
       "en": "This resource is outside of your empire",
-      "->": "Te zasoby są poza granicami Twojego imperium"
+      "->": ""
     },
     "tooltip.tile.produces": {
       "en": "Produces {0} each turn.",
-      "->": "Produkuje {0} co turę."
+      "->": ""
     },
     "tooltip.tile.research": {
       "en": "You need to research {0} to be able to move here",
-      "->": "Musisz odkryć {0} aby się tu przemieścić"
+      "->": ""
     },
     "tooltip.tile.riot": {
       "en": "There are riots in this city! It produces no income this turn.",
@@ -4205,27 +4217,27 @@
     },
     "tooltip.tile.road": {
       "en": "Build a road to connect this city to your capital.",
-      "->": "Buduj drogi aby połączyć miasta ze stolicą."
+      "->": ""
     },
     "tooltip.tile.ruin": {
       "en": "Move a unit here and examine these ancient ruins.",
-      "->": "Przesuń tutaj jednostkę i przeszukaj te starożytne ruiny."
+      "->": ""
     },
     "tooltip.tile.sailing": {
       "en": "Move a unit here to start sailing!",
-      "->": "Przesuń tutaj jednostkę by zacząć żeglować!"
+      "->": ""
     },
     "tooltip.unit.actions.attack": {
       "en": "Click a red mark to attack!",
-      "->": "Kliknij czerwony znacznik by zaatakować!"
+      "->": ""
     },
     "tooltip.unit.actions.move": {
       "en": "Click a blue mark to move.",
-      "->": "Kliknij niebieski znacznik by się przemieścić."
+      "->": ""
     },
     "tooltip.unit.actions.none": {
       "en": "No actions left. Press 'Next Turn' to move this unit again.",
-      "->": "Brak ruchów. Naciśnij 'Nowa Tura' aby przesunąć tę jednostkę ponownie."
+      "->": ""
     },
     "tooltip.unit.ally": {
       "en": "This is your ally.",
@@ -4233,15 +4245,15 @@
     },
     "tooltip.unit.city.capture": {
       "en": "Tap 'Capture' to add this city to your empire",
-      "->": "Naciśnij 'Przejmij' by dodać to miasto do swojego imperium"
+      "->": ""
     },
     "tooltip.unit.city.capture.next": {
       "en": "This city will be ready to capture next turn",
-      "->": "To miasto będzie gotowe do przejęcia w następnej turze"
+      "->": ""
     },
     "tooltip.unit.enemy": {
       "en": "This is the enemy!",
-      "->": "To jest wróg!"
+      "->": ""
     },
     "tooltip.unit.enemy.brokenpeace": {
       "en": "You can attack this unit next turn.",
@@ -4249,35 +4261,35 @@
     },
     "tooltip.unit.enemy.city": {
       "en": "This enemy is capturing your city!",
-      "->": "Ten wróg przejmuje Twoje miasto!"
+      "->": ""
     },
     "tooltip.unit.enemy.territory": {
       "en": "This enemy is in your territory!",
-      "->": "Ten wróg jest na Twoim terenie!"
+      "->": ""
     },
     "tooltip.unit.grow.later": {
       "en": "Will grow to {0} in {1} turns.",
-      "->": "Urośnie do {0} za {1} tury."
+      "->": ""
     },
     "tooltip.unit.grow.now": {
       "en": "Will grow to {0} at the end of this turn!",
-      "->": "Urośnie do {0} na końcu tej tury!"
+      "->": ""
     },
     "topbar.score": {
       "en": "Score",
-      "->": "Wynik"
+      "->": ""
     },
     "topbar.stars": {
       "en": "Stars (+{0})",
-      "->": "Gwiazdki (+{0})"
+      "->": ""
     },
     "topbar.turn": {
       "en": "Turn",
-      "->": "Tura"
+      "->": ""
     },
     "tribepicker.anonymous": {
       "en": "Anonymous",
-      "->": "Anonim"
+      "->": ""
     },
     "tribepicker.buy": {
       "en": "BUY",
@@ -4285,71 +4297,71 @@
     },
     "tribepicker.categories.humantribes": {
       "en": "Regular Tribes",
-      "->": "Zwykłe plemiona"
+      "->": ""
     },
     "tribepicker.categories.random": {
       "en": "Let fate decide!",
-      "->": "Niech los zdecyduje!"
+      "->": ""
     },
     "tribepicker.categories.random.button": {
       "en": "RANDOM TRIBE",
-      "->": "LOSOWE PLEMIĘ"
+      "->": ""
     },
     "tribepicker.categories.random.selected.text": {
       "en": "Random tribe selected",
-      "->": "Wybrano losowe plemię"
+      "->": ""
     },
     "tribepicker.categories.random.selected.title": {
       "en": "Alakazam!",
-      "->": "Czary-Mary!"
+      "->": ""
     },
     "tribepicker.categories.specialtribes": {
       "en": "Special Tribes",
-      "->": "Plemiona specjalne"
+      "->": ""
     },
     "tribepicker.categories.specialtribes.description": {
       "en": "A collection of tribes that are a bit out of this world...",
-      "->": "Zastaw plemion, które są trochę nie z tego świata..."
+      "->": ""
     },
     "tribepicker.disable": {
       "en": "DISABLE",
-      "->": "DEAKTYWUJ"
+      "->": ""
     },
     "tribepicker.disabled": {
       "en": "Disabled",
-      "->": "deaktywowane"
+      "->": ""
     },
     "tribepicker.disabled.description": {
       "en": "Tribe disabled, it cannot be used by you or the AI.",
-      "->": "Plemię deaktywowane, nie może być użyte."
+      "->": ""
     },
     "tribepicker.enable": {
       "en": "ENABLE",
-      "->": "AKTYWUJ"
+      "->": ""
     },
     "tribepicker.firstplayer": {
       "en": "First player must be a human",
-      "->": "Pierwszy gracz musi być człowiekiem"
+      "->": ""
     },
     "tribepicker.freetribe": {
       "en": "Free Tribe",
-      "->": "Darmowe Plemię"
+      "->": ""
     },
     "tribepicker.freetribe.description": {
       "en": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
-      "->": "To plemię jest dostępne za darmo i nie może być zakupione by odblokować rozgrywkę dla wielu graczy."
+      "->": ""
     },
     "tribepicker.gamemode": {
       "en": "Game Mode: {0}",
-      "->": "TRYB GRY Mode: {0}"
+      "->": ""
     },
     "tribepicker.getdlc": {
       "en": "GET DLC",
-      "->": "KUP DODATEK"
+      "->": ""
     },
     "tribepicker.mapsize": {
       "en": "Map Size: {0} tiles",
-      "->": "Rozmiar Mapy: {0} kafelków"
+      "->": ""
     },
     "tribepicker.maptype": {
       "en": "Map Type: {0}",
@@ -4357,71 +4369,71 @@
     },
     "tribepicker.news.readmore": {
       "en": "Read more...",
-      "->": "Więcej..."
+      "->": ""
     },
     "tribepicker.pick": {
       "en": "PICK",
-      "->": "WYBIERZ"
+      "->": ""
     },
     "tribepicker.pickyour": {
       "en": "Pick your tribe",
-      "->": "Wybierz plemię"
+      "->": ""
     },
     "tribepicker.players": {
       "en": "{0} players",
-      "->": "{0} graczy"
+      "->": ""
     },
     "tribepicker.playertype": {
       "en": "Player type",
-      "->": "Typ gracza"
+      "->": ""
     },
     "tribepicker.reset": {
       "en": "Reset Purchases",
-      "->": "wyczyść zakupy"
+      "->": ""
     },
     "tribepicker.restore": {
       "en": "Restore Purchases",
-      "->": "przywracanie zakupów"
+      "->": ""
     },
     "tribepicker.restoring": {
       "en": "Restoring...",
-      "->": "przywracanie..."
+      "->": ""
     },
     "tribepicker.taken": {
       "en": "Taken",
-      "->": "Zajęte"
+      "->": ""
     },
     "tribepicker.tba": {
       "en": "TBA",
-      "->": "CDN"
+      "->": ""
     },
     "tribepicker.title": {
       "en": "PICK YOUR TRIBE",
-      "->": "WYBIERZ PLEMIĘ"
+      "->": ""
     },
     "tribepicker.toprating": {
       "en": "Top rating {0}%",
-      "->": "Najwyższa ocena {0}%"
+      "->": ""
     },
     "tribepicker.toprating.next": {
       "en": "{0}% needed for next star",
-      "->": "{0}% potrzebne do następnej gwiazdki"
+      "->": ""
     },
     "tribepicker.topscore": {
       "en": "Top score {0}",
-      "->": "Najwyższy wynik {0}"
+      "->": ""
     },
     "tribepicker.topscore.next": {
       "en": "{0} for next star",
-      "->": "{0} do następnej gwiazdki"
+      "->": ""
     },
     "tribepicker.underconstruction": {
       "en": "Under Construction",
-      "->": "W trakcie tworzenia"
+      "->": ""
     },
     "tribepicker.underconstruction.description": {
       "en": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
-      "->": "Nadal pracujemy nad tym plemieniem. Sadzimy drzewka, tworzymy języki i architekturę. To trochę trwa. Śledź @Midjiwan na Instagramie lub Twitterze a dowiesz się jako pierwszy gdy nowe plemię będzie gotowe!"
+      "->": ""
     },
     "tribepicker.waiting": {
       "en": "WAITING",
@@ -4429,7 +4441,7 @@
     },
     "tribepicker.yourname": {
       "en": "Your Name",
-      "->": "Twoje imię"
+      "->": ""
     },
     "tribes.aimo": {
       "en": "Ai-Mo",
@@ -4437,7 +4449,7 @@
     },
     "tribes.aimo.info": {
       "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Ciche i roztropne plemię {0} zamieszkuje najtrudniejsze, najbardziej wietrzne i najwyższe pasma górskie na Kwadracie, gdzie znaleźli wewnętrzny spokój poprzez medytację w wiecznym świetle zachodzącego słońca.\n\n{0} rozpoczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.aquarion": {
       "en": "Aquarion",
@@ -4445,7 +4457,7 @@
     },
     "tribes.aquarion.info": {
       "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
-      "->": "Z głębin oceanu wyłania się od dawna zapomniana cywilizacja! Ich ekstremalne odizolowanie dało im specjalne wodne zdolności, nieznane innym bardziej ludzkim plemionom.\n\n{0} ma nieco inne drzewo technologii oraz ma dostęp do specjalnych jednostek wodno-lądowych żółwi, których żadne inne plemię nie może wytrenować."
+      "->": ""
     },
     "tribes.bardur": {
       "en": "Bardur",
@@ -4453,7 +4465,7 @@
     },
     "tribes.bardur.info": {
       "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
-      "->": "Przetrwanie srogiej, wiecznej zimy lasów {0} nie jest łatwym zadaniem, ale {0} czuje się tu jak ryba w wodzie.\n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.cymanti": {
       "en": "Cymanti",
@@ -4461,7 +4473,7 @@
     },
     "tribes.cymanti.info": {
       "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
-      "->": "{0} są odłamem Polytopian, który przeniósł się do bagnistych lasów i nauczył się żyć z Robakami Ciru, które przyczepiają się do twarzy swoich członków plemienia i łączą z ich umysłami. \n\nPrzewodzeni przez Szamana, {0} trenują gigantyczne robaki, używają ciał wrogów do nawożenia swoich grzybowych farm i wykorzystują trucizny, aby unicestwić wszystkich, którzy zagrażają ich bagnistemu domowi!"
+      "->": ""
     },
     "tribes.elyrion": {
       "en": "∑∫ỹriȱŋ",
@@ -4469,7 +4481,7 @@
     },
     "tribes.elyrion.info": {
       "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
-      "->": "Tajemnicze {0} bronią swoich leśnych domów z użyciem kolorowej magii i okrucieństwa zionących ogniem smoków!\n\nUznają Naturę za świętego ducha i nie mogą polować na zwierzynę ani ścinać drzew, zamiast tego zaczynają grę z unikalną technologią Zaczarowywania, która może zamienić zwykłe zwierzęta w potężne potwory."
+      "->": ""
     },
     "tribes.hoodrick": {
       "en": "Hoodrick",
@@ -4477,7 +4489,7 @@
     },
     "tribes.hoodrick.info": {
       "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Żółte, jesienne liście lasów {0} są doskonałą kryjówką dla tutejszych osobliwych grzybów. \n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.imperius": {
       "en": "Imperius",
@@ -4485,7 +4497,7 @@
     },
     "tribes.imperius.info": {
       "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Potężne góry i zielone doliny. Klimat {0} jest doskonały do wzrostu owoców.\n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.kickoo": {
       "en": "Kickoo",
@@ -4493,7 +4505,7 @@
     },
     "tribes.kickoo.info": {
       "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Białe, piaskowe plaże z palmami kokosowymi. Bezmiar ryb i owoców. Witaj w krainie {0}. \n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.luxidoor": {
       "en": "Luxidoor",
@@ -4501,11 +4513,11 @@
     },
     "tribes.luxidoor.info": {
       "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
-      "->": "{0} uwielbiają kosztowności, klejnoty, rzadko spotykane przyprawy i ekskluzywne ornamenty. Z tego powodu są najdroższym plemieniem w Polytopii!\n\nWiodą oni bardzo wygodne życie, owinięci najlepszym, fioletowym jedwabiem. Czy przetrwają poza murami ich ukochanej stolicy?\n\n{0} zaczyna gę z ogromną, otoczoną murem stolicą."
+      "->": ""
     },
     "tribes.nature": {
       "en": "Nature",
-      "->": "Natura"
+      "->": ""
     },
     "tribes.oumaji": {
       "en": "Oumaji",
@@ -4513,7 +4525,7 @@
     },
     "tribes.oumaji.info": {
       "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
-      "->": "Bezkresna, skąpana w słońcu pustynia jest domem plemienia {0}.\n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.polaris": {
       "en": "Polaris",
@@ -4521,7 +4533,7 @@
     },
     "tribes.polaris.info": {
       "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
-      "->": "{0} zostało przez wieki odizolowane na dalekich krańcach marznącej tundry, lecz zostało obdarzone nieznanymi Gaami z mocą rozszerzania ich nienaturalnego lodowego terenu dalej niż klimat na to pozwala.\n\nZ mocą sań i Mamutów, mistyczne {0} jest zdeterminowane by pogrzebać Kwadrat w lodzie i przekształcić ląd w mroźny raj.\n\n{0} zaczyna grę ze zdolnością do zamrażania pobliskich terenów przez Moonie."
+      "->": ""
     },
     "tribes.quetzali": {
       "en": "Quetzali",
@@ -4529,7 +4541,7 @@
     },
     "tribes.quetzali.info": {
       "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Plemię {0} czci ptasie bóstwa czerwonej ziemi i żyje w harmonii z naturalną symetrią sześciennych dżungli. Są często widziani jeżdżący na ogromnych ptakach-nielotach. \n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.vengir": {
       "en": "Vengir",
@@ -4537,7 +4549,7 @@
     },
     "tribes.vengir.info": {
       "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
-      "->": "Odrzuceni przez pozostałe plemiona, zepchnięci na nieprzyjazne pustkowia.  Będą tolerować tę niesprawiedliwość, czy powstaną do walki? \n\n{0} zaczyna grę z technologią '{1}' i potężnym Szermierzem."
+      "->": ""
     },
     "tribes.xinxi": {
       "en": "Xin-xi",
@@ -4545,7 +4557,7 @@
     },
     "tribes.xinxi.info": {
       "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
-      "->": "Zaczynają przygodę w gęstych górach, otoczeni przez piękne, kwitnące wiśnie.\n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.yadakk": {
       "en": "Yădakk",
@@ -4553,7 +4565,7 @@
     },
     "tribes.yadakk.info": {
       "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "{0} rozpoczynali jako wędrowne plemię na pięknych, surowych równinach Khalee. Obecnie są kupcami łączącymi swoje imperium imponującymi szlakami handlowymi.\n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.zebasi": {
       "en": "Zebasi",
@@ -4561,11 +4573,11 @@
     },
     "tribes.zebasi.info": {
       "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "{0} prosperuje na ciepłych sawannach, uprawiając żyzną glebę by dostarczyć żywność swojej potężnej populacji.\n\n{0} zaczyna grę z technologią '{1}'."
+      "->": ""
     },
     "tribes.zebasi.news": {
       "en": "All profits from the Zebasi tribe is invested in solar energy projects.",
-      "->": "Wszystkie dochody z plemienia Zebasi są inwestowane w projekty wykorzystujące energię słoneczną."
+      "->": ""
     },
     "tutorial.completed.description": {
       "en": "You have now mastered the basic skills to play Polytopia, but there is so much more to discover!\nFinish this game by getting the highest possible score before the time runs out.",
@@ -4653,7 +4665,7 @@
     },
     "unit": {
       "en": "unit",
-      "->": "jednostka"
+      "->": ""
     },
     "unit.abilities.agent": {
       "en": "AGENT",
@@ -4661,7 +4673,7 @@
     },
     "unit.abilities.autofreeze": {
       "en": "AUTO FREEZE",
-      "->": "AUTOMATYCZNE ZAMRAŻANIE"
+      "->": ""
     },
     "unit.abilities.boost": {
       "en": "BOOST",
@@ -4669,15 +4681,15 @@
     },
     "unit.abilities.build": {
       "en": "BUILD",
-      "->": "BUDOWANIE"
+      "->": ""
     },
     "unit.abilities.carry": {
       "en": "CARRY",
-      "->": "PRZENOSZENIE"
+      "->": ""
     },
     "unit.abilities.convert": {
       "en": "CONVERT",
-      "->": "PRZEMIANA"
+      "->": ""
     },
     "unit.abilities.creep": {
       "en": "CREEP",
@@ -4689,11 +4701,11 @@
     },
     "unit.abilities.dash": {
       "en": "DASH",
-      "->": "SZARŻA"
+      "->": ""
     },
     "unit.abilities.decay": {
       "en": "DECAY",
-      "->": "ROZKŁAD"
+      "->": ""
     },
     "unit.abilities.detect": {
       "en": "DETECT",
@@ -4709,7 +4721,7 @@
     },
     "unit.abilities.escape": {
       "en": "ESCAPE",
-      "->": "UCIECZKA"
+      "->": ""
     },
     "unit.abilities.explode": {
       "en": "EXPLODE",
@@ -4717,31 +4729,31 @@
     },
     "unit.abilities.fly": {
       "en": "FLY",
-      "->": "LATANIE"
+      "->": ""
     },
     "unit.abilities.fortify": {
       "en": "FORTIFY",
-      "->": "FORTYFIKOWANIE"
+      "->": ""
     },
     "unit.abilities.freeze": {
       "en": "FREEZE",
-      "->": "ZAMRAŻANIE"
+      "->": ""
     },
     "unit.abilities.freezearea": {
       "en": "FREEZE AREA",
-      "->": "ZAMRAŻANIE OBSZARU"
+      "->": ""
     },
     "unit.abilities.grow": {
       "en": "GROW",
-      "->": "WZROST"
+      "->": ""
     },
     "unit.abilities.heal": {
       "en": "HEAL",
-      "->": "LECZENIE"
+      "->": ""
     },
     "unit.abilities.hide": {
       "en": "HIDE",
-      "->": "CHOWANIE"
+      "->": ""
     },
     "unit.abilities.independent": {
       "en": "INDEPENDENT",
@@ -4753,11 +4765,11 @@
     },
     "unit.abilities.navigate": {
       "en": "NAVIGATE",
-      "->": "NAWIGOWANIE"
+      "->": ""
     },
     "unit.abilities.persist": {
       "en": "PERSIST",
-      "->": "WYTRWAŁOŚĆ"
+      "->": ""
     },
     "unit.abilities.poison": {
       "en": "POISON",
@@ -4765,19 +4777,19 @@
     },
     "unit.abilities.scout": {
       "en": "SCOUT",
-      "->": "ODKRYWANIE"
+      "->": ""
     },
     "unit.abilities.skate": {
       "en": "SKATE",
-      "->": "ŚLIZGANIE"
+      "->": ""
     },
     "unit.abilities.sneak": {
       "en": "SNEAK",
-      "->": "SKRADANIE"
+      "->": ""
     },
     "unit.abilities.splash": {
       "en": "SPLASH",
-      "->": "CHLAPANIE"
+      "->": ""
     },
     "unit.abilities.surprise": {
       "en": "SURPRISE",
@@ -4785,43 +4797,43 @@
     },
     "unit.abilities.swim": {
       "en": "FLOAT",
-      "->": "PŁYWANIE"
+      "->": ""
     },
     "unit.ability": {
       "en": "ability",
-      "->": "zdolność"
+      "->": ""
     },
     "unit.info.attack": {
       "en": "Attack",
-      "->": "Atak"
+      "->": ""
     },
     "unit.info.defence": {
       "en": "Defense",
-      "->": "Obrona"
+      "->": ""
     },
     "unit.info.health": {
       "en": "Health",
-      "->": "Zdrowie"
+      "->": ""
     },
     "unit.info.movement": {
       "en": "Movement",
-      "->": "Ruch"
+      "->": ""
     },
     "unit.info.range": {
       "en": "Range",
-      "->": "Zasięg"
+      "->": ""
     },
     "unit.info.skills": {
       "en": "Skills",
-      "->": "Umiejętności"
+      "->": ""
     },
     "unit.names.amphibian": {
       "en": "Amphibian",
-      "->": "Płaz"
+      "->": ""
     },
     "unit.names.archer": {
       "en": "Archer",
-      "->": "Łucznik"
+      "->": ""
     },
     "unit.names.babydragon": {
       "en": "Baby Dragon",
@@ -4829,23 +4841,23 @@
     },
     "unit.names.battleship": {
       "en": "Battleship",
-      "->": "Statek Wojenny"
+      "->": ""
     },
     "unit.names.battlesled": {
       "en": "Battle Sled",
-      "->": "Sanie Bitewne"
+      "->": ""
     },
     "unit.names.boat": {
       "en": "Boat",
-      "->": "Łódka"
+      "->": ""
     },
     "unit.names.bunny": {
       "en": "Bunny",
-      "->": "Królik"
+      "->": ""
     },
     "unit.names.catapult": {
       "en": "Catapult",
-      "->": "Katapulta"
+      "->": ""
     },
     "unit.names.centipede": {
       "en": "Centipede",
@@ -4861,7 +4873,7 @@
     },
     "unit.names.crab": {
       "en": "Crab",
-      "->": "Krab"
+      "->": ""
     },
     "unit.names.dagger": {
       "en": "Dagger",
@@ -4869,7 +4881,7 @@
     },
     "unit.names.defender": {
       "en": "Defender",
-      "->": "Obrońca"
+      "->": ""
     },
     "unit.names.doomux": {
       "en": "Doomux",
@@ -4893,7 +4905,7 @@
     },
     "unit.names.giant": {
       "en": "Giant",
-      "->": "Gigant"
+      "->": ""
     },
     "unit.names.hexapod": {
       "en": "Hexapod",
@@ -4901,7 +4913,7 @@
     },
     "unit.names.icearcher": {
       "en": "Ice Archer",
-      "->": "Lodowy Łucznik"
+      "->": ""
     },
     "unit.names.icefortress": {
       "en": "Ice Fortress",
@@ -4913,7 +4925,7 @@
     },
     "unit.names.knight": {
       "en": "Knight",
-      "->": "Rycerz"
+      "->": ""
     },
     "unit.names.mindbender": {
       "en": "Mind Bender",
@@ -4941,7 +4953,7 @@
     },
     "unit.names.rider": {
       "en": "Rider",
-      "->": "Jeździec"
+      "->": ""
     },
     "unit.names.santa": {
       "en": "Bunta",
@@ -4949,7 +4961,7 @@
     },
     "unit.names.scout": {
       "en": "Scout",
-      "->": "Zwiadowca"
+      "->": ""
     },
     "unit.names.segment": {
       "en": "Segment",
@@ -4961,7 +4973,7 @@
     },
     "unit.names.ship": {
       "en": "Ship",
-      "->": "Statek"
+      "->": ""
     },
     "unit.names.swordsman": {
       "en": "Swordsman",
@@ -4969,23 +4981,23 @@
     },
     "unit.names.tridention": {
       "en": "Tridention",
-      "->": "Trójzębnik"
+      "->": ""
     },
     "unit.names.warrior": {
       "en": "Warrior",
-      "->": "Wojownik"
+      "->": ""
     },
     "updateavatar.description": {
       "en": "Press the avatar to give birth to a new wild creation",
-      "->": "Wciśnij awatar, by narodziła się nowa postać"
+      "->": ""
     },
     "updateavatar.save": {
       "en": "SAVE",
-      "->": "ZAPISZ"
+      "->": ""
     },
     "updateavatar.title": {
       "en": "Update Avatar",
-      "->": "Uaktualnij Awatar"
+      "->": ""
     },
     "validation.error.steam": {
       "en": "Failed to validate app through Steam, you need to start the game through Steam to be able to play",
@@ -5049,87 +5061,87 @@
     },
     "wcontroller.building.upgrade": {
       "en": "Your {0} upgraded to a {1}!",
-      "->": "Ulepszono {0} do {1}!"
+      "->": ""
     },
     "wcontroller.building.upgrade.reward": {
       "en": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
-      "->": "Ulepszono {0} do poziomu {1}, produkcja wzrosła o +1. Możesz także wybrać dodatkową nagrodę:"
+      "->": ""
     },
     "wcontroller.capital.captured.description": {
       "en": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
-      "->": "Przejęto stolicę {0}! Ich wszystkie połączenia handlowe zostały anulowane dopóki nie odzyskają kontroli nad swoją stolicą"
+      "->": ""
     },
     "wcontroller.capital.captured.title": {
       "en": "Great News!",
-      "->": "Wspaniałe wieści!"
+      "->": ""
     },
     "wcontroller.capital.captured2.description": {
       "en": "{0} is now part of the {1} empire",
-      "->": "{0} jest teraz częścią imperium {1}"
+      "->": ""
     },
     "wcontroller.capital.captured2.title": {
       "en": "City Captured!",
-      "->": "Miasto zdobyte!"
+      "->": ""
     },
     "wcontroller.capital.lost.description": {
       "en": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
-      "->": "Twoja stolica została zdobyta przez hordy {0}! Wszystkie połączenia handlowe zostały anulowane dopóki nie odzyskasz kontroli nad stolicą"
+      "->": ""
     },
     "wcontroller.capital.lost.title": {
       "en": "Bad News!",
-      "->": "Złe wieści!"
+      "->": ""
     },
     "wcontroller.capital.regained.description": {
       "en": "You have regained control of your capital, trade networks are reestablished",
-      "->": "Odzyskano kontrolę nad stolicą, sieć handlowa została przywrócona"
+      "->": ""
     },
     "wcontroller.capital.regained.title": {
       "en": "Great News!",
-      "->": "Dobre wieści!"
+      "->": ""
     },
     "wcontroller.city.disconnect": {
       "en": "{0} was disconnected from {1}",
-      "->": "{0} został rozłączony z {1}"
+      "->": ""
     },
     "wcontroller.city.disconnect.title": {
       "en": "Trade route lost!",
-      "->": "Utracono szlak handlowy!"
+      "->": ""
     },
     "wcontroller.convertvillage.description": {
       "en": "The villagers agree to join your emerging empire!",
-      "->": "Wieśniacy zgodzili się dołączyć do Twojego wschodzącego imperium!"
+      "->": ""
     },
     "wcontroller.convertvillage.title": {
       "en": "Village Converted!",
-      "->": "Wioska została przekształcona!"
+      "->": ""
     },
     "wcontroller.examine.explorer": {
       "en": "You meet some locals who show you the surrounding lands.",
-      "->": "Napotkano tubylców, którzy pokazują Ci pobliskie ziemie."
+      "->": ""
     },
     "wcontroller.examine.explorer.title": {
       "en": "Explorer",
-      "->": "Odkrywca"
+      "->": ""
     },
     "wcontroller.examine.giant": {
       "en": "You found a friendly {0} who joined your tribe!",
-      "->": "Przyjazny {0} dołącza do Twojego plemienia!"
+      "->": ""
     },
     "wcontroller.examine.population": {
       "en": "You meet a nomadic tribe that settle in your capital!",
-      "->": "Napotkano plemię nomadów, którzy osiedlają się w Twojej stolicy."
+      "->": ""
     },
     "wcontroller.examine.population.title": {
       "en": "Population",
-      "->": "Populacja"
+      "->": ""
     },
     "wcontroller.examine.stars": {
       "en": "The ancient ruins are filled with valuable resources!",
-      "->": "Starożytne ruiny są pełne cennych surowców!"
+      "->": ""
     },
     "wcontroller.examine.stars.title": {
       "en": "Resources",
-      "->": "Zasoby"
+      "->": ""
     },
     "wcontroller.examine.swordsman": {
       "en": "You encountered a mighty Swordsman who decided to join your tribe!",
@@ -5141,23 +5153,23 @@
     },
     "wcontroller.examine.tech": {
       "en": "You found some old scrolls containing the secret of {0}.",
-      "->": "Znaleziono starożytne zwoje zawierające sekret technologii {0}."
+      "->": ""
     },
     "wcontroller.examine.tech.title": {
       "en": "Scrolls of Wisdom",
-      "->": "Zwoje Mądrości"
+      "->": ""
     },
     "wcontroller.examine.water": {
       "en": "You encountered a band of friendly pirates who joined your tribe!",
-      "->": "Napotkano załogę przyjaznych piratów, którzy dołączają do Twojego plemienia!"
+      "->": ""
     },
     "wcontroller.examine.water.elyrion": {
       "en": "You encountered an enchanted {0} who joined your tribe!",
-      "->": "Napotkano zaczarowane {0}, które dołącza do Twojego plemienia."
+      "->": ""
     },
     "wcontroller.examine.water.title": {
       "en": "Battleship",
-      "->": "Statek wojenny"
+      "->": ""
     },
     "wcontroller.game.lost": {
       "en": "You've been wiped out. You can continue to spectate this game or return to main menu.",
@@ -5169,39 +5181,39 @@
     },
     "wcontroller.kill.upgrade.description": {
       "en": "Unit is ready to upgrade!",
-      "->": "Jednostka jest gotowa do ulepszenia!"
+      "->": ""
     },
     "wcontroller.kill.upgrade.title": {
       "en": "Level Up!",
-      "->": "Nowy poziom!"
+      "->": ""
     },
     "wcontroller.load.error": {
       "en": "There is no saved game to resume, start a new game!",
-      "->": "Brak zapisanych gier do wznowienia, rozpocznij nową grę!"
+      "->": ""
     },
     "wcontroller.load.error.title": {
       "en": "No saved game",
-      "->": "Brak zapisanej gry"
+      "->": ""
     },
     "wcontroller.load.notpartof": {
       "en": "You are not a part of this game",
-      "->": "Nie bierzesz udziału w tej rozgrywce"
+      "->": ""
     },
     "wcontroller.load.update": {
       "en": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",
-      "->": "Gra używa nowszej wersji Polytopii, musisz udać się do {0} i pobrać aktualizację zanim będziesz mógł zagrać."
+      "->": ""
     },
     "wcontroller.load.update.title": {
       "en": "Update Required",
-      "->": "Wymagana Aktualizacja"
+      "->": ""
     },
     "wcontroller.load.wait": {
       "en": "Wait until this game has fully downloaded before opening it.",
-      "->": "Poczekaj aż gra zostanie pobrana w całości zanim ją uruchomisz."
+      "->": ""
     },
     "wcontroller.load.wait.title": {
       "en": "Still loading...",
-      "->": "Ładowanie nadal trwa..."
+      "->": ""
     },
     "wcontroller.matchmaking.gamestarted": {
       "en": "Random match {0} is ready to go!",
@@ -5213,11 +5225,11 @@
     },
     "wcontroller.meet.tribe.bigger.friendly": {
       "en": "salutes you friendly but pays no attention to your tiny realm.",
-      "->": "wita Cię przyjaźnie ale nie zwraca uwagi na Twoje małe królestwo."
+      "->": ""
     },
     "wcontroller.meet.tribe.bigger.hostile": {
       "en": "laughs at your puny excuse of a Tribe.",
-      "->": "śmieje się z Twojej marnej podróbki Plemienia."
+      "->": ""
     },
     "wcontroller.meet.tribe.distant": {
       "en": "A delegation from a distant land arrives in your capital!",
@@ -5225,7 +5237,7 @@
     },
     "wcontroller.meet.tribe.leader": {
       "en": "Their leader {0} ",
-      "->": "Ich władca"
+      "->": ""
     },
     "wcontroller.meet.tribe.resource.boost": {
       "en": "The discovery of this {0} tribe gives you a one time trade boost of {1} stars!",
@@ -5233,19 +5245,19 @@
     },
     "wcontroller.meet.tribe.smaller.friendly": {
       "en": "bows in awe of your mighty civilization.",
-      "->": "kłania się w zachwycie nad Twoją potężną cywilizacją."
+      "->": ""
     },
     "wcontroller.meet.tribe.smaller.hostile": {
       "en": "seems a bit hostile and greet you suspiciously.",
-      "->": "zdaje się trochę wrogi i wita Cię podejrzliwie."
+      "->": ""
     },
     "wcontroller.online.yourturn.description": {
       "en": "Tap ok to continue the game when you are ready.",
-      "->": "Naciśnij OK by kontynuować grę gdy będziesz gotowy."
+      "->": ""
     },
     "wcontroller.online.yourturn.title": {
       "en": "It's your turn!",
-      "->": "Twoja tura!"
+      "->": ""
     },
     "wcontroller.picktribe.notification": {
       "en": "It's your turn to pick tribe in {0}!",
@@ -5253,19 +5265,19 @@
     },
     "wcontroller.removingplayer": {
       "en": "Removing Player",
-      "->": "Usuwanie Gracza"
+      "->": ""
     },
     "wcontroller.reward.bordergrowth": {
       "en": "border growth",
-      "->": "poszerzenie granic"
+      "->": ""
     },
     "wcontroller.reward.citywall": {
       "en": "city wall",
-      "->": "mury miasta"
+      "->": ""
     },
     "wcontroller.reward.explorer": {
       "en": "explorer",
-      "->": "odkrywca"
+      "->": ""
     },
     "wcontroller.reward.park": {
       "en": "park",
@@ -5273,7 +5285,7 @@
     },
     "wcontroller.reward.populationgrowth": {
       "en": "population growth",
-      "->": "wzrost populacji"
+      "->": ""
     },
     "wcontroller.reward.rebellion": {
       "en": "incite rebellion",
@@ -5281,35 +5293,35 @@
     },
     "wcontroller.reward.resources": {
       "en": "resources",
-      "->": "zasoby"
+      "->": ""
     },
     "wcontroller.reward.superunit": {
       "en": "super unit",
-      "->": "jednostka specjalna"
+      "->": ""
     },
     "wcontroller.reward.workshop": {
       "en": "workshop",
-      "->": "warsztat"
+      "->": ""
     },
     "wcontroller.tribe.destroy": {
       "en": "You have destroyed {0}!",
-      "->": "Udało Ci się zniszczyć {0}!"
+      "->": ""
     },
     "wcontroller.tribe.destroy.all": {
       "en": "You have destroyed all opposing tribes and unified the entire Square under your command!",
-      "->": "Udało Ci się zniszczyć wszystkie plemiona przeciwników i cały Kwadrat jest pod twoim władaniem!"
+      "->": ""
     },
     "wcontroller.tribe.destroy.all.title": {
       "en": "Domination!",
-      "->": "Dominacja!"
+      "->": ""
     },
     "wcontroller.tribe.destroy.title": {
       "en": "Blood!",
-      "->": "Krew!"
+      "->": ""
     },
     "wcontroller.tribe.destroy2": {
       "en": "{0} has been destroyed by the {1}!",
-      "->": "{0} zostało zniszczone przez {1}!"
+      "->": ""
     },
     "wcontroller.tribe.level_1": {
       "en": "curious",
@@ -5329,71 +5341,71 @@
     },
     "wcontroller.turn.end": {
       "en": "Ending turn...",
-      "->": "Kończenie tury..."
+      "->": ""
     },
     "wcontroller.turn.error": {
       "en": "Could not reach the multiplayer server. Please make sure you are connected to the Internet and try again.",
-      "->": "Nie udało się połączyć z serwerem. Upewnij się, że masz połączenie internetowe i spróbuj ponownie."
+      "->": ""
     },
     "wcontroller.turn.error.title": {
       "en": "Network Error",
-      "->": "Błąd Sieci"
+      "->": ""
     },
     "wcontroller.turn.next": {
       "en": "Next up",
-      "->": "Następne"
+      "->": ""
     },
     "wcontroller.turn.notification": {
       "en": "It's your turn in {0} (turn {1})",
-      "->": "Twoja tura za {0} (tura {1})"
+      "->": ""
     },
     "wcontroller.turn.passed": {
       "en": "Game passed on to {0}",
-      "->": "Gra przekazana do {0}"
+      "->": ""
     },
     "wcontroller.turn.passed.title": {
       "en": "Turn complete",
-      "->": "Tura zakończona"
+      "->": ""
     },
     "wcontroller.turn.saving": {
       "en": "Saving game to server...",
-      "->": "Zapisywanie gry na serwerze..."
+      "->": ""
     },
     "wcontroller.unit.promotion": {
       "en": "Your unit has gained veteran status! Health increased.",
-      "->": "Twoja jednostka otrzymała status weterana! Zdrowie zostało zwiększone."
+      "->": ""
     },
     "wcontroller.unit.promotion.title": {
       "en": "Unit Promoted!",
-      "->": "Jednostka Awansowana!"
+      "->": ""
     },
     "world.attract.sanctuary": {
       "en": "Your sanctuary has attracted a wild animal!",
-      "->": "Twoja azyl zwabił dzikie zwierzę!"
+      "->": ""
     },
     "world.building.capture.ready": {
       "en": "Will be ready to capture next turn",
-      "->": "Będzie gotowy do przejęcia w następnej turze"
+      "->": ""
     },
     "world.building.capture.ready.title": {
       "en": "Entering {0}!",
-      "->": "Wkroczono do {0}!"
+      "->": ""
     },
     "world.building.capture.warning": {
       "en": "Capturing will be completed next turn if you don't stop them.",
-      "->": "Przejęcie będzie gotowe w następnej turze, jeśli ich nie powstrzymasz."
+      "->": ""
     },
     "world.building.capture.warning.title": {
       "en": "{0} is under siege!",
-      "->": "{0} jest pod oblężeniem!"
+      "->": ""
     },
     "world.building.info": {
       "en": "The city of {0}",
-      "->": "Miasto {0}"
+      "->": ""
     },
     "world.building.village": {
       "en": "Village",
-      "->": "Wioska"
+      "->": ""
     },
     "world.infiltrate.header": {
       "en": "Infiltration Success!",
@@ -5401,27 +5413,27 @@
     },
     "world.intro.objective": {
       "en": "Objective: {0}",
-      "->": "Cel: {0}"
+      "->": ""
     },
     "world.intro.text": {
       "en": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
-      "->": "Zostałeś wybrany by rządzić plemieniem {0}. Eksploruj świat i poszerzaj imperium, ale uważaj na inne plemiona."
+      "->": ""
     },
     "world.intro.title": {
       "en": "Mighty Leader!",
-      "->": "Potężny przywódco!"
+      "->": ""
     },
     "world.loading": {
       "en": "LOADING {0}%",
-      "->": "Ładowanie {0}%"
+      "->": ""
     },
     "world.meet.tribe": {
       "en": "You meet {0}",
-      "->": "Napotkano {0}"
+      "->": ""
     },
     "world.ranks": {
       "en": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
-      "->": "Pierwszy,Drugi,Trzeci,Czwarty,Piąty,Szósty,Siódmy,Ósmy,Dziewiąty,Dziesiąty,Jedenasty,Dwunasty"
+      "->": ""
     },
     "world.rebellion.description": {
       "en": "A {0} from the {1} tribe has infiltrated the city of {2} and incited a revolt agains you!",
@@ -5441,91 +5453,91 @@
     },
     "world.reward.building": {
       "en": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",
-      "->": "Możesz zbudować {0}! Ten epicki posąg przyniesie bogactwo i chwałę najbliższemu miastu."
+      "->": ""
     },
     "world.reward.building.title": {
       "en": "{0} was completed",
-      "->": "Ukończono {0}"
+      "->": ""
     },
     "world.reward.levelup": {
       "en": "{0} level up!",
-      "->": "{0} zwiększa poziom!"
+      "->": ""
     },
     "world.road.connected.message": {
       "en": "{0} is now connected to your capital!",
-      "->": "{0} jest teraz połączone z Twoją stolicą!"
+      "->": ""
     },
     "world.road.connected.title": {
       "en": "New trade route!",
-      "->": "Nowy szlak handlowy!"
+      "->": ""
     },
     "world.suggestion.disable": {
       "en": "(These suggestions can be switched off in the menu)",
-      "->": "(Sugestie mogą zostać wyłączone w menu)"
+      "->": ""
     },
     "world.suggestion.message": {
       "en": "You should {0}",
-      "->": "Możesz {0}"
+      "->": ""
     },
     "world.suggestion.title": {
       "en": "Here's a Tip!",
-      "->": "Wskazówka!"
+      "->": ""
     },
     "world.task.new": {
       "en": "You got a new Task!",
-      "->": "Masz nowe zadanie!"
+      "->": ""
     },
     "world.tech.new.message": {
       "en": "You have discovered the secret of {0}",
-      "->": "Odkryto umiejętność {0}"
+      "->": ""
     },
     "world.tech.new.title": {
       "en": "New Tech!",
-      "->": "Nowa technologia!"
+      "->": ""
     },
     "world.turn.end": {
       "en": "End Turn",
-      "->": "Zakończ turę"
+      "->": ""
     },
     "world.turn.end.confirm": {
       "en": "Confirm",
-      "->": "Potwierdź"
+      "->": ""
     },
     "world.turn.end.question": {
       "en": "End your turn?",
-      "->": "Zakończyć turę?"
+      "->": ""
     },
     "world.turn.exit": {
       "en": "Exit",
-      "->": "Wyjdź"
+      "->": ""
     },
     "world.turn.finish": {
       "en": "Finish Game",
-      "->": "Zakończ grę"
+      "->": ""
     },
     "world.turn.last": {
       "en": "Last turn!",
-      "->": "Ostatnia tura!"
+      "->": ""
     },
     "world.turn.next": {
       "en": "Next Turn",
-      "->": "Nowa Tura"
+      "->": ""
     },
     "world.turn.nomoves": {
       "en": "No more moves available, end turn",
-      "->": "Brak ruchów, zakończ turę"
+      "->": ""
     },
     "world.turn.ready": {
       "en": "Tap save when ready",
-      "->": "Naciśnij zapis gdy będziesz gotowy"
+      "->": ""
     },
     "world.turn.remaining": {
       "en": "{0} turns left",
-      "->": "Pozostało {0} tur"
+      "->": ""
     },
     "world.turn.replaying": {
       "en": "Replaying...",
-      "->": "Powtórka..."
+      "->": ""
     },
     "world.turn.skip": {
       "en": "SKIP",
@@ -5537,7 +5549,7 @@
     },
     "world.turn.waiting": {
       "en": "Waiting for {0} to play...",
-      "->": "Oczekiwanie na {0} by zacząć..."
+      "->": ""
     },
     "world.turn.waiting.playing": {
       "en": "{0} is playing...",
@@ -5545,67 +5557,67 @@
     },
     "world.turn.waiting.unknown": {
       "en": "Waiting for an unknown tribe to play...",
-      "->": "Oczekiwanie na nieznane plemię by zacząć..."
+      "->": ""
     },
     "world.turn.your": {
       "en": "Your turn",
-      "->": "Twoja tura"
+      "->": ""
     },
     "world.unit.ability": {
       "en": "Unit Ability",
-      "->": "Umiejętność Jednostki"
+      "->": ""
     },
     "world.unit.attack": {
       "en": "Attack",
-      "->": "Atak"
+      "->": ""
     },
     "world.unit.defence": {
       "en": "Defense",
-      "->": "Obrona"
+      "->": ""
     },
     "world.unit.disembark.message": {
       "en": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
-      "->": "Zwolnienie tej jednostki spowoduje usunięcie {0}. Kontynuować?"
+      "->": ""
     },
     "world.unit.disembark.title": {
       "en": "Leave {0}",
-      "->": "Opuść {0}"
+      "->": ""
     },
     "world.unit.dissolved": {
       "en": "Your unit has dissolved",
-      "->": "Twoja jednostka się rozpłynęła"
+      "->": ""
     },
     "world.unit.evolve": {
       "en": "Your unit has grown into a {0}!",
-      "->": "Twoja jednostka urosła do {0}!"
+      "->": ""
     },
     "world.unit.evolve.title": {
       "en": "Unit Growth",
-      "->": "Wzrost Jednostki"
+      "->": ""
     },
     "world.unit.health": {
       "en": "Health",
-      "->": "Zdrowie"
+      "->": ""
     },
     "world.unit.info.from": {
       "en": "From the city of {0}.",
-      "->": "Z miasta {0}."
+      "->": ""
     },
     "world.unit.movement": {
       "en": "Movement",
-      "->": "Ruch"
+      "->": ""
     },
     "world.unit.range": {
       "en": "Range",
-      "->": "Zasięg"
+      "->": ""
     },
     "world.unit.veteran": {
       "en": "This unit is a veteran.",
-      "->": "Ta jednostka jest weteranem."
+      "->": ""
     },
     "world.unit.veteran.progress": {
       "en": "{0}/{1} to become a veteran.",
-      "->": "{0}/{1} by zostać weteranem."
+      "->": ""
     }
   }
 }

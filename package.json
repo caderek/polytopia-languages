@@ -4,8 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/build.js",
-    "tidy": "node scripts/tidy.js"
+    "build": "node scripts/build.js && node scripts/templates-to-raw.js",
+    "tidy": "node scripts/tidy.js",
+    "template:refresh": "node scripts/raw-to-template.js original.json template.json",
+    "template:from:to": "node scripts/raw-to-template.js"
   },
   "repository": {
     "type": "git",

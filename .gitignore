@@ -3,3 +3,4 @@ _redirects
 index.html
 *.temp.*
 */**/*.temp.*
+temp

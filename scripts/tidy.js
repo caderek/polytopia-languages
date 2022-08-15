@@ -33,6 +33,9 @@ const langs = lang
   ? [lang]
   : fs.readdirSync("translations").map((x) => x.split(".")[0]);
 
+const isEmpty = (translation) =>
+  typeof translation !== "string" || translation.trim() === "";
+
 for (const lang of langs) {
   const translation = require(`../translations/${lang}.json`);
 
@@ -44,24 +47,30 @@ for (const lang of langs) {
     language: translation.language || "",
     author: translation.author || "",
     editors: translation.editors || "",
+    text: {},
   };
 
   const missingKeys = [];
 
   for (const key of originalKeys) {
-    if (
-      translation[key] === undefined ||
-      typeof translation[key] !== "string" ||
-      translation[key].trim() === "" ||
-      translation[key] === original[key]
-    ) {
+    const hasKey = translation.text[key] !== undefined;
+    const entry = hasKey ? translation.text[key]["->"] : "";
+    const empty = isEmpty(entry);
+
+    if (!hasKey || empty || entry === original[key]) {
       if (!FIXED_KEYS.has(key)) {
         missingKeys.push(key);
       }
 
-      sorted[key] = original[key];
+      sorted.text[key] = {
+        en: original[key],
+        "->": empty ? "" : entry,
+      };
     } else {
-      sorted[key] = translation[key];
+      sorted.text[key] = {
+        en: original[key],
+        "->": entry,
+      };
     }
   }
 

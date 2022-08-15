@@ -36,8 +36,8 @@ const render = (data) => {
             editors ? `<span class="author">, edited by ${editors}</span>` : ""
           }</h3>
             <h4>Links (click to copy):</h4>
-            <pre class="code">https://polytopia.netlify.app/translations/${file}</pre>
-            <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/translations/${file}</pre>
+            <pre class="code">https://polytopia.netlify.app/dist/translations/${file}</pre>
+            <pre class="code">https://raw.githubusercontent.com/caderek/polytopia-languages/master/dist/translations/${file}</pre>
             <p class="completed">${completed}% complete</p>
             <a class="preview" href="https://polytopia.netlify.com/${shortLang}">PREVIEW</a>
           </li>`
