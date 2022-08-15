@@ -14,17 +14,61 @@ There are couple ways to contribute, you can make a pull request, open an issue 
 
 1. Get the template file from here: [empty template](https://raw.githubusercontent.com/caderek/polytopia-languages/master/template.json)
 
-2. Add your translation to the `translations` folder, name it as `<LANG_SHORTCUT>.json` (for example `es.json`). Here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/translations)
+1. Add your translation to the `translations` folder, name it as `<LANG_SHORTCUT>.json` (for example `es.json`). Here's direct link to add a new file -> [ADD NEW TRANSLATION FILE](https://github.com/caderek/polytopia-languages/new/master/translations)
 
-3. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
+1. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.com](https://polytopia.netlify.com/).
 
 ## Improving existing translation
 
 1. Open selected translation from the ones listed [here](https://github.com/caderek/polytopia-languages/tree/master/translations)
 
-2. Click `Edit this file` button (a pen icon) and add your changes.
+1. Click `Edit this file` button (a pen icon) and add your changes.
 
-3. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.app](https://polytopia.netlify.app/).
+1. Make a pull request - if everything is ok it will be merged and automatically deployed on [polytopia.netlify.app](https://polytopia.netlify.app/).
+
+## Structure of the template file
+
+```json
+{
+  "language": "Your language original name goes here.",
+  "author": "Your name/nick goes here (optional)",
+  "editors": "If you are editing existing translation, add your name/nick here.",
+  "text": {
+    "some.key.do.not.edit": {
+      "en": "Original text, do not edit.",
+      "->": "Here goes your translation, if you leave it empty, original text will be used."
+    },
+    "some.other.key.do.not.edit": {
+      "en": "Another original text, do not edit.",
+      "->": "Here goes your translation."
+    }
+  }
+}
+```
+
+Example:
+
+```json
+{
+  "language": "Español",
+  "author": "Rafael Nadal",
+  "editors": "Fernando Alonso, Iker Casillas",
+  "text": {
+    "action.info.breakice": {
+      "en": "Break Ice",
+      "->": "Romper Hielo"
+    },
+    "action.info.breakpeace": {
+      "en": "Break Peace",
+      "->": ""
+    },
+    "action.info.build": {
+      "en": "build a {0} here",
+      "->": "construir {0} aquí"
+    }
+  }
+}
+```
 
 ## License
 
