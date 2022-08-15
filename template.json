@@ -275,10 +275,6 @@
       "en": "Roads",
       "->": ""
     },
-    "author": {
-      "en": "",
-      "->": ""
-    },
     "backend.connecting": {
       "en": "Connecting to server...",
       "->": ""
@@ -1001,10 +997,6 @@
     },
     "diplomacy.state.war.description": {
       "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
-      "->": ""
-    },
-    "editors": {
-      "en": "",
       "->": ""
     },
     "endscreen.army&territory": {
@@ -2313,10 +2305,6 @@
     },
     "idconsole.clipboard.title": {
       "en": "Voilà!",
-      "->": ""
-    },
-    "language": {
-      "en": "English",
       "->": ""
     },
     "matchmakinggameinfo.waited": {
