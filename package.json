@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "node scripts/templates-to-raw.js && node scripts/build.js",
+    "build": "npm run tidy && node scripts/templates-to-raw.js && node scripts/build.js",
     "tidy": "node scripts/tidy.js",
     "template:refresh": "node scripts/raw-to-template.js original.json template.json",
     "template:from:to": "node scripts/raw-to-template.js"
