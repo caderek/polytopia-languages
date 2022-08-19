@@ -1169,7 +1169,7 @@
     },
     "error.code.1007": {
       "en": "Invalid friend request ({0})",
-      "->": "Niepoprawne zaproszenie przyjaciela ({0})"
+      "->": "Niepoprawne zaproszenie znajomego ({0})"
     },
     "error.code.1008": {
       "en": "Friendship not found ({0})",
@@ -1293,11 +1293,11 @@
     },
     "friendlist.checking": {
       "en": "Checking friend status...",
-      "->": "Sprawdzanie statusu przyjaciela.."
+      "->": "Sprawdzanie statusu znajomego.."
     },
     "friendlist.error": {
       "en": "Error loading friends",
-      "->": "Błąd ładowania przyjaciół"
+      "->": "Błąd ładowania znajomych"
     },
     "friendlist.friend.notupdated": {
       "en": "{0} is still on the old server",
@@ -1321,15 +1321,15 @@
     },
     "friendlist.friends.old": {
       "en": "Outdated friends",
-      "->": "Nieaktualni przyjaciele"
+      "->": "Nieaktualni znajomi"
     },
     "friendlist.friendshipstate": {
       "en": "Friendship status: {0}",
-      "->": "Status przyjaciół: {0}"
+      "->": "Status znajomych: {0}"
     },
     "friendlist.friendshipstate.accepted": {
       "en": "This player is your friend. Lucky you!",
-      "->": "Zaproszenie zaakceptowane. Jesteście teraz przyjaciółmi."
+      "->": "Zaproszenie zaakceptowane. Jesteście teraz znajomymi."
     },
     "friendlist.friendshipstate.isyou": {
       "en": "This is you.",
@@ -1357,7 +1357,7 @@
     },
     "friendlist.loading": {
       "en": "Loading friends...",
-      "->": "Ładowanie przyjaciół..."
+      "->": "Ładowanie znajomych..."
     },
     "friendlist.local": {
       "en": "Local Players",
@@ -1393,7 +1393,7 @@
     },
     "friendlist.new.exists.info": {
       "en": "You are already friends with {0}",
-      "->": "{0} jest już Twoim przyjacielem"
+      "->": "{0} jest już Twoim znajomym"
     },
     "friendlist.new.exists.title": {
       "en": "Duplicate Player",
@@ -1401,7 +1401,7 @@
     },
     "friendlist.new.info.alias": {
       "en": "Search for your friend's alias.",
-      "->": "Szukaj pseudonimu przyjaciela."
+      "->": "Szukaj pseudonimu znajomego."
     },
     "friendlist.new.looking.info": {
       "en": "Looking for player {0}",
@@ -1417,7 +1417,7 @@
     },
     "friendlist.new.title": {
       "en": "Add a new friend",
-      "->": "Dodaj nowego przyjaciel"
+      "->": "Dodaj nowego znajomego"
     },
     "friendlist.pendinginvitations": {
       "en": "Pending Invitations",
@@ -1865,15 +1865,15 @@
     },
     "gamesettings.autoskip": {
       "en": "Auto Skip",
-      "->": ""
+      "->": "Autopomijanie"
     },
     "gamesettings.autoskip.disabled": {
       "en": "Disabled",
-      "->": ""
+      "->": "Deaktywowane"
     },
     "gamesettings.autoskip.enabled": {
       "en": "Enabled",
-      "->": ""
+      "->": "Aktywne"
     },
     "gamesettings.continue": {
       "en": "CONTINUE",
@@ -1937,7 +1937,7 @@
     },
     "gamesettings.info.gamepreferences.header": {
       "en": "Advanced settings",
-      "->": ""
+      "->": "Ustawienia zaawansowane"
     },
     "gamesettings.info.gamepreferences.info": {
       "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
@@ -1949,7 +1949,7 @@
     },
     "gamesettings.info.matchmaking.gamemode": {
       "en": "{0} game",
-      "->": ""
+      "->": "gra {0}"
     },
     "gamesettings.info.matchmaking.mappreset": {
       "en": "{0} map type",
@@ -1973,7 +1973,7 @@
     },
     "gamesettings.info.seed": {
       "en": "Seed",
-      "->": ""
+      "->": "Ziarno"
     },
     "gamesettings.info.turnlimit30": {
       "en": ", 30 turn limit",
@@ -1981,15 +1981,15 @@
     },
     "gamesettings.livegame": {
       "en": "Live Game",
-      "->": ""
+      "->": "Gra na żywo"
     },
     "gamesettings.livegame.description": {
       "en": "Live Games use a dynamic timer that increases based on how many units & cities you have. Any time left at the end of your turn will be added to your next turn.",
-      "->": ""
+      "->": "Gry na żywo używają dynamicznego timera, który zwiększa się w zależności od ilości posiadanych jednostek i miast. Każdy czas pozostały na koniec twojej tury zostanie dodany do twojej następnej tury."
     },
     "gamesettings.map": {
       "en": "Map Type",
-      "->": ""
+      "->": "Typ Mapy"
     },
     "gamesettings.map.archipelago": {
       "en": "Archipelago",
@@ -2037,15 +2037,15 @@
     },
     "gamesettings.notenoughplayers": {
       "en": "You need at least two players to start a game",
-      "->": ""
+      "->": "Do rozpoczęcia gry potrzeba co najmniej dwóch graczy"
     },
     "gamesettings.novalidtribes": {
       "en": "No Valid Tribes",
-      "->": ""
+      "->": "Brak plemion"
     },
     "gamesettings.novalidtribes.info": {
       "en": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
-      "->": ""
+      "->": "Plemiiona niedostępne. Włącz lub odblokuj przynajmniej jedno plemię, aby móc kontynuować."
     },
     "gamesettings.online.disabled": {
       "en": "Online is locked",
@@ -2057,7 +2057,7 @@
     },
     "gamesettings.online.info": {
       "en": "Play with your friends online using our multiplayer server.",
-      "->": "Graj z przyjaciółmi w sieci, używając naszego serwera dla wielu graczy."
+      "->": "Graj ze znajomymi w sieci, używając naszego serwera dla wielu graczy."
     },
     "gamesettings.opponents": {
       "en": "Opponents",
@@ -2065,7 +2065,7 @@
     },
     "gamesettings.passplay.info": {
       "en": "Play with your friends offline on this device by passing it around.",
-      "->": "Graj z przyjaciółmi lokalnie na urządzeniu, podając je wokół."
+      "->": "Graj ze znajomymi lokalnie na urządzeniu, podając je wokół."
     },
     "gamesettings.players": {
       "en": "Players",
@@ -2105,7 +2105,7 @@
     },
     "gamesettings.size.tiles.unspecified": {
       "en": "You might get any size of a map. Exciting!",
-      "->": ""
+      "->": "Możesz otrzymać dowolny rozmiar mapy. Ekscytujące!"
     },
     "gamesettings.size.tiny": {
       "en": "Tiny",
@@ -2121,15 +2121,15 @@
     },
     "gamesettings.timer": {
       "en": "Game Timer",
-      "->": ""
+      "->": "Zegar Gry"
     },
     "gamesettings.timer.description": {
       "en": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
-      "->": ""
+      "->": "Ile każdy z graczy ma czasu na wykonanie swoich ruchów. Jeśli czas gracza skończy się, inni mogą wybrać pominięcie jego tury."
     },
     "gamesettings.timer.live": {
       "en": "Live",
-      "->": ""
+      "->": "Na żywo"
     },
     "gamesettings.title": {
       "en": "GAME SETUP",
@@ -2137,7 +2137,7 @@
     },
     "gamesettings.unknown": {
       "en": "Unknown",
-      "->": ""
+      "->": "Nieznane"
     },
     "gamesettings.unlockmore": {
       "en": "Unlock more tribes to play with more opponents",
@@ -2177,7 +2177,7 @@
     },
     "gamestats.title": {
       "en": "GAME STATS",
-      "->": ""
+      "->": "STATYSTYKI GRY"
     },
     "gamestatus.capitals": {
       "en": "Capitals Owned",
@@ -2201,7 +2201,7 @@
     },
     "gamestatus.killedonturn": {
       "en": "killed on turn {0}",
-      "->": ""
+      "->": "zabity w turze {0}"
     },
     "gamestatus.ruled": {
       "en": "Ruled by {0}",
@@ -2209,7 +2209,7 @@
     },
     "gamestatus.ruled.bot": {
       "en": "bot",
-      "->": ""
+      "->": "bot"
     },
     "gamestatus.ruled.you": {
       "en": "Ruled by you",
@@ -2217,7 +2217,7 @@
     },
     "gamestatus.ruler": {
       "en": "Ruler of the {0}",
-      "->": ""
+      "->": "Władca {0}"
     },
     "gamestatus.score": {
       "en": "score: {0} points",
@@ -2257,15 +2257,15 @@
     },
     "highscore.error": {
       "en": "Failed to upload highscore to server, do you want to retry?",
-      "->": ""
+      "->": "Nie udało się przesłać rekordu na serwer, czy chcesz spróbować ponownie?"
     },
     "highscore.error.title": {
       "en": "Highscore error",
-      "->": ""
+      "->": "Błąd rekordu"
     },
     "highscore.hiscore": {
       "en": "hiscore",
-      "->": "najlepszy wynik"
+      "->": "rekord"
     },
     "highscore.loading": {
       "en": "Loading...",
@@ -2273,15 +2273,15 @@
     },
     "highscore.notavailable": {
       "en": "High Score not available.",
-      "->": "Najlepsze wyniki niedostępne."
+      "->": "Rekordy niedostępne."
     },
     "highscore.thisweek": {
       "en": "This Week",
-      "->": "Ten tydzień"
+      "->": "Ten Tydzień"
     },
     "highscore.title": {
       "en": "HIGH SCORE",
-      "->": "NAJLEPSZE WYNIKI"
+      "->": "REKORDY"
     },
     "highscore.today": {
       "en": "Today",
@@ -2289,19 +2289,19 @@
     },
     "highscore.uploading": {
       "en": "Uploading high score...",
-      "->": ""
+      "->": "Przesyłanie rekordów..."
     },
     "highscore.uploading.failed": {
       "en": "Failed to upload high score",
-      "->": ""
+      "->": "Nie udało się przesłać rekordów"
     },
     "highscore.uploading.successful": {
       "en": "High score uploaded...",
-      "->": ""
+      "->": "Rekordy przesłane..."
     },
     "highscore.uptodate": {
       "en": "Everything is up to date",
-      "->": ""
+      "->": "Wszystko jest aktualne"
     },
     "idconsole.clipboard.title": {
       "en": "Voilà!",
@@ -2317,43 +2317,43 @@
     },
     "migration.restoredescription": {
       "en": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
-      "->": ""
+      "->": "Jeśli wcześniej zakupiłeś plemiona, musisz je przywrócić, aby pojawiły się w tej zupełnie nowej wersji Polytopii"
     },
     "migration.restoreheader": {
       "en": "Restore?",
-      "->": ""
+      "->": "Przywrócić?"
     },
     "misc.error.title": {
       "en": "Error",
-      "->": ""
+      "->": "Błąd"
     },
     "misc.errorloadinggame": {
       "en": "Failed to load game",
-      "->": ""
+      "->": "Nie udało się załadować gry"
     },
     "misc.failedcommand": {
       "en": "Failed to send command to server. Do you want to try again?",
-      "->": ""
+      "->": "Nie udało się wysłać polecenia do serwera. Czy chcesz spróbować ponownie?"
     },
     "misc.gameoutofsync": {
       "en": "Your game failed to sync with the server. Do you want to try again?",
-      "->": ""
+      "->": "Twoja gra nie zsynchronizowała się z serwerem. Czy chcesz spróbować ponownie?"
     },
     "misc.player": {
       "en": "player",
-      "->": ""
+      "->": "gracz"
     },
     "misc.players": {
       "en": "players",
-      "->": ""
+      "->": "gracze"
     },
     "misc.pushfailed": {
       "en": "Failed to handle incoming notification from server",
-      "->": ""
+      "->": "Nie udało się obsłużyć powiadomienia przychodzącego z serwera"
     },
     "misc.resetfailed": {
       "en": "Game is missing or corrupt",
-      "->": ""
+      "->": "Gra nie istnieje lub jest uszkodzona"
     },
     "mplayerstats.alias": {
       "en": "Alias",
@@ -2377,11 +2377,11 @@
     },
     "mplayerstats.elo.description": {
       "en": "The Elo rating system is a method for calculating the relative skill levels of players.",
-      "->": ""
+      "->": "System klasyfikacji Elo jest metodą obliczania względnych poziomów umiejętności graczy."
     },
     "mplayerstats.friends": {
       "en": "nº of friends",
-      "->": "Liczba przyjaciół"
+      "->": "Liczba znajomych"
     },
     "mplayerstats.games": {
       "en": "Games Played",
@@ -2457,7 +2457,7 @@
     },
     "multiplayer.passplay.info": {
       "en": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
-      "->": "Postaw wyzwanie swoim przyjaciołom w rozgrywce dla wielu graczy na jednym urządzeniu. Po prostu podaj urządzenie do następnego gracza gdy zakończysz turę."
+      "->": "Postaw wyzwanie swoim znajomym w rozgrywce dla wielu graczy na jednym urządzeniu. Po prostu podaj urządzenie do następnego gracza gdy zakończysz turę."
     },
     "news.description": {
       "en": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
@@ -2465,11 +2465,11 @@
     },
     "news.error.failed": {
       "en": "Failed to load news",
-      "->": ""
+      "->": "Nie udało się załadować wiadomości"
     },
     "news.error.title": {
       "en": "Error",
-      "->": ""
+      "->": "Błąd"
     },
     "news.timeago": {
       "en": "{0} ago",
@@ -2481,11 +2481,11 @@
     },
     "notifications.defaultheader": {
       "en": "Alert",
-      "->": ""
+      "->": "Uwaga"
     },
     "notifications.restorecomplete": {
       "en": "{0} items restored",
-      "->": ""
+      "->": "Przywrócono {0} pozycji"
     },
     "onlineview.check": {
       "en": "check",
@@ -2505,7 +2505,7 @@
     },
     "onlineview.favorites": {
       "en": "Favourites ({0}/{1})",
-      "->": ""
+      "->": "Ulubione ({0}/{1})"
     },
     "onlineview.fixit": {
       "en": "FIX IT",
@@ -2513,7 +2513,7 @@
     },
     "onlineview.friendlist.available": {
       "en": "Friend List is only available when connected to the server.",
-      "->": "Lista przyjaciół jest dostępna tylko gdy jesteś połączony z serwerem."
+      "->": "Lista znajomych jest dostępna tylko gdy jesteś połączony z serwerem."
     },
     "onlineview.friends": {
       "en": "Friends",
@@ -2541,11 +2541,11 @@
     },
     "onlineview.game.leavematchmaking.info": {
       "en": "Are you sure you want to stop waiting for this game?",
-      "->": ""
+      "->": "Czy na pewno chcesz przestać czekać na tę grę?"
     },
     "onlineview.game.leavematchmaking.title": {
       "en": "Leave",
-      "->": ""
+      "->": "Opuść"
     },
     "onlineview.game.missingplayer": {
       "en": "Empty",
@@ -2581,15 +2581,15 @@
     },
     "onlineview.game.replays.share.button": {
       "en": "Share",
-      "->": ""
+      "->": "Udostępnij"
     },
     "onlineview.game.replays.share.description": {
       "en": "Use this link to show this replay to your friends or enemies:",
-      "->": ""
+      "->": "Użyj tego linku, aby pokazać tę powtórkę swoim znajomym lub wrogom:"
     },
     "onlineview.game.replays.share.title": {
       "en": "Share This Replay",
-      "->": ""
+      "->": "Udostępnij Powtórkę"
     },
     "onlineview.game.resign": {
       "en": "RESIGN",
@@ -2605,11 +2605,11 @@
     },
     "onlineview.game.resigned": {
       "en": "You are now resigned.",
-      "->": ""
+      "->": "Zrezygnowano."
     },
     "onlineview.game.resigning": {
       "en": "Resigning...",
-      "->": ""
+      "->": "Rezygnacja..."
     },
     "onlineview.game.size": {
       "en": "Map Size",
@@ -2625,15 +2625,15 @@
     },
     "onlineview.gamedeleted.info": {
       "en": "The game {0} has been deleted because all other players rejected the game.",
-      "->": ""
+      "->": "Gra {0} została usunięta, ponieważ wszyscy pozostali gracze odrzucili grę."
     },
     "onlineview.gamedeleted.title": {
       "en": "Game Deleted",
-      "->": ""
+      "->": "Gra Usunięta"
     },
     "onlineview.gamedeleted.unknowngame": {
       "en": "Unknown Game",
-      "->": ""
+      "->": "Nieznana Gra"
     },
     "onlineview.gameinvitations": {
       "en": "Game Invitations",
@@ -2649,59 +2649,59 @@
     },
     "onlineview.kicked.automatic": {
       "en": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
-      "->": ""
+      "->": "Zostałeś automatycznie wyrzucony z gry {0}, ponieważ zostałeś automatycznie pominięty zbyt wiele razy."
     },
     "onlineview.kicked.automatic.other": {
       "en": "{0} was automatically kicked from the game {1} and is now frozen.",
-      "->": ""
+      "->": "{0} został automatycznie wyrzucony z gry {1} i jest teraz zamrożony."
     },
     "onlineview.kicked.info": {
       "en": "{0} have kicked you from the game {1} since you took too long to finish your turn.",
-      "->": ""
+      "->": "{0} wyrzucili cię z gry {1}, ponieważ zbyt długo zwlekałeś z zakończeniem swojej tury."
     },
     "onlineview.kicked.title": {
       "en": "You got Kicked",
-      "->": ""
+      "->": "Wyrzucono Cię"
     },
     "onlineview.kicked.title.other": {
       "en": "{0} was kicked",
-      "->": ""
+      "->": "{0} został wyrzucony"
     },
     "onlineview.ladder.ended": {
       "en": "Ended",
-      "->": ""
+      "->": "Zakończono"
     },
     "onlineview.ladder.ends": {
       "en": "Ends in {0}",
-      "->": ""
+      "->": "Kończy się za {0}"
     },
     "onlineview.ladder.join": {
       "en": "JOIN LADDER",
-      "->": ""
+      "->": "DOŁĄCZ DO DRABINKI"
     },
     "onlineview.ladder.leave": {
       "en": "LEAVE LADDER",
-      "->": ""
+      "->": "OPUŚĆ DRABINKĘ"
     },
     "onlineview.ladder.loading": {
       "en": "Loading ladder data...",
-      "->": ""
+      "->": "Ładowanie danych drabinki..."
     },
     "onlineview.ladder.placements.header": {
       "en": "Placements",
-      "->": ""
+      "->": "Pozycje"
     },
     "onlineview.ladder.play": {
       "en": "PLAY LADDER",
-      "->": ""
+      "->": "GRAJ DRABINKĘ"
     },
     "onlineview.ladders": {
       "en": "Ladders",
-      "->": ""
+      "->": "Drabinki"
     },
     "onlineview.lastgames": {
       "en": "Last {0} Games",
-      "->": ""
+      "->": "Ostatnie {} Gry"
     },
     "onlineview.loaderror": {
       "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
@@ -2709,7 +2709,7 @@
     },
     "onlineview.loading.title": {
       "en": "Loading...",
-      "->": ""
+      "->": "Ładowaie..."
     },
     "onlineview.loadingservice": {
       "en": "Loading Service",
@@ -2717,39 +2717,39 @@
     },
     "onlineview.lobby.invite.title": {
       "en": "Invite players ({0}/{1})",
-      "->": ""
+      "->": "Zaproś graczy ({0}/{1})"
     },
     "onlineview.lobby.leave.info": {
       "en": "Are you sure you want to leave this lobby?",
-      "->": ""
+      "->": "Czy na pewno chcesz opuścić to lobby?"
     },
     "onlineview.lobby.leave.title": {
       "en": "Leave",
-      "->": ""
+      "->": "Opuść"
     },
     "onlineview.lobby.player.add": {
       "en": "Add",
-      "->": ""
+      "->": "Dodaj"
     },
     "onlineview.lobby.readytostart": {
       "en": "Ready to start",
-      "->": ""
+      "->": "Gotowe by zacząć"
     },
     "onlineview.lobby.starting": {
       "en": "Game is starting...",
-      "->": ""
+      "->": "Gra się rozpoczyna..."
     },
     "onlineview.lobby.waitingforplayers": {
       "en": "Waiting for {0} additional {1}",
-      "->": ""
+      "->": "Oczekiwanie na {0} dodatkowe {1}"
     },
     "onlineview.lobby.waitingforplayers.title": {
       "en": "Are you sure",
-      "->": ""
+      "->": "Czy na pewno"
     },
     "onlineview.lobby.waitingforplayers.warning": {
       "en": "Not everyone has accepted your invite, do you wish to start the game without them?",
-      "->": ""
+      "->": "Nie wszyscy przyjęli Twoje zaproszenie, czy chcesz rozpocząć grę bez nich?"
     },
     "onlineview.login.ios": {
       "en": "Log in to {0}",
@@ -2761,15 +2761,15 @@
     },
     "onlineview.login.ios.info2": {
       "en": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
-      "->": ""
+      "->": "Przejdź do ustawień na swoim urządzeniu, wybierz sekcję Game Center i zaloguj się za pomocą swojego Apple ID."
     },
     "onlineview.login.tesla": {
       "en": "Create Online Profile",
-      "->": ""
+      "->": "Utwórz Profil Online"
     },
     "onlineview.login.tesla.info": {
       "en": "Create a profile in Tesla Arcade to play online with friends",
-      "->": ""
+      "->": "Utwórz profil w Tesla Arcade, aby grać online z przyjaciółmi"
     },
     "onlineview.matchmaking": {
       "en": "RANDOM MATCH",
@@ -2789,15 +2789,15 @@
     },
     "onlineview.nogames.start": {
       "en": "Let's get some online games going with your friends. Tap 'New game' to start one.",
-      "->": "Zagraj z przyjaciółmi. Naciśnij 'Nowa gra' by rozpocząć."
+      "->": "Zagraj ze znajomymi. Naciśnij 'Nowa gra' by rozpocząć."
     },
     "onlineview.noladders": {
       "en": "No ladders available",
-      "->": ""
+      "->": "Brak dostępnych drabinek"
     },
     "onlineview.noreplays": {
       "en": "When you have completed a multiplayer game it will show up here so you can watch the replay",
-      "->": ""
+      "->": "Kiedy ukończysz grę wieloosobową, pojawi się ona tutaj, abyś mógł obejrzeć powtórkę."
     },
     "onlineview.notifications": {
       "en": "Enable notifications",
@@ -2809,7 +2809,7 @@
     },
     "onlineview.ongoing": {
       "en": "Ongoing",
-      "->": ""
+      "->": "W trakcie"
     },
     "onlineview.or": {
       "en": "or",
@@ -2857,19 +2857,19 @@
     },
     "onlineview.replay.delete.info": {
       "en": "Are you sure you want to delete this replay?",
-      "->": ""
+      "->": "Czy na pewno chcesz usunąć tę powtórkę?"
     },
     "onlineview.replay.delete.title": {
       "en": "Delete",
-      "->": ""
+      "->": "Usuń"
     },
     "onlineview.replays": {
       "en": "Replays",
-      "->": ""
+      "->": "Powtórki"
     },
     "onlineview.replays.loading": {
       "en": "Loading replay data...",
-      "->": ""
+      "->": "Ładowanie danych powtórki..."
     },
     "onlineview.required": {
       "en": "required",
@@ -2877,15 +2877,15 @@
     },
     "onlineview.resigned.competitive.info": {
       "en": "{0} resigned from the game {1} and is now frozen.",
-      "->": ""
+      "->": "{0} zrezygnował z gry {1} i jest teraz zamrożony."
     },
     "onlineview.resigned.info": {
       "en": "{0} resigned from the game {1} and have been replaced by a bot.",
-      "->": ""
+      "->": "{0} zrezygnował z gry {1} i został zastąpiony przez bota."
     },
     "onlineview.resigned.title": {
       "en": "{0} Resigned",
-      "->": ""
+      "->": "{)} Zrezygnował"
     },
     "onlineview.servicedisabled": {
       "en": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
@@ -2893,27 +2893,27 @@
     },
     "onlineview.skipped.info.local": {
       "en": "You were skipped.",
-      "->": ""
+      "->": "Zostałeś pominięty."
     },
     "onlineview.skipped.info.other": {
       "en": "{0} was skipped.",
-      "->": ""
+      "->": "{0} został pominięty."
     },
     "onlineview.skipped.info.tribe.local": {
       "en": "You were assigned a random tribe due to inactivity.",
-      "->": ""
+      "->": "Przydzielono Ci losowe plemię z powodu braku aktywności."
     },
     "onlineview.skipped.info.tribe.other": {
       "en": "{0} was assigned a random tribe due to inactivity.",
-      "->": ""
+      "->": "{0} dostał w przydziale losowe plemię z powodu braku aktywności."
     },
     "onlineview.skipped.title.empty": {
       "en": "Skipped",
-      "->": ""
+      "->": "Pominięto"
     },
     "onlineview.skipped.title.game": {
       "en": "Skipped in {0}",
-      "->": ""
+      "->": "Pominięto w {0}"
     },
     "onlineview.theirturn": {
       "en": "Their Turn",
@@ -2929,11 +2929,11 @@
     },
     "onlineview.uptodate.ladders": {
       "en": "All ladders are up to date",
-      "->": ""
+      "->": "Wszystkie drabiny są aktualne"
     },
     "onlineview.uptodate.replays": {
       "en": "All replays are up to date",
-      "->": ""
+      "->": "Wszystkie powtórki są aktualne"
     },
     "onlineview.waiting": {
       "en": "Waiting for Players",
@@ -2941,7 +2941,7 @@
     },
     "onlineview.waiting.server": {
       "en": "Waiting for server response...",
-      "->": ""
+      "->": "Oczekiwanie na odpowiedź serwera..."
     },
     "onlineview.yourturn": {
       "en": "Your Turn",
@@ -2949,119 +2949,119 @@
     },
     "opinion.noopinion": {
       "en": "They don't know about you yet",
-      "->": ""
+      "->": "Oni jeszcze o tobie nie wiedzą"
     },
     "opinion.reason.aggression": {
       "en": "violent",
-      "->": ""
+      "->": "brutalny"
     },
     "opinion.reason.aggression.description": {
       "en": "You recently attacked them",
-      "->": ""
+      "->": "Niedawno ich zaatakowałeś"
     },
     "opinion.reason.brave": {
       "en": "brave",
-      "->": ""
+      "->": "odważny"
     },
     "opinion.reason.brave.description": {
       "en": "You fighting against the strongest tribe",
-      "->": ""
+      "->": "Walczysz z najsilniejszym plemieniem"
     },
     "opinion.reason.commonrelation": {
       "en": "wise",
-      "->": ""
+      "->": "rozsądny"
     },
     "opinion.reason.commonrelation.description": {
       "en": "You share the same friends or enemies",
-      "->": ""
+      "->": "Masz tych samych przyjaciół lub wrogów"
     },
     "opinion.reason.differentrelation": {
       "en": "foolish",
-      "->": ""
+      "->": "niemądry"
     },
     "opinion.reason.differentrelation.description": {
       "en": "You are at war with their friends, or have made peace with their enemies",
-      "->": ""
+      "->": "Jesteś w stanie wojny z ich przyjaciółmi, lub zawarłeś pokój z ich wrogami"
     },
     "opinion.reason.dislike": {
       "en": "annoying",
-      "->": ""
+      "->": "irytujący"
     },
     "opinion.reason.dislike.description": {
       "en": "They just don't like you",
-      "->": ""
+      "->": "Oni po prostu cię nie lubią"
     },
     "opinion.reason.embassy": {
       "en": "diplomatic",
-      "->": ""
+      "->": "dyplomatyczny"
     },
     "opinion.reason.embassy.description": {
       "en": "You have good diplomatic connections through your embassies",
-      "->": ""
+      "->": "Masz dobre kontakty dyplomatyczne poprzez swoje ambasady"
     },
     "opinion.reason.intrusive": {
       "en": "intrusive",
-      "->": ""
+      "->": "inwazyjny"
     },
     "opinion.reason.intrusive.description": {
       "en": "Your borders are very close",
-      "->": ""
+      "->": "Wasze granice są bardzo blisko"
     },
     "opinion.reason.like": {
       "en": "charming",
-      "->": ""
+      "->": "czarujący"
     },
     "opinion.reason.like.description": {
       "en": "For some reason they just seem to like you",
-      "->": ""
+      "->": "Z jakiegoś powodu wydają się cię lubić"
     },
     "opinion.reason.peaceful": {
       "en": "peaceful",
-      "->": ""
+      "->": "spokojny"
     },
     "opinion.reason.peaceful.description": {
       "en": "You have not attacked them in a long time",
-      "->": ""
+      "->": "Nie atakowałeś ich od dłuższego czasu"
     },
     "opinion.reason.powerful": {
       "en": "powerful",
-      "->": ""
+      "->": "potężny"
     },
     "opinion.reason.powerful.description": {
       "en": "They are impressed by your military power",
-      "->": ""
+      "->": "Są pod wrażeniem twojej potęgi militarnej"
     },
     "opinion.reason.threatening": {
       "en": "threatening",
-      "->": ""
+      "->": "groźny"
     },
     "opinion.reason.threatening.description": {
       "en": "You have military units near their territory",
-      "->": ""
+      "->": "Masz jednostki wojskowe w pobliżu ich terytorium"
     },
     "opinion.reason.weak": {
       "en": "weak",
-      "->": ""
+      "->": "słaby"
     },
     "opinion.reason.weak.description": {
       "en": "Your army is weak compared to them, you are an easy target",
-      "->": ""
+      "->": "Twoja armia jest słaba w porównaniu z nimi, jesteś łatwym celem"
     },
     "opinion.reason.winning": {
       "en": "dominating",
-      "->": ""
+      "->": "dominujący"
     },
     "opinion.reason.winning.description": {
       "en": "You are about to win the game",
-      "->": ""
+      "->": "Jesteś bliski wygranej."
     },
     "player.abilities.capitalvision": {
       "en": "Capital Vision",
-      "->": ""
+      "->": "Wizja Stolicy"
     },
     "player.abilities.decompose": {
       "en": "Decompose",
-      "->": ""
+      "->": "Rozłóź"
     },
     "player.abilities.destroy": {
       "en": "Destroy",
@@ -3073,7 +3073,7 @@
     },
     "player.abilities.embassy": {
       "en": "Embassy",
-      "->": ""
+      "->": "Ambasada"
     },
     "player.abilities.glide": {
       "en": "Glide",
@@ -3085,55 +3085,55 @@
     },
     "player.abilities.peacetreaty": {
       "en": "Peace Treaty",
-      "->": ""
+      "->": "Traktat Pokojowy"
     },
     "playerinfo.locked.researchdiplomacy": {
       "en": "Research Diplomacy to gain more insight.",
-      "->": ""
+      "->": "Wynaleź dyplomację, aby uzyskać więcej informacji."
     },
     "playerinfo.locked.upgradeembassy": {
       "en": "Upgrade embassy to gain more insight.",
-      "->": ""
+      "->": "Ulepsz ambasadę, aby uzyskać więcej wglądu."
     },
     "playerinfo.stats.income": {
       "en": "Income",
-      "->": ""
+      "->": "Dochód"
     },
     "playerinfo.summary.dead": {
       "en": "{0} was destroyed by {1} on turn {2}.",
-      "->": ""
+      "->": "{0} zostało zniszczone przez {1} w turze {2}."
     },
     "playerinfo.summary.reasons": {
       "en": "They think you are {0}.",
-      "->": ""
+      "->": "Oni myślą, że jesteś {0}."
     },
     "playerinfo.summary.ruledby": {
       "en": "The {0} tribe is ruled by {1}.",
-      "->": ""
+      "->": "Plemię {0} jest rządzone przez {1}."
     },
     "playerinfo.title": {
       "en": "Tribe Info",
-      "->": ""
+      "->": "Dane Plemienia"
     },
     "playerinfo.triberelations.popup.neutral.description": {
       "en": "{0} has a neutral relation to {1}",
-      "->": ""
+      "->": "{0} ma neutralną relację do {1}"
     },
     "playerinfo.triberelations.popup.peaceneutral.description": {
       "en": "{0} has a peace treaty with {1}",
-      "->": ""
+      "->": "{0} ma traktat pokojowy z {1}"
     },
     "playerinfo.triberelations.popup.peacepeace.description": {
       "en": "You are both at peace with {1}",
-      "->": ""
+      "->": "Oboje jesteście w pokoju z {1}"
     },
     "playerinfo.triberelations.popup.peacewar.description": {
       "en": "{0} has a peace treaty with your enemy {1}",
-      "->": ""
+      "->": "{0} ma traktat pokojowy z twoim wrogiem {1}"
     },
     "playerinfo.triberelations.popup.title": {
       "en": "Tribe Relation",
-      "->": ""
+      "->": "Relacje Plemienne"
     },
     "playerinfo.triberelations.popup.warneutral.description": {
       "en": "{0} is at war with {1}",
@@ -4317,7 +4317,7 @@
     },
     "tribepicker.disabled": {
       "en": "Disabled",
-      "->": "deaktywowane"
+      "->": "Deaktywowane"
     },
     "tribepicker.disabled.description": {
       "en": "Tribe disabled, it cannot be used by you or the AI.",
