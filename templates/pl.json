@@ -317,7 +317,7 @@
     },
     "building.ability.attract": {
       "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
-      "->": "zwabia dzikie zwierzęta do pobliskiego kafelka lasu co 3 tury"
+      "->": "zwabia dzikie zwierzęta do pobliskiego płytce lasu co 3 tury"
     },
     "building.ability.bridge": {
       "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
@@ -545,7 +545,7 @@
     },
     "building.produce.multiply.polaris": {
       "en": "({0} for every {1} frozen tiles in the world)",
-      "->": "({0} na każde {1} zamrożone kafelki na mapie)"
+      "->": "({0} na każde {1} zamrożone płytki na mapie)"
     },
     "building.produce.multiply2": {
       "en": "produces {0} for each nearby {1} each turn",
@@ -553,7 +553,7 @@
     },
     "building.produce.multiply2.polaris": {
       "en": "Produces {0} for every {1} frozen tiles in the world",
-      "->": "Produkuje {0} na każde {1} zamrożone kafelki na mapie"
+      "->": "Produkuje {0} na każde {1} zamrożone płytki na mapie"
     },
     "building.produce.multiply3": {
       "en": "produces {0} for each nearby {1}",
@@ -569,7 +569,7 @@
     },
     "building.resource": {
       "en": "adds a {0} at the selected tile",
-      "->": "dodaje {0} na wybranym kafelku"
+      "->": "dodaje {0} na wybranej płytce"
     },
     "building.restriction.near": {
       "en": "Must be built next to a {0}.",
@@ -577,7 +577,7 @@
     },
     "building.restriction.on": {
       "en": "Must be on a tile with {0}.",
-      "->": "Musi być na kafelku z {0}."
+      "->": "Musi być na płytce z {0}."
     },
     "building.reward.instant": {
       "en": "instantly gives you {0}",
@@ -913,27 +913,27 @@
     },
     "diplomacy.destroyedembassy.description": {
       "en": "Your embassy in the {0} capital has been destroyed!",
-      "->": ""
+      "->": "Twoja ambasada w stolicy {0} została zniszczona!"
     },
     "diplomacy.destroyedembassy.description2": {
       "en": "The {0} embassy in your capital has been destroyed.",
-      "->": ""
+      "->": "Ambasada {0} w twojej stolicy została zniszczona."
     },
     "diplomacy.destroyedembassy.title": {
       "en": "Embassy Destroyed",
-      "->": ""
+      "->": "Ambasada Zniszczona"
     },
     "diplomacy.establishedembassy.description": {
       "en": "You have established an embassy in the {0} capital. It will give you both {1} stars per turn, when you have a peace treaty the income is doubled.",
-      "->": ""
+      "->": "Założono ambasadę w stolicy {0}. Da wam obojgu {1} gwiazdki na turę, gdy masz traktat pokojowy dochód jest podwajany."
     },
     "diplomacy.establishedembassy.description2": {
       "en": "{0} established an embassy in your capital. It will give you both {1} stars per turn. The income is doubled if you have a peace treaty.",
-      "->": ""
+      "->": "{0} założył ambasadę w twojej stolicy. Dzięki niej oboje otrzymacie {1} gwiazdki na turę. Dochód jest podwajany, jeśli masz traktat pokojowy."
     },
     "diplomacy.establishedembassy.title": {
       "en": "Embassy Established",
-      "->": ""
+      "->": "Ambasada Założona"
     },
     "diplomacy.peacetreaty.description": {
       "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
@@ -941,71 +941,71 @@
     },
     "diplomacy.peacetreaty.notification.description": {
       "en": "Peace treaty sent to {0}",
-      "->": ""
+      "->": "{0} proponuje traktat pokojowy. Jeśli się zgodzisz, nie będziecie mogli atakować się nawzajem, dopóki jeden z was nie złamie traktatu."
     },
     "diplomacy.relation.decent": {
       "en": "Decent",
-      "->": ""
+      "->": "Przyzwoita"
     },
     "diplomacy.relation.great": {
       "en": "Great",
-      "->": ""
+      "->": "Swietna"
     },
     "diplomacy.relation.horrible": {
       "en": "Horrible",
-      "->": ""
+      "->": "Okropna"
     },
     "diplomacy.relation.indifferent": {
       "en": "Indifferent",
-      "->": ""
+      "->": "Obojętna"
     },
     "diplomacy.relation.poor": {
       "en": "Poor",
-      "->": ""
+      "->": "Słaba"
     },
     "diplomacy.relation.title": {
       "en": "Relation",
-      "->": ""
+      "->": "Relacja"
     },
     "diplomacy.state.hostile": {
       "en": "cooldown",
-      "->": ""
+      "->": "wyczekiwanie"
     },
     "diplomacy.state.hostile.description": {
       "en": "Your current peace treaty just ended and you will be able to attack each other again next turn.",
-      "->": ""
+      "->": "Wasz obecny traktat pokojowy właśnie się skończył i w następnej turze będziecie mogli ponownie się zaatakować."
     },
     "diplomacy.state.neutral": {
       "en": "neutral",
-      "->": ""
+      "->": "neutralność"
     },
     "diplomacy.state.neutral.description": {
       "en": "There has been no recent hostilities between your tribes.",
-      "->": ""
+      "->": "Nie było ostatnio żadnych działań wojennych między waszymi plemionami."
     },
     "diplomacy.state.peace": {
       "en": "peace",
-      "->": ""
+      "->": "pokój"
     },
     "diplomacy.state.peace.description": {
       "en": "You currently have a peace treaty preventing you from attacking each other. A peace treaty can be canceled at any time, but that will take effect in the following turn.",
-      "->": ""
+      "->": "Obecnie macie traktat pokojowy, który uniemożliwia wam wzajemne atakowanie się. Traktat pokojowy może być odwołany w każdej chwili, ale wejdzie to w życie w następnej turze."
     },
     "diplomacy.state.war": {
       "en": "war",
-      "->": ""
+      "->": "wojna"
     },
     "diplomacy.state.war.description": {
       "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
-      "->": ""
+      "->": "Ty lub oni zaatakowaliście drugiego w ostatniej turze. Jeśli nie będzie więcej wrogości w jednej turze, twój status zmieni się na \"neutralny\"."
     },
     "endscreen.army&territory": {
       "en": "Army & Territory",
-      "->": "Armia i terytorium"
+      "->": "Armia i Terytorium"
     },
     "endscreen.battle": {
       "en": "Battle skills",
-      "->": "Walka"
+      "->": "Umiejętności bojowe"
     },
     "endscreen.battle.info": {
       "en": "{0} units lost",
@@ -1013,7 +1013,7 @@
     },
     "endscreen.bonus": {
       "en": "Difficulty Bonus",
-      "->": "Bonus za trudność"
+      "->": "Bonus za Trudność"
     },
     "endscreen.cities": {
       "en": "Cities",
@@ -1025,7 +1025,7 @@
     },
     "endscreen.connectioninfo": {
       "en": "Log in to submit high scores",
-      "->": ""
+      "->": "Zaloguj się, aby przesłać rekordy"
     },
     "endscreen.culture": {
       "en": "{0} monuments, {1} temples",
@@ -1037,7 +1037,7 @@
     },
     "endscreen.destroyed.info": {
       "en": "{0}/{1}",
-      "->": ""
+      "->": "{0}/{1}"
     },
     "endscreen.domination.loss": {
       "en": "{0} turns",
@@ -1065,7 +1065,7 @@
     },
     "endscreen.monuments&temples": {
       "en": "Monuments & Temples",
-      "->": "Posągi i świątynie"
+      "->": "Posągi i Świątynie"
     },
     "endscreen.nextstar": {
       "en": "{0} needed for next star",
@@ -1117,7 +1117,7 @@
     },
     "endscreen.units": {
       "en": "{0} units, {1} tiles empire",
-      "->": "{0} jednostki, imperium na {1} kafelków"
+      "->": "{0} jednostki, imperium na {1} płytek"
     },
     "endscreen.victory": {
       "en": "VICTORY",
@@ -1129,43 +1129,43 @@
     },
     "epithet.divine": {
       "en": "the Divine {0}",
-      "->": ""
+      "->": "Boski {0}"
     },
     "epithet.faithful": {
       "en": "the Faithful {0}",
-      "->": ""
+      "->": "Wierny {0}"
     },
     "epithet.pathetic": {
       "en": "the Pathetic {0}",
-      "->": ""
+      "->": "Żałosny {0}"
     },
     "epithet.terrible": {
       "en": "the Terrible {0}",
-      "->": ""
+      "->": "Okropny {0}"
     },
     "error.code.1001": {
       "en": "Submit failed, busy ({0})",
-      "->": ""
+      "->": "Przesyłanie nie powiodło się, zajęte ({0})"
     },
     "error.code.1002": {
       "en": "Steam authentication failed ({0})",
-      "->": ""
+      "->": "Uwierzytelnienie Steam nie powiodło się ({0})"
     },
     "error.code.1003": {
       "en": "Google Play authentication failed ({0})",
-      "->": ""
+      "->": "Uwierzytelnianie w Google Play nie powiodło się ({0})"
     },
     "error.code.1004": {
       "en": "Login failed ({0})",
-      "->": ""
+      "->": "Logowanie nie powiodło się ({0})"
     },
     "error.code.1005": {
       "en": "Game not found ({0})",
-      "->": ""
+      "->": "Nie znaleziono gry ({0})"
     },
     "error.code.1006": {
       "en": "Player not found ({0})",
-      "->": ""
+      "->": "Nie znaleziono gracza ({0})"
     },
     "error.code.1007": {
       "en": "Invalid friend request ({0})",
@@ -1173,95 +1173,95 @@
     },
     "error.code.1008": {
       "en": "Friendship not found ({0})",
-      "->": ""
+      "->": "Nie znaleziono przyjaźni ({0})"
     },
     "error.code.1009": {
       "en": "Invalid friendship status ({0})",
-      "->": ""
+      "->": "Nieważny status przyjaźni ({0})"
     },
     "error.code.1010": {
       "en": "Unable to create game, no players ({0})",
-      "->": ""
+      "->": "Nie można utworzyć gry, brak graczy ({0})"
     },
     "error.code.1011": {
       "en": "Missing game state ({0})",
-      "->": ""
+      "->": "Brakujący stan gry ({0})"
     },
     "error.code.1012": {
       "en": "Game could not be loaded ({0})",
-      "->": ""
+      "->": "Nie można załadować gry ({0})"
     },
     "error.code.1013": {
       "en": "Invalid command ({0})",
-      "->": ""
+      "->": "Niepraidłowa komenda ({0})"
     },
     "error.code.1014": {
       "en": "Failed to kick player ({0})",
-      "->": ""
+      "->": "Nie udało się wyrzucić gracza ({0})"
     },
     "error.code.1015": {
       "en": "Failed to start game ({0})",
-      "->": ""
+      "->": "Nie udało się rozpocząć gry ({0})"
     },
     "error.code.1016": {
       "en": "User not found ({0})",
-      "->": ""
+      "->": "Nie znaleziono gracza ({0})"
     },
     "error.code.1017": {
       "en": "Failed to pick tribe ({0})",
-      "->": ""
+      "->": "Nie udało się wybrać plemienia ({0})"
     },
     "error.code.1018": {
       "en": "AI Command failed ({0})",
-      "->": ""
+      "->": "Polecenie AI nie powiodło się ({0})"
     },
     "error.code.1019": {
       "en": "Your version of Polytopia is too old. Update to the latest version to start a new multiplayer game ({0})",
-      "->": ""
+      "->": "Twoja wersja gry Polytopii jest zbyt stara. Zaktualizuj do najnowszej wersji, aby rozpocząć nową grę wieloosobową ({0})"
     },
     "error.code.1023": {
       "en": "This game is using a newer version of Polytopia, you need to update to the latest version before you can play. ({0})",
-      "->": ""
+      "->": "Ta gra używa nowszej wersji Polytopii, musisz zaktualizować do najnowszej wersji zanim będziesz mógł grać. ({0})"
     },
     "error.code.1024": {
       "en": "This game is still ongoing, you can view it once it has ended ({0})",
-      "->": ""
+      "->": "Ta gra nadal trwa, możesz ją obejrzeć po jej zakończeniu ({0})"
     },
     "error.code.404": {
       "en": "Connection error ({0})",
-      "->": ""
+      "->": "Błąd połączenia ({0})"
     },
     "error.code.500": {
       "en": "Internal server error ({0})",
-      "->": ""
+      "->": "Wewnętrzny błąd serwera ({0})"
     },
     "error.unknown": {
       "en": "Unknown error: {0} ({1})",
-      "->": ""
+      "->": "Nieznany błąd: {0} ({1})"
     },
     "esport.verifyaccount.description": {
       "en": "You’re about to link your Polytopia account to Challengermode.",
-      "->": ""
+      "->": "Za chwilę połączysz swoje konto Polytopia z Challengermode."
     },
     "esport.verifyaccount.description.login": {
       "en": "In order to verify your account you need to be logged in",
-      "->": ""
+      "->": "Aby zweryfikować swoje konto musisz być zalogowany"
     },
     "esport.verifyaccount.login": {
       "en": "Login",
-      "->": ""
+      "->": "Zaloguj się"
     },
     "esport.verifyaccount.service.cm": {
       "en": "Challengermode",
-      "->": ""
+      "->": "Challengermode"
     },
     "esport.verifyaccount.success": {
       "en": "Successfully linked account",
-      "->": ""
+      "->": "Pomyślnie połączono konto"
     },
     "esport.verifyaccount.title": {
       "en": "Verify Account",
-      "->": ""
+      "->": "Zweryfikuj Konto"
     },
     "firebaseservice.status.connecting": {
       "en": "Connecting to the Polytopia server...",
@@ -1273,7 +1273,7 @@
     },
     "firendList.winratio": {
       "en": "-Win Ratio-",
-      "->": ""
+      "->": "-Proporcja Wygranych-"
     },
     "friendlist.acceptinvite.button": {
       "en": "ACCEPT INVITE",
@@ -1281,7 +1281,7 @@
     },
     "friendlist.bot": {
       "en": "{0} Bot",
-      "->": ""
+      "->": "{0} Bot"
     },
     "friendlist.bots": {
       "en": "Bots",
@@ -1461,7 +1461,7 @@
     },
     "friendlist.requestsent.notification": {
       "en": "Friend request sent to {0}",
-      "->": ""
+      "->": "Prośba o dodanie do znajomych wysłana do {0}"
     },
     "friendlist.title": {
       "en": "FRIEND LIST",
@@ -1469,7 +1469,7 @@
     },
     "friendlist.unfriend": {
       "en": "UNFRIEND",
-      "->": ""
+      "->": "USUŃ ZE ZNAJOMYCH"
     },
     "friendlist.uptodate": {
       "en": "Everything is up to date",
@@ -1477,7 +1477,7 @@
     },
     "gameinfo.created": {
       "en": "Created: {0} ago",
-      "->": ""
+      "->": "Utworzono: {0} temu"
     },
     "gameinfo.gameover": {
       "en": "This game is over, open it to view the final result",
@@ -1485,15 +1485,15 @@
     },
     "gameinfo.gameversion": {
       "en": "Game version: {0}",
-      "->": ""
+      "->": "Wersja gry: {0}"
     },
     "gameinfo.id": {
       "en": "ID: {0}",
-      "->": "id: {0}"
+      "->": "ID: {0}"
     },
     "gameinfo.id.copied": {
       "en": "Game ID copied",
-      "->": ""
+      "->": "Skopiowano ID gry"
     },
     "gameinfo.lastmove": {
       "en": "Last move: {0} ago",
@@ -1501,15 +1501,15 @@
     },
     "gameinfo.move": {
       "en": "Move: {0}",
-      "->": ""
+      "->": "Ruch: {0}"
     },
     "gameinfo.nodata": {
       "en": "There's something wrong with this game, can't show any data for it",
-      "->": ""
+      "->": "Z tą grą jest coś nie tak, nie może pokazać żadnych jej danych"
     },
     "gameinfo.nodata.title": {
       "en": "No data",
-      "->": ""
+      "->": "Brak danych"
     },
     "gameinfo.opponentsturn": {
       "en": "Waiting for {0} to {1}",
@@ -1573,7 +1573,7 @@
     },
     "gameitem.localplayerdead": {
       "en": "You've been wiped out in this game, still you can spectate.",
-      "->": ""
+      "->": "Zostałeś zmieciony z powierzchni ziemi w tej grze, nadal możesz oglądać."
     },
     "gameitem.pick": {
       "en": "{0}, pick your tribe",
@@ -1589,7 +1589,7 @@
     },
     "gameitem.ready.wait.noowner": {
       "en": "Waiting for the game to start",
-      "->": ""
+      "->": "Oczekiwanie na rozpoczęcie gry"
     },
     "gameitem.reload": {
       "en": "RELOAD",
@@ -1617,15 +1617,15 @@
     },
     "gameitem.skipturn": {
       "en": "Duh!",
-      "->": ""
+      "->": "Ej!"
     },
     "gameitem.skipturn.action": {
       "en": "SKIP TURN",
-      "->": ""
+      "->": "POMIŃ TURĘ"
     },
     "gameitem.skipturn.info": {
       "en": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
-      "->": ""
+      "->": "Czy chcesz pominąć {0} w tej turze? Alternatywnie możesz wyrzucić tę osobę z gry, pozwalając botowi przejąć kontrolę nad plemieniem."
     },
     "gameitem.slow": {
       "en": "Come on...",
@@ -1633,7 +1633,7 @@
     },
     "gameitem.slow.action": {
       "en": "REMIND",
-      "->": "PRZYPOMNIJ"
+      "->": "PONAGL"
     },
     "gameitem.slow.info": {
       "en": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
@@ -1645,7 +1645,7 @@
     },
     "gameitem.start.inviteplayer": {
       "en": "You need to invite one or more players",
-      "->": ""
+      "->": "Musisz zaprosić jednego lub więcej graczy"
     },
     "gameitem.start.wait": {
       "en": "Waiting for {0} to start the game",
@@ -1669,11 +1669,11 @@
     },
     "gameitem.timelimit.timeleft": {
       "en": "Time Left",
-      "->": ""
+      "->": "Pozostały Czas"
     },
     "gameitem.timelimit.timeleft.info": {
       "en": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
-      "->": ""
+      "->": "To czas, jaki pozostał ci na wykonanie ruchu. Kiedy czas się skończy, zostaniesz automatycznie pominięty.\n\nW tej grze zostałeś pominięty {0} razy.\n\nPo {1} pominięciu zostaniesz wyrzucony z gry."
     },
     "gameitem.timeup": {
       "en": "Time Up!",
@@ -1697,7 +1697,7 @@
     },
     "gamemode.custom": {
       "en": "Creative",
-      "->": ""
+      "->": "Kreatywny"
     },
     "gamemode.custom.caps": {
       "en": "CREATIVE",
@@ -1945,7 +1945,7 @@
     },
     "gamesettings.info.local": {
       "en": "{0} opponents, {1} tiles map",
-      "->": "{0} przeciwników, mapa na {1} kafelków"
+      "->": "{0} przeciwników, mapa na {1} płytek"
     },
     "gamesettings.info.matchmaking.gamemode": {
       "en": "{0} game",
@@ -1969,7 +1969,7 @@
     },
     "gamesettings.info.multiplayer": {
       "en": "{0} players, {1} tiles map",
-      "->": "{0} graczy, mapa na {1} kafelków"
+      "->": "{0} graczy, mapa na {1} płytek"
     },
     "gamesettings.info.seed": {
       "en": "Seed",
@@ -2101,7 +2101,7 @@
     },
     "gamesettings.size.tiles": {
       "en": "{0} tiles map.",
-      "->": "Mapa na {0} kafelków."
+      "->": "Mapa na {0} płytek."
     },
     "gamesettings.size.tiles.unspecified": {
       "en": "You might get any size of a map. Exciting!",
@@ -3205,7 +3205,7 @@
     },
     "playerpickerview.size": {
       "en": "Map size: {0} tiles",
-      "->": "Rozmiar mapy: {0} kafelków"
+      "->": "Rozmiar mapy: {0} płytek"
     },
     "playerpickerview.startgame": {
       "en": "START GAME",
@@ -3225,7 +3225,7 @@
     },
     "polyplayer.task.explorer.description": {
       "en": "Explore every single tile in this square world",
-      "->": "Odkryj każdy kafelek w tym kwadratowym świecie"
+      "->": "Odkryj każdą płytkę w tym kwadratowym świecie"
     },
     "polyplayer.task.explorer.title": {
       "en": "Explorer",
@@ -3665,7 +3665,7 @@
     },
     "technology.defence.info": {
       "en": "gives your unit extra strength when defending in {0}",
-      "->": "daje twojej jednostce dodatkową siłę podczas obrony na kafelku {0}"
+      "->": "daje twojej jednostce dodatkową siłę podczas obrony na płytce {0}"
     },
     "technology.intro": {
       "en": "This tech will enable the following:",
@@ -4109,7 +4109,7 @@
     },
     "tooltip.ability.skate": {
       "en": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
-      "->": "Ta jednostka ma podwójny ruch na lodzie, lecz na lądzie jej ruch jest ograniczony do jednego kafelka a wszystkie pozostałe umiejętności są nieaktywne."
+      "->": "Ta jednostka ma podwójny ruch na lodzie, lecz na lądzie jej ruch jest ograniczony do jednej płytki a wszystkie pozostałe umiejętności są nieaktywne."
     },
     "tooltip.ability.sneak": {
       "en": "This unit can move past enemy units without stopping.",
@@ -4177,7 +4177,7 @@
     },
     "tooltip.tile.level.polaris": {
       "en": "Freeze {0} more tiles to reach the next level",
-      "->": "Zamroź jeszcze {0} kafelków aby zdobyć następny poziom"
+      "->": "Zamroź jeszcze {0} płytek aby zdobyć następny poziom"
     },
     "tooltip.tile.limit": {
       "en": "This city cannot support any more units.",
@@ -4349,7 +4349,7 @@
     },
     "tribepicker.mapsize": {
       "en": "Map Size: {0} tiles",
-      "->": "Rozmiar Mapy: {0} kafelków"
+      "->": "Rozmiar Mapy: {0} płytek"
     },
     "tribepicker.maptype": {
       "en": "Map Type: {0}",
@@ -4425,7 +4425,7 @@
     },
     "tribepicker.waiting": {
       "en": "WAITING",
-      "->": ""
+      "->": "OCZEKIWANIE"
     },
     "tribepicker.yourname": {
       "en": "Your Name",
@@ -4433,7 +4433,7 @@
     },
     "tribes.aimo": {
       "en": "Ai-Mo",
-      "->": ""
+      "->": "Ai-Mo"
     },
     "tribes.aimo.info": {
       "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
@@ -4441,7 +4441,7 @@
     },
     "tribes.aquarion": {
       "en": "Aquarion",
-      "->": ""
+      "->": "Aquarion"
     },
     "tribes.aquarion.info": {
       "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
@@ -4449,7 +4449,7 @@
     },
     "tribes.bardur": {
       "en": "Bardur",
-      "->": ""
+      "->": "Bardur"
     },
     "tribes.bardur.info": {
       "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
@@ -4457,7 +4457,7 @@
     },
     "tribes.cymanti": {
       "en": "Cymanti",
-      "->": ""
+      "->": "Cymanti"
     },
     "tribes.cymanti.info": {
       "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
@@ -4465,7 +4465,7 @@
     },
     "tribes.elyrion": {
       "en": "∑∫ỹriȱŋ",
-      "->": ""
+      "->": "∑∫ỹriȱŋ"
     },
     "tribes.elyrion.info": {
       "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
@@ -4473,7 +4473,7 @@
     },
     "tribes.hoodrick": {
       "en": "Hoodrick",
-      "->": ""
+      "->": "Hoodrick"
     },
     "tribes.hoodrick.info": {
       "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
@@ -4481,7 +4481,7 @@
     },
     "tribes.imperius": {
       "en": "Imperius",
-      "->": ""
+      "->": "Imperius"
     },
     "tribes.imperius.info": {
       "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
@@ -4489,7 +4489,7 @@
     },
     "tribes.kickoo": {
       "en": "Kickoo",
-      "->": ""
+      "->": "Kickoo"
     },
     "tribes.kickoo.info": {
       "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
@@ -4497,7 +4497,7 @@
     },
     "tribes.luxidoor": {
       "en": "Luxidoor",
-      "->": ""
+      "->": "Luxidoor"
     },
     "tribes.luxidoor.info": {
       "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
@@ -4509,7 +4509,7 @@
     },
     "tribes.oumaji": {
       "en": "Oumaji",
-      "->": ""
+      "->": "Oumaji"
     },
     "tribes.oumaji.info": {
       "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
@@ -4517,7 +4517,7 @@
     },
     "tribes.polaris": {
       "en": "Polaris",
-      "->": ""
+      "->": "Polaris"
     },
     "tribes.polaris.info": {
       "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
@@ -4525,7 +4525,7 @@
     },
     "tribes.quetzali": {
       "en": "Quetzali",
-      "->": ""
+      "->": "Quetzali"
     },
     "tribes.quetzali.info": {
       "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
@@ -4533,7 +4533,7 @@
     },
     "tribes.vengir": {
       "en": "Vengir",
-      "->": ""
+      "->": "Vengir"
     },
     "tribes.vengir.info": {
       "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
@@ -4541,7 +4541,7 @@
     },
     "tribes.xinxi": {
       "en": "Xin-xi",
-      "->": ""
+      "->": "Xin-xi"
     },
     "tribes.xinxi.info": {
       "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
@@ -4549,7 +4549,7 @@
     },
     "tribes.yadakk": {
       "en": "Yădakk",
-      "->": ""
+      "->": "Yădakk"
     },
     "tribes.yadakk.info": {
       "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
@@ -4557,7 +4557,7 @@
     },
     "tribes.zebasi": {
       "en": "Zebasi",
-      "->": ""
+      "->": "Zebasi"
     },
     "tribes.zebasi.info": {
       "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",

@@ -17,14 +17,11 @@ const FIXED_KEYS = new Set([
   "tribes.xinxi",
   "tribes.yadakk",
   "tribes.zebasi",
-  "unit.names.icemaker",
-  "unit.names.polytaur",
-  "unit.names.seamonster",
-  "unit.names.wendy",
-  "endscreen.destroyed.info",
+  "tribes.nature",
 ]);
 
 const lang = process.argv[2];
+const mode = process.argv[3] ?? "short";
 
 const original = require("../original.json");
 const stats = require("../stats.json");
@@ -57,7 +54,7 @@ for (const lang of langs) {
     const entry = hasKey ? translation.text[key]["->"] : "";
     const empty = isEmpty(entry);
 
-    if (!hasKey || empty || entry === original[key]) {
+    if (!hasKey || (empty && !FIXED_KEYS.has(key))) {
       if (!FIXED_KEYS.has(key)) {
         missingKeys.push(key);
       }
@@ -69,7 +66,7 @@ for (const lang of langs) {
     } else {
       sorted.text[key] = {
         en: original[key],
-        "->": entry,
+        "->": empty ? original[key] : entry,
       };
     }
   }
@@ -86,9 +83,9 @@ for (const lang of langs) {
         );
 
   console.log(`\nLanguage: ${lang.toUpperCase()} (${sorted.language})`);
-  console.log(`Completed: ${completed}%`);
+  console.log(`Completed: ${completed}% (${missingKeys.length} missing)`);
 
-  if (missingKeys.length > 0 && langs.length === 1) {
+  if (mode === "verbose" && missingKeys.length > 0 && langs.length === 1) {
     console.log("\nKeys to translate:\n");
     console.log(missingKeys.join("\n"));
   }

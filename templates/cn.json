@@ -4433,7 +4433,7 @@
     },
     "tribes.aimo": {
       "en": "Ai-Mo",
-      "->": ""
+      "->": "Ai-Mo"
     },
     "tribes.aimo.info": {
       "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
@@ -4441,7 +4441,7 @@
     },
     "tribes.aquarion": {
       "en": "Aquarion",
-      "->": ""
+      "->": "Aquarion"
     },
     "tribes.aquarion.info": {
       "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
@@ -4449,7 +4449,7 @@
     },
     "tribes.bardur": {
       "en": "Bardur",
-      "->": ""
+      "->": "Bardur"
     },
     "tribes.bardur.info": {
       "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
@@ -4457,7 +4457,7 @@
     },
     "tribes.cymanti": {
       "en": "Cymanti",
-      "->": ""
+      "->": "Cymanti"
     },
     "tribes.cymanti.info": {
       "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
@@ -4465,7 +4465,7 @@
     },
     "tribes.elyrion": {
       "en": "∑∫ỹriȱŋ",
-      "->": ""
+      "->": "∑∫ỹriȱŋ"
     },
     "tribes.elyrion.info": {
       "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
@@ -4473,7 +4473,7 @@
     },
     "tribes.hoodrick": {
       "en": "Hoodrick",
-      "->": ""
+      "->": "Hoodrick"
     },
     "tribes.hoodrick.info": {
       "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
@@ -4481,7 +4481,7 @@
     },
     "tribes.imperius": {
       "en": "Imperius",
-      "->": ""
+      "->": "Imperius"
     },
     "tribes.imperius.info": {
       "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
@@ -4489,7 +4489,7 @@
     },
     "tribes.kickoo": {
       "en": "Kickoo",
-      "->": ""
+      "->": "Kickoo"
     },
     "tribes.kickoo.info": {
       "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
@@ -4497,7 +4497,7 @@
     },
     "tribes.luxidoor": {
       "en": "Luxidoor",
-      "->": ""
+      "->": "Luxidoor"
     },
     "tribes.luxidoor.info": {
       "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
@@ -4505,11 +4505,11 @@
     },
     "tribes.nature": {
       "en": "Nature",
-      "->": ""
+      "->": "Nature"
     },
     "tribes.oumaji": {
       "en": "Oumaji",
-      "->": ""
+      "->": "Oumaji"
     },
     "tribes.oumaji.info": {
       "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
@@ -4517,7 +4517,7 @@
     },
     "tribes.polaris": {
       "en": "Polaris",
-      "->": ""
+      "->": "Polaris"
     },
     "tribes.polaris.info": {
       "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
@@ -4525,7 +4525,7 @@
     },
     "tribes.quetzali": {
       "en": "Quetzali",
-      "->": ""
+      "->": "Quetzali"
     },
     "tribes.quetzali.info": {
       "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
@@ -4533,7 +4533,7 @@
     },
     "tribes.vengir": {
       "en": "Vengir",
-      "->": ""
+      "->": "Vengir"
     },
     "tribes.vengir.info": {
       "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
@@ -4541,7 +4541,7 @@
     },
     "tribes.xinxi": {
       "en": "Xin-xi",
-      "->": ""
+      "->": "Xin-xi"
     },
     "tribes.xinxi.info": {
       "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
@@ -4549,7 +4549,7 @@
     },
     "tribes.yadakk": {
       "en": "Yădakk",
-      "->": ""
+      "->": "Yădakk"
     },
     "tribes.yadakk.info": {
       "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
@@ -4557,7 +4557,7 @@
     },
     "tribes.zebasi": {
       "en": "Zebasi",
-      "->": ""
+      "->": "Zebasi"
     },
     "tribes.zebasi.info": {
       "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
