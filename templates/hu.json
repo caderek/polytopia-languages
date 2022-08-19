@@ -1037,7 +1037,7 @@
     },
     "endscreen.destroyed.info": {
       "en": "{0}/{1}",
-      "->": ""
+      "->": "{0}/{1}"
     },
     "endscreen.domination.loss": {
       "en": "{0} turns",
@@ -1849,15 +1849,15 @@
     },
     "gameservice.android": {
       "en": "Google Play",
-      "->": ""
+      "->": "Google Play"
     },
     "gameservice.ios": {
       "en": "Game Center",
-      "->": ""
+      "->": "Game Center"
     },
     "gameservice.steam": {
       "en": "Steam",
-      "->": ""
+      "->": "Steam"
     },
     "gamesettings.anonymous": {
       "en": "Anonymous",
@@ -2373,7 +2373,7 @@
     },
     "mplayerstats.elo": {
       "en": "Elo",
-      "->": ""
+      "->": "Elo"
     },
     "mplayerstats.elo.description": {
       "en": "The Elo rating system is a method for calculating the relative skill levels of players.",

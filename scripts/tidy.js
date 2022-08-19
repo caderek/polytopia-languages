@@ -18,6 +18,11 @@ const FIXED_KEYS = new Set([
   "tribes.yadakk",
   "tribes.zebasi",
   "tribes.nature",
+  "gameservice.android",
+  "gameservice.ios",
+  "gameservice.steam",
+  "mplayerstats.elo",
+  "endscreen.destroyed.info",
 ]);
 
 const lang = process.argv[2];

@@ -861,7 +861,7 @@
     },
     "diplomacy.acceptpeace.notification.description": {
       "en": "Peace treaty with {0} confirmed!",
-      "->": ""
+      "->": "Traktat pokojowy z {0} potwierdzony!"
     },
     "diplomacy.acceptpeace.notification.description2": {
       "en": "{0} and {1} has made peace!",
@@ -937,7 +937,7 @@
     },
     "diplomacy.peacetreaty.description": {
       "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
-      "->": ""
+      "->": "{0} proponuje traktat pokojowy. Jeśli się zgodzicie, nie będziecie mogli atakować się nawzajem, dopóki jeden z was nie złamie traktatu."
     },
     "diplomacy.peacetreaty.notification.description": {
       "en": "Peace treaty sent to {0}",
@@ -1169,7 +1169,7 @@
     },
     "error.code.1007": {
       "en": "Invalid friend request ({0})",
-      "->": ""
+      "->": "Niepoprawne zaproszenie przyjaciela ({0})"
     },
     "error.code.1008": {
       "en": "Friendship not found ({0})",
@@ -1753,7 +1753,7 @@
     },
     "gamemode.glory.win.no.opponents": {
       "en": "The game is over",
-      "->": ""
+      "->": "Gra jest zakończona"
     },
     "gamemode.might": {
       "en": "Might",
@@ -1773,11 +1773,11 @@
     },
     "gamemode.might.win.last.human": {
       "en": "You are the last standing human player, you win!",
-      "->": ""
+      "->": "Jesteś ostatnim graczem który pozostał, wygrywasz!"
     },
     "gamemode.might.win.no.opponents": {
       "en": "No opponents left",
-      "->": ""
+      "->": "Przeciwnicy wyeliminowani"
     },
     "gamemode.none": {
       "en": "Unknown",
@@ -1785,7 +1785,7 @@
     },
     "gamemode.none.description": {
       "en": "You might get either game mode. Groovy!",
-      "->": ""
+      "->": "Możesz otrzymać dowolny tryb gry. Super!"
     },
     "gamemode.perfection": {
       "en": "Perfection",
@@ -1817,7 +1817,7 @@
     },
     "gamemode.sandbox.caps": {
       "en": "INFINITY",
-      "->": ""
+      "->": "NIESKOŃCZONOŚĆ"
     },
     "gamemode.sandbox.description": {
       "en": "Play however you like, forever and ever",
@@ -1825,11 +1825,11 @@
     },
     "gamemode.tutorial": {
       "en": "Boot Camp",
-      "->": ""
+      "->": "Obóz Treningowy"
     },
     "gamemode.tutorial.description": {
       "en": "Your tribe gift you with these resources. Spend them wisely!",
-      "->": ""
+      "->": "Twoje plemię obdarowuje cię tymi zasobami. Wydaj je mądrze!"
     },
     "gamemodepicker.title": {
       "en": "GAME MODE",
@@ -1849,15 +1849,15 @@
     },
     "gameservice.android": {
       "en": "Google Play",
-      "->": ""
+      "->": "Google Play"
     },
     "gameservice.ios": {
       "en": "Game Center",
-      "->": ""
+      "->": "Game Center"
     },
     "gameservice.steam": {
       "en": "Steam",
-      "->": ""
+      "->": "Steam"
     },
     "gamesettings.anonymous": {
       "en": "Anonymous",
@@ -2373,7 +2373,7 @@
     },
     "mplayerstats.elo": {
       "en": "Elo",
-      "->": ""
+      "->": "Elo"
     },
     "mplayerstats.elo.description": {
       "en": "The Elo rating system is a method for calculating the relative skill levels of players.",
