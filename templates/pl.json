@@ -5,11 +5,11 @@
   "text": {
     "action.info.attack": {
       "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-      "->": "wykonać atak tą jednostką. Wybierz jednostkę i kliknij dowolny CZERWONY cel jeśli chcesz zaatakować"
+      "->": "wykonać atak tą jednostką. Wybierz jednostkę i dotknij dowolnego z CZERWONYCH celów, jeśli chcesz zaatakować"
     },
     "action.info.boost": {
       "en": "Boost",
-      "->": ""
+      "->": "Wzmocnij"
     },
     "action.info.breakice": {
       "en": "Break Ice",
@@ -17,7 +17,7 @@
     },
     "action.info.breakpeace": {
       "en": "Break Peace",
-      "->": ""
+      "->": "Przerwij Pokój"
     },
     "action.info.build": {
       "en": "build a {0} here",
@@ -25,27 +25,27 @@
     },
     "action.info.capture": {
       "en": "Capture",
-      "->": "przejąć"
+      "->": "Przejmij"
     },
     "action.info.capture2": {
       "en": "capture this city. Cities generate stars every turn that you can use to develop your empire",
-      "->": "przejąć to miasto. Miasta generują gwiazdki co turę, możesz je użyć do rozbudowy swojego imperium."
+      "->": "przejąć to miasto. Miasta generują co turę gwiazdki, które możesz wykorzystać do rozwoju swojego imperium"
     },
     "action.info.cityreward": {
       "en": "City Reward",
-      "->": "Miejska Nagroda"
+      "->": "Nagroda Miejska"
     },
     "action.info.decompose": {
       "en": "Decompose",
-      "->": ""
+      "->": "Rozłóż"
     },
     "action.info.destroy": {
       "en": "Destroy",
-      "->": "zniszczyć"
+      "->": "Zniszcz"
     },
     "action.info.disband": {
       "en": "Disband {0}",
-      "->": "zwolnij {0}"
+      "->": "Zwolnij {0}"
     },
     "action.info.do": {
       "en": "do {0} here",
@@ -53,19 +53,19 @@
     },
     "action.info.endturn": {
       "en": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
-      "->": "zakończyć turę by zyskać dodatkowe zasoby i ruchy jednostek. Naciśnij przycisk 'Nowa Tura'"
+      "->": "zakończyć tę turę, by uzyskać więcej zasobów i ruchów jednostek. Naciśnij przycisk 'Next Turn'"
     },
     "action.info.establishembassy": {
       "en": "Establish Embassy",
-      "->": ""
+      "->": "Utwórz Ambasadę"
     },
     "action.info.examineruins": {
       "en": "Examine",
-      "->": ""
+      "->": "Zbadaj"
     },
     "action.info.explode": {
       "en": "Explode",
-      "->": ""
+      "->": "Eksploduj"
     },
     "action.info.freezearea": {
       "en": "Freeze Area",
@@ -77,7 +77,7 @@
     },
     "action.info.healothers": {
       "en": "Heal Others",
-      "->": "uleczyć pozostałych"
+      "->": "Ulecz Innych"
     },
     "action.info.meet": {
       "en": "Meet",
@@ -85,11 +85,11 @@
     },
     "action.info.move": {
       "en": "move this unit. Select the unit and tap any of the BLUE targets",
-      "->": "przesunąć tą jednostkę. Wybierz jednostkę i kliknij w dowolny NIEBIESKI cel."
+      "->": "przemieścić tę jednostkę. Wybierz jednostkę i stuknij dowolny z NIEBIESKICH celów."
     },
     "action.info.peacetreaty": {
       "en": "Offer Peace",
-      "->": ""
+      "->": "Zaoferuj Pokój"
     },
     "action.info.promote": {
       "en": "Promote",
@@ -97,11 +97,11 @@
     },
     "action.info.recover": {
       "en": "Recover",
-      "->": "ulecz"
+      "->": "Ulecz"
     },
     "action.info.remove": {
       "en": "Remove",
-      "->": "usunąć"
+      "->": "Usuń"
     },
     "action.info.research": {
       "en": "research {0}.",
@@ -133,15 +133,15 @@
     },
     "action.info.upgrade": {
       "en": "Upgrade to {0}",
-      "->": ""
+      "->": "Ulepsz fo {0}"
     },
     "actionbox.building.decomposing": {
       "en": "Decomposing",
-      "->": ""
+      "->": "Rozkładanie"
     },
     "actionbox.building.decomposing.info": {
       "en": "This improvement will decompose at the end of this turn",
-      "->": ""
+      "->": "To ulepszenie znika na koniec tej tury"
     },
     "actionbox.building.doit": {
       "en": "DO IT",
@@ -161,11 +161,11 @@
     },
     "actionbox.cantperformaction.description": {
       "en": "You cannot perform this action right now.",
-      "->": ""
+      "->": "Nie możesz wykonać tej czynności w tej chwili."
     },
     "actionbox.city": {
       "en": "City",
-      "->": "Miasto {0}"
+      "->": "Miasto"
     },
     "actionbox.city.level": {
       "en": "lvl {0}",
@@ -181,35 +181,35 @@
     },
     "actionbox.confirm.info": {
       "en": "Are you sure you want to do this?",
-      "->": "Jesteś pewien?"
+      "->": "Czy na pewno chcesz to zrobić?"
     },
     "actionbox.confirm.info.breakpeace": {
       "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
-      "->": ""
+      "->": "Jesteś pewien, że chcesz złamać traktat pokojowy? Złamanie go spowoduje wyłączenie wszystkich twoich jednostek na resztę tej tury."
     },
     "actionbox.confirm.info.breakpeace.disband": {
       "en": "It will also disband the {0} units you have in their territory.",
-      "->": ""
+      "->": "Zwolni to również {0} jednostek, które masz na ich terytorium."
     },
     "actionbox.embassyestablished.description": {
       "en": "The embassy is already established.",
-      "->": ""
+      "->": "Ambasada jest już założona."
     },
     "actionbox.establishembassynocapital.description": {
       "en": "You cannot establish an embassy if the tribe has no capital.",
-      "->": ""
+      "->": "Nie można założyć ambasady, jeśli plemię nie ma stolicy."
     },
     "actionbox.insufficientfunds": {
       "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-      "->": "Masz za mało gwiazdek by to zrobić. Naciśnij 'Nowa Tura' by zyskać więcej gwiazdek."
+      "->": "Masz za mało gwiazdek by to zrobić. Naciśnij 'Nowa Tura' by uzyskać więcej gwiazdek."
     },
     "actionbox.pendingpeacetreaty.description": {
       "en": "Peace treaty pending. Waiting for {0} to respond",
-      "->": ""
+      "->": "Traktat pokojowy w toku. Oczekiwanie na odpowiedź {0}"
     },
     "actionbox.pendingpeacetreaty.title": {
       "en": "Pending Peace Treaty",
-      "->": ""
+      "->": "Traktat Pokojowy w Toku"
     },
     "actionbox.tile.roads": {
       "en": "roads",
@@ -217,19 +217,19 @@
     },
     "actionbox.unit.Boosted": {
       "en": "Boosted",
-      "->": ""
+      "->": "Przyspieszony"
     },
     "actionbox.unit.Frozen": {
       "en": "Frozen",
-      "->": ""
+      "->": "Zamrożony"
     },
     "actionbox.unit.Invisible": {
       "en": "Invisible",
-      "->": ""
+      "->": "Niewidzialny"
     },
     "actionbox.unit.Poisoned": {
       "en": "Poisoned",
-      "->": ""
+      "->": "Otruty"
     },
     "actionbox.unit.ability": {
       "en": "Unit Ability",
@@ -277,27 +277,27 @@
     },
     "backend.connecting": {
       "en": "Connecting to server...",
-      "->": ""
+      "->": "Łączenie z serwerem..."
     },
     "backend.connecting.failed": {
       "en": "Could not establish a connection to the server",
-      "->": ""
+      "->": "Nie udało się nawiązać połączenia z serwerem"
     },
     "backend.connection.lost": {
       "en": "Connection lost",
-      "->": ""
+      "->": "Utracono połączenie"
     },
     "backend.connection.lost.info": {
       "en": "Hold on while we're trying to reconnect",
-      "->": ""
+      "->": "Próba ponownego połączenia"
     },
     "backend.login.failed": {
       "en": "Login failed",
-      "->": ""
+      "->": "Błąd logowania"
     },
     "backend.login.successful": {
       "en": "Logged in as {0}",
-      "->": ""
+      "->": "Zalogowano jako {0}"
     },
     "bottommenu.gamestats": {
       "en": "Game Stats",
@@ -305,7 +305,7 @@
     },
     "bottommenu.menu": {
       "en": "Menu",
-      "->": ""
+      "->": "Menu"
     },
     "bottommenu.nextturn": {
       "en": "Next Turn",
@@ -321,7 +321,7 @@
     },
     "building.ability.bridge": {
       "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
-      "->": ""
+      "->": "{0} tworzy most, po którym może poruszać się każda jednostka, ignorując typ terenu pod nią."
     },
     "building.ability.embark": {
       "en": "Units that move here will turn into boats that can move on water.",
@@ -329,7 +329,7 @@
     },
     "building.ability.heal": {
       "en": "{0} heals any friendly unit that end their turn next to them.",
-      "->": ""
+      "->": "{0} leczy każdą przyjazną jednostkę, która kończy swoją turę obok niego."
     },
     "building.ability.limited": {
       "en": "You can only build one {0} per city.",
@@ -337,27 +337,27 @@
     },
     "building.ability.network": {
       "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
-      "->": ""
+      "->": "{1} łączą się z miastami i innymi {1} przez {0}, w promieniu {2} płytek."
     },
     "building.ability.patina": {
       "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
-      "->": "{0} rośnie z upływem czasu, więc staraj się ją zbudować najszybciej jak się da."
+      "->": "{0} rośnie co {1} tury i zapewnia {2} za każdy poziom wzrostu."
     },
     "building.ability.poison": {
       "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
-      "->": ""
+      "->": "{0} zatruwają każdą jednostkę, która na nie wejdzie. Zatrute jednostki tracą wszystkie bonusy do obrony i rozsiewają zarodniki, gdy umierają."
     },
     "building.ability.road": {
       "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
-      "->": "Buduj drogi aby połączyć miasta ze stolicą. Połączone miasta zwiększają w nagrodę swoją populację o 1. Drogi dadzą Ci także bonus do ruchu wszystkich jednostek."
+      "->": "Buduj drogi, by połączyć miasta ze stolicą. Połączone miasta otrzymują w nagrodę 1 populację. Drogi dają także premię do ruchu dla wszystkich jednostek."
     },
     "building.ability.route": {
       "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
-      "->": "Tworzy szlaki handlowe przez {0} do każdej innej placówki w promieniu 5 kafelków."
+      "->": "{1} tworzy szlaki handlowe przez {0} do każdego innego {1} w promieniu {2} płytek."
     },
     "building.ability.route.and": {
       "en": "and ",
-      "->": " i "
+      "->": "i "
     },
     "building.ability.ruin": {
       "en": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
@@ -381,7 +381,7 @@
     },
     "building.names.algae": {
       "en": "Algae",
-      "->": ""
+      "->": "Algi"
     },
     "building.names.burnforest": {
       "en": "Burn Forest",
@@ -393,7 +393,7 @@
     },
     "building.names.clathrus": {
       "en": "Clathrus",
-      "->": ""
+      "->": "Okratek"
     },
     "building.names.clearforest": {
       "en": "Clear Forest",
@@ -405,11 +405,11 @@
     },
     "building.names.enchantanimal": {
       "en": "Enchant Animal",
-      "->": ""
+      "->": "Zaczaruj Zwierzę"
     },
     "building.names.enchantwhale": {
       "en": "Enchant Whale",
-      "->": ""
+      "->": "Zaczaruj Wieloryba"
     },
     "building.names.farm": {
       "en": "Farm",
@@ -429,7 +429,7 @@
     },
     "building.names.fungi": {
       "en": "Fungi",
-      "->": ""
+      "->": "Grzyby"
     },
     "building.names.growforest": {
       "en": "Grow Forest",
@@ -437,7 +437,7 @@
     },
     "building.names.harvestfruit": {
       "en": "Harvest Fruit",
-      "->": ""
+      "->": "Zbierz Owoce"
     },
     "building.names.hunting": {
       "en": "Hunting",
@@ -445,7 +445,7 @@
     },
     "building.names.icebank": {
       "en": "Ice Bank",
-      "->": ""
+      "->": "Bank Lodu"
     },
     "building.names.icetemple": {
       "en": "Ice Temple",
@@ -493,15 +493,15 @@
     },
     "building.names.mycelium": {
       "en": "Mycelium",
-      "->": ""
+      "->": "Grzybnia"
     },
     "building.names.outpost": {
       "en": "Outpost",
-      "->": ""
+      "->": "Posterunek"
     },
     "building.names.port": {
       "en": "Port",
-      "->": ""
+      "->": "Port"
     },
     "building.names.road": {
       "en": "Road",
@@ -605,7 +605,7 @@
     },
     "buttons.accept": {
       "en": "ACCEPT",
-      "->": ""
+      "->": "ZAAKCEPTUJ"
     },
     "buttons.back": {
       "en": "BACK",
@@ -613,7 +613,7 @@
     },
     "buttons.decline": {
       "en": "DECLINE",
-      "->": ""
+      "->": "ODMÓW"
     },
     "buttons.exit": {
       "en": "EXIT",
@@ -621,19 +621,19 @@
     },
     "buttons.exitgame": {
       "en": "EXIT GAME",
-      "->": ""
+      "->": "WYJDŹ Z GRY"
     },
     "buttons.invite": {
       "en": "INVITE",
-      "->": ""
+      "->": "ZAPROŚ"
     },
     "buttons.leave": {
       "en": "LEAVE",
-      "->": ""
+      "->": "OPUŚĆ"
     },
     "buttons.ok": {
       "en": "OK",
-      "->": ""
+      "->": "OK"
     },
     "buttons.quit": {
       "en": "Quit",
@@ -641,11 +641,11 @@
     },
     "buttons.reconnect": {
       "en": "RECONNECT",
-      "->": ""
+      "->": "POŁĄCZ PONOWNIE"
     },
     "buttons.remove": {
       "en": "REMOVE",
-      "->": ""
+      "->": "USUŃ"
     },
     "buttons.save": {
       "en": "SAVE",
@@ -653,27 +653,27 @@
     },
     "buttons.start": {
       "en": "START GAME",
-      "->": ""
+      "->": "ROZPOCZNIJ GRĘ"
     },
     "buttons.stay": {
       "en": "STAY",
-      "->": ""
+      "->": "ZOSTAŃ"
     },
     "buttons.tryagain": {
       "en": "TRY AGAIN",
-      "->": ""
+      "->": "SPRÓBUJ PONOWNIE"
     },
     "challengermode.connect.button": {
       "en": "CONNECT",
-      "->": ""
+      "->": "POŁĄCZ"
     },
     "challengermode.connect.description": {
       "en": "To participate in a ladder you need a Challengermode account.",
-      "->": ""
+      "->": "Aby wziąć udział w drabince musisz posiadać konto Challengermode."
     },
     "challengermode.connect.header": {
       "en": "Connect to Challengermode",
-      "->": ""
+      "->": "Połącz się z trybem Challengermode"
     },
     "consent.approval.info": {
       "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
@@ -693,7 +693,7 @@
     },
     "consent.disabled": {
       "en": "Personal Data Disabled",
-      "->": "Dane Osobiste Dezaktywowane"
+      "->": "Dane Osobowe Dezaktywowane"
     },
     "consent.disabled.info": {
       "en": "To save personal data like high scores and usage statistics we need your approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
@@ -701,7 +701,7 @@
     },
     "consent.enabled": {
       "en": "Personal Data Enabled",
-      "->": "Dane Osobiste Aktywne"
+      "->": "Dane Osobowe Aktywne"
     },
     "consent.enabled.info": {
       "en": "You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
@@ -713,7 +713,7 @@
     },
     "credits.artists": {
       "en": "Artists",
-      "->": ""
+      "->": "Artyści"
     },
     "credits.build": {
       "en": "Build version",
@@ -721,7 +721,7 @@
     },
     "credits.community": {
       "en": "Community Manager",
-      "->": ""
+      "->": "Menedżer Społeczności"
     },
     "credits.debuginfo": {
       "en": "DEBUG INFO",
@@ -729,7 +729,7 @@
     },
     "credits.design": {
       "en": "Game Design",
-      "->": ""
+      "->": "Projekt Gry"
     },
     "credits.device": {
       "en": "Device",
@@ -737,11 +737,11 @@
     },
     "credits.followus": {
       "en": "Follow us",
-      "->": ""
+      "->": "Śledź nas"
     },
     "credits.getmerch": {
       "en": "Get some official Polytopian merch.",
-      "->": "Mamy dla was oficjalną markę Polytopii:"
+      "->": "Obczaj oficjalną markę Polytopii."
     },
     "credits.learnmore1": {
       "en": "Want to know everything?",
@@ -753,7 +753,7 @@
     },
     "credits.managment": {
       "en": "Management",
-      "->": ""
+      "->": "Zarząd"
     },
     "credits.midjiwan": {
       "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
@@ -761,7 +761,7 @@
     },
     "credits.music": {
       "en": "MUSIC",
-      "->": ""
+      "->": "MUZYKA"
     },
     "credits.os": {
       "en": "OS",
@@ -769,15 +769,15 @@
     },
     "credits.platforms": {
       "en": "Multiple platforms",
-      "->": ""
+      "->": "Wiele platform"
     },
     "credits.polytopiamusic1": {
       "en": "Polytopia music!",
-      "->": ""
+      "->": "Muzyka Polytopii!"
     },
     "credits.polytopiamusic2": {
       "en": "Listen to full length versions of you favourite tribe's soundtrack on Spotify.",
-      "->": ""
+      "->": "Posłuchaj pełnych wersji ścieżek dźwiękowych swojego ulubionego plemienia na Spotify."
     },
     "credits.privacy": {
       "en": "Privacy Policy",
@@ -785,11 +785,11 @@
     },
     "credits.programmers": {
       "en": "Programmers",
-      "->": ""
+      "->": "Programiści"
     },
     "credits.qa": {
       "en": "Quality Assurance",
-      "->": ""
+      "->": "Kontrola Jakości"
     },
     "credits.screendpi": {
       "en": "Screen DPI",
@@ -817,11 +817,11 @@
     },
     "credits.visitshop": {
       "en": "SHOP",
-      "->": "ODWIEDŹ SKLEP"
+      "->": "SKLEP"
     },
     "credits.wiki": {
       "en": "WIKI",
-      "->": "WIKI POLYTOPII"
+      "->": "WIKI"
     },
     "date.day": {
       "en": "day",
@@ -857,7 +857,7 @@
     },
     "diplomacy.acceptpeace.description": {
       "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
-      "->": ""
+      "->": "{0} zaakceptował twój traktat pokojowy! Podczas pokoju nie można podejmować żadnych wrogich działań."
     },
     "diplomacy.acceptpeace.notification.description": {
       "en": "Peace treaty with {0} confirmed!",
@@ -865,51 +865,51 @@
     },
     "diplomacy.acceptpeace.notification.description2": {
       "en": "{0} and {1} has made peace!",
-      "->": ""
+      "->": "Traktat pokojowy z {0} potwierdzony!"
     },
     "diplomacy.acceptpeace.title": {
       "en": "Peace treaty accepted!",
-      "->": ""
+      "->": "Traktat pokojowy przyjęty!"
     },
     "diplomacy.breakpeace.description": {
       "en": "{0} has broken the peace treaty. Next turn you will be able to attack each other again so get prepared!",
-      "->": ""
+      "->": "{0} złamał traktat pokojowy. W następnej turze znów będziecie mogli się nawzajem atakować, więc przygotujcie się!"
     },
     "diplomacy.breakpeace.notification.description": {
       "en": "Broke peace with {0}",
-      "->": ""
+      "->": "Zerwanie pokoju z {0}"
     },
     "diplomacy.breakpeace.notification.description2": {
       "en": "{0} and {1} are no longer at peace",
-      "->": ""
+      "->": "{0} i {1} nie są już w stanie pokoju"
     },
     "diplomacy.breakpeace.title": {
       "en": "{0} Broke Peace",
-      "->": ""
+      "->": "{0} Zerwał Pokój"
     },
     "diplomacy.declarewar.description": {
       "en": "{0} has declared war on you!",
-      "->": ""
+      "->": "{0} wypowiedział ci wojnę!"
     },
     "diplomacy.declarewar.title": {
       "en": "War!",
-      "->": ""
+      "->": "Wojna!"
     },
     "diplomacy.denypeace.description": {
       "en": "{0} has rejected the peace treaty you offered.",
-      "->": ""
+      "->": "{0} odrzucił oferowany przez ciebie traktat pokojowy."
     },
     "diplomacy.denypeace.notification.description": {
       "en": "You rejected the {0} peace treaty.",
-      "->": ""
+      "->": "Odrzucono traktat pokojowy z {0}."
     },
     "diplomacy.denypeace.notification.title": {
       "en": "No Deal",
-      "->": ""
+      "->": "Odmowa"
     },
     "diplomacy.denypeace.title": {
       "en": "Peace treaty rejected",
-      "->": ""
+      "->": "Traktat pokojowy odrzucony"
     },
     "diplomacy.destroyedembassy.description": {
       "en": "Your embassy in the {0} capital has been destroyed!",
