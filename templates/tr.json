@@ -1,15 +1,15 @@
 {
   "language": "Türkçe",
   "author": "DemirDMR",
-  "editors": "",
+  "editors": "Inquisitorial1, KentPasha, reeagnievA",
   "text": {
     "action.info.attack": {
       "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
-      "->": "bu birimle saldırıya geçmek. Birimi seç ve saldırmak istersen herhangi bir KIRMIZI hedefe tıkla"
+      "->": "Bu birimle saldırıya geçmek için birimi seç ve saldırmak istediğin herhangi bir KIRMIZI işarete tıkla"
     },
     "action.info.boost": {
       "en": "Boost",
-      "->": ""
+      "->": "Güçlendir"
     },
     "action.info.breakice": {
       "en": "Break Ice",
@@ -17,7 +17,7 @@
     },
     "action.info.breakpeace": {
       "en": "Break Peace",
-      "->": ""
+      "->": "Barışı Boz"
     },
     "action.info.build": {
       "en": "build a {0} here",
@@ -29,19 +29,19 @@
     },
     "action.info.capture2": {
       "en": "capture this city. Cities generate stars every turn that you can use to develop your empire",
-      "->": "bu şehri ele geçirmek. Şehirler her sırada yıldız üretirler ve sen de imparatorluğunu geliştirebilirsin"
+      "->": "Bu şehri ele geçir. Şehirler her turda yıldız üretirler ve sen de bu yıldızlarla imparatorluğunu geliştirebilirsin."
     },
     "action.info.cityreward": {
       "en": "City Reward",
-      "->": "Şehir ödülü"
+      "->": "Şehir Ödülü"
     },
     "action.info.decompose": {
       "en": "Decompose",
-      "->": ""
+      "->": "Ayrıştır"
     },
     "action.info.destroy": {
       "en": "Destroy",
-      "->": "Yok et:"
+      "->": "Yok et"
     },
     "action.info.disband": {
       "en": "Disband {0}",
@@ -49,23 +49,23 @@
     },
     "action.info.do": {
       "en": "do {0} here",
-      "->": "burada {0} yapmak"
+      "->": "burada {0} yap"
     },
     "action.info.endturn": {
       "en": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
-      "->": "sıranı bitirmek ve daha çok kaynak ve hareket hakkı kazanmak. 'Sonraki'ye tıkla"
+      "->": "Sıranı bitirmek, daha çok kaynak ve hareket hakkı kazanmak için 'Turu Sonlandır'a tıkla"
     },
     "action.info.establishembassy": {
       "en": "Establish Embassy",
-      "->": ""
+      "->": "Elçilik Kur"
     },
     "action.info.examineruins": {
       "en": "Examine",
-      "->": ""
+      "->": "Araştır"
     },
     "action.info.explode": {
       "en": "Explode",
-      "->": ""
+      "->": "İnfılak Et"
     },
     "action.info.freezearea": {
       "en": "Freeze Area",
@@ -85,11 +85,11 @@
     },
     "action.info.move": {
       "en": "move this unit. Select the unit and tap any of the BLUE targets",
-      "->": "bu birimi hareket ettirmek. Birimi seç ve herhangi bir MAVİ hedefe tıkla"
+      "->": "Bu birimi hareket ettirmek için birimi seç ve herhangi bir MAVİ işarete tıkla"
     },
     "action.info.peacetreaty": {
       "en": "Offer Peace",
-      "->": ""
+      "->": "Barış Teklif Et"
     },
     "action.info.promote": {
       "en": "Promote",
@@ -105,7 +105,7 @@
     },
     "action.info.research": {
       "en": "research {0}.",
-      "->": "{0} araştırmak."
+      "->": "{0} araştır"
     },
     "action.info.reward": {
       "en": "Reward",
@@ -113,7 +113,7 @@
     },
     "action.info.reward.population": {
       "en": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
-      "->": "Bu, en yakındaki şehrin nüfusunu artıracak. Nüfus yeterince büyük olunca şehir yükselecek ve daha çok kaynak üretecek"
+      "->": "Bu, en yakındaki şehrin nüfusunu artıracak. Nüfus yeterince büyük olunca şehir gelişecek ve daha çok kaynak üretecek."
     },
     "action.info.reward.resources": {
       "en": "That will give you an instant reward of {0} resources",
@@ -125,7 +125,7 @@
     },
     "action.info.train": {
       "en": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
-      "->": "şehirde bir birim eğitmek. Birimler dünyayı keşfetmek ve şehirlerini korumak için düşmanlara saldırmak için kullanılabilir."
+      "->": "Şehirde bir birim eğit. Birimler dünyayı keşfetmek, şehirlerini korumak ve düşmanlara saldırmak için kullanılabilir."
     },
     "action.info.trip": {
       "en": "Trip",
@@ -133,15 +133,15 @@
     },
     "action.info.upgrade": {
       "en": "Upgrade to {0}",
-      "->": ""
+      "->": "{0}'e yükselt"
     },
     "actionbox.building.decomposing": {
       "en": "Decomposing",
-      "->": ""
+      "->": "Ayrıştırılıyor"
     },
     "actionbox.building.decomposing.info": {
       "en": "This improvement will decompose at the end of this turn",
-      "->": ""
+      "->": "Bu geliştirme tur sonunda ayrıştırılacak."
     },
     "actionbox.building.doit": {
       "en": "DO IT",
@@ -161,11 +161,11 @@
     },
     "actionbox.cantperformaction.description": {
       "en": "You cannot perform this action right now.",
-      "->": ""
+      "->": "Şuanda bunu yapamazsın."
     },
     "actionbox.city": {
       "en": "City",
-      "->": "{0} şehri"
+      "->": "Şehir"
     },
     "actionbox.city.level": {
       "en": "lvl {0}",
@@ -173,7 +173,7 @@
     },
     "actionbox.confirm": {
       "en": "Confirm {0}",
-      "->": "{0} 'i onayla"
+      "->": "{0}meyi onayla"
     },
     "actionbox.confirm.button": {
       "en": "YES",
@@ -185,31 +185,31 @@
     },
     "actionbox.confirm.info.breakpeace": {
       "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
-      "->": ""
+      "->": "Barış anlaşmasını bozmak istediğine emin misin? Bunu yaparsan birimlerin tur sonuna kadar hareket edemeyecek."
     },
     "actionbox.confirm.info.breakpeace.disband": {
       "en": "It will also disband the {0} units you have in their territory.",
-      "->": ""
+      "->": "Ayrıca sınırları dahilindeki {0} birimleri terhis edilecek."
     },
     "actionbox.embassyestablished.description": {
       "en": "The embassy is already established.",
-      "->": ""
+      "->": "Zaten bir elçilik kurulu."
     },
     "actionbox.establishembassynocapital.description": {
       "en": "You cannot establish an embassy if the tribe has no capital.",
-      "->": ""
+      "->": "Bir kabilenin başkenti yoksa elçilik kuramazsın."
     },
     "actionbox.insufficientfunds": {
       "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
-      "->": "Bunu satın alman için yeterli yıldızın yok. 'Sonraki' ye tıklayıp daha fazla yıldız alabilirsin."
+      "->": "Bunu satın alman için yeterli yıldızın yok. 'Turu Sonlandır'a tıklayıp daha fazla yıldız alabilirsin."
     },
     "actionbox.pendingpeacetreaty.description": {
       "en": "Peace treaty pending. Waiting for {0} to respond",
-      "->": ""
+      "->": "Barış teklifi gönderildi. Yanıtı için {0} bekleniyor."
     },
     "actionbox.pendingpeacetreaty.title": {
       "en": "Pending Peace Treaty",
-      "->": ""
+      "->": "Bekleyen Barış Antlaşması"
     },
     "actionbox.tile.roads": {
       "en": "roads",
@@ -217,19 +217,19 @@
     },
     "actionbox.unit.Boosted": {
       "en": "Boosted",
-      "->": ""
+      "->": "Güçlendirilmiş"
     },
     "actionbox.unit.Frozen": {
       "en": "Frozen",
-      "->": ""
+      "->": "Donmuş"
     },
     "actionbox.unit.Invisible": {
       "en": "Invisible",
-      "->": ""
+      "->": "Görünmez"
     },
     "actionbox.unit.Poisoned": {
       "en": "Poisoned",
-      "->": ""
+      "->": "Zehirlenmiş"
     },
     "actionbox.unit.ability": {
       "en": "Unit Ability",
@@ -241,7 +241,7 @@
     },
     "actionbox.unit.new": {
       "en": "Train a new {0} {1}",
-      "->": "Yeni bir {0} {1}'si eğit"
+      "->": "{0} adına yeni bir {1} eğit"
     },
     "actionbox.unit.toomany": {
       "en": "(too many)",
@@ -269,7 +269,7 @@
     },
     "actionbtn.remove.building": {
       "en": "Building",
-      "->": "Bina"
+      "->": "Yapı"
     },
     "actionbtn.remove.roads": {
       "en": "Roads",
@@ -277,27 +277,27 @@
     },
     "backend.connecting": {
       "en": "Connecting to server...",
-      "->": ""
+      "->": "Sunucuya bağlanılıyor..."
     },
     "backend.connecting.failed": {
       "en": "Could not establish a connection to the server",
-      "->": ""
+      "->": "Sunucuyla bağlantı kurulamadı"
     },
     "backend.connection.lost": {
       "en": "Connection lost",
-      "->": ""
+      "->": "Bağlantı koptu"
     },
     "backend.connection.lost.info": {
       "en": "Hold on while we're trying to reconnect",
-      "->": ""
+      "->": "Yeniden bağlanmaya çalışırken bekleyin"
     },
     "backend.login.failed": {
       "en": "Login failed",
-      "->": ""
+      "->": "Giriş başarısız"
     },
     "backend.login.successful": {
       "en": "Logged in as {0}",
-      "->": ""
+      "->": "{0} olarak giriş yapıldı"
     },
     "bottommenu.gamestats": {
       "en": "Game Stats",
@@ -309,7 +309,7 @@
     },
     "bottommenu.nextturn": {
       "en": "Next Turn",
-      "->": "Sonraki"
+      "->": "Turu Sonlandır"
     },
     "bottommenu.techtree": {
       "en": "Tech Tree",
@@ -317,11 +317,11 @@
     },
     "building.ability.attract": {
       "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
-      "->": "her 3 sırada bir hayvanı yakındaki bir orman karesine attracts"
+      "->": "3 turda bir yakınındaki bir ormanda vahşi bir hayvan belirmesini sağlar"
     },
     "building.ability.bridge": {
       "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
-      "->": ""
+      "->": "{0}, birliklerin üzerinde yürüyebileceği bir köprü görevi görür. Altındaki suyun derinliği önemsizdir."
     },
     "building.ability.embark": {
       "en": "Units that move here will turn into boats that can move on water.",
@@ -329,7 +329,7 @@
     },
     "building.ability.heal": {
       "en": "{0} heals any friendly unit that end their turn next to them.",
-      "->": ""
+      "->": "{0}, tur sonunda yanındaki dost birimleri iyileştirir."
     },
     "building.ability.limited": {
       "en": "You can only build one {0} per city.",
@@ -337,7 +337,7 @@
     },
     "building.ability.network": {
       "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
-      "->": ""
+      "->": "{1}, {2} karelik bir yarıçap içindeki şehirleri ve diğer {1}'ları {0} yoluyla bağlar."
     },
     "building.ability.patina": {
       "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
@@ -345,7 +345,7 @@
     },
     "building.ability.poison": {
       "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
-      "->": ""
+      "->": "{0}, üzerine basan birimleri zehirler. Zehirlenmiş birimler, tüm savunma bonuslarını kaybeder ve öldüklerinde sporlar yayar."
     },
     "building.ability.road": {
       "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
@@ -353,7 +353,7 @@
     },
     "building.ability.route": {
       "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
-      "->": "Bu yapı,{0} ile başka bir {1} arasında 5 karelik bir yarıçap içerisinde ticaret yolları oluşturacak."
+      "->": "Bu yapı,{0} ile başka bir {1} arasında 5 karelik bir yarıçap içerisinde ticaret yolları oluşturur."
     },
     "building.ability.route.and": {
       "en": "and ",
@@ -381,7 +381,7 @@
     },
     "building.names.algae": {
       "en": "Algae",
-      "->": ""
+      "->": "Algler"
     },
     "building.names.burnforest": {
       "en": "Burn Forest",
@@ -401,19 +401,19 @@
     },
     "building.names.customshouse": {
       "en": "Customs House",
-      "->": "Özel Ev"
+      "->": "Gümrük Dairesi"
     },
     "building.names.enchantanimal": {
       "en": "Enchant Animal",
-      "->": ""
+      "->": "Hayvanı Büyüle"
     },
     "building.names.enchantwhale": {
       "en": "Enchant Whale",
-      "->": ""
+      "->": "Balinayı Büyüle"
     },
     "building.names.farm": {
       "en": "Farm",
-      "->": "Ekin"
+      "->": "Çiftlik"
     },
     "building.names.fishing": {
       "en": "Fishing",
@@ -425,11 +425,11 @@
     },
     "building.names.forge": {
       "en": "Forge",
-      "->": "Demirhane"
+      "->": "Demirci Ocağı"
     },
     "building.names.fungi": {
       "en": "Fungi",
-      "->": ""
+      "->": "Mantarlar"
     },
     "building.names.growforest": {
       "en": "Grow Forest",
@@ -437,7 +437,7 @@
     },
     "building.names.harvestfruit": {
       "en": "Harvest Fruit",
-      "->": ""
+      "->": "Meyve Topla"
     },
     "building.names.hunting": {
       "en": "Hunting",
@@ -445,7 +445,7 @@
     },
     "building.names.icebank": {
       "en": "Ice Bank",
-      "->": ""
+      "->": "Buz Bankası"
     },
     "building.names.icetemple": {
       "en": "Ice Temple",
@@ -453,7 +453,7 @@
     },
     "building.names.lumberhut": {
       "en": "Lumber Hut",
-      "->": "Oduncu kulübesi"
+      "->": "Kereste Kulübesi"
     },
     "building.names.mine": {
       "en": "Mine",
@@ -481,11 +481,11 @@
     },
     "building.names.monument6": {
       "en": "Park of Fortune",
-      "->": "Şans Parkı"
+      "->": "Servet Parkı"
     },
     "building.names.monument7": {
       "en": "Eye of God",
-      "->": "Tanrı Gözü"
+      "->": "Tanrı'nın Gözü"
     },
     "building.names.mountaintemple": {
       "en": "Mountain Temple",
@@ -493,11 +493,11 @@
     },
     "building.names.mycelium": {
       "en": "Mycelium",
-      "->": ""
+      "->": "Miselyum"
     },
     "building.names.outpost": {
       "en": "Outpost",
-      "->": ""
+      "->": "İleri Karakol"
     },
     "building.names.port": {
       "en": "Port",
@@ -513,11 +513,11 @@
     },
     "building.names.sanctuary": {
       "en": "Sanctuary",
-      "->": "Barınak"
+      "->": "Sığınak"
     },
     "building.names.sawmill": {
       "en": "Sawmill",
-      "->": "Değirmen"
+      "->": "Kereste Fabrikası"
     },
     "building.names.temple": {
       "en": "Temple",
@@ -537,7 +537,7 @@
     },
     "building.produce": {
       "en": "produces {0} each turn",
-      "->": "her sırada {0} üretir"
+      "->": "Her turda {0} üretir"
     },
     "building.produce.multiply": {
       "en": "({0} for each nearby {1})",
@@ -549,15 +549,15 @@
     },
     "building.produce.multiply2": {
       "en": "produces {0} for each nearby {1} each turn",
-      "->": "her sırada yakınındaki her bir {1} için {0} üretir"
+      "->": "Her turda yakınındaki her bir {1} için {0} üretir"
     },
     "building.produce.multiply2.polaris": {
       "en": "Produces {0} for every {1} frozen tiles in the world",
-      "->": "Dünyadaki her bir {1} donmuş kare için {0} üretir"
+      "->": "Dünyadaki her bir {1} donmuş kare için {0} üretir."
     },
     "building.produce.multiply3": {
       "en": "produces {0} for each nearby {1}",
-      "->": "yakınındaki her bir {1} için {0} üretir"
+      "->": "Yakınındaki her bir {1} için {0} üretir"
     },
     "building.produce.reward": {
       "en": "produces {0}",
@@ -569,7 +569,7 @@
     },
     "building.resource": {
       "en": "adds a {0} at the selected tile",
-      "->": "seçilen kareye bir {0} ekler"
+      "->": "Seçilen kareye bir {0} ekler."
     },
     "building.restriction.near": {
       "en": "Must be built next to a {0}.",
@@ -581,19 +581,19 @@
     },
     "building.reward.instant": {
       "en": "instantly gives you {0}",
-      "->": "sana hazır olarak {0} verir"
+      "->": "Sana anlık olarak {0} verir"
     },
     "building.reward.tech": {
       "en": "gives you a {0}",
-      "->": "bir {0} verir "
+      "->": "Bir {0} verir."
     },
     "building.transform": {
       "en": "transforms a {0} into a {1}",
-      "->": "bir {0}'i {1}'a çevirir"
+      "->": "Bir {0}, {1}'a çevrilir"
     },
     "building.transform2": {
       "en": "transforms a {0} into a {1} with {2}",
-      "->": "Bir {0}'i {2}'li bir {1}'e çevirir"
+      "->": "Bir {0}, {2}'li bir {1}'e çevrilir"
     },
     "building.value": {
       "en": "is worth {0} points of score",
@@ -605,7 +605,7 @@
     },
     "buttons.accept": {
       "en": "ACCEPT",
-      "->": ""
+      "->": "KABUL ET"
     },
     "buttons.back": {
       "en": "BACK",
@@ -613,7 +613,7 @@
     },
     "buttons.decline": {
       "en": "DECLINE",
-      "->": ""
+      "->": "REDDET"
     },
     "buttons.exit": {
       "en": "EXIT",
@@ -621,15 +621,15 @@
     },
     "buttons.exitgame": {
       "en": "EXIT GAME",
-      "->": ""
+      "->": "OYUNDAN ÇIK"
     },
     "buttons.invite": {
       "en": "INVITE",
-      "->": ""
+      "->": "DAVET ET"
     },
     "buttons.leave": {
       "en": "LEAVE",
-      "->": ""
+      "->": "AYRIL"
     },
     "buttons.ok": {
       "en": "OK",
@@ -637,15 +637,15 @@
     },
     "buttons.quit": {
       "en": "Quit",
-      "->": "Çıkış"
+      "->": "ÇIKIŞ"
     },
     "buttons.reconnect": {
       "en": "RECONNECT",
-      "->": ""
+      "->": "YENİDEN BAĞLAN"
     },
     "buttons.remove": {
       "en": "REMOVE",
-      "->": ""
+      "->": "KALDIR"
     },
     "buttons.save": {
       "en": "SAVE",
@@ -653,31 +653,31 @@
     },
     "buttons.start": {
       "en": "START GAME",
-      "->": ""
+      "->": "OYUN BAŞLAT"
     },
     "buttons.stay": {
       "en": "STAY",
-      "->": ""
+      "->": "KAL"
     },
     "buttons.tryagain": {
       "en": "TRY AGAIN",
-      "->": ""
+      "->": "TEKRAR DENE"
     },
     "challengermode.connect.button": {
       "en": "CONNECT",
-      "->": ""
+      "->": "BAĞLAN"
     },
     "challengermode.connect.description": {
       "en": "To participate in a ladder you need a Challengermode account.",
-      "->": ""
+      "->": "Challengermode, Polytopia'daki oyun içi turnuvalara güç veren bir e-spor platformudur.\n\nPolytopia hesabınızı Challengermode'a bağlamak üzeresiniz. Bir Challengermode hesabınız yoksa, bir tane oluşturmanız istenecektir."
     },
     "challengermode.connect.header": {
       "en": "Connect to Challengermode",
-      "->": ""
+      "->": "Challengermode'a bağlan"
     },
     "consent.approval.info": {
       "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
-      "->": "Polytopia'yı kullanım istatikleriyle geliştirmek ve yüksek skorlarınızı ve ayarlarınızı saklamak için, bazı kişisel verilere erişmek için izninize ihtiyacımız var.\nNe verisi topladığımız hakkında daha fazla bilgi için <u><a href='{0}'>gizlilik politikamızı</a></u> okuyun.\n(İzninizi 'Taht Odası'nda istediğiniz zaman iptal edebilirsiniz)"
+      "->": "Polytopia'yı kullanım istatikleriyle geliştirmek ve yüksek skorlarınızla ayarlarınızı saklamak için, bazı kişisel verilere erişmek için izninize ihtiyacımız var.\nVeri toplama hakkında daha fazla bilgi için <u><a href='{0}'>gizlilik politikamızı</a></u> okuyun. \n(İzninizi 'Taht Odası'nda istediğiniz zaman iptal edebilirsiniz)"
     },
     "consent.approval.title": {
       "en": "Welcome to Polytopia!",
@@ -693,15 +693,15 @@
     },
     "consent.disabled": {
       "en": "Personal Data Disabled",
-      "->": "Kişisel Veri Devre Dışı"
+      "->": "Kişisel Veri Kullanımı Devre Dışı"
     },
     "consent.disabled.info": {
       "en": "To save personal data like high scores and usage statistics we need your approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
-      "->": "Yüksek skorlar ve kullanım istatistikleri gibi kişisel verileri kaydetmek için izninize ihtiyacımız var. Daha fazla bilgi için, <u><a href='{0}'>gizlilik politikamızı</a></u> okuyun."
+      "->": "Yüksek skorlar ve kullanım istatistikleri gibi kişisel verileri kaydetmek için izninize ihtiyacımız var. Daha fazla bilgi için, <u><a href='{0}'>gizlilik politikamızı</a></u> okuyun. "
     },
     "consent.enabled": {
       "en": "Personal Data Enabled",
-      "->": "Kişisel Veri Devrede"
+      "->": "Kişisel Veri Kullanımı Devrede"
     },
     "consent.enabled.info": {
       "en": "You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
@@ -713,7 +713,7 @@
     },
     "credits.artists": {
       "en": "Artists",
-      "->": ""
+      "->": "Sanatçılar"
     },
     "credits.build": {
       "en": "Build version",
@@ -721,7 +721,7 @@
     },
     "credits.community": {
       "en": "Community Manager",
-      "->": ""
+      "->": "Topluluk Yöneticisi"
     },
     "credits.debuginfo": {
       "en": "DEBUG INFO",
@@ -729,15 +729,15 @@
     },
     "credits.design": {
       "en": "Game Design",
-      "->": ""
+      "->": "Oyun Tasarımı"
     },
     "credits.device": {
       "en": "Device",
-      "->": ""
+      "->": "Cihaz"
     },
     "credits.followus": {
       "en": "Follow us",
-      "->": ""
+      "->": "Bizi takip et"
     },
     "credits.getmerch": {
       "en": "Get some official Polytopian merch.",
@@ -753,15 +753,15 @@
     },
     "credits.managment": {
       "en": "Management",
-      "->": ""
+      "->": "Yönetim"
     },
     "credits.midjiwan": {
       "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
-      "->": "The Battle of Polytopia sıklıkla İsveç, Stockholm'deki küçük bağımsız oyun stüdyosu olan Midjiwan'da oluşturuluyor."
+      "->": "The Battle of Polytopia, Stockholm/ İsveç merkezli bağımsız bir oyun stüdyosu olan Midjiwan tarafından sürekli olarak geliştirilmekte ve sürdürülmektedir."
     },
     "credits.music": {
       "en": "MUSIC",
-      "->": ""
+      "->": "MÜZİK"
     },
     "credits.os": {
       "en": "OS",
@@ -769,15 +769,15 @@
     },
     "credits.platforms": {
       "en": "Multiple platforms",
-      "->": ""
+      "->": "Çoklu Platform"
     },
     "credits.polytopiamusic1": {
       "en": "Polytopia music!",
-      "->": ""
+      "->": "Polytopia müziği!"
     },
     "credits.polytopiamusic2": {
       "en": "Listen to full length versions of you favourite tribe's soundtrack on Spotify.",
-      "->": ""
+      "->": "Spotify'da favori kabilelerinin müziklerinin tam uzunluktaki sürümlerini dinle."
     },
     "credits.privacy": {
       "en": "Privacy Policy",
@@ -785,15 +785,15 @@
     },
     "credits.programmers": {
       "en": "Programmers",
-      "->": ""
+      "->": "Programcılar"
     },
     "credits.qa": {
       "en": "Quality Assurance",
-      "->": ""
+      "->": "Kalite Güvencesi"
     },
     "credits.screendpi": {
       "en": "Screen DPI",
-      "->": "Ekran DPI'si"
+      "->": "Ekran DPI Ayarı"
     },
     "credits.screensize": {
       "en": "Screen size",
@@ -857,147 +857,147 @@
     },
     "diplomacy.acceptpeace.description": {
       "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
-      "->": ""
+      "->": "{0} barış anlaşmanızı kabul etti! Barış halindeyken hiçbir düşmanca hareket sergilenemez."
     },
     "diplomacy.acceptpeace.notification.description": {
       "en": "Peace treaty with {0} confirmed!",
-      "->": ""
+      "->": "{0} ile barış anlaşması onaylandı!"
     },
     "diplomacy.acceptpeace.notification.description2": {
       "en": "{0} and {1} has made peace!",
-      "->": ""
+      "->": "{0} ve {1} ittifak kurdu!"
     },
     "diplomacy.acceptpeace.title": {
       "en": "Peace treaty accepted!",
-      "->": ""
+      "->": "Barış antlaşması kabul edildi!"
     },
     "diplomacy.breakpeace.description": {
       "en": "{0} has broken the peace treaty. Next turn you will be able to attack each other again so get prepared!",
-      "->": ""
+      "->": "{0}, barış anlaşmasını bozdu. Hazırlanın çünkü bir sonraki turda birbirinize tekrar saldırabileceksiniz!"
     },
     "diplomacy.breakpeace.notification.description": {
       "en": "Broke peace with {0}",
-      "->": ""
+      "->": "{0} ile barışı boz"
     },
     "diplomacy.breakpeace.notification.description2": {
       "en": "{0} and {1} are no longer at peace",
-      "->": ""
+      "->": "{0} ve {1} artık müttefik değiller"
     },
     "diplomacy.breakpeace.title": {
       "en": "{0} Broke Peace",
-      "->": ""
+      "->": "{0} Barışı Bozdu"
     },
     "diplomacy.declarewar.description": {
       "en": "{0} has declared war on you!",
-      "->": ""
+      "->": "{0} size karşı savaş ilan etti!"
     },
     "diplomacy.declarewar.title": {
       "en": "War!",
-      "->": ""
+      "->": "Savaş!"
     },
     "diplomacy.denypeace.description": {
       "en": "{0} has rejected the peace treaty you offered.",
-      "->": ""
+      "->": "{0}, teklif ettiğiniz barış anlaşmasını reddetti."
     },
     "diplomacy.denypeace.notification.description": {
       "en": "You rejected the {0} peace treaty.",
-      "->": ""
+      "->": "{0} ile olan barış anlaşmasını reddettiniz."
     },
     "diplomacy.denypeace.notification.title": {
       "en": "No Deal",
-      "->": ""
+      "->": "Olacak İş Değil!"
     },
     "diplomacy.denypeace.title": {
       "en": "Peace treaty rejected",
-      "->": ""
+      "->": "Barış antlaşması reddedildi"
     },
     "diplomacy.destroyedembassy.description": {
       "en": "Your embassy in the {0} capital has been destroyed!",
-      "->": ""
+      "->": "{0} başkentindeki elçiliğiniz yok edildi!"
     },
     "diplomacy.destroyedembassy.description2": {
       "en": "The {0} embassy in your capital has been destroyed.",
-      "->": ""
+      "->": "Başkentinizdeki {0} elçiliği yok edildi."
     },
     "diplomacy.destroyedembassy.title": {
       "en": "Embassy Destroyed",
-      "->": ""
+      "->": "Elçilik Yıkıldı"
     },
     "diplomacy.establishedembassy.description": {
       "en": "You have established an embassy in the {0} capital. It will give you both {1} stars per turn, when you have a peace treaty the income is doubled.",
-      "->": ""
+      "->": "{0} başkentinde bir elçilik kurdunuz. Her ikinize de tur başına {1} yıldız verilecek, bir barış anlaşmanız olduğunda gelir ikiye katlanacak."
     },
     "diplomacy.establishedembassy.description2": {
       "en": "{0} established an embassy in your capital. It will give you both {1} stars per turn. The income is doubled if you have a peace treaty.",
-      "->": ""
+      "->": "{0}, başkentinde elçilik kurdu. Her ikinize de tur başına {1} yıldız verilecek, bir barış anlaşmanız olduğunda gelir ikiye katlanacak."
     },
     "diplomacy.establishedembassy.title": {
       "en": "Embassy Established",
-      "->": ""
+      "->": "Elçilik Kuruldu"
     },
     "diplomacy.peacetreaty.description": {
       "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
-      "->": ""
+      "->": "{0} bir barış antlaşması öneriyor. Kabul ederseniz, biriniz anlaşmayı bozana kadar birbirinize saldıramayacaksınız."
     },
     "diplomacy.peacetreaty.notification.description": {
       "en": "Peace treaty sent to {0}",
-      "->": ""
+      "->": "{0}'a barış antlaşması gönderildi"
     },
     "diplomacy.relation.decent": {
       "en": "Decent",
-      "->": ""
+      "->": "Saygın"
     },
     "diplomacy.relation.great": {
       "en": "Great",
-      "->": ""
+      "->": "Harika"
     },
     "diplomacy.relation.horrible": {
       "en": "Horrible",
-      "->": ""
+      "->": "Berbat"
     },
     "diplomacy.relation.indifferent": {
       "en": "Indifferent",
-      "->": ""
+      "->": "Kayıtsız"
     },
     "diplomacy.relation.poor": {
       "en": "Poor",
-      "->": ""
+      "->": "Zayıf"
     },
     "diplomacy.relation.title": {
       "en": "Relation",
-      "->": ""
+      "->": "İlişki"
     },
     "diplomacy.state.hostile": {
       "en": "cooldown",
-      "->": ""
+      "->": "beklemede"
     },
     "diplomacy.state.hostile.description": {
       "en": "Your current peace treaty just ended and you will be able to attack each other again next turn.",
-      "->": ""
+      "->": "Mevcut barış anlaşmanız henüz sona erdi ve bir sonraki turda birbirinize tekrar saldırabileceksiniz."
     },
     "diplomacy.state.neutral": {
       "en": "neutral",
-      "->": ""
+      "->": "tarafsız"
     },
     "diplomacy.state.neutral.description": {
       "en": "There has been no recent hostilities between your tribes.",
-      "->": ""
+      "->": "Kabileleriniz arasında yakın zamanda herhangi bir düşmanlık olmadı."
     },
     "diplomacy.state.peace": {
       "en": "peace",
-      "->": ""
+      "->": "barış"
     },
     "diplomacy.state.peace.description": {
       "en": "You currently have a peace treaty preventing you from attacking each other. A peace treaty can be canceled at any time, but that will take effect in the following turn.",
-      "->": ""
+      "->": "Şu anda birbirinize saldırmanızı engelleyen bir barış anlaşmanız var. Bir barış antlaşması herhangi bir zamanda iptal edilebilir, ancak bu bir sonraki sırada yürürlüğe girecektir."
     },
     "diplomacy.state.war": {
       "en": "war",
-      "->": ""
+      "->": "savaş"
     },
     "diplomacy.state.war.description": {
       "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
-      "->": ""
+      "->": "Son turda sen veya o birbirinize saldırdınız. Bir turda daha fazla düşmanlık olmazsa, durumunuz \"tarafsız\" olarak değişecektir."
     },
     "endscreen.army&territory": {
       "en": "Army & Territory",
@@ -1005,7 +1005,7 @@
     },
     "endscreen.battle": {
       "en": "Battle skills",
-      "->": "Savaş Yetenekleri"
+      "->": "Savaş becerileri"
     },
     "endscreen.battle.info": {
       "en": "{0} units lost",
@@ -1017,7 +1017,7 @@
     },
     "endscreen.cities": {
       "en": "Cities",
-      "->": "şehirler"
+      "->": "Şehirler"
     },
     "endscreen.citiescount": {
       "en": "{0} cities",
@@ -1025,7 +1025,7 @@
     },
     "endscreen.connectioninfo": {
       "en": "Log in to submit high scores",
-      "->": ""
+      "->": "Yüksek skorları göndermek için giriş yapın"
     },
     "endscreen.culture": {
       "en": "{0} monuments, {1} temples",
@@ -1033,7 +1033,7 @@
     },
     "endscreen.destroyed": {
       "en": "Tribes destroyed",
-      "->": "Irklar Yok Edildi"
+      "->": "Yok Edilen Kabileler"
     },
     "endscreen.destroyed.info": {
       "en": "{0}/{1}",
@@ -1041,11 +1041,11 @@
     },
     "endscreen.domination.loss": {
       "en": "{0} turns",
-      "->": "{0} sıra"
+      "->": "{0} tur"
     },
     "endscreen.domination.win": {
       "en": "{0}/{1} turns",
-      "->": "{0}/{1} sıra"
+      "->": "{0}/{1} tur"
     },
     "endscreen.done": {
       "en": "DONE",
@@ -1073,11 +1073,11 @@
     },
     "endscreen.nextstar.percent": {
       "en": "{0}% needed for next star",
-      "->": "Yeni yıldız için {0}% gerekli"
+      "->": "Yeni yıldız için %{0} gerekli"
     },
     "endscreen.personal": {
       "en": "New personal all time high!",
-      "->": "Yeni kişisel tüm zamanların yüksek skoru!"
+      "->": "Yeni kişisel yüksek skor!"
     },
     "endscreen.personal.title": {
       "en": "Amazing!",
@@ -1101,7 +1101,7 @@
     },
     "endscreen.speedskills": {
       "en": "Speed skills",
-      "->": "Hız yetenekleri"
+      "->": "Hız Becerileri"
     },
     "endscreen.techscore": {
       "en": "{0}/{1} technologies researched",
@@ -1129,127 +1129,127 @@
     },
     "epithet.divine": {
       "en": "the Divine {0}",
-      "->": ""
+      "->": "Yüce {0}"
     },
     "epithet.faithful": {
       "en": "the Faithful {0}",
-      "->": ""
+      "->": "Vefalı {0}"
     },
     "epithet.pathetic": {
       "en": "the Pathetic {0}",
-      "->": ""
+      "->": "Acınası {0}"
     },
     "epithet.terrible": {
       "en": "the Terrible {0}",
-      "->": ""
+      "->": "Acımasız {0}"
     },
     "error.code.1001": {
       "en": "Submit failed, busy ({0})",
-      "->": ""
+      "->": "Gönderilemedi, meşgul ({0})"
     },
     "error.code.1002": {
       "en": "Steam authentication failed ({0})",
-      "->": ""
+      "->": "Steam kimlik doğrulaması başarısız oldu ({0})"
     },
     "error.code.1003": {
       "en": "Google Play authentication failed ({0})",
-      "->": ""
+      "->": "Google Play kimlik doğrulaması başarısız oldu ({0})"
     },
     "error.code.1004": {
       "en": "Login failed ({0})",
-      "->": ""
+      "->": "Giriş başarısız oldu ({0})"
     },
     "error.code.1005": {
       "en": "Game not found ({0})",
-      "->": ""
+      "->": "Oyun bulunamadı ({0})"
     },
     "error.code.1006": {
       "en": "Player not found ({0})",
-      "->": ""
+      "->": "Oyuncu bulunamadı ({0})"
     },
     "error.code.1007": {
       "en": "Invalid friend request ({0})",
-      "->": ""
+      "->": "Geçersiz arkadaşlık isteği ({0})"
     },
     "error.code.1008": {
       "en": "Friendship not found ({0})",
-      "->": ""
+      "->": "Arkadaşlık bulunamadı ({0})"
     },
     "error.code.1009": {
       "en": "Invalid friendship status ({0})",
-      "->": ""
+      "->": "Geçersiz arkadaşlık durumu ({0})"
     },
     "error.code.1010": {
       "en": "Unable to create game, no players ({0})",
-      "->": ""
+      "->": "Oyun oluşturulamıyor, oyuncu yok ({0})"
     },
     "error.code.1011": {
       "en": "Missing game state ({0})",
-      "->": ""
+      "->": "Eksik oyun durumu ({0})"
     },
     "error.code.1012": {
       "en": "Game could not be loaded ({0})",
-      "->": ""
+      "->": "Oyun yüklenemedi ({0})"
     },
     "error.code.1013": {
       "en": "Invalid command ({0})",
-      "->": ""
+      "->": "Geçersiz komut ({0})"
     },
     "error.code.1014": {
       "en": "Failed to kick player ({0})",
-      "->": ""
+      "->": "Oyuncu atılamadı ({0})"
     },
     "error.code.1015": {
       "en": "Failed to start game ({0})",
-      "->": ""
+      "->": "Oyun başlatılamadı ({0})"
     },
     "error.code.1016": {
       "en": "User not found ({0})",
-      "->": ""
+      "->": "Kullanıcı bulunamadı ({0})"
     },
     "error.code.1017": {
       "en": "Failed to pick tribe ({0})",
-      "->": ""
+      "->": "Kabile seçilemedi ({0})"
     },
     "error.code.1018": {
       "en": "AI Command failed ({0})",
-      "->": ""
+      "->": "Yapay zeka komutu başarısız oldu ({0})"
     },
     "error.code.1019": {
       "en": "Your version of Polytopia is too old. Update to the latest version to start a new multiplayer game ({0})",
-      "->": ""
+      "->": "Polytopia sürümünüz çok eski. Yeni bir çok oyunculu oyuna başlamak için en son sürüme güncelleyin ({0})"
     },
     "error.code.1023": {
       "en": "This game is using a newer version of Polytopia, you need to update to the latest version before you can play. ({0})",
-      "->": ""
+      "->": "Bu oyun Polytopia'nın daha yeni bir sürümünü kullanıyor, oynayabilmek için önce en son sürüme güncellemeniz gerekiyor. ({0})"
     },
     "error.code.1024": {
       "en": "This game is still ongoing, you can view it once it has ended ({0})",
-      "->": ""
+      "->": "Bu oyun hala devam ediyor, bittiğinde görüntüleyebilirsiniz ({0})"
     },
     "error.code.404": {
       "en": "Connection error ({0})",
-      "->": ""
+      "->": "Bağlantı hatası ({0})"
     },
     "error.code.500": {
       "en": "Internal server error ({0})",
-      "->": ""
+      "->": "Dahili sunucu hatası ({0})"
     },
     "error.unknown": {
       "en": "Unknown error: {0} ({1})",
-      "->": ""
+      "->": "Bilinmeyen hata: {0} ({1})"
     },
     "esport.verifyaccount.description": {
       "en": "You’re about to link your Polytopia account to Challengermode.",
-      "->": ""
+      "->": "Polytopia hesabınızı Challengermode'a bağlamak üzeresiniz."
     },
     "esport.verifyaccount.description.login": {
       "en": "In order to verify your account you need to be logged in",
-      "->": ""
+      "->": "Hesabınızı doğrulamak için giriş yapmalısınız"
     },
     "esport.verifyaccount.login": {
       "en": "Login",
-      "->": ""
+      "->": "Giriş yap"
     },
     "esport.verifyaccount.service.cm": {
       "en": "Challengermode",
@@ -1257,11 +1257,11 @@
     },
     "esport.verifyaccount.success": {
       "en": "Successfully linked account",
-      "->": ""
+      "->": "Hesap başarıyla bağlandı"
     },
     "esport.verifyaccount.title": {
       "en": "Verify Account",
-      "->": ""
+      "->": "Hesabı Doğrula"
     },
     "firebaseservice.status.connecting": {
       "en": "Connecting to the Polytopia server...",
@@ -1273,7 +1273,7 @@
     },
     "firendList.winratio": {
       "en": "-Win Ratio-",
-      "->": ""
+      "->": "-Galibiyet Oranı-"
     },
     "friendlist.acceptinvite.button": {
       "en": "ACCEPT INVITE",
@@ -1301,15 +1301,15 @@
     },
     "friendlist.friend.notupdated": {
       "en": "{0} is still on the old server",
-      "->": ""
+      "->": "{0} hala eski sunucuda"
     },
     "friendlist.friend.update": {
       "en": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
-      "->": "Onları yeni oyunlara davet etmeden önce {0} Polytopia'yı son sürüme güncellemeli."
+      "->": "{0}, onu yeni oyunlara davet edebilmeniz için önce Polytopia'nın en son sürümüne güncellemelidir."
     },
     "friendlist.friend.updated": {
       "en": "{0} is now on the new server",
-      "->": "{0} şu an yeni sunucuda"
+      "->": "{0} artık yeni sunucuda"
     },
     "friendlist.friendrequests": {
       "en": "Friend Requests",
@@ -1321,7 +1321,7 @@
     },
     "friendlist.friends.old": {
       "en": "Outdated friends",
-      "->": "Eski Arkadaşlar"
+      "->": "Eski Dostlar"
     },
     "friendlist.friendshipstate": {
       "en": "Friendship status: {0}",
@@ -1329,7 +1329,7 @@
     },
     "friendlist.friendshipstate.accepted": {
       "en": "This player is your friend. Lucky you!",
-      "->": "Arkadaşlık isteği kabul edildi. İkiniz arkadaşsınız."
+      "->": "Arkadaşlık isteği kabul edildi. İkiniz artık arkadaşsınız."
     },
     "friendlist.friendshipstate.isyou": {
       "en": "This is you.",
@@ -1397,11 +1397,11 @@
     },
     "friendlist.new.exists.title": {
       "en": "Duplicate Player",
-      "->": "Çift Oyuncu"
+      "->": "Yinelenen Oyuncu"
     },
     "friendlist.new.info.alias": {
       "en": "Search for your friend's alias.",
-      "->": ""
+      "->": "Arkadaşınızın takma adını arayın."
     },
     "friendlist.new.looking.info": {
       "en": "Looking for player {0}",
@@ -1461,7 +1461,7 @@
     },
     "friendlist.requestsent.notification": {
       "en": "Friend request sent to {0}",
-      "->": ""
+      "->": "{0} kişisine arkadaşlık isteği gönderildi."
     },
     "friendlist.title": {
       "en": "FRIEND LIST",
@@ -1469,7 +1469,7 @@
     },
     "friendlist.unfriend": {
       "en": "UNFRIEND",
-      "->": ""
+      "->": "ARKADAŞI ÇIKAR"
     },
     "friendlist.uptodate": {
       "en": "Everything is up to date",
@@ -1477,7 +1477,7 @@
     },
     "gameinfo.created": {
       "en": "Created: {0} ago",
-      "->": ""
+      "->": "Oluşturuldu: {0} önce"
     },
     "gameinfo.gameover": {
       "en": "This game is over, open it to view the final result",
@@ -1485,43 +1485,43 @@
     },
     "gameinfo.gameversion": {
       "en": "Game version: {0}",
-      "->": ""
+      "->": "Oyun Sürümü: {0}"
     },
     "gameinfo.id": {
       "en": "ID: {0}",
-      "->": "id: {0}"
+      "->": "Oyun Kimliği: {0}"
     },
     "gameinfo.id.copied": {
       "en": "Game ID copied",
-      "->": ""
+      "->": "Oyun Kimliği kopyalandı"
     },
     "gameinfo.lastmove": {
       "en": "Last move: {0} ago",
-      "->": "Son hareket: {0} önce"
+      "->": "Son hamle: {0} önce"
     },
     "gameinfo.move": {
       "en": "Move: {0}",
-      "->": ""
+      "->": "Hamle: {0}"
     },
     "gameinfo.nodata": {
       "en": "There's something wrong with this game, can't show any data for it",
-      "->": ""
+      "->": "Bu oyunla ilgili yanlış olan bir şey var, hiçbir veri gösterilemiyor"
     },
     "gameinfo.nodata.title": {
       "en": "No data",
-      "->": ""
+      "->": "Veri yok"
     },
     "gameinfo.opponentsturn": {
       "en": "Waiting for {0} to {1}",
-      "->": "{1}si için {0} bekleniyor"
+      "->": "{1}ması için {0} bekleniyor"
     },
     "gameinfo.picktribe": {
       "en": "Pick Tribe",
-      "->": "Kabile seçme"
+      "->": "Kabile seç"
     },
     "gameinfo.play": {
       "en": "Play",
-      "->": "Oynama"
+      "->": "Oyna"
     },
     "gameinfo.serverversion": {
       "en": "Server version: {0}",
@@ -1529,11 +1529,11 @@
     },
     "gameinfo.start": {
       "en": "Start the Game",
-      "->": "Oyuna başlama"
+      "->": "Oyuna başla"
     },
     "gameinfo.turn": {
       "en": "Turn: {0}",
-      "->": "Sıra: {0}"
+      "->": "Tur: {0}"
     },
     "gameinfo.updated": {
       "en": "Updated: {0} ago",
@@ -1541,7 +1541,7 @@
     },
     "gameinfo.yourturn": {
       "en": "It is your turn to {0}",
-      "->": "{0}k için senin sıran"
+      "->": "{0} için senin sıran"
     },
     "gameitem.ended": {
       "en": "This game is over.",
@@ -1549,7 +1549,7 @@
     },
     "gameitem.gameover": {
       "en": "This game is over, tap to see the end.",
-      "->": "Bu oyun bitti, sonu görmek icin tıkla."
+      "->": "Bu oyun bitti, sonucu görmek için tıkla."
     },
     "gameitem.join": {
       "en": "Join this game or decline the invitation",
@@ -1569,11 +1569,11 @@
     },
     "gameitem.kick.info": {
       "en": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
-      "->": "{0}'i oyundan atmak istiyor musun? Bir bot kabilenin kontrolünü alacak."
+      "->": "{0}'i oyundan atmak istiyor musun? Bir bot, kabilesinin kontrolünü alacak."
     },
     "gameitem.localplayerdead": {
       "en": "You've been wiped out in this game, still you can spectate.",
-      "->": ""
+      "->": "Bu oyunda öldürüldün, ancak hala seyredebilirsin."
     },
     "gameitem.pick": {
       "en": "{0}, pick your tribe",
@@ -1589,7 +1589,7 @@
     },
     "gameitem.ready.wait.noowner": {
       "en": "Waiting for the game to start",
-      "->": ""
+      "->": "Oyunun başlatılması bekleniyor"
     },
     "gameitem.reload": {
       "en": "RELOAD",
@@ -1617,15 +1617,15 @@
     },
     "gameitem.skipturn": {
       "en": "Duh!",
-      "->": ""
+      "->": "Olacak iş değil!"
     },
     "gameitem.skipturn.action": {
       "en": "SKIP TURN",
-      "->": ""
+      "->": "PAS GEÇTİR"
     },
     "gameitem.skipturn.info": {
       "en": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
-      "->": ""
+      "->": "{0}'ın bu turu atlamasını istiyor musun? Alternatif olarak, bir botun kabilenin kontrolünü ele geçirmesine izin vererek bu kişiyi oyundan atabilirsiniz."
     },
     "gameitem.slow": {
       "en": "Come on...",
@@ -1637,7 +1637,7 @@
     },
     "gameitem.slow.info": {
       "en": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
-      "->": "{0} oyuncusunun hareket yapması için {1} var. {0}'in hızlı olması için kaba bir hatırlatıcı gönder?"
+      "->": "{0} oyuncusunun hamle yapması için {1} var. {0}'in hızlı olması için kaba bir hatırlatıcı gönder?"
     },
     "gameitem.start": {
       "en": "{0}, start the game",
@@ -1645,7 +1645,7 @@
     },
     "gameitem.start.inviteplayer": {
       "en": "You need to invite one or more players",
-      "->": ""
+      "->": "Bir ya da daha fazla oyuncu davet etmelisin"
     },
     "gameitem.start.wait": {
       "en": "Waiting for {0} to start the game",
@@ -1657,7 +1657,7 @@
     },
     "gameitem.timeleft.info": {
       "en": "{0} still has {1} to make a move.",
-      "->": "{0}'in hala hareket yapmak için {1} zamanı var."
+      "->": "{0}'in hala hamle yapmak için {1} kadar zamanı var."
     },
     "gameitem.timelimit": {
       "en": "Time limit",
@@ -1669,11 +1669,11 @@
     },
     "gameitem.timelimit.timeleft": {
       "en": "Time Left",
-      "->": ""
+      "->": "Kalan Zaman"
     },
     "gameitem.timelimit.timeleft.info": {
       "en": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
-      "->": ""
+      "->": "Bu, hamleni yapmak için kalan zamanın. Süre dolduğunda sıra başka bir oyuncuya devredilecektir. Sıranız sırasında hiçbir işlem yapmazsanız ve süreniz biterse, adınıza pas geçme sayısı işlenir. Arka plan rengi, pas geçme sayısını gösterir. Mavi = 0, Turuncu = 1, Kırmızı = 2. 3 atlamadan sonra oyundan atılırsınız.\n\nBu oyunda {0} kez pas geçtiniz."
     },
     "gameitem.timeup": {
       "en": "Time Up!",
@@ -1697,7 +1697,7 @@
     },
     "gamemode.custom": {
       "en": "Creative",
-      "->": ""
+      "->": "Yaratıcı"
     },
     "gamemode.custom.caps": {
       "en": "CREATIVE",
@@ -1753,7 +1753,7 @@
     },
     "gamemode.glory.win.no.opponents": {
       "en": "The game is over",
-      "->": ""
+      "->": "Oyun bitti"
     },
     "gamemode.might": {
       "en": "Might",
@@ -1773,19 +1773,19 @@
     },
     "gamemode.might.win.last.human": {
       "en": "You are the last standing human player, you win!",
-      "->": ""
+      "->": "Sona kalan tek insan oyuncusun, kazandın!"
     },
     "gamemode.might.win.no.opponents": {
       "en": "No opponents left",
-      "->": ""
+      "->": "Hiç rakip kalmadı"
     },
     "gamemode.none": {
       "en": "Unknown",
-      "->": ""
+      "->": "Bilinmeyen"
     },
     "gamemode.none.description": {
       "en": "You might get either game mode. Groovy!",
-      "->": ""
+      "->": "Her iki oyun modunu da seçebilirsin. Harika!"
     },
     "gamemode.perfection": {
       "en": "Perfection",
@@ -1809,15 +1809,15 @@
     },
     "gamemode.perfection.win": {
       "en": "We have reached the end of time. The memory of your tribe will echo in eternity!",
-      "->": "Sürenin sonuna geldik. Irkın tarih boyunca unutulmayacak!"
+      "->": "Sürenin sonuna geldik. Kabilen tarih boyunca unutulmayacak!"
     },
     "gamemode.sandbox": {
       "en": "Infinity",
-      "->": "Sonsuz"
+      "->": "Sonsuzluk"
     },
     "gamemode.sandbox.caps": {
       "en": "INFINITY",
-      "->": ""
+      "->": "SONSUZLUK"
     },
     "gamemode.sandbox.description": {
       "en": "Play however you like, forever and ever",
@@ -1825,11 +1825,11 @@
     },
     "gamemode.tutorial": {
       "en": "Boot Camp",
-      "->": ""
+      "->": "Eğitim Kampı"
     },
     "gamemode.tutorial.description": {
       "en": "Your tribe gift you with these resources. Spend them wisely!",
-      "->": ""
+      "->": "Kabilen seni bu kaynaklarla ödüllendirdi. Akıllıca harcayın!"
     },
     "gamemodepicker.title": {
       "en": "GAME MODE",
@@ -1837,11 +1837,11 @@
     },
     "gamesaverbinary.error.loading.moves": {
       "en": "Error loading moves",
-      "->": "Hareketleri yükleme hatası"
+      "->": "Hamleleri yükleme hatası"
     },
     "gamesaverbinary.unable.to.save": {
       "en": "I was unable to save the game, make sure you have sufficient storage on your device",
-      "->": "Oyunu kaydedemedim, lütfen cihazında yeterli depolama alanı olduğunu kontrol et."
+      "->": "Oyunu kaydedemedik, lütfen cihazında yeterli depolama alanı olduğundan emin ol!"
     },
     "gamesaverbinary.unable.to.save.title": {
       "en": "Could not save :(",
@@ -1865,15 +1865,15 @@
     },
     "gamesettings.autoskip": {
       "en": "Auto Skip",
-      "->": ""
+      "->": "Oto Pas Geç"
     },
     "gamesettings.autoskip.disabled": {
       "en": "Disabled",
-      "->": ""
+      "->": "Devre Dışı"
     },
     "gamesettings.autoskip.enabled": {
       "en": "Enabled",
-      "->": ""
+      "->": "Etkin"
     },
     "gamesettings.continue": {
       "en": "CONTINUE",
@@ -1881,7 +1881,7 @@
     },
     "gamesettings.createslot": {
       "en": "Creating game slot...",
-      "->": "Oyun alanı oluşturluyor..."
+      "->": "Oyun yuvası oluşturuluyor..."
     },
     "gamesettings.createslot.error": {
       "en": "Error creating game",
@@ -1921,7 +1921,7 @@
     },
     "gamesettings.findmatch": {
       "en": "FIND MATCH",
-      "->": ""
+      "->": "MAÇ BUL"
     },
     "gamesettings.game": {
       "en": "Game {0}",
@@ -1937,11 +1937,11 @@
     },
     "gamesettings.info.gamepreferences.header": {
       "en": "Advanced settings",
-      "->": ""
+      "->": "Gelişmiş ayarlar"
     },
     "gamesettings.info.gamepreferences.info": {
       "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
-      "->": ""
+      "->": "Ne kadar fazla tercih belirtirsen rakip bulman da o kadar sürer. Eğer çabuk bir oyun arıyorsan tercihlere dokunma."
     },
     "gamesettings.info.local": {
       "en": "{0} opponents, {1} tiles map",
@@ -1949,23 +1949,23 @@
     },
     "gamesettings.info.matchmaking.gamemode": {
       "en": "{0} game",
-      "->": ""
+      "->": "{0} oyunu"
     },
     "gamesettings.info.matchmaking.mappreset": {
       "en": "{0} map type",
-      "->": ""
+      "->": "{0} tipi harita"
     },
     "gamesettings.info.matchmaking.mapsize": {
       "en": "{0} tiles map",
-      "->": ""
+      "->": "{0} karelik alan"
     },
     "gamesettings.info.matchmaking.opponentcount": {
       "en": "{0} opponents",
-      "->": ""
+      "->": "{0} rakip"
     },
     "gamesettings.info.matchmaking.timelimit": {
       "en": "{0} turn time limit",
-      "->": ""
+      "->": "{0} tur süresi limiti"
     },
     "gamesettings.info.multiplayer": {
       "en": "{0} players, {1} tiles map",
@@ -1973,23 +1973,23 @@
     },
     "gamesettings.info.seed": {
       "en": "Seed",
-      "->": ""
+      "->": "Tohum"
     },
     "gamesettings.info.turnlimit30": {
       "en": ", 30 turn limit",
-      "->": ", 30 sıra limiti"
+      "->": ", 30 tur limiti"
     },
     "gamesettings.livegame": {
       "en": "Live Game",
-      "->": ""
+      "->": "Canlı Oyun"
     },
     "gamesettings.livegame.description": {
       "en": "Live Games use a dynamic timer that increases based on how many units & cities you have. Any time left at the end of your turn will be added to your next turn.",
-      "->": ""
+      "->": "Canlı Oyunlar, sahip olduğunuz birim ve şehir sayısına bağlı olarak artan dinamik bir zamanlayıcı kullanır. Tur sonunda artan süre bir sonraki turunuza eklenecektir."
     },
     "gamesettings.map": {
       "en": "Map Type",
-      "->": ""
+      "->": "Harita Tipi"
     },
     "gamesettings.map.archipelago": {
       "en": "Archipelago",
@@ -2013,7 +2013,7 @@
     },
     "gamesettings.matchmaking.noedit": {
       "en": "Open for any kind of game",
-      "->": ""
+      "->": "Herhangi bir tür oyun aç"
     },
     "gamesettings.mode": {
       "en": "Game Mode",
@@ -2021,7 +2021,7 @@
     },
     "gamesettings.network": {
       "en": "Network",
-      "->": "Ağ"
+      "->": "Çevrimiçi/Çevrimdışı"
     },
     "gamesettings.network.online": {
       "en": "Online",
@@ -2029,27 +2029,27 @@
     },
     "gamesettings.network.passplay": {
       "en": "Pass & Play",
-      "->": "Sırayla Oyna"
+      "->": "Elden Ele"
     },
     "gamesettings.notavailable": {
       "en": "Not Available",
-      "->": "Mevcut Değil"
+      "->": "Müsait Değil"
     },
     "gamesettings.notenoughplayers": {
       "en": "You need at least two players to start a game",
-      "->": ""
+      "->": "Oyunu başlatmak için en azından 2 oyuncuya ihtiyacın var"
     },
     "gamesettings.novalidtribes": {
       "en": "No Valid Tribes",
-      "->": ""
+      "->": "Geçerli Kabile Yok"
     },
     "gamesettings.novalidtribes.info": {
       "en": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
-      "->": ""
+      "->": "Şu anda seçilebilir durumda olan bir kabile yok. Devam edebilmek için en az bir tanesini etkinleştir ya da kilidini aç."
     },
     "gamesettings.online.disabled": {
       "en": "Online is locked",
-      "->": "Çevrimiçi kilitli"
+      "->": "Çevrimiçi oyun kilitli"
     },
     "gamesettings.online.disabled.info": {
       "en": "There are some things you need to fix to play online multiplayer",
@@ -2065,7 +2065,7 @@
     },
     "gamesettings.passplay.info": {
       "en": "Play with your friends offline on this device by passing it around.",
-      "->": "Arkadaşlarınla tek cihazda çevrimdışı olarak sırayla oynayın."
+      "->": "Arkadaşlarınla tek cihazda çevrimdışı olarak elden ele oynayın."
     },
     "gamesettings.players": {
       "en": "Players",
@@ -2097,7 +2097,7 @@
     },
     "gamesettings.size.small": {
       "en": "Small",
-      "->": ""
+      "->": "Küçük"
     },
     "gamesettings.size.tiles": {
       "en": "{0} tiles map.",
@@ -2105,11 +2105,11 @@
     },
     "gamesettings.size.tiles.unspecified": {
       "en": "You might get any size of a map. Exciting!",
-      "->": ""
+      "->": "Herhangi bir büyüklükte harita seçebilirsin. Heyecan verici!"
     },
     "gamesettings.size.tiny": {
       "en": "Tiny",
-      "->": "Küçük"
+      "->": "Minik"
     },
     "gamesettings.startgame": {
       "en": "START GAME",
@@ -2117,19 +2117,19 @@
     },
     "gamesettings.timelimit": {
       "en": "Turn Time Limit",
-      "->": ""
+      "->": "Tur Süre Limiti"
     },
     "gamesettings.timer": {
       "en": "Game Timer",
-      "->": ""
+      "->": "Oyun Zamanlayıcısı"
     },
     "gamesettings.timer.description": {
       "en": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
-      "->": ""
+      "->": "Her oyuncunun hamlelerini yapması gereken süre.\n\nBir oyuncunun süresi dolarsa diğer oyuncular pas geçmesini isteyebilir."
     },
     "gamesettings.timer.live": {
       "en": "Live",
-      "->": ""
+      "->": "Canlı"
     },
     "gamesettings.title": {
       "en": "GAME SETUP",
@@ -2137,7 +2137,7 @@
     },
     "gamesettings.unknown": {
       "en": "Unknown",
-      "->": ""
+      "->": "Bilinmeyen"
     },
     "gamesettings.unlockmore": {
       "en": "Unlock more tribes to play with more opponents",
@@ -2145,7 +2145,7 @@
     },
     "gamesettings.unspecified": {
       "en": "Any",
-      "->": ""
+      "->": "Herhangi biri"
     },
     "gamesettings.yourname": {
       "en": "Your Name",
@@ -2153,7 +2153,7 @@
     },
     "gamestats.battle": {
       "en": "Battle skills",
-      "->": "Savaş yetenekleri"
+      "->": "Savaş becerileri"
     },
     "gamestats.battle.info": {
       "en": "{0} won, {1} lost",
@@ -2169,15 +2169,15 @@
     },
     "gamestats.speed": {
       "en": "Speed skills",
-      "->": "Hız yetenekleri"
+      "->": "Hız becerileri"
     },
     "gamestats.speed.info": {
       "en": "{0}/{1} turns",
-      "->": "{0}/{1} sıra"
+      "->": "{0}/{1} tur"
     },
     "gamestats.title": {
       "en": "GAME STATS",
-      "->": ""
+      "->": "OYUN İSTATİSTİKLERİ"
     },
     "gamestatus.capitals": {
       "en": "Capitals Owned",
@@ -2201,11 +2201,11 @@
     },
     "gamestatus.killedonturn": {
       "en": "killed on turn {0}",
-      "->": ""
+      "->": "tur {0}'da öldürüldü"
     },
     "gamestatus.ruled": {
       "en": "Ruled by {0}",
-      "->": "{0}'in kontrolünde"
+      "->": "{0}'in yönetiminde"
     },
     "gamestatus.ruled.bot": {
       "en": "bot",
@@ -2217,7 +2217,7 @@
     },
     "gamestatus.ruler": {
       "en": "Ruler of the {0}",
-      "->": ""
+      "->": "{0}'ın yöneticisi"
     },
     "gamestatus.score": {
       "en": "score: {0} points",
@@ -2233,7 +2233,7 @@
     },
     "gamestatus.tasks.complete": {
       "en": "Complete!",
-      "->": "Tamamlandi!"
+      "->": "Tamamlandı!"
     },
     "gamestatus.tribes": {
       "en": "Tribes destroyed",
@@ -2257,11 +2257,11 @@
     },
     "highscore.error": {
       "en": "Failed to upload highscore to server, do you want to retry?",
-      "->": ""
+      "->": "Sunucuya yüksek skor gönderilemedi, tekrar denemek ister misin?"
     },
     "highscore.error.title": {
       "en": "Highscore error",
-      "->": ""
+      "->": "Yüksek skor hatası"
     },
     "highscore.hiscore": {
       "en": "hiscore",
@@ -2289,19 +2289,19 @@
     },
     "highscore.uploading": {
       "en": "Uploading high score...",
-      "->": ""
+      "->": "Yüksek skor gönderiliyor..."
     },
     "highscore.uploading.failed": {
       "en": "Failed to upload high score",
-      "->": ""
+      "->": "Yüksek skor gönderilemedi"
     },
     "highscore.uploading.successful": {
       "en": "High score uploaded...",
-      "->": ""
+      "->": "Yüksek skor gönderildi..."
     },
     "highscore.uptodate": {
       "en": "Everything is up to date",
-      "->": ""
+      "->": "Herşey güncel durumda"
     },
     "idconsole.clipboard.title": {
       "en": "Voilà!",
@@ -2309,51 +2309,51 @@
     },
     "matchmakinggameinfo.waited": {
       "en": "Waited",
-      "->": ""
+      "->": "Beklendi"
     },
     "matchmakinggameinfo.waitingforplayers": {
       "en": "Waiting for {0} additional {1}",
-      "->": "Waiting for {0} additional players"
+      "->": "{0} ek oyuncu bekleniyor"
     },
     "migration.restoredescription": {
       "en": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
-      "->": ""
+      "->": "Daha önce kabile satın aldıysanız, Polytopia'nın bu yepyeni versiyonunda görünmelerini sağlamak için onları geri yüklemeniz gerekir."
     },
     "migration.restoreheader": {
       "en": "Restore?",
-      "->": ""
+      "->": "Geri yükle?"
     },
     "misc.error.title": {
       "en": "Error",
-      "->": ""
+      "->": "Hata"
     },
     "misc.errorloadinggame": {
       "en": "Failed to load game",
-      "->": ""
+      "->": "Oyun yüklenemedi"
     },
     "misc.failedcommand": {
       "en": "Failed to send command to server. Do you want to try again?",
-      "->": ""
+      "->": "Sunucuya komut gönderilemedi. Tekrar denemek ister misin?"
     },
     "misc.gameoutofsync": {
       "en": "Your game failed to sync with the server. Do you want to try again?",
-      "->": ""
+      "->": "Oyunun sunucuyla senkronize edilemedi. Tekrar denemek ister misin?"
     },
     "misc.player": {
       "en": "player",
-      "->": ""
+      "->": "oyuncu"
     },
     "misc.players": {
       "en": "players",
-      "->": ""
+      "->": "oyuncular"
     },
     "misc.pushfailed": {
       "en": "Failed to handle incoming notification from server",
-      "->": ""
+      "->": "Sunucudan gelen bildirim işlenemedi"
     },
     "misc.resetfailed": {
       "en": "Game is missing or corrupt",
-      "->": ""
+      "->": "Oyun kayıp veya bozuk"
     },
     "mplayerstats.alias": {
       "en": "Alias",
@@ -2365,7 +2365,7 @@
     },
     "mplayerstats.avatar.edit": {
       "en": "<sprite=\"texticons\" index=0><u>Edit</u>",
-      "->": "Edit"
+      "->": "Düzenle"
     },
     "mplayerstats.clear": {
       "en": "clear data",
@@ -2377,11 +2377,11 @@
     },
     "mplayerstats.elo.description": {
       "en": "The Elo rating system is a method for calculating the relative skill levels of players.",
-      "->": ""
+      "->": "Elo derecelendirme sistemi, oyuncuların değişken beceri seviyelerini hesaplamak için bir yöntemdir."
     },
     "mplayerstats.friends": {
       "en": "nº of friends",
-      "->": "Arkadaş nº'su "
+      "->": "Arkadaş sayısı"
     },
     "mplayerstats.games": {
       "en": "Games Played",
@@ -2389,7 +2389,7 @@
     },
     "mplayerstats.gameversion": {
       "en": "Game version",
-      "->": ""
+      "->": "Oyun sürümü"
     },
     "mplayerstats.loaderror": {
       "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
@@ -2405,11 +2405,11 @@
     },
     "mplayerstats.multiplayer.faq.lower": {
       "en": "Multiplayer FAQ",
-      "->": ""
+      "->": "Çok Oyunculu SSS"
     },
     "mplayerstats.rating": {
       "en": "Elo Rating",
-      "->": "Multiplayer Rating"
+      "->": "Çok Oyunculu Sıralama"
     },
     "mplayerstats.reload": {
       "en": "reload multiplayer data",
@@ -2437,7 +2437,7 @@
     },
     "multiplayer.clipboard": {
       "en": "Gamedata added to clipboard",
-      "->": "Oyun verisi panoya eklendi."
+      "->": "Oyun verisi panoya kopyalandı."
     },
     "multiplayer.clipboard.title": {
       "en": "Voilà!",
@@ -2445,7 +2445,7 @@
     },
     "multiplayer.creategame": {
       "en": "Create game",
-      "->": "Oyun yarat"
+      "->": "Oyun oluştur"
     },
     "multiplayer.finishedgames": {
       "en": "Finished Games",
@@ -2453,7 +2453,7 @@
     },
     "multiplayer.passplay": {
       "en": "Pass & Play",
-      "->": "Sırayla Oyna"
+      "->": "Elden Ele"
     },
     "multiplayer.passplay.info": {
       "en": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
@@ -2465,15 +2465,15 @@
     },
     "news.error.failed": {
       "en": "Failed to load news",
-      "->": ""
+      "->": "Haberler yüklenemedi"
     },
     "news.error.title": {
       "en": "Error",
-      "->": ""
+      "->": "Hata"
     },
     "news.timeago": {
       "en": "{0} ago",
-      "->": "{0} days ago"
+      "->": "{0} önce"
     },
     "news.title": {
       "en": "POLYTOPIA NEWS",
@@ -2481,11 +2481,11 @@
     },
     "notifications.defaultheader": {
       "en": "Alert",
-      "->": ""
+      "->": "Alarm"
     },
     "notifications.restorecomplete": {
       "en": "{0} items restored",
-      "->": ""
+      "->": "{0} eşya geri yüklendi"
     },
     "onlineview.check": {
       "en": "check",
@@ -2501,11 +2501,11 @@
     },
     "onlineview.completed": {
       "en": "completed",
-      "->": "tamamlandi"
+      "->": "tamamlandı"
     },
     "onlineview.favorites": {
       "en": "Favourites ({0}/{1})",
-      "->": ""
+      "->": "Favoriler ({0}/{1})"
     },
     "onlineview.fixit": {
       "en": "FIX IT",
@@ -2537,19 +2537,19 @@
     },
     "onlineview.game.leavematchmaking": {
       "en": "LEAVE",
-      "->": ""
+      "->": "AYRIL"
     },
     "onlineview.game.leavematchmaking.info": {
       "en": "Are you sure you want to stop waiting for this game?",
-      "->": ""
+      "->": "Bu oyun için beklemeyi bırakmak istediğine emin misin?"
     },
     "onlineview.game.leavematchmaking.title": {
       "en": "Leave",
-      "->": ""
+      "->": "Ayrıl"
     },
     "onlineview.game.missingplayer": {
       "en": "Empty",
-      "->": ""
+      "->": "Boş"
     },
     "onlineview.game.moreinfo": {
       "en": "More info",
@@ -2557,7 +2557,7 @@
     },
     "onlineview.game.old.info": {
       "en": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
-      "->": "Bu oyun, oyunun eski bir sürümü ile oluşturulmuş. Ne yazık ki yüklenemez :( Tavsiyem onu silmen ve yenisine başlaman. Rahatsızlık için özür dileriz."
+      "->": "Bu oyun, Polytopia'nın eski bir sürümü ile oluşturuldu. Maalesef yüklenemiyor :( Benim önerim onu ​​silip yeni bir tane başlatmanızdır. Verdiğimiz rahatsızlıktan dolayı özür dileriz."
     },
     "onlineview.game.old.title": {
       "en": "Old file version",
@@ -2577,19 +2577,19 @@
     },
     "onlineview.game.player.left": {
       "en": "{0} has left the game {1} and has been replaced by a bot.",
-      "->": "{0}, {1} oyunundan ayrıldı,  bir bot onun yerine geçti."
+      "->": "{0}, {1} oyunundan ayrıldı, bir bot onun yerine geçti."
     },
     "onlineview.game.replays.share.button": {
       "en": "Share",
-      "->": ""
+      "->": "Paylaş"
     },
     "onlineview.game.replays.share.description": {
       "en": "Use this link to show this replay to your friends or enemies:",
-      "->": ""
+      "->": "İşte! Bu oyun tekrarını dostlarına ya da düşmanlarına gösterebilmen için bir link:"
     },
     "onlineview.game.replays.share.title": {
       "en": "Share This Replay",
-      "->": ""
+      "->": "Bu Tekrarı Paylaş"
     },
     "onlineview.game.resign": {
       "en": "RESIGN",
@@ -2605,11 +2605,11 @@
     },
     "onlineview.game.resigned": {
       "en": "You are now resigned.",
-      "->": ""
+      "->": "Oyundan çekildin."
     },
     "onlineview.game.resigning": {
       "en": "Resigning...",
-      "->": ""
+      "->": "Teslim olunuyor..."
     },
     "onlineview.game.size": {
       "en": "Map Size",
@@ -2625,15 +2625,15 @@
     },
     "onlineview.gamedeleted.info": {
       "en": "The game {0} has been deleted because all other players rejected the game.",
-      "->": ""
+      "->": "Oyun ({0}) silindi çünkü diğer tüm oyuncular davetini reddetti."
     },
     "onlineview.gamedeleted.title": {
       "en": "Game Deleted",
-      "->": ""
+      "->": "Oyun silindi"
     },
     "onlineview.gamedeleted.unknowngame": {
       "en": "Unknown Game",
-      "->": ""
+      "->": "Bilinmeyen oyun"
     },
     "onlineview.gameinvitations": {
       "en": "Game Invitations",
@@ -2649,59 +2649,59 @@
     },
     "onlineview.kicked.automatic": {
       "en": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
-      "->": ""
+      "->": "Uzun süre boyunca otomatik tur geçmeyi kullandığın için {0} oyunundan atıldın."
     },
     "onlineview.kicked.automatic.other": {
       "en": "{0} was automatically kicked from the game {1} and is now frozen.",
-      "->": ""
+      "->": "{0}, {1} oyunundan otomatik olarak atıldı ve şimdi dondu."
     },
     "onlineview.kicked.info": {
       "en": "{0} have kicked you from the game {1} since you took too long to finish your turn.",
-      "->": ""
+      "->": "{0}, hamleni yapman çok uzun sürdüğü için {1} oyunundan attı."
     },
     "onlineview.kicked.title": {
       "en": "You got Kicked",
-      "->": ""
+      "->": "Atıldın"
     },
     "onlineview.kicked.title.other": {
       "en": "{0} was kicked",
-      "->": ""
+      "->": "{0} atıldı"
     },
     "onlineview.ladder.ended": {
       "en": "Ended",
-      "->": ""
+      "->": "Sona erdi"
     },
     "onlineview.ladder.ends": {
       "en": "Ends in {0}",
-      "->": ""
+      "->": "{0} içinde bitecek"
     },
     "onlineview.ladder.join": {
       "en": "JOIN LADDER",
-      "->": ""
+      "->": "SIRALAMAYA KATIL"
     },
     "onlineview.ladder.leave": {
       "en": "LEAVE LADDER",
-      "->": ""
+      "->": "SIRALAMADAN AYRIL"
     },
     "onlineview.ladder.loading": {
       "en": "Loading ladder data...",
-      "->": ""
+      "->": "Sıralama bilgileri yükleniyor..."
     },
     "onlineview.ladder.placements.header": {
       "en": "Placements",
-      "->": ""
+      "->": "Yerleştirmeler"
     },
     "onlineview.ladder.play": {
       "en": "PLAY LADDER",
-      "->": ""
+      "->": "SIRALAMADA OYNA"
     },
     "onlineview.ladders": {
       "en": "Ladders",
-      "->": ""
+      "->": "Sıralamalar"
     },
     "onlineview.lastgames": {
       "en": "Last {0} Games",
-      "->": ""
+      "->": "Son {0} Oyun"
     },
     "onlineview.loaderror": {
       "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
@@ -2709,7 +2709,7 @@
     },
     "onlineview.loading.title": {
       "en": "Loading...",
-      "->": ""
+      "->": "Yükleniyor..."
     },
     "onlineview.loadingservice": {
       "en": "Loading Service",
@@ -2717,39 +2717,39 @@
     },
     "onlineview.lobby.invite.title": {
       "en": "Invite players ({0}/{1})",
-      "->": ""
+      "->": "Oyuncuları davet et ({0}/{1})"
     },
     "onlineview.lobby.leave.info": {
       "en": "Are you sure you want to leave this lobby?",
-      "->": ""
+      "->": "Lobiyi terk etmek istediğine emin misin?"
     },
     "onlineview.lobby.leave.title": {
       "en": "Leave",
-      "->": ""
+      "->": "Ayrıl"
     },
     "onlineview.lobby.player.add": {
       "en": "Add",
-      "->": ""
+      "->": "Ekle"
     },
     "onlineview.lobby.readytostart": {
       "en": "Ready to start",
-      "->": ""
+      "->": "Başlamaya hazır"
     },
     "onlineview.lobby.starting": {
       "en": "Game is starting...",
-      "->": ""
+      "->": "Oyun başlıyor..."
     },
     "onlineview.lobby.waitingforplayers": {
       "en": "Waiting for {0} additional {1}",
-      "->": ""
+      "->": "{0} ek {1} için bekleniyor..."
     },
     "onlineview.lobby.waitingforplayers.title": {
       "en": "Are you sure",
-      "->": ""
+      "->": "Emin misin?"
     },
     "onlineview.lobby.waitingforplayers.warning": {
       "en": "Not everyone has accepted your invite, do you wish to start the game without them?",
-      "->": ""
+      "->": "Davetini henüz herkes kabul etmedi, oyunu onlarsız başlatmak ister misin?"
     },
     "onlineview.login.ios": {
       "en": "Log in to {0}",
@@ -2761,19 +2761,19 @@
     },
     "onlineview.login.ios.info2": {
       "en": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
-      "->": ""
+      "->": "Cihazının ayarlar sekmesine git, Game Center bölümünü seç ve Apple ID'n ile bağlan."
     },
     "onlineview.login.tesla": {
       "en": "Create Online Profile",
-      "->": ""
+      "->": "Çevrimiçi Profil Oluştur"
     },
     "onlineview.login.tesla.info": {
       "en": "Create a profile in Tesla Arcade to play online with friends",
-      "->": ""
+      "->": "Arkadaşlarınla çevrimiçi oynamak için Tesla Arcade'de bir profil oluştur."
     },
     "onlineview.matchmaking": {
       "en": "RANDOM MATCH",
-      "->": ""
+      "->": "RASTGELE MAÇ"
     },
     "onlineview.newgame": {
       "en": "New Game",
@@ -2793,11 +2793,11 @@
     },
     "onlineview.noladders": {
       "en": "No ladders available",
-      "->": ""
+      "->": "Bir sıralama mevcut değil"
     },
     "onlineview.noreplays": {
       "en": "When you have completed a multiplayer game it will show up here so you can watch the replay",
-      "->": ""
+      "->": "Çok oyunculu bir oyun tamamladığında tekrarını izleyebilesin diye burada görünecek."
     },
     "onlineview.notifications": {
       "en": "Enable notifications",
@@ -2809,7 +2809,7 @@
     },
     "onlineview.ongoing": {
       "en": "Ongoing",
-      "->": ""
+      "->": "Devam Eden"
     },
     "onlineview.or": {
       "en": "or",
@@ -2817,11 +2817,11 @@
     },
     "onlineview.passplay": {
       "en": "Pass & Play",
-      "->": "Sırayla Oyna"
+      "->": "Elden Ele"
     },
     "onlineview.passplay.start": {
       "en": "Start a local Pass & Play game by tapping 'New Game'",
-      "->": "'Yeni Oyun' a tıklayarak yerel bir 'Sırayla Oyna' oyunu başlat."
+      "->": "'Yeni Oyun' a tıklayarak yerel bir 'Elden Ele' oyunu başlat."
     },
     "onlineview.profile": {
       "en": "Profile",
@@ -2833,15 +2833,15 @@
     },
     "onlineview.purchase": {
       "en": "Purchase one Tribe",
-      "->": "Bir Irk Satın Al"
+      "->": "Bir Kabile Satın Al"
     },
     "onlineview.purchase.info": {
       "en": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
-      "->": "Çevrimiçi bir çok oyunculu servisi çalıştırmak, gerçek paraya mâl olur ve biz sizin gibi oyunculardan nazik bir destek bekliyoruz."
+      "->": "Çevrimiçi bir çok oyunculu servisi çalıştırmak, gerçek paraya mâl olur ve biz sizin gibi oyunculardan sadece nazik bir destek bekliyoruz."
     },
     "onlineview.randommatch.start": {
       "en": "Start a game with a random opponent",
-      "->": ""
+      "->": "Rastgele bir rakibe karşı bir oyun başlat"
     },
     "onlineview.refresh": {
       "en": "Refresh",
@@ -2857,19 +2857,19 @@
     },
     "onlineview.replay.delete.info": {
       "en": "Are you sure you want to delete this replay?",
-      "->": ""
+      "->": "Bu tekrarı silmek istediğine emin misin?"
     },
     "onlineview.replay.delete.title": {
       "en": "Delete",
-      "->": ""
+      "->": "Sil"
     },
     "onlineview.replays": {
       "en": "Replays",
-      "->": ""
+      "->": "Tekrarlar"
     },
     "onlineview.replays.loading": {
       "en": "Loading replay data...",
-      "->": ""
+      "->": "Tekrar verisi yükleniyor..."
     },
     "onlineview.required": {
       "en": "required",
@@ -2877,15 +2877,15 @@
     },
     "onlineview.resigned.competitive.info": {
       "en": "{0} resigned from the game {1} and is now frozen.",
-      "->": ""
+      "->": "{0}, {1} oyunundan çekildi ve dondu."
     },
     "onlineview.resigned.info": {
       "en": "{0} resigned from the game {1} and have been replaced by a bot.",
-      "->": ""
+      "->": "{0}, {1} oyunundan çekildi ve yerine bir bot yerleştirildi."
     },
     "onlineview.resigned.title": {
       "en": "{0} Resigned",
-      "->": ""
+      "->": "{0} Çekildi"
     },
     "onlineview.servicedisabled": {
       "en": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
@@ -2893,19 +2893,19 @@
     },
     "onlineview.skipped.info.local": {
       "en": "You were skipped.",
-      "->": ""
+      "->": "Pas geçtin."
     },
     "onlineview.skipped.info.other": {
       "en": "{0} was skipped.",
-      "->": ""
+      "->": "{0} pas geçti."
     },
     "onlineview.skipped.info.tribe.local": {
       "en": "You were assigned a random tribe due to inactivity.",
-      "->": ""
+      "->": "Hareketsizliğin nedeniyle rastgele bir kabileye atandın."
     },
     "onlineview.skipped.info.tribe.other": {
       "en": "{0} was assigned a random tribe due to inactivity.",
-      "->": ""
+      "->": "{0}, hareketsizlik nedeniyle rastgele bir kabileye atandı."
     },
     "onlineview.skipped.title.empty": {
       "en": "Skipped",
@@ -2913,11 +2913,11 @@
     },
     "onlineview.skipped.title.game": {
       "en": "Skipped in {0}",
-      "->": ""
+      "->": "{0}'de pas geçildi."
     },
     "onlineview.theirturn": {
       "en": "Their Turn",
-      "->": "Onların Sırası"
+      "->": "Sıra Onlarda"
     },
     "onlineview.title": {
       "en": "MULTIPLAYER",
@@ -2925,251 +2925,251 @@
     },
     "onlineview.uptodate": {
       "en": "All games are up to date",
-      "->": "Bütün oyunlar güncel"
+      "->": "Tüm oyunlar güncel"
     },
     "onlineview.uptodate.ladders": {
       "en": "All ladders are up to date",
-      "->": ""
+      "->": "Tüm sıralamalar güncel"
     },
     "onlineview.uptodate.replays": {
       "en": "All replays are up to date",
-      "->": ""
+      "->": "Tüm tekrarlar güncel"
     },
     "onlineview.waiting": {
       "en": "Waiting for Players",
-      "->": ""
+      "->": "Oyuncular için Bekleniyor"
     },
     "onlineview.waiting.server": {
       "en": "Waiting for server response...",
-      "->": ""
+      "->": "Sunucunun yanıt vermesi bekleniyor..."
     },
     "onlineview.yourturn": {
       "en": "Your Turn",
-      "->": ""
+      "->": "Sıra Sende"
     },
     "opinion.noopinion": {
       "en": "They don't know about you yet",
-      "->": ""
+      "->": "Henüz senin hakkında bir şey bilmiyorlar."
     },
     "opinion.reason.aggression": {
       "en": "violent",
-      "->": ""
+      "->": "hiddetli"
     },
     "opinion.reason.aggression.description": {
       "en": "You recently attacked them",
-      "->": ""
+      "->": "Yakın zamanda onlara saldırdınız."
     },
     "opinion.reason.brave": {
       "en": "brave",
-      "->": ""
+      "->": "yiğit"
     },
     "opinion.reason.brave.description": {
       "en": "You fighting against the strongest tribe",
-      "->": ""
+      "->": "En güçlü kabileye karşı savaşıyorsun."
     },
     "opinion.reason.commonrelation": {
       "en": "wise",
-      "->": ""
+      "->": "akıllı"
     },
     "opinion.reason.commonrelation.description": {
       "en": "You share the same friends or enemies",
-      "->": ""
+      "->": "Ortak dost ya da düşmanlara sahipsiniz."
     },
     "opinion.reason.differentrelation": {
       "en": "foolish",
-      "->": ""
+      "->": "ahmak"
     },
     "opinion.reason.differentrelation.description": {
       "en": "You are at war with their friends, or have made peace with their enemies",
-      "->": ""
+      "->": "Dostlarıyla savaştasın ya da düşmanlarıyla barış içindesin."
     },
     "opinion.reason.dislike": {
       "en": "annoying",
-      "->": ""
+      "->": "gıcık"
     },
     "opinion.reason.dislike.description": {
       "en": "They just don't like you",
-      "->": ""
+      "->": "Öylesine senden nefret ediyorlar."
     },
     "opinion.reason.embassy": {
       "en": "diplomatic",
-      "->": ""
+      "->": "diplomatik"
     },
     "opinion.reason.embassy.description": {
       "en": "You have good diplomatic connections through your embassies",
-      "->": ""
+      "->": "Elçilikleriniz aracılığıyla iyi bir diplomatik bağlantıya sahipsiniz."
     },
     "opinion.reason.intrusive": {
       "en": "intrusive",
-      "->": ""
+      "->": "davetsiz"
     },
     "opinion.reason.intrusive.description": {
       "en": "Your borders are very close",
-      "->": ""
+      "->": "Sınırlarınız birbirine gerçekten çok yakın."
     },
     "opinion.reason.like": {
       "en": "charming",
-      "->": ""
+      "->": "çekici"
     },
     "opinion.reason.like.description": {
       "en": "For some reason they just seem to like you",
-      "->": ""
+      "->": "Bi' sebepten ötürü seni seviyor gibiler."
     },
     "opinion.reason.peaceful": {
       "en": "peaceful",
-      "->": ""
+      "->": "barışçıl"
     },
     "opinion.reason.peaceful.description": {
       "en": "You have not attacked them in a long time",
-      "->": ""
+      "->": "Uzunca bir süredir kendilerine saldırmadın."
     },
     "opinion.reason.powerful": {
       "en": "powerful",
-      "->": ""
+      "->": "güçlü"
     },
     "opinion.reason.powerful.description": {
       "en": "They are impressed by your military power",
-      "->": ""
+      "->": "Askeri gücünden etkilenmişler."
     },
     "opinion.reason.threatening": {
       "en": "threatening",
-      "->": ""
+      "->": "tehditkar"
     },
     "opinion.reason.threatening.description": {
       "en": "You have military units near their territory",
-      "->": ""
+      "->": "Bölgelerinin yakınlarında askeri birimlerin var."
     },
     "opinion.reason.weak": {
       "en": "weak",
-      "->": ""
+      "->": "zayıf"
     },
     "opinion.reason.weak.description": {
       "en": "Your army is weak compared to them, you are an easy target",
-      "->": ""
+      "->": "Ordun onlara kıyasla zayıf, kolay hedefsin."
     },
     "opinion.reason.winning": {
       "en": "dominating",
-      "->": ""
+      "->": "muzaffer"
     },
     "opinion.reason.winning.description": {
       "en": "You are about to win the game",
-      "->": ""
+      "->": "Oyunu kazanmak üzeresin."
     },
     "player.abilities.capitalvision": {
       "en": "Capital Vision",
-      "->": ""
+      "->": "Başkent Tespit"
     },
     "player.abilities.decompose": {
       "en": "Decompose",
-      "->": ""
+      "->": "Ayrıştırma"
     },
     "player.abilities.destroy": {
       "en": "Destroy",
-      "->": "yok etme"
+      "->": "Yıkım"
     },
     "player.abilities.disband": {
       "en": "Disband",
-      "->": "terhis etme"
+      "->": "Terhis"
     },
     "player.abilities.embassy": {
       "en": "Embassy",
-      "->": ""
+      "->": "Elçilik"
     },
     "player.abilities.glide": {
       "en": "Glide",
-      "->": "kayma"
+      "->": "Kayma"
     },
     "player.abilities.literacy": {
       "en": "Literacy",
-      "->": "okuryazarlık"
+      "->": "Okuryazarlık"
     },
     "player.abilities.peacetreaty": {
       "en": "Peace Treaty",
-      "->": ""
+      "->": "Barış Antlaşması"
     },
     "playerinfo.locked.researchdiplomacy": {
       "en": "Research Diplomacy to gain more insight.",
-      "->": ""
+      "->": "Daha fazla sezgi kazanmak için 'Diplomasi'yi araştır."
     },
     "playerinfo.locked.upgradeembassy": {
       "en": "Upgrade embassy to gain more insight.",
-      "->": ""
+      "->": "Daha fazla sezgi kazanmak için Elçiliğini yükselt."
     },
     "playerinfo.stats.income": {
       "en": "Income",
-      "->": ""
+      "->": "Gelir"
     },
     "playerinfo.summary.dead": {
       "en": "{0} was destroyed by {1} on turn {2}.",
-      "->": ""
+      "->": "{0}, {1} tarafından {2}. turda da yok edildi."
     },
     "playerinfo.summary.reasons": {
       "en": "They think you are {0}.",
-      "->": ""
+      "->": "Senin {0} olduğunu düşünüyorlar.."
     },
     "playerinfo.summary.ruledby": {
       "en": "The {0} tribe is ruled by {1}.",
-      "->": ""
+      "->": "{0} kabilesi, {1} tarafından yönetiliyor."
     },
     "playerinfo.title": {
       "en": "Tribe Info",
-      "->": ""
+      "->": "Kabile Bilgisi"
     },
     "playerinfo.triberelations.popup.neutral.description": {
       "en": "{0} has a neutral relation to {1}",
-      "->": ""
+      "->": "{0} ve {1} arasında nötr bir bağ var."
     },
     "playerinfo.triberelations.popup.peaceneutral.description": {
       "en": "{0} has a peace treaty with {1}",
-      "->": ""
+      "->": "{0}'ın {1} ile barış antlaşması var."
     },
     "playerinfo.triberelations.popup.peacepeace.description": {
       "en": "You are both at peace with {1}",
-      "->": ""
+      "->": "Her ikiniz de {1} ile barış durumundasınız."
     },
     "playerinfo.triberelations.popup.peacewar.description": {
       "en": "{0} has a peace treaty with your enemy {1}",
-      "->": ""
+      "->": "{0}'ın, senin düşmanın olan {1} ile barış antlaşması var."
     },
     "playerinfo.triberelations.popup.title": {
       "en": "Tribe Relation",
-      "->": ""
+      "->": "Kabile İlişkileri"
     },
     "playerinfo.triberelations.popup.warneutral.description": {
       "en": "{0} is at war with {1}",
-      "->": ""
+      "->": "{0}, {1} ile savaşta."
     },
     "playerinfo.triberelations.popup.warpeace.description": {
       "en": "{0} is at war with your ally {1}",
-      "->": ""
+      "->": "{0}, senin müttefiğin olan {1} ile savaşta."
     },
     "playerinfo.triberelations.popup.warwar.description": {
       "en": "You are both at war with {1}",
-      "->": ""
+      "->": "Her ikiniz de {1} ile savaştasınız."
     },
     "playerinfo.triberelations.title": {
       "en": "Tribe Relations:",
-      "->": ""
+      "->": "Kabile İlişkileri:"
     },
     "playerinfo.triberelations.unknown": {
       "en": "You have not met this tribe yet.",
-      "->": ""
+      "->": "Henüz bu kabileyle tanışmadın."
     },
     "playerinfopopup.bot.description": {
       "en": "This is a bot. Bzzt!",
-      "->": ""
+      "->": "Bu bir bot. Bzzt! Bip! Bop!"
     },
     "playerinfopopup.friend": {
       "en": "friend",
-      "->": ""
+      "->": "arkadaş"
     },
     "playerinfopopup.passandplay.description": {
       "en": "A pass and play player. Epic!",
-      "->": ""
+      "->": "Bir 'Elden Ele' oyuncusu. Destansı!"
     },
     "playerinfopopup.you.description": {
       "en": "This is you. Go you!",
-      "->": ""
+      "->": "Bu sensin. Hadi durma!"
     },
     "playerpickerview.addplayer": {
       "en": "ADD PLAYER",
@@ -3189,7 +3189,7 @@
     },
     "playerpickerview.maptype": {
       "en": "Map type: {0}",
-      "->": ""
+      "->": "Harita tipi: {0}"
     },
     "playerpickerview.mode": {
       "en": "Game mode: {0}",
@@ -3221,19 +3221,19 @@
     },
     "polyplayer.task": {
       "en": "task",
-      "->": "görevi"
+      "->": "görev"
     },
     "polyplayer.task.explorer.description": {
       "en": "Explore every single tile in this square world",
-      "->": "Bu dünyadaki bütün kareleri keşfet"
+      "->": "Bu dünyadaki her bir kareyi keşfet."
     },
     "polyplayer.task.explorer.title": {
       "en": "Explorer",
-      "->": "Kaşif"
+      "->": "Kâşif"
     },
     "polyplayer.task.genius.description": {
       "en": "Discover all available technologies",
-      "->": "Bütün mevcut teknolojileri keşfet"
+      "->": "Bütün mevcut teknolojileri araştır."
     },
     "polyplayer.task.genius.title": {
       "en": "Genius",
@@ -3241,7 +3241,7 @@
     },
     "polyplayer.task.killer.description": {
       "en": "Kill 10 enemies in battle",
-      "->": "Savaşta 10 düşmanı öldür"
+      "->": "Savaşta 10 düşmanı öldür."
     },
     "polyplayer.task.killer.title": {
       "en": "Killer",
@@ -3249,7 +3249,7 @@
     },
     "polyplayer.task.metropolis.description": {
       "en": "Create a level 5 city",
-      "->": "5. seviye bir şehir oluştur"
+      "->": "5. seviye bir şehir oluştur."
     },
     "polyplayer.task.metropolis.title": {
       "en": "Metropolis",
@@ -3257,23 +3257,23 @@
     },
     "polyplayer.task.network.description": {
       "en": "Connect 5 cities to your capital",
-      "->": "Başkentine 5 şehir bağla"
+      "->": "Başkentine 5 şehir bağla."
     },
     "polyplayer.task.network.title": {
       "en": "Network",
-      "->": "Ağ"
+      "->": "Şebeke"
     },
     "polyplayer.task.pacifist.description": {
       "en": "Make no attacks for 5 turns",
-      "->": "5 sıra boyunca kimseye saldırma"
+      "->": "5 tur boyunca kimseye saldırma."
     },
     "polyplayer.task.pacifist.title": {
       "en": "Pacifist",
-      "->": "Barışçıl"
+      "->": "Barışsever"
     },
     "polyplayer.task.wealth.description": {
       "en": "Gather 100 stars",
-      "->": "100 yıldız kazan"
+      "->": "100 yıldız elde et."
     },
     "polyplayer.task.wealth.title": {
       "en": "Wealth",
@@ -3305,103 +3305,103 @@
     },
     "purchasing.error.androidinitializationfailed": {
       "en": "Unable to connect to the Google Play Billing service. This might mean that your Google account is missing or incorrectly set up.",
-      "->": ""
+      "->": "Google Play Faturalandırma Servisi'ne bağlanılamıyor. Bu, Google hesabınızın eksik veya yanlış ayarlanmış olduğu anlamına gelebilir."
     },
     "purchasing.error.duplicatetransaction": {
       "en": "A duplicate transaction error when the transaction has already been completed successfully.",
-      "->": ""
+      "->": "İşlem zaten başarıyla tamamlandığında yinelenen işlem hatası"
     },
     "purchasing.error.existingpurchasepending": {
       "en": "A purchase was already in progress when a new purchase was requested.",
-      "->": ""
+      "->": "Yeni bir satın alma talep edildiğinde bir satın alma işlemi devam etmekteydi."
     },
     "purchasing.error.initializationfailed": {
       "en": "Purchasing failed to initialise",
-      "->": ""
+      "->": "Satın alma işlemi başlatılamadı."
     },
     "purchasing.error.paymentdeclined": {
       "en": "There was a problem with the payment.",
-      "->": ""
+      "->": "Ödemeyle ilgili bir sorun yaşandı."
     },
     "purchasing.error.productunavailable": {
       "en": "The product is not available to purchase on the store.",
-      "->": ""
+      "->": "Bu ürün mağazadan almak için müsait değil."
     },
     "purchasing.error.purchasingunavailable": {
       "en": "The system purchasing feature is unavailable.",
-      "->": ""
+      "->": "Sistem satın alma özelliği kullanılamıyor."
     },
     "purchasing.error.signatureinvalid": {
       "en": "Signature validation of the purchase's receipt failed.",
-      "->": ""
+      "->": "Satın alma makbuzunun imza doğrulaması başarısız oldu."
     },
     "purchasing.error.title": {
       "en": "Purchasing Error",
-      "->": ""
+      "->": "Satın alım hatası"
     },
     "purchasing.error.unknown": {
       "en": "Something unknown went wrong with the purchase. Please try again later.",
-      "->": ""
+      "->": "Satın alımla ilgili bir şey ters gitti. Lütfen daha sonra tekrar deneyin."
     },
     "purchasing.error.usercancelled": {
       "en": "The user opted to cancel rather than proceed with the purchase.",
-      "->": ""
+      "->": "Kullanıcı, satın alım işlemini sürdürmek yerine iptal etmeyi seçti."
     },
     "purchasing.restore.error.message": {
       "en": "Something went wrong while trying to restore your purchases. Please try again later.",
-      "->": ""
+      "->": "Satın aldıklarınızı geri yüklemeye çalışırken bir şeyler ters gitti. Lütfen daha sonra tekrar deneyiniz."
     },
     "purchasing.restore.error.title": {
       "en": "Restore Purchases Failed",
-      "->": ""
+      "->": "Satın Alımları Yenileme Başarısız"
     },
     "push.ended": {
       "en": "{0} has ended, check to see who won!",
-      "->": ""
+      "->": "{0} sona erdi, kimin kazandığını kontrol etmek için tıkla!"
     },
     "push.invited": {
       "en": "You are invited to a new game, {0}",
-      "->": ""
+      "->": "Yeni bir oyuna davetlisin, {0}"
     },
     "push.kicked": {
       "en": "You have been removed from {0}",
-      "->": ""
+      "->": "{0} oyunundan kaldırıldın"
     },
     "push.picktribe": {
       "en": "It is your turn to pick tribe in {0}",
-      "->": ""
+      "->": "{0} oyununda kabile seçimi sırası sende!"
     },
     "push.playerkicked": {
       "en": "Player {0} has been kicked from {1}.",
-      "->": ""
+      "->": "{0} oyuncusu, {1} oyunundan atıldı.."
     },
     "push.playerresigned": {
       "en": "Player {0} has resigned from {1}.",
-      "->": ""
+      "->": "{0} oyuncusu, {1}'dan çekildi."
     },
     "push.randommatchready": {
       "en": "Random match {0} is ready to go!",
-      "->": ""
+      "->": "Rastgele maç ({0}) oynanmaya hazır!"
     },
     "push.readytostart": {
       "en": "{0} is ready to start on your command",
-      "->": ""
+      "->": "{0}, senin komutunla başlamaya hazır!"
     },
     "push.reminder": {
       "en": "We are waiting for you to play in {0}. Come on!!",
-      "->": ""
+      "->": "Senin {0}'da hamle yapmanı bekliyoruz. Hadi ama!!"
     },
     "push.skipped": {
       "en": "Your turn in {0} was skipped since you timed out.",
-      "->": ""
+      "->": "Süren bittiği için {0}'daki sıran atlandı."
     },
     "push.yourturn": {
       "en": "It is your turn in {0} (turn {1})",
-      "->": ""
+      "->": "{0}'da sıra sende (tur {1})"
     },
     "replay.clipboard": {
       "en": "Replay link added to clipboard",
-      "->": ""
+      "->": "Tekrar bağlantısı panoya kopyalandı"
     },
     "replay.clipboard.title": {
       "en": "Voilà!",
@@ -3409,31 +3409,31 @@
     },
     "replay.ended": {
       "en": "Ended {0}",
-      "->": ""
+      "->": "{0} sona erdi"
     },
     "replay.ongoing": {
       "en": "Ongoing",
-      "->": ""
+      "->": "Devam eden"
     },
     "replay.tech.new.message": {
       "en": "{0} discovered the secret of {1}",
-      "->": ""
+      "->": "{0}, {1}'ın gizemlerini keşfetti."
     },
     "replay.turnlabel": {
       "en": "Turn {0}",
-      "->": ""
+      "->": "Tur {0}"
     },
     "replay.viewmode.auto": {
       "en": "Auto",
-      "->": ""
+      "->": "Oto"
     },
     "replay.viewmode.header": {
       "en": "Pick Point of View",
-      "->": ""
+      "->": "Görüş Açısı Seç"
     },
     "replay.winner": {
       "en": "Won by: {0}",
-      "->": ""
+      "->": "{0} tarafından kazanıldı"
     },
     "resource.names.crop": {
       "en": "crop",
@@ -3453,11 +3453,11 @@
     },
     "resource.names.metal": {
       "en": "metal",
-      "->": "Metal"
+      "->": "Cevher"
     },
     "resource.names.spores": {
       "en": "Spores",
-      "->": ""
+      "->": "Sporlar"
     },
     "resource.names.whale": {
       "en": "whale",
@@ -3465,23 +3465,23 @@
     },
     "settings.ambience": {
       "en": "Ambience",
-      "->": "Doğa Sesleri"
+      "->": "Çevre Sesleri"
     },
     "settings.antialias": {
       "en": "Anti-aliasing",
-      "->": ""
+      "->": "Kenar Yumuşatma"
     },
     "settings.compactui": {
       "en": "Compact UI",
-      "->": ""
+      "->": "Kompakt Arayüz"
     },
     "settings.confirm": {
       "en": "Confirm turn",
-      "->": "Sırayı Onayla"
+      "->": "Turu Onayla"
     },
     "settings.fullscreen": {
       "en": "Fullscreen",
-      "->": ""
+      "->": "Tam ekran"
     },
     "settings.hideadvanced": {
       "en": "Hide Advanced Settings",
@@ -3501,15 +3501,15 @@
     },
     "settings.language.load.error.info": {
       "en": "The loaded file does not have a valid JSON Format and can't be parsed.",
-      "->": ""
+      "->": "Yüklenen dosya geçerli bir JSON formatına sahip değil ve ayrıştırılamıyor"
     },
     "settings.language.load.error.title": {
       "en": "Error loading file",
-      "->": ""
+      "->": "Dosya yüklenemedi"
     },
     "settings.language.load.info": {
       "en": "Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
-      "->": "https kullanarak uzak bir sunucudan bir Polytopia dil dosyası yükleyin. Bu özellik deneyseldir, korkaklar için değil."
+      "->": "Https bağlantısı kullanarak uzak bir sunucudan bir Polytopia dil dosyası yükleyin. Bu özellik deneyseldir, korkaklar için değildir."
     },
     "settings.language.load.input": {
       "en": "Language file url:",
@@ -3581,31 +3581,31 @@
     },
     "splashscreen.switch.12tribes": {
       "en": "12 unique Tribes",
-      "->": ""
+      "->": "12 Eşsiz Kabile"
     },
     "splashscreen.switch.again": {
       "en": "Play again!",
-      "->": ""
+      "->": "Tekrar oyna!"
     },
     "splashscreen.switch.challenging": {
       "en": "Challenging AI",
-      "->": ""
+      "->": "Mücadeleci Yapay Zeka"
     },
     "splashscreen.switch.full": {
       "en": "The full version of the game includes:",
-      "->": ""
+      "->": "Oyunun tam sürümü şunları içerir:"
     },
     "splashscreen.switch.gamemodes": {
       "en": "More game modes",
-      "->": ""
+      "->": "Daha fazla oyun modu"
     },
     "splashscreen.switch.thankyou": {
       "en": "Thank you for playing!",
-      "->": ""
+      "->": "Oynadığın için teşekkür ederiz!"
     },
     "splashscreen.switch.upgrade": {
       "en": "Upgrade",
-      "->": ""
+      "->": "Yükselt"
     },
     "startmenu.about": {
       "en": "About",
@@ -3649,15 +3649,15 @@
     },
     "technology.ability": {
       "en": "ability",
-      "->": "yetenek"
+      "->": "beceri"
     },
     "technology.ability.info": {
       "en": "{1} gives you the ability to {1}",
-      "->": "{1} sana {1} için yetenek verir"
+      "->": "{1}, sana {1} yapma yeteneği verir"
     },
     "technology.build": {
       "en": "{0} makes it possible to build {1}",
-      "->": "{0} {1} inşa etmeyi mümkün kılar"
+      "->": "{0}, {1} inşa etmeyi mümkün kılar"
     },
     "technology.defence": {
       "en": "Defense Bonus",
@@ -3665,7 +3665,7 @@
     },
     "technology.defence.info": {
       "en": "gives your unit extra strength when defending in {0}",
-      "->": "birimine {0}da savunma yaparken ekstra güç sağlar"
+      "->": "Birimine {0}da savunma yaparken ekstra güç sağlar."
     },
     "technology.intro": {
       "en": "This tech will enable the following:",
@@ -3677,7 +3677,7 @@
     },
     "technology.movement.info": {
       "en": "enables movement in {0}",
-      "->": "{0}'a hareket etmeyi etkinleştirir"
+      "->": "{0} üzerinde hareket etmeni sağlar."
     },
     "technology.names.aquatism": {
       "en": "Aquatism",
@@ -3705,7 +3705,7 @@
     },
     "technology.names.diplomacy": {
       "en": "Diplomacy",
-      "->": ""
+      "->": "Diplomasi"
     },
     "technology.names.farming": {
       "en": "Farming",
@@ -3717,7 +3717,7 @@
     },
     "technology.names.forestmagic": {
       "en": "Forest Magic",
-      "->": "Orman Sihri"
+      "->": "Orman Büyüsü"
     },
     "technology.names.forestry": {
       "en": "Forestry",
@@ -3741,7 +3741,7 @@
     },
     "technology.names.hydrology": {
       "en": "Hydrology",
-      "->": ""
+      "->": "Hidroloji"
     },
     "technology.names.mathematics": {
       "en": "Mathematics",
@@ -3761,7 +3761,7 @@
     },
     "technology.names.oceanology": {
       "en": "Oceanology",
-      "->": ""
+      "->": "Oşinoloji"
     },
     "technology.names.organization": {
       "en": "Organization",
@@ -3781,7 +3781,7 @@
     },
     "technology.names.recycling": {
       "en": "Recycling",
-      "->": ""
+      "->": "Geri dönüşüm"
     },
     "technology.names.riding": {
       "en": "Riding",
@@ -3789,7 +3789,7 @@
     },
     "technology.names.riding2": {
       "en": "Riding",
-      "->": ""
+      "->": "Kıpırtı"
     },
     "technology.names.roads": {
       "en": "Roads",
@@ -3805,7 +3805,7 @@
     },
     "technology.names.shock": {
       "en": "Shock Tactics",
-      "->": ""
+      "->": "Şok Taktikler"
     },
     "technology.names.smithery": {
       "en": "Smithery",
@@ -3825,7 +3825,7 @@
     },
     "technology.names.watermagic": {
       "en": "Water Magic",
-      "->": "Su Sihri"
+      "->": "Su Büyüsü"
     },
     "technology.names.whaling": {
       "en": "Whaling",
@@ -3833,11 +3833,11 @@
     },
     "technology.requirements": {
       "en": "You need to research {0} to enable this action.",
-      "->": ""
+      "->": "Bunu yapmak için {0} araştırmalısın."
     },
     "technology.task": {
       "en": "{0} activates the {1} task",
-      "->": "{0}, {1} görevini aktifleştirir"
+      "->": "{0}, {1} görevini aktive eder."
     },
     "techview.completed": {
       "en": "(completed)",
@@ -3853,11 +3853,11 @@
     },
     "techview.info": {
       "en": "Tech costs increase for each city in your empire.",
-      "->": "Teknoloji ücreti imparatorluğundaki her şehir için artar."
+      "->": "Teknoloji araştırma maliyeti imparatorluğundaki her şehir için artar."
     },
     "techview.info.literacy": {
       "en": "Literacy reduces the price of all technologies by {0}%!",
-      "->": "Okuryazarlık bütün teknolojilerin fiyatını {0}% azaltır!"
+      "->": "Okuryazarlık bütün teknolojilerin fiyatını %{0} azaltır!"
     },
     "techview.locked": {
       "en": "(locked)",
@@ -3865,7 +3865,7 @@
     },
     "techview.locked.info": {
       "en": "You must research {0} before you can learn {1}.",
-      "->": "{1} öğrenmeden önce {0} 'i araştırmalısın."
+      "->": "{1} öğrenmeden önce {0}'ı araştırmalısın."
     },
     "techview.research": {
       "en": "RESEARCH",
@@ -3873,7 +3873,7 @@
     },
     "terrain.field": {
       "en": "Field",
-      "->": "Boş alan"
+      "->": "Arazi"
     },
     "terrain.forest": {
       "en": "Forest",
@@ -3881,7 +3881,7 @@
     },
     "terrain.ice": {
       "en": "Ice",
-      "->": "Buz"
+      "->": "Buzul"
     },
     "terrain.mountain": {
       "en": "Mountain",
@@ -3905,7 +3905,7 @@
     },
     "throne.clipboard": {
       "en": "Player ID added to clipboard",
-      "->": "Player ID'si panoya kopyalandı"
+      "->": "Oyuncu Kimliği panoya kopyalandı"
     },
     "throne.clipboard.title": {
       "en": "Voilà!",
@@ -3945,7 +3945,7 @@
     },
     "throne.reset": {
       "en": "Reset Scores",
-      "->": "skorları sıfırla"
+      "->": "Skorları Sıfırla"
     },
     "throne.reset.complete": {
       "en": "Scores are now reset",
@@ -3973,19 +3973,19 @@
     },
     "tooltip.ability.agent": {
       "en": "This unit can be built in enemy territory",
-      "->": ""
+      "->": "Bu birim düşman bölgesinde ortaya çıkarılabilir."
     },
     "tooltip.ability.autofreeze": {
       "en": "This unit freezes any surrounding tiles and units when moving.",
-      "->": ""
+      "->": "Bu birim, hareket ettiğinde çevresini dondurur."
     },
     "tooltip.ability.boost": {
       "en": "Give surrounding friendly units a temporary boost in attack and speed.",
-      "->": ""
+      "->": "Çevredeki dost birimlere geçici güç ve hız arttırması sağlar."
     },
     "tooltip.ability.capitalvision": {
       "en": "Reveals the capital of all tribes you encounter.",
-      "->": ""
+      "->": "Karşılaştığın kabilelerin başkentlerini meydana çıkarır."
     },
     "tooltip.ability.carry": {
       "en": "This unit is carrying another unit inside.",
@@ -3997,7 +3997,7 @@
     },
     "tooltip.ability.creep": {
       "en": "This unit does not get any movement penalties in rough terrain.",
-      "->": ""
+      "->": "Bu birim, zorlu zemin koşullarında zayıflık göstermeden hareket edebilir."
     },
     "tooltip.ability.dash": {
       "en": "This unit can attack after moving if there is an enemy in range.",
@@ -4005,15 +4005,15 @@
     },
     "tooltip.ability.decompose": {
       "en": "Decompose any building within your borders and get its full cost in stars back at the end of the turn.",
-      "->": ""
+      "->": "Sınırların dahilindeki bir binayı ayrıştır ve tur sonunda tam maliyetini iade al."
     },
     "tooltip.ability.destroy": {
       "en": "Remove any building within your borders, great for reconstructing your empire.",
-      "->": "Sınırlarındaki herhangi bir binayı kaldır, imparatorluğuna yeniden inşa etmek için harika."
+      "->": "Sınırlarındaki herhangi bir yapıyı yık. İmparatorluğunu yeniden inşa etmek için harika."
     },
     "tooltip.ability.detect": {
       "en": "This unit can detect nearby invisible units.",
-      "->": ""
+      "->": "Bu birim, yakınlardaki görünmez birimleri tespit edebilir."
     },
     "tooltip.ability.disband": {
       "en": "Remove any of your own units and get half of its cost in return.",
@@ -4021,19 +4021,19 @@
     },
     "tooltip.ability.disloyal": {
       "en": "This unit switches side to the previous ruler when the area they are in is captured",
-      "->": ""
+      "->": "Bu birim bulunduğu bölge ele geçirildiği zaman önceki yöneticinin tarafına geçer."
     },
     "tooltip.ability.dividend": {
       "en": "Gives 1 star income per peace treaty per turn.",
-      "->": ""
+      "->": "Her turda, yapılmış anltlaşma sayısınca 1 yıldız gelir verir."
     },
     "tooltip.ability.eat": {
       "en": "This unit grows in length for each enemy it kills.",
-      "->": ""
+      "->": "Bu birimin boyu, düşmanları öldürdükçe uzar."
     },
     "tooltip.ability.embassy": {
       "en": "Allow construction of Embassies in foreign capitals. Embassies provide income for both parties as long as they are not at war. The income is doubled if you have a peace treaty.",
-      "->": ""
+      "->": "Yabancı başkentlere elçilik kurmanı sağlar. Elçilikler, her iki tarafa da savaşta olmadıkları sürece gelir sağlar. Bir barış antlaşmanız varsa gelir ikiye katlanır."
     },
     "tooltip.ability.escape": {
       "en": "This unit can move again after attacking.",
@@ -4041,27 +4041,27 @@
     },
     "tooltip.ability.explode": {
       "en": "Make your units explode inflicting poison and collateral damage to surrounding enemies.",
-      "->": ""
+      "->": "Birliklerini patlatarak çevresine patlama hasarı ve ikincil bir zehir hasarı verdirebilirsin."
     },
     "tooltip.ability.fly": {
       "en": "This unit can fly over any terrain with no movement penalties or bonuses.",
-      "->": "Bu birim hareket cezaları ve bonusları olmadan tüm arazilerin üstünden uçabilir."
+      "->": "Bu birim hareket dezavantajları ve bonusları olmadan tüm arazilerin üstünden uçabilir."
     },
     "tooltip.ability.fortify": {
       "en": "This unit gets a defense bonus when defending in its own cities, double bonus with a city wall.",
-      "->": "Bu birim kendi şehirlerinde savunma yaparken savunma bonusu alır,bir şehir duvarıyla ikili bonus."
+      "->": "Bu birim kendi şehirlerinde savunma yaparken savunma bonusu alır. Bir şehir duvarı üzerindeyse iki kat bonus sağlanır."
     },
     "tooltip.ability.freeze": {
       "en": "This unit freezes its enemies when attacking them so they cannot move.",
-      "->": "Bu birim düşmanlarını saldırırken dondurabilir böylece bir yere hareket edemezler."
+      "->": "Bu birim düşmanlarına saldırdığında dondurabilir böylece bir yere hareket edemezler."
     },
     "tooltip.ability.freezearea": {
       "en": "This unit can freeze the surrounding tiles including any enemy units.",
-      "->": ""
+      "->": "Bu birim, çevresindeki arazi de dahil olmak üzere etrafındaki birimleri dondurabilir."
     },
     "tooltip.ability.glide": {
       "en": "All non-skating units get an extra move when moving on ice.",
-      "->": "Paten kaymayan tüm birimler, buz üzerinde hareket ederken ekstra hareket alır."
+      "->": "Paten kaymayan tüm birimler, buz üzerinde hareket ederken ekstra mesafe kateder."
     },
     "tooltip.ability.grow": {
       "en": "This unit will eventually grow and become something else.",
@@ -4073,19 +4073,19 @@
     },
     "tooltip.ability.hide": {
       "en": "This unit hides when it moves, becoming invisible to the enemy.",
-      "->": ""
+      "->": "Bu birim hareket ettiği zaman gizlenir, düşmanlara karşı görünmez olur."
     },
     "tooltip.ability.independent": {
       "en": "This unit does not require any support from its home city.",
-      "->": ""
+      "->": "Bu birimin eğitildiği şehirden destek almasına ihtiyacı yoktur."
     },
     "tooltip.ability.infiltrate": {
       "en": "This unit can enter enemy cities to incite revolts.",
-      "->": ""
+      "->": "Bu birim, isyan çıkarmak üzere düşman şehirlerine sızabilir."
     },
     "tooltip.ability.literacy": {
       "en": "Reduce the price of all technologies by {0}%.",
-      "->": "Bütün teknolojilerin ücretini 20% azalt."
+      "->": "Bütün teknolojilerin ücretini %33 azalt."
     },
     "tooltip.ability.navigate": {
       "en": "This unit can move in any terrain even if you do not have the tech needed to move there.",
@@ -4093,27 +4093,27 @@
     },
     "tooltip.ability.peacetreaty": {
       "en": "Send an offer of entering a peace treaty to another tribe. \nYou find this function in the 'Tribe Info Screen', click the name of a tribe to get there.",
-      "->": ""
+      "->": "Başka bir kabileye barış antlaşması yapma teklifinde bulunun.\nBu işlevi 'Kabile Bilgi Ekranında' bulabilirsiniz, oraya gitmek için bir kabilenin adına tıklayın."
     },
     "tooltip.ability.persist": {
       "en": "This unit can keep attacking as long as it completely kills its victims.",
-      "->": "Bu birim çevresindeki tüm düşmanları öldürene kadar saldırmaya devam edebilir."
+      "->": "Bu birim, çevresindeki tüm düşmanları öldürene kadar saldırmaya devam edebilir."
     },
     "tooltip.ability.poison": {
       "en": "Inflicts poison to enemies when attacking. Poisoned units lose all defense bonuses and spread spores when they die.",
-      "->": ""
+      "->": "Saldırdığı düşmanı zehirler. Zehirlenmiş birimler tüm savunma bonuslarını kaybederler ve öldüklerinde spor yayarlar."
     },
     "tooltip.ability.scout": {
       "en": "This unit has double vision range.",
-      "->": "Bu birimin çift görüş mesafesi vardır."
+      "->": "Bu birimin görüş mesafesi normalin iki katıdır."
     },
     "tooltip.ability.skate": {
       "en": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
-      "->": "Bu birim buz karelerinde çifte hareket alır, ancak karada hareketi 1 kare ile sınırlıdır ve diğer tüm yetenekleri devre dışıdır."
+      "->": "Bu birim buzul zeminlerde iki kata kadar hareket alır, ancak karada hareketi 1 kare ile sınırlıdır ve diğer tüm yetenekleri devre dışıdır."
     },
     "tooltip.ability.sneak": {
       "en": "This unit can move past enemy units without stopping.",
-      "->": "Bu birim durmadan düşman birimlerini arkada bırakıp geçebilir ."
+      "->": "Bu birim; durmadan, düşman birimlerini arkada bırakıp geçebilir ."
     },
     "tooltip.ability.splash": {
       "en": "This unit causes splash damage to nearby units when attacking.",
@@ -4121,7 +4121,7 @@
     },
     "tooltip.ability.surprise": {
       "en": "Enemies don't retaliate when you attack them, even at close range.",
-      "->": ""
+      "->": "Yakın mesafeden bile düşmanlar senin saldırına karşılık veremezler."
     },
     "tooltip.ability.swim": {
       "en": "This unit can move on water.",
@@ -4129,7 +4129,7 @@
     },
     "tooltip.tile.blocked": {
       "en": "This resource is blocked by an enemy unit",
-      "->": "Bu kaynak bir düşman birimi tarafından engelleniyor"
+      "->": "Bu kaynak bir düşman birimi tarafından engelleniyor."
     },
     "tooltip.tile.capture": {
       "en": "This city is being captured.",
@@ -4145,11 +4145,11 @@
     },
     "tooltip.tile.choose_unit": {
       "en": "Choose a unit to train.",
-      "->": "Üretmek için bir birim seçin."
+      "->": "Eğitmek için bir birim seçin."
     },
     "tooltip.tile.explore": {
       "en": "Explore this area to see what it holds!",
-      "->": "Neler sakladığını görmek için burayı keşfet!"
+      "->": "Neler gizlendiğini görmek için burayı keşfet!"
     },
     "tooltip.tile.extract.convert": {
       "en": "This resource can be transformed into a unit",
@@ -4161,7 +4161,7 @@
     },
     "tooltip.tile.extract.stars": {
       "en": "Extract this resource to earn stars instantly",
-      "->": "Hemen yıldız kazanmak icin bu kaynağı topla"
+      "->": "Anında yıldız kazanmak için bu kaynağı topla"
     },
     "tooltip.tile.extract.upgrade": {
       "en": "Extract this resource to upgrade your city",
@@ -4173,7 +4173,7 @@
     },
     "tooltip.tile.level.next": {
       "en": "Next level in {0} turns",
-      "->": "{0} sıra sonra sonraki seviye"
+      "->": "Sıradaki seviye {0} tur sonra"
     },
     "tooltip.tile.level.polaris": {
       "en": "Freeze {0} more tiles to reach the next level",
@@ -4193,15 +4193,15 @@
     },
     "tooltip.tile.produces": {
       "en": "Produces {0} each turn.",
-      "->": "Her sırada {0} üretir."
+      "->": "Her turda {0} üretir."
     },
     "tooltip.tile.research": {
       "en": "You need to research {0} to be able to move here",
-      "->": "Buraya hareket etmek için {0} teknolojisini keşfetmen gerek"
+      "->": "Burada hareket etmek için {0} teknolojisini keşfetmen gerek"
     },
     "tooltip.tile.riot": {
       "en": "There are riots in this city! It produces no income this turn.",
-      "->": ""
+      "->": "Bu şehirde isyan çıktı! Bu tur gelir sağlayamayacak."
     },
     "tooltip.tile.road": {
       "en": "Build a road to connect this city to your capital.",
@@ -4209,7 +4209,7 @@
     },
     "tooltip.tile.ruin": {
       "en": "Move a unit here and examine these ancient ruins.",
-      "->": "Buraya bir birim getir ve bu antik harabeleri onar."
+      "->": "Buraya bir birim getir ve bu antik harabeleri keşfet."
     },
     "tooltip.tile.sailing": {
       "en": "Move a unit here to start sailing!",
@@ -4225,11 +4225,11 @@
     },
     "tooltip.unit.actions.none": {
       "en": "No actions left. Press 'Next Turn' to move this unit again.",
-      "->": "Hareket hakkı kalmadı. 'Sonraki' ye tıkla"
+      "->": "Hareket hakkı kalmadı. 'Turu Sonlandır'a tıkla"
     },
     "tooltip.unit.ally": {
       "en": "This is your ally.",
-      "->": ""
+      "->": "Bu senin müttefiğin"
     },
     "tooltip.unit.city.capture": {
       "en": "Tap 'Capture' to add this city to your empire",
@@ -4237,7 +4237,7 @@
     },
     "tooltip.unit.city.capture.next": {
       "en": "This city will be ready to capture next turn",
-      "->": "Bu şehir sonraki sıra ele geçirilmeye hazır olacak"
+      "->": "Bu şehir sonraki tur ele geçirilmeye hazır olacak"
     },
     "tooltip.unit.enemy": {
       "en": "This is the enemy!",
@@ -4245,7 +4245,7 @@
     },
     "tooltip.unit.enemy.brokenpeace": {
       "en": "You can attack this unit next turn.",
-      "->": ""
+      "->": "Bu birime sonraki tur saldırabilirsin."
     },
     "tooltip.unit.enemy.city": {
       "en": "This enemy is capturing your city!",
@@ -4257,11 +4257,11 @@
     },
     "tooltip.unit.grow.later": {
       "en": "Will grow to {0} in {1} turns.",
-      "->": "{1} sıra sonra {0} olacak."
+      "->": "{1} tur sonra {0} olacak."
     },
     "tooltip.unit.grow.now": {
       "en": "Will grow to {0} at the end of this turn!",
-      "->": "Bu sıranın sonunda {0} olacak!"
+      "->": "Bu turun sonunda {0} olacak!"
     },
     "topbar.score": {
       "en": "Score",
@@ -4273,7 +4273,7 @@
     },
     "topbar.turn": {
       "en": "Turn",
-      "->": "Sıra"
+      "->": "Tur"
     },
     "tribepicker.anonymous": {
       "en": "Anonymous",
@@ -4281,7 +4281,7 @@
     },
     "tribepicker.buy": {
       "en": "BUY",
-      "->": ""
+      "->": "SATIN AL"
     },
     "tribepicker.categories.humantribes": {
       "en": "Regular Tribes",
@@ -4333,7 +4333,7 @@
     },
     "tribepicker.freetribe": {
       "en": "Free Tribe",
-      "->": "Bedava Kabile"
+      "->": "Ücretsiz Kabile"
     },
     "tribepicker.freetribe.description": {
       "en": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
@@ -4345,7 +4345,7 @@
     },
     "tribepicker.getdlc": {
       "en": "GET DLC",
-      "->": ""
+      "->": "DLC AL"
     },
     "tribepicker.mapsize": {
       "en": "Map Size: {0} tiles",
@@ -4353,7 +4353,7 @@
     },
     "tribepicker.maptype": {
       "en": "Map Type: {0}",
-      "->": ""
+      "->": "Harita tipi: {0}"
     },
     "tribepicker.news.readmore": {
       "en": "Read more...",
@@ -4401,11 +4401,11 @@
     },
     "tribepicker.toprating": {
       "en": "Top rating {0}%",
-      "->": "En yüksek derece {0}%"
+      "->": "En yüksek derece %{0}"
     },
     "tribepicker.toprating.next": {
       "en": "{0}% needed for next star",
-      "->": "Sonraki yıldız için {0}% gerekli"
+      "->": "Sonraki yıldız için %{0} gerekli"
     },
     "tribepicker.topscore": {
       "en": "Top score {0}",
@@ -4425,7 +4425,7 @@
     },
     "tribepicker.waiting": {
       "en": "WAITING",
-      "->": ""
+      "->": "BEKLENİYOR"
     },
     "tribepicker.yourname": {
       "en": "Your Name",
@@ -4437,7 +4437,7 @@
     },
     "tribes.aimo.info": {
       "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Sakin ve bilge {0} kabilesi; sonsuz akşam ışığında meditasyon yaparak iç huzuru buldukları yer olan,meydanın en sert, en rüzgarlı ve en yüksek sıradağlarında yaşıyor. \n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Sakin ve bilge {0} kabilesi, sonsuz akşam ışığında meditasyon yaparak iç huzuru buldukları yer olan; meydanın en sert, en rüzgarlı ve en yüksek sıradağlarında yaşıyor. Savaştan tiksinen ama mecbur kaldığında hakkını veren {0} kabilesi, en kısa sürede halkının okuryazarlık seviyesini geliştirmek istiyor. Sonuç olarak bilinçsiz halkın kölelerden farkı yoktur."
     },
     "tribes.aquarion": {
       "en": "Aquarion",
@@ -4445,7 +4445,7 @@
     },
     "tribes.aquarion.info": {
       "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
-      "->": "Derin okyanuslardan uzun ve kayıp bir medeniyet çıktı! Son derece izolasyonları onlara, daha insansı kabilelere tanıdık gelmeyen özel aquatik yetenekler verdi. \n\n{0} hafiften farklı bir teknoloji ağacına sahiptir ve başka hiç bir kabilenin eğitemeyeceği benzersiz amfibi kaplumbağa birimlere erişimi vardır."
+      "->": "Derin okyanuslardan uzun süredir kayıp bir medeniyet çıktı! Bu uzun süren izolasyonları onlara, insansı kabilelere benzemeyen özel aquatik yetenekler kazandırdı."
     },
     "tribes.bardur": {
       "en": "Bardur",
@@ -4453,7 +4453,7 @@
     },
     "tribes.bardur.info": {
       "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
-      "->": "Sert ve sonsuz kışta hayatta kalmak kolay bir görev değildir, ama {0} burada gelişeceğe benziyor.\n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Polytopia ormanlarının sert ve sonsuz kışında hayatta kalmak kolay bir görev değildir ama {0} halkı, yüreklerindeki mertlik ve cesaret ateşiyle hayatta kalmayı süredürebiliyor. Bu dondurucu soğukta sıcak kalabilmek için ayı kürklerine ihtiyaçları var."
     },
     "tribes.cymanti": {
       "en": "Cymanti",
@@ -4461,7 +4461,7 @@
     },
     "tribes.cymanti.info": {
       "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
-      "->": "{0} bataklıklı ormanlara gitmiş ve yüzlerine yapışan ve beyinleriyle birleşen Ciru Böceği'yle yaşamayı öğrenmiş, Polytopialı kopmuş bir gruptur. \n\nŞamanları tarafından yönetilen {0}, kocaman böcekler eğitirler, düşmanlarını mantar ormanlarını gübrelemek için kullanır ve bataklık evlerini tehdit eden herkesi yenmek için sakatlayıcı zehirler kullanırlar."
+      "->": "{0}; keşif için bataklıklı ormanlara gitmiş, yüzlerine yapışan ve beyinleriyle birleşen Ciru Böceği'yle yaşamayı öğrenmiş, Polytopialı, kopmuş bir gruptur."
     },
     "tribes.elyrion": {
       "en": "∑∫ỹriȱŋ",
@@ -4469,7 +4469,7 @@
     },
     "tribes.elyrion.info": {
       "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
-      "->": "Gizemli {0} ormanlık evlerini renkli sihirle ve ateş nefesli ejderhaların vahşiliğiyle korurlar.\n\nOnlar doğaya kutsal ruh olarak saygı gösterirler ve hayvan avlayamaz veya ağaç kesemezler, onun yerine onlar oyuna sıradan hayvanları güçlü canavarlara dönüştürebilen benzersiz büyü teknolojisiyle başlar."
+      "->": "Gizemli {0} kabilesi ormanlık evlerini renkli sihirle ve ateş nefesli ejderhaların vahşiliğiyle korurlar. Tanrıları onlara atalarından miras kalmış harabelerin yerini bildiriyor. "
     },
     "tribes.hoodrick": {
       "en": "Hoodrick",
@@ -4477,7 +4477,7 @@
     },
     "tribes.hoodrick.info": {
       "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "{0} ormanlarının sarı sonbahar yaprakları tuhaf mantar dolduran yerliler için mükemmel saklanma yerleridir. \n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "{0} kabilesinin yaşadığı sarı sonbahar yapraklı ormanlar, saklanmak ve savaşı uzaktan yürütmek için en gerekli şeydir. Gizlenmeyi her işten daha iyi yapmaları, onlara savaşta eşlik edecek üstün suikast yeteneklerinin öncüsüdür. Dikkat edin! Ansızın nereden geldiği belli olmayan bir ok tarafından vurulabilirsiniz."
     },
     "tribes.imperius": {
       "en": "Imperius",
@@ -4485,7 +4485,7 @@
     },
     "tribes.imperius.info": {
       "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Büyük dağlar ve yeşil vadiler. {0} iklimi meyve yetiştirmek için mükemmel. \n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Yüce dağlar ve yemyeşil vadilerde yaşayan {0}, kalkınmanın yolunun verimli ovalarından geçtiğini düşünüyor. Anlatılanlara göre halkı kıtlıktan telef olmak üzereyken yerden bitmiş birçok elma ağacıyla karşılaşmışlar. Nasıl yetiştirileceğini öğrenemediler fakat birkaç yılı idare edebilecek kadar çok var!"
     },
     "tribes.kickoo": {
       "en": "Kickoo",
@@ -4493,7 +4493,7 @@
     },
     "tribes.kickoo.info": {
       "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Beyaz kumlu plajlar ve palmiye ağaçları. Meyve ve balık zenginliği. {0} kabilesinin evine hoş geldiniz. \n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Beyaz kumlu plajlar, seyrek palmiye ağaçları, bolca muz ve balık... {0} kabilesinin evine hoş geldiniz. Hırçın leoparları avlamak kendilerine zor gelmiş, bu yüzden kızgın kumlu plajlarında balık avlamaya yönelmişlerdir. Atalarının denizcilik hikayeleri, onları denize açılmak için yüreklendiriyor. En azından sallarla..."
     },
     "tribes.luxidoor": {
       "en": "Luxidoor",
@@ -4501,7 +4501,7 @@
     },
     "tribes.luxidoor.info": {
       "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
-      "->": "{0} pahalı şeyleri, mücevherleri, nadir baharatları ve özel süsleri sever. Bu yüzden Polytopia'daki en pahalı kabile bu! \n\nKabilenin yerlileri en güzel mor ipeklerle çok rahat bir yaşam sürüyorlar. Peki ya çok sevdikleri başkentlerinin duvarlarının dışında hayatta kalabilecekler mi?  \n\n{0} oyuna büyük duvarlı bir başkentle başlar."
+      "->": "{0} pahalı şeyleri, mücevherleri, nadir baharatları ve özel süsleri sever. Bu yüzden Polytopia'daki en pahalı kabile bu! \n\nKabilenin yerlileri yumuşak, mor ipeklerle çok rahat bir yaşam sürüyorlar. Peki ya çok sevdikleri başkentlerinin duvarlarının dışında hayatta kalabilecekler mi? "
     },
     "tribes.nature": {
       "en": "Nature",
@@ -4513,7 +4513,7 @@
     },
     "tribes.oumaji.info": {
       "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
-      "->": "Sonsuz gözüken ve sıcak çöl {0} kabilesinin evidir.\n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Ucu bucağı belli olmayan, sapsarı çöllerin bunaltıcı havasında yaşamaya alışmış ve bu büyük çölleri aşmak için biniciliği öğrenmişlerdir. {0}ler eğittikleri zebralarla yayan olarak katedemeyecekleri mesafelere ulaştı. Yeni kabilelerle tanışmak ve kültürlerini görmek için sabırsızlanıyorlar."
     },
     "tribes.polaris": {
       "en": "Polaris",
@@ -4521,7 +4521,7 @@
     },
     "tribes.polaris.info": {
       "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
-      "->": "{0} donan tundranın uzak bölgelerinde eonlar için tuzağa düştüler, ama bilinmeyen Gaami tarafından buzlu arazilerini hava şartlarından daha çok genişletme gücü ile kutsandılar. \n\nKızaklar ve mamutların gücüyle, gizemli {0}'ler tüm meydanı buza gömmeye ve karaları soğuk bir cennete dönüştürmeye kararlılar. \n\n{0} oyuna Mooni'leri kullanarak çevredeki arazileri dondurma yeteneğiyle başlar."
+      "->": "{0}; çağlar boyunca dondurucu tundranın uzak köşelerinde mahsur kaldı, ancak bilinmeyen Gaami tarafından doğal olmayan buzlu arazilerini havanın izin verdiğinden daha uzağa genişletme gücü ile kutsandı."
     },
     "tribes.quetzali": {
       "en": "Quetzali",
@@ -4529,7 +4529,7 @@
     },
     "tribes.quetzali.info": {
       "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "{0} kabilesi kırmızı toprakların kuş tanrılarına tapıyorlar ve kübik ormanlarının doğal simetrisi ile uyum içinde yaşıyorlar. Genellikle büyük uçamayan kuşlara binerken görülürler.\n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "{0} kabilesi kırmızı toprakların kuş tanrılarına tapıyorlar ve kübik ormanlarının doğal simetrisi ile uyum içinde yaşıyorlar. Genellikle büyük, uçamayan kuşlara binerken görülürler. \n\nTanrılarının kendilerine ormanlarını savunmaları için emir verdiğini söylüyorlar. Bu yüzden kalkanlı birliklerle bölgeyi devriye etmeye karar vermişler."
     },
     "tribes.vengir": {
       "en": "Vengir",
@@ -4537,7 +4537,7 @@
     },
     "tribes.vengir.info": {
       "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
-      "->": "Diğer kabileler tarafından hor görüldü ve tatsız çorak topraklara itildi. Bu adaletsizliğe tahammül edecekler mi yoksa savaşmak için yükselecekler mi?  \n\n{0} oyuna '{1}' teknolojisiyle ve güçlü bir kılıçlı birimle başlar."
+      "->": "Diğer kabileler tarafından hor görüldü ve tatsız çorak topraklara itildi. Garip gergedan domuzlarını avlayıp yemekten ve birkaç tiksinç mantarla beslenmekten başka çareleri yoktu. Kurumuş ormanlardan arta kalanları toparlayıp şehirlerini geliştirmeye devam edecekler. \n\nBu izolasyonu fırsat \nbilen {0}, kendilerini silahlar ve savaş teknolojileri konusunda eğitip direniş mi gösterecekler yoksa bu adaletsizliğe tahammül mü edecekler?"
     },
     "tribes.xinxi": {
       "en": "Xin-xi",
@@ -4545,7 +4545,7 @@
     },
     "tribes.xinxi.info": {
       "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
-      "->": "Maceralarına kiraz çiçekleriyle çevrili dağlarda başlarlar.\n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Maceralarına kiraz çiçekleriyle çevrili dağların esintileriyle başlarlar. Sarp dağların yamaçlarına çıkarak uzakları gözlemlerler, narenciye dolu topraklarda keyiflerine bakarlar ve kır atlara binerek ulaşımlarını kolaylaştırırlar. Savaşmaktan çekinmezler ama kim böyle güzel nimetler varken savaşır ki?"
     },
     "tribes.yadakk": {
       "en": "Yădakk",
@@ -4553,7 +4553,7 @@
     },
     "tribes.yadakk.info": {
       "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "{0} güzel sert Khalee ovalarında göçmen bir kabile olarak ortaya çıktı. Şu an onlar meydanın tüccarları, etkileyici ticaret yollarıyla imparatorluklarını bağlıyorlar. \n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "{0}, güzel ve sert Khalee ovalarında göçmen bir kabile olarak ortaya çıktı. Bol limon rezervleri ve adını sert Khalee ovarlarından alan Khamelk adındaki boynuzlu develerin çokluğunu avantaj bildiler. \n\nSamimiyetleriyle şehirler arası ticaret anlaşmaları yapmayı kolaylaştırmak için yolları kullandılar. Şu an onlar meydanın tüccarları. Etkileyici ticaret yollarıyla imparatorluklarını bağlıyorlar."
     },
     "tribes.zebasi": {
       "en": "Zebasi",
@@ -4561,7 +4561,7 @@
     },
     "tribes.zebasi.info": {
       "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "Sıcak savannalarda gelişen {0}, güçlü topraklarına yiyecek sağlamak için zengin toprakları yetiştiriyor. \n\n{0} oyuna '{1}' teknolojisiyle başlar."
+      "->": "Sıcak savannalarda gelişen {0}, güçlü topraklarına yiyecek sağlamak için zengin toprakları yetiştiriyor. Kantalup adındaki tatlı kavunlarla besleniyor ve geçimlerini sağlamak için tarımla uğraşıyorlar. Ormanlarında uzun boyunlu otobur yaratıklar olan zürafalardan bol ne var ki!"
     },
     "tribes.zebasi.news": {
       "en": "All profits from the Zebasi tribe is invested in solar energy projects.",
@@ -4569,87 +4569,87 @@
     },
     "tutorial.completed.description": {
       "en": "You have now mastered the basic skills to play Polytopia, but there is so much more to discover!\nFinish this game by getting the highest possible score before the time runs out.",
-      "->": ""
+      "->": "Artık Polytopia'nın temel becerilerinde ustalaştın. Ama hala keşfedecek çok fazla şey var!\nSüre bitmeden oyunu yapabileceğin en yüksek skorla bitir."
     },
     "tutorial.completed.title": {
       "en": "Boot Camp Completed!",
-      "->": ""
+      "->": "Eğitim Kampı tamamlandı."
     },
     "tutorial.suggestion.description": {
       "en": "Someone is hiding here in the clouds...",
-      "->": ""
+      "->": "Birisi burada, bulutların ardında saklanıyor."
     },
     "tutorial.task.capturevillage": {
       "en": "Move your unit to a village and capture it.",
-      "->": ""
+      "->": "Birimini bu köye doğru hareket ettir ve köyü ele geçir."
     },
     "tutorial.task.capturevillage.description": {
       "en": "Click your unit in the city. The blue markers that appear on the map are places the unit can move to this turn.\nAfter moving the unit you need to end your turn for it to be able to move again.",
-      "->": ""
+      "->": "Şehirdeki birimine tıkla. Haritada beliren mavi işaretler, birimini hareket ettirebileceğin yerlerdir.\nHareket ettikten sonra turu bitirmen gerekir ki tekrar hareket edebilesin."
     },
     "tutorial.task.capturevillage.title": {
       "en": "Move a Unit",
-      "->": ""
+      "->": "Birliği Hareket Ettir"
     },
     "tutorial.task.endTurn": {
       "en": "A good first round! End your turn to give your unit new energy.",
-      "->": ""
+      "->": "Müthiş bir başlangıç! Birimine enerji sağlamak için turu sonlandır."
     },
     "tutorial.task.endTurn.description": {
       "en": "Click the 'End Turn' button to give new energy to your units and collect more stars.",
-      "->": ""
+      "->": "'Turu Sonlandır' tuşuna bas ki birliklerine enerji sağlansın ve hareket ettirme olanağın olsun."
     },
     "tutorial.task.endTurn.title": {
       "en": "End Turn",
-      "->": ""
+      "->": "Turu Sonlandır"
     },
     "tutorial.task.harvestfruit": {
       "en": "Harvest fruit to grow your city!",
-      "->": ""
+      "->": "Şehrini büyütmek için meyve hasat et!"
     },
     "tutorial.task.harvestfruit.description": {
       "en": "Click a fruit tile within the borders of your city and select the 'Harvest Fruit' option. By extracting resources within your borders you can level up your city.",
-      "->": ""
+      "->": "Sınırların dahilindeki bir meyveye tıkla ve 'Meyve Topla' seçeneğini seç. Sınırlarındaki kaynakları toplayarak şehrini yüjseltebilirsin."
     },
     "tutorial.task.harvestfruit.title": {
       "en": "Grow your city",
-      "->": ""
+      "->": "Şehrini büyüt"
     },
     "tutorial.task.meetTribe": {
       "en": "There is another tribe hiding somewhere on the Square. See if you can find them!",
-      "->": ""
+      "->": "Meydanda saklanmakta olan bir kabile daha var. Bakalım bulabilecek misin?"
     },
     "tutorial.task.meetTribe.description": {
       "en": "You are not alone! There are other tribes in this game too and they also try to expand their empires as much as possible. That often leads to conflicts so keep an eye out for your opponents.",
-      "->": ""
+      "->": "Yalnız değilsin! Oyunda başka kabileler de var ve onlar da şehirlerini olabildiğince çok geliştirmeye çalışıyorlar. Bu çoğu zaman kargaşalara sebep olur bu yüzden bi gözün hep meydanda olsun."
     },
     "tutorial.task.meetTribe.title": {
       "en": "Other Tribes",
-      "->": ""
+      "->": "Diğer Kabileler"
     },
     "tutorial.task.trainunit": {
       "en": "Train a warrior so we can capture that village.",
-      "->": ""
+      "->": "Bir birim eğit ki köyü ele geçirebilelim."
     },
     "tutorial.task.trainunit.description": {
       "en": "Click on your city and select the unit you want to train. Units can be used to explore the map, capture villages and fight your opponents.",
-      "->": ""
+      "->": "Şehrine tıkla ve eğitmek istediğin bir birim seç. Birimler keşfetmek, köy ele geçirmek ve rakiplerinle savaşmak için kullanılabilir."
     },
     "tutorial.task.trainunit.title": {
       "en": "Training units",
-      "->": ""
+      "->": "Birim eğitmek"
     },
     "tutorial.task.unlockTech": {
       "en": "Wild animals can be hunted to grow your city even more. Let's research how to hunt!",
-      "->": ""
+      "->": "Vahşi hayvanlar avlayarak şehrini daha da çok geliştirebilirsiniz. Hadi nasıl avlanılacağını araştıralım!"
     },
     "tutorial.task.unlockTech.description": {
       "en": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!",
-      "->": ""
+      "->": "'Tekn. Ağacı' kısmına git ve 'Avlanma'teknolojisini araştır. Artık şehrini yükseltmek için avlanabilirsin!"
     },
     "tutorial.task.unlockTech.title": {
       "en": "Tech tree",
-      "->": ""
+      "->": "Teknoloji Ağacı"
     },
     "unit": {
       "en": "unit",
@@ -4657,15 +4657,15 @@
     },
     "unit.abilities.agent": {
       "en": "AGENT",
-      "->": ""
+      "->": "AJAN"
     },
     "unit.abilities.autofreeze": {
       "en": "AUTO FREEZE",
-      "->": "OTO DONDURMA"
+      "->": "OTO. DONDUR"
     },
     "unit.abilities.boost": {
       "en": "BOOST",
-      "->": ""
+      "->": "GÜÇLENDİR"
     },
     "unit.abilities.build": {
       "en": "BUILD",
@@ -4677,43 +4677,43 @@
     },
     "unit.abilities.convert": {
       "en": "CONVERT",
-      "->": "DÖNÜŞTÜRME"
+      "->": "DÖNÜŞTÜR"
     },
     "unit.abilities.creep": {
       "en": "CREEP",
-      "->": ""
+      "->": "SÜRÜNME"
     },
     "unit.abilities.crush": {
       "en": "CRUSH",
-      "->": ""
+      "->": "PARÇALA"
     },
     "unit.abilities.dash": {
       "en": "DASH",
-      "->": "ATAK"
+      "->": "ATILMA"
     },
     "unit.abilities.decay": {
       "en": "DECAY",
-      "->": "HARAP OLMA"
+      "->": "ÇÜRÜME"
     },
     "unit.abilities.detect": {
       "en": "DETECT",
-      "->": ""
+      "->": "SEZGİ"
     },
     "unit.abilities.disloyal": {
       "en": "DISLOYAL",
-      "->": ""
+      "->": "SADAKATSİZ"
     },
     "unit.abilities.eat": {
       "en": "EAT",
-      "->": ""
+      "->": "YE"
     },
     "unit.abilities.escape": {
       "en": "ESCAPE",
-      "->": "KAÇMA"
+      "->": "KAÇIŞ"
     },
     "unit.abilities.explode": {
       "en": "EXPLODE",
-      "->": ""
+      "->": "PATLAMA"
     },
     "unit.abilities.fly": {
       "en": "FLY",
@@ -4721,15 +4721,15 @@
     },
     "unit.abilities.fortify": {
       "en": "FORTIFY",
-      "->": "DESTEKLEME"
+      "->": "İNANÇ"
     },
     "unit.abilities.freeze": {
       "en": "FREEZE",
-      "->": "DONDURMA"
+      "->": "DONDUR"
     },
     "unit.abilities.freezearea": {
       "en": "FREEZE AREA",
-      "->": "BÖLGE DONDURMA"
+      "->": "BÖLGE DONDUR"
     },
     "unit.abilities.grow": {
       "en": "GROW",
@@ -4737,31 +4737,31 @@
     },
     "unit.abilities.heal": {
       "en": "HEAL",
-      "->": "İYİLEŞTİRME"
+      "->": "İYİLEŞTİR"
     },
     "unit.abilities.hide": {
       "en": "HIDE",
-      "->": "SAKLANMA"
+      "->": "GİZLENME"
     },
     "unit.abilities.independent": {
       "en": "INDEPENDENT",
-      "->": ""
+      "->": "BAĞIMSIZ"
     },
     "unit.abilities.infiltrate": {
       "en": "INFILTRATE",
-      "->": ""
+      "->": "SIZMA"
     },
     "unit.abilities.navigate": {
       "en": "NAVIGATE",
-      "->": "YÖN VERME"
+      "->": "DENİZCİLİK"
     },
     "unit.abilities.persist": {
       "en": "PERSIST",
-      "->": "VAZGEÇMEME"
+      "->": "İNAT"
     },
     "unit.abilities.poison": {
       "en": "POISON",
-      "->": ""
+      "->": "ZEHİR"
     },
     "unit.abilities.scout": {
       "en": "SCOUT",
@@ -4769,19 +4769,19 @@
     },
     "unit.abilities.skate": {
       "en": "SKATE",
-      "->": "PATEN KAYMA"
+      "->": "KAYMA"
     },
     "unit.abilities.sneak": {
       "en": "SNEAK",
-      "->": "SİNSİCE HAREKET"
+      "->": "SIVIŞMA"
     },
     "unit.abilities.splash": {
       "en": "SPLASH",
-      "->": "SIÇRAMA HASAR"
+      "->": "SERPME"
     },
     "unit.abilities.surprise": {
       "en": "SURPRISE",
-      "->": ""
+      "->": "SÜRPRİZ"
     },
     "unit.abilities.swim": {
       "en": "FLOAT",
@@ -4825,11 +4825,11 @@
     },
     "unit.names.babydragon": {
       "en": "Baby Dragon",
-      "->": ""
+      "->": "Yavru Ejder"
     },
     "unit.names.battleship": {
       "en": "Battleship",
-      "->": "Savaş gemisi"
+      "->": "Savaş Gemisi"
     },
     "unit.names.battlesled": {
       "en": "Battle Sled",
@@ -4837,7 +4837,7 @@
     },
     "unit.names.boat": {
       "en": "Boat",
-      "->": "Tekne"
+      "->": "Bot"
     },
     "unit.names.bunny": {
       "en": "Bunny",
@@ -4849,15 +4849,15 @@
     },
     "unit.names.centipede": {
       "en": "Centipede",
-      "->": ""
+      "->": "Çiyan"
     },
     "unit.names.cloak": {
       "en": "Cloak",
-      "->": ""
+      "->": "Casus"
     },
     "unit.names.cloak_boat": {
       "en": "Dinghy",
-      "->": ""
+      "->": "Filika"
     },
     "unit.names.crab": {
       "en": "Crab",
@@ -4865,7 +4865,7 @@
     },
     "unit.names.dagger": {
       "en": "Dagger",
-      "->": ""
+      "->": "Kamalı Casus"
     },
     "unit.names.defender": {
       "en": "Defender",
@@ -4877,7 +4877,7 @@
     },
     "unit.names.dragonegg": {
       "en": "Dragon Egg",
-      "->": ""
+      "->": "Ejder Yumurtası"
     },
     "unit.names.exida": {
       "en": "Exida",
@@ -4885,7 +4885,7 @@
     },
     "unit.names.firedragon": {
       "en": "Fire Dragon",
-      "->": ""
+      "->": "Alev Ejderi"
     },
     "unit.names.gaami": {
       "en": "Gaami",
@@ -4905,7 +4905,7 @@
     },
     "unit.names.icefortress": {
       "en": "Ice Fortress",
-      "->": ""
+      "->": "Buz Kalesi"
     },
     "unit.names.kiton": {
       "en": "Kiton",
@@ -4913,11 +4913,11 @@
     },
     "unit.names.knight": {
       "en": "Knight",
-      "->": "Şovalye"
+      "->": "Şövalye"
     },
     "unit.names.mindbender": {
       "en": "Mind Bender",
-      "->": ""
+      "->": "İpnotizmacı"
     },
     "unit.names.mooni": {
       "en": "Mooni",
@@ -4953,23 +4953,23 @@
     },
     "unit.names.segment": {
       "en": "Segment",
-      "->": ""
+      "->": "Parça"
     },
     "unit.names.shaman": {
       "en": "Shaman",
-      "->": ""
+      "->": "Şaman"
     },
     "unit.names.ship": {
       "en": "Ship",
-      "->": "Gemi"
+      "->": "Tekne"
     },
     "unit.names.swordsman": {
       "en": "Swordsman",
-      "->": ""
+      "->": "Kılıç Ustası"
     },
     "unit.names.tridention": {
       "en": "Tridention",
-      "->": ""
+      "->": "Çatal Mızraklı"
     },
     "unit.names.warrior": {
       "en": "Warrior",
@@ -4977,75 +4977,75 @@
     },
     "updateavatar.description": {
       "en": "Press the avatar to give birth to a new wild creation",
-      "->": ""
+      "->": "Yepyeni vahşi bir oluşum ortaya çıkarmak için Avatar kısmına dokun!"
     },
     "updateavatar.save": {
       "en": "SAVE",
-      "->": ""
+      "->": "KAYDET"
     },
     "updateavatar.title": {
       "en": "Update Avatar",
-      "->": ""
+      "->": "Avatarı Güncelle"
     },
     "validation.error.steam": {
       "en": "Failed to validate app through Steam, you need to start the game through Steam to be able to play",
-      "->": ""
+      "->": "Steam üzerinden uygulama doğrulanamadı, oynayabilmek için oyunu Steam üzerinden başlatmanız gerekiyor"
     },
     "validation.error.title": {
       "en": "Validation error",
-      "->": ""
+      "->": "Doğrulama hatası"
     },
     "versioning.highscores": {
       "en": "You can't get your score on the highscore list with this version of the game. Update the game if you're after that sweet fame.",
-      "->": ""
+      "->": "Oyunun bu sürümü ile yüksek puanlar listesinde puanınızı alamazsınız. O tatlı şöhretin peşindeyseniz oyunu güncelleyin."
     },
     "versioning.highscores.title": {
       "en": "Update Needed",
-      "->": ""
+      "->": "Güncelleme Gerekli"
     },
     "versioning.newmatchmaking": {
       "en": "You have to update the game to start new random matches.",
-      "->": ""
+      "->": "Rastgele maçlar oluşturmak için oyununu güncellemen gerekiyor"
     },
     "versioning.newmatchmaking.title": {
       "en": "Update Needed",
-      "->": ""
+      "->": "Güncelleme Gerekli"
     },
     "versioning.newmultiplayer": {
       "en": "You have to update the game to start new multiplayer games.",
-      "->": ""
+      "->": "Yeni çok oyunculu oyunlar başlatabilmen için oyunu güncellemen gerekiyor "
     },
     "versioning.newmultiplayer.title": {
       "en": "Update Needed",
-      "->": ""
+      "->": "Güncelleme Gerekli"
     },
     "versioning.systemmessage.title": {
       "en": "Info",
-      "->": ""
+      "->": "Bilgi"
     },
     "versioning.unmigrateduser": {
       "en": "This user has not yet updated to Moonrise",
-      "->": ""
+      "->": "Bu kullanıcı oyunu henüz Moonrise sürümüne güncellemedi"
     },
     "versioning.unmigrateduser.title": {
       "en": "User unavailable",
-      "->": ""
+      "->": "Kullanıcı mevcut değil"
     },
     "versioning.updateapp": {
       "en": "We built new cool stuff that unfortunately means this version of the game is no longer playable. Please update to get back into the game!",
-      "->": ""
+      "->": "Yepyeni havalı şeyler ekledik ama bu demek oluyor ki oyunun bu sürümü eskidi ve artık kullanılmıyor. Güncelle ve aramıza geri dön!"
     },
     "versioning.updateapp.title": {
       "en": "Update Needed",
-      "->": ""
+      "->": "Güncelleme Gerekli"
     },
     "versioning.updatenetwork": {
       "en": "You need to update to use network features such as multiplayer, highscores, etc.",
-      "->": ""
+      "->": "Çok oyunculu oyun, yüksek skorlar vb. gibi ağ özelliklerini kullanabilmek için oyunu güncellemelisin."
     },
     "versioning.updatenetwork.title": {
       "en": "Update Needed",
-      "->": ""
+      "->": "Güncelleme Gerekli"
     },
     "wcontroller.building.upgrade": {
       "en": "Your {0} upgraded to a {1}!",
@@ -5109,7 +5109,7 @@
     },
     "wcontroller.examine.explorer.title": {
       "en": "Explorer",
-      "->": "Kaşif"
+      "->": "Kâşif"
     },
     "wcontroller.examine.giant": {
       "en": "You found a friendly {0} who joined your tribe!",
@@ -5133,15 +5133,15 @@
     },
     "wcontroller.examine.swordsman": {
       "en": "You encountered a mighty Swordsman who decided to join your tribe!",
-      "->": ""
+      "->": "Kabilene katılmaya karar veren yüce bir Kılıç Ustası'yla karşılaştın!"
     },
     "wcontroller.examine.swordsman.title": {
       "en": "New Friends!",
-      "->": ""
+      "->": "Yeni arkadaşlar!"
     },
     "wcontroller.examine.tech": {
       "en": "You found some old scrolls containing the secret of {0}.",
-      "->": "{0}'in gizemini içeren birkaç eski parşömen buldun!"
+      "->": "{0} teknolojisinin gizemini içeren birkaç eski parşömen buldun!"
     },
     "wcontroller.examine.tech.title": {
       "en": "Scrolls of Wisdom",
@@ -5149,7 +5149,7 @@
     },
     "wcontroller.examine.water": {
       "en": "You encountered a band of friendly pirates who joined your tribe!",
-      "->": "Kabilene katılmak isteyen arkadaş canlısı bir korsan tayfası buldun!"
+      "->": "Kabilene katılmak isteyen arkadaş canlısı bir korsan tayfası buldun, AHOY!"
     },
     "wcontroller.examine.water.elyrion": {
       "en": "You encountered an enchanted {0} who joined your tribe!",
@@ -5161,19 +5161,19 @@
     },
     "wcontroller.game.lost": {
       "en": "You've been wiped out. You can continue to spectate this game or return to main menu.",
-      "->": ""
+      "->": "Öldürüldün. İzlemeye devam edebilir ya da sadece maçtan ayrılabilirsin."
     },
     "wcontroller.game.lost.title": {
       "en": "You've been wiped out!",
-      "->": ""
+      "->": "Elendin!"
     },
     "wcontroller.kill.upgrade.description": {
       "en": "Unit is ready to upgrade!",
-      "->": "Birim yükseltilmeye hazır"
+      "->": "Birim terfi edilmeye hazır"
     },
     "wcontroller.kill.upgrade.title": {
       "en": "Level Up!",
-      "->": "Yükseltme!"
+      "->": "Terfi Et!"
     },
     "wcontroller.load.error": {
       "en": "There is no saved game to resume, start a new game!",
@@ -5189,7 +5189,7 @@
     },
     "wcontroller.load.update": {
       "en": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",
-      "->": "Bu oyun Polytopia'nın daha yeni bir sürümünü kullanıyor, you need to head over to {0} and update it before you can play."
+      "->": "Bu oyun Polytopia'nın daha yeni bir sürümünü kullanıyor, {0}'e uğrayıp oyunu güncellemen gerekiyor."
     },
     "wcontroller.load.update.title": {
       "en": "Update Required",
@@ -5197,7 +5197,7 @@
     },
     "wcontroller.load.wait": {
       "en": "Wait until this game has fully downloaded before opening it.",
-      "->": "Bu oyunu açmadan önce tam yüklenene kadar bekle."
+      "->": "Bu oyunu açmadan önce tamamen yüklenene kadar bekle."
     },
     "wcontroller.load.wait.title": {
       "en": "Still loading...",
@@ -5205,39 +5205,39 @@
     },
     "wcontroller.matchmaking.gamestarted": {
       "en": "Random match {0} is ready to go!",
-      "->": ""
+      "->": "Rastgele Maç ({0}) oynamaya hazır!"
     },
     "wcontroller.matchmaking.waitingforplayers": {
       "en": "You joined {0}, waiting for opponents",
-      "->": ""
+      "->": "{0}'e katıldın, rakipler bekleniyor."
     },
     "wcontroller.meet.tribe.bigger.friendly": {
       "en": "salutes you friendly but pays no attention to your tiny realm.",
-      "->": "seni dostça selamlıyor ama küçük impatatorluğuna hiç dikkatini vermiyor."
+      "->": "seni dostça selamlıyor ama senin küçücük imparatorluğuna aldırış etmiyor."
     },
     "wcontroller.meet.tribe.bigger.hostile": {
       "en": "laughs at your puny excuse of a Tribe.",
-      "->": "senin bir kabilenin cılız mazeretlerine gülüyor."
+      "->": "senin kabilenin cılız mazeretlerine gülüyor."
     },
     "wcontroller.meet.tribe.distant": {
       "en": "A delegation from a distant land arrives in your capital!",
-      "->": ""
+      "->": "Uzak diyarlardan bir heyet başkentinize geliyor!"
     },
     "wcontroller.meet.tribe.leader": {
       "en": "Their leader {0} ",
-      "->": "Onların lideri"
+      "->": "Liderleri,"
     },
     "wcontroller.meet.tribe.resource.boost": {
       "en": "The discovery of this {0} tribe gives you a one time trade boost of {1} stars!",
-      "->": ""
+      "->": "Bu {0} kabilenin keşfi sana, bir sefere mahsus {1} yıldız değerinde bir kaynak artışı veriyor."
     },
     "wcontroller.meet.tribe.smaller.friendly": {
       "en": "bows in awe of your mighty civilization.",
-      "->": "senin güçlü sayılan medeniyetinin korkusu içinde eğiliyor."
+      "->": "kudretli uygarlığınız karşısında saygıyla eğiliyor."
     },
     "wcontroller.meet.tribe.smaller.hostile": {
       "en": "seems a bit hostile and greet you suspiciously.",
-      "->": "biraz düşmanca gözüküyor ve seni şüpheli şekilde selamlıyor."
+      "->": "biraz düşmanca görünüyor ve sizi şüpheyle selamlıyor."
     },
     "wcontroller.online.yourturn.description": {
       "en": "Tap ok to continue the game when you are ready.",
@@ -5249,7 +5249,7 @@
     },
     "wcontroller.picktribe.notification": {
       "en": "It's your turn to pick tribe in {0}!",
-      "->": ""
+      "->": "{0}'da kabile seçme sırası sende!"
     },
     "wcontroller.removingplayer": {
       "en": "Removing Player",
@@ -5257,39 +5257,39 @@
     },
     "wcontroller.reward.bordergrowth": {
       "en": "border growth",
-      "->": "sınır artışı"
+      "->": "Sınır Büyümesi"
     },
     "wcontroller.reward.citywall": {
       "en": "city wall",
-      "->": "şehir duvarı"
+      "->": "Şehir Duvarı"
     },
     "wcontroller.reward.explorer": {
       "en": "explorer",
-      "->": "kaşif"
+      "->": "Kâşif"
     },
     "wcontroller.reward.park": {
       "en": "park",
-      "->": ""
+      "->": "Park"
     },
     "wcontroller.reward.populationgrowth": {
       "en": "population growth",
-      "->": "nüfus artışı"
+      "->": "Nüfus Artışı"
     },
     "wcontroller.reward.rebellion": {
       "en": "incite rebellion",
-      "->": ""
+      "->": "İsyana Teşvik"
     },
     "wcontroller.reward.resources": {
       "en": "resources",
-      "->": "kaynak"
+      "->": "Kaynak"
     },
     "wcontroller.reward.superunit": {
       "en": "super unit",
-      "->": "süper birim"
+      "->": "Süper Birim"
     },
     "wcontroller.reward.workshop": {
       "en": "workshop",
-      "->": "atölye"
+      "->": "Atölye"
     },
     "wcontroller.tribe.destroy": {
       "en": "You have destroyed {0}!",
@@ -5297,7 +5297,7 @@
     },
     "wcontroller.tribe.destroy.all": {
       "en": "You have destroyed all opposing tribes and unified the entire Square under your command!",
-      "->": "Bütün karşı kabileleri yok ettin ve bütün meydanın hakimiyetini ele geçirdin!"
+      "->": "Bütün düşman kabileleri yok ettin ve meydanın hakimiyetini ele geçirdin!"
     },
     "wcontroller.tribe.destroy.all.title": {
       "en": "Domination!",
@@ -5313,19 +5313,19 @@
     },
     "wcontroller.tribe.level_1": {
       "en": "curious",
-      "->": ""
+      "->": "meraklı"
     },
     "wcontroller.tribe.level_2": {
       "en": "sprawling",
-      "->": ""
+      "->": "genişleyen"
     },
     "wcontroller.tribe.level_3": {
       "en": "impressive",
-      "->": ""
+      "->": "etkileyici"
     },
     "wcontroller.tribe.level_4": {
       "en": "epic",
-      "->": ""
+      "->": "destansı"
     },
     "wcontroller.turn.end": {
       "en": "Ending turn...",
@@ -5341,7 +5341,7 @@
     },
     "wcontroller.turn.next": {
       "en": "Next up",
-      "->": "Sıradaki"
+      "->": "Turu Sonlandır"
     },
     "wcontroller.turn.notification": {
       "en": "It's your turn in {0} (turn {1})",
@@ -5353,7 +5353,7 @@
     },
     "wcontroller.turn.passed.title": {
       "en": "Turn complete",
-      "->": "Sıra tamamlandı"
+      "->": "Tur tamamlandı"
     },
     "wcontroller.turn.saving": {
       "en": "Saving game to server...",
@@ -5361,11 +5361,11 @@
     },
     "wcontroller.unit.promotion": {
       "en": "Your unit has gained veteran status! Health increased.",
-      "->": "Birimin kıdemli oldu, sağlığı artırıldı!"
+      "->": "Birimin kıdemli oldu, istatistikleri artırıldı!"
     },
     "wcontroller.unit.promotion.title": {
       "en": "Unit Promoted!",
-      "->": "Birim yükseltildi!"
+      "->": "Birim terfi edildi!"
     },
     "world.attract.sanctuary": {
       "en": "Your sanctuary has attracted a wild animal!",
@@ -5373,7 +5373,7 @@
     },
     "world.building.capture.ready": {
       "en": "Will be ready to capture next turn",
-      "->": "Sonraki sıra ele geçirilmeye hazır"
+      "->": "Sonraki tur ele geçirilmeye hazır"
     },
     "world.building.capture.ready.title": {
       "en": "Entering {0}!",
@@ -5381,7 +5381,7 @@
     },
     "world.building.capture.warning": {
       "en": "Capturing will be completed next turn if you don't stop them.",
-      "->": "Eğer onları durdurmazsan sonraki sırada ele geçirilecek."
+      "->": "Eğer onları durdurmazsan sonraki tur ele geçirilecek."
     },
     "world.building.capture.warning.title": {
       "en": "{0} is under siege!",
@@ -5397,7 +5397,7 @@
     },
     "world.infiltrate.header": {
       "en": "Infiltration Success!",
-      "->": ""
+      "->": "İsyan Başarılı!"
     },
     "world.intro.objective": {
       "en": "Objective: {0}",
@@ -5405,11 +5405,11 @@
     },
     "world.intro.text": {
       "en": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
-      "->": "{0} kabilesini yönetmek için sen seçildin . Dünyayı keşfet ve imparatorluğunu genişlet, ama diğer kabilelere de dikkat et."
+      "->": "{0} kabilesini yönetmek için sen seçildin . Dünyayı keşfet ve imparatorluğunu genişletirken bir yandan da diğer kabilelere de dikkat et."
     },
     "world.intro.title": {
       "en": "Mighty Leader!",
-      "->": "Güçlü Şef!"
+      "->": "Kudretli Şef!"
     },
     "world.loading": {
       "en": "LOADING {0}%",
@@ -5421,15 +5421,15 @@
     },
     "world.ranks": {
       "en": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
-      "->": "1'inci,2'nci,3'üncü,4'üncü,5'inci,6'ncı,7'nci,8'inci,9'uncu,10'uncu,11'inci,12'inci."
+      "->": "1'inci,2'nci,3'üncü,4'üncü,5'inci,6'ncı,7'nci,8'inci,9'uncu,10'uncu,11'inci,12'nci."
     },
     "world.rebellion.description": {
       "en": "A {0} from the {1} tribe has infiltrated the city of {2} and incited a revolt agains you!",
-      "->": ""
+      "->": "{1} kabilesinden bir {0}, {2} şehrine sızdı ve size karşı bir isyan çıkardı!"
     },
     "world.rebellion.title": {
       "en": "Riots in {0}!",
-      "->": ""
+      "->": "{0} şehrinde ayaklanma!"
     },
     "world.reveal.header": {
       "en": "Aha!",
@@ -5437,7 +5437,7 @@
     },
     "world.reveal.text": {
       "en": "A {0} was revealed!",
-      "->": ""
+      "->": "Bir {0} açığa çıkarıldı."
     },
     "world.reward.building": {
       "en": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",
@@ -5485,7 +5485,7 @@
     },
     "world.turn.end": {
       "en": "End Turn",
-      "->": "Sıranı sonlandır"
+      "->": "Turu Sonlandır"
     },
     "world.turn.end.confirm": {
       "en": "Confirm",
@@ -5493,7 +5493,7 @@
     },
     "world.turn.end.question": {
       "en": "End your turn?",
-      "->": "Sıranı sonlandıracak mısın?"
+      "->": "Turunu sonlandıracak mısın?"
     },
     "world.turn.exit": {
       "en": "Exit",
@@ -5509,11 +5509,11 @@
     },
     "world.turn.next": {
       "en": "Next Turn",
-      "->": "Sonraki"
+      "->": "Turu Sonlandır"
     },
     "world.turn.nomoves": {
       "en": "No more moves available, end turn",
-      "->": "Daha fazla hareket yapamazsın, sıranı bitir"
+      "->": "Daha fazla hamle yapamazsın, sıranı bitir"
     },
     "world.turn.ready": {
       "en": "Tap save when ready",
@@ -5521,7 +5521,7 @@
     },
     "world.turn.remaining": {
       "en": "{0} turns left",
-      "->": "{0} sıran kaldı"
+      "->": "{0} tur kaldı"
     },
     "world.turn.replaying": {
       "en": "Replaying...",
@@ -5529,7 +5529,7 @@
     },
     "world.turn.skip": {
       "en": "SKIP",
-      "->": ""
+      "->": "PAS GEÇ"
     },
     "world.turn.start": {
       "en": "START",
@@ -5541,7 +5541,7 @@
     },
     "world.turn.waiting.playing": {
       "en": "{0} is playing...",
-      "->": ""
+      "->": "{0} oynuyor..."
     },
     "world.turn.waiting.unknown": {
       "en": "Waiting for an unknown tribe to play...",
@@ -5553,7 +5553,7 @@
     },
     "world.unit.ability": {
       "en": "Unit Ability",
-      "->": "Birim Yetenekleri"
+      "->": "Birim Becerileri"
     },
     "world.unit.attack": {
       "en": "Attack",
@@ -5565,11 +5565,11 @@
     },
     "world.unit.disembark.message": {
       "en": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
-      "->": "Bu birimi karaya çıkarırsan {0} yok olacak . Devam etmek istediğinden emin misin?"
+      "->": "Bu birimi karaya çıkarırsan {0} yok olacak. Devam etmek istediğinden emin misin?"
     },
     "world.unit.disembark.title": {
       "en": "Leave {0}",
-      "->": "{0}'den ayrıl?"
+      "->": "{0}'den Ayrıl?"
     },
     "world.unit.dissolved": {
       "en": "Your unit has dissolved",
