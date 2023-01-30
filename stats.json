@@ -8214,5 +8214,11 @@
       "world.turn.skip",
       "world.turn.waiting.playing"
     ]
+  },
+  "tw": {
+    "language": "繁體中文",
+    "completedPercentage": 100,
+    "completedSize": "1401/1401",
+    "missingTranslations": []
   }
 }
