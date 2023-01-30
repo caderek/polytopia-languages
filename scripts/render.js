@@ -65,6 +65,7 @@ const render = (data) => {
             or
             <a
               href="https://github.com/caderek/polytopia-languages/tree/master/templates"
+              target="_blank"
               >one of the existing templates</a
             >, and make a pull request on
             <a
