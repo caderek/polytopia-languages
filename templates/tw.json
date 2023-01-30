@@ -1,0 +1,5611 @@
+{
+  "language": "繁體中文",
+  "author": "Kevin Kuo",
+  "editors": "Miguel Yeh",
+  "text": {
+    "action.info.attack": {
+      "en": "make an attack with this unit. Select the unit and tap any of the RED targets if you want to attack",
+      "->": "選取並點擊紅色標記，以此單位攻擊！"
+    },
+    "action.info.boost": {
+      "en": "Boost",
+      "->": "強化"
+    },
+    "action.info.breakice": {
+      "en": "Break Ice",
+      "->": "破冰"
+    },
+    "action.info.breakpeace": {
+      "en": "Break Peace",
+      "->": "打破和平"
+    },
+    "action.info.build": {
+      "en": "build a {0} here",
+      "->": "在此建造{0}"
+    },
+    "action.info.capture": {
+      "en": "Capture",
+      "->": "佔領"
+    },
+    "action.info.capture2": {
+      "en": "capture this city. Cities generate stars every turn that you can use to develop your empire",
+      "->": "佔領此城市。城市每回合都會產出星星，提供部落發展資源。"
+    },
+    "action.info.cityreward": {
+      "en": "City Reward",
+      "->": "城市獎勵"
+    },
+    "action.info.decompose": {
+      "en": "Decompose",
+      "->": "分解"
+    },
+    "action.info.destroy": {
+      "en": "Destroy",
+      "->": "拆毀"
+    },
+    "action.info.disband": {
+      "en": "Disband {0}",
+      "->": "遣散{0}"
+    },
+    "action.info.do": {
+      "en": "do {0} here",
+      "->": "在此{0}"
+    },
+    "action.info.endturn": {
+      "en": "end this turn to get more resources and unit moves. Press the 'Next Turn' button",
+      "->": "按 ’結束回合‘ 以重新獲得星星和移動力。"
+    },
+    "action.info.establishembassy": {
+      "en": "Establish Embassy",
+      "->": "建立使館"
+    },
+    "action.info.examineruins": {
+      "en": "Examine",
+      "->": "探索"
+    },
+    "action.info.explode": {
+      "en": "Explode",
+      "->": "自爆"
+    },
+    "action.info.freezearea": {
+      "en": "Freeze Area",
+      "->": "凍結區域"
+    },
+    "action.info.healarea": {
+      "en": "Heal Area",
+      "->": "治療區域內單位"
+    },
+    "action.info.healothers": {
+      "en": "Heal Others",
+      "->": "為周圍單位恢復生命"
+    },
+    "action.info.meet": {
+      "en": "Meet",
+      "->": "遇見"
+    },
+    "action.info.move": {
+      "en": "move this unit. Select the unit and tap any of the BLUE targets",
+      "->": "移動此單位。選取該單位後再按藍色標記的目的地。"
+    },
+    "action.info.peacetreaty": {
+      "en": "Offer Peace",
+      "->": "議和"
+    },
+    "action.info.promote": {
+      "en": "Promote",
+      "->": "晉升"
+    },
+    "action.info.recover": {
+      "en": "Recover",
+      "->": "恢復"
+    },
+    "action.info.remove": {
+      "en": "Remove",
+      "->": "移除"
+    },
+    "action.info.research": {
+      "en": "research {0}.",
+      "->": "研究‘{0}’科技"
+    },
+    "action.info.reward": {
+      "en": "Reward",
+      "->": "獎勵"
+    },
+    "action.info.reward.population": {
+      "en": "That will increase the population of the nearest city. When the population becomes big enough the city will level up and produce more resources",
+      "->": "增加轄區內城市人口。若積累足夠人口，城市將繼續升格，提升生產力。"
+    },
+    "action.info.reward.resources": {
+      "en": "That will give you an instant reward of {0} resources",
+      "->": "這會給你{0}的即時獎勵。"
+    },
+    "action.info.stay": {
+      "en": "Stay",
+      "->": "停留"
+    },
+    "action.info.train": {
+      "en": "train a unit in this city. Units can be used to explore the world and to attack enemies and defend your cities",
+      "->": "在此城市訓練一個單位，用於探索、進攻或防衛。"
+    },
+    "action.info.trip": {
+      "en": "Trip",
+      "->": "旅途"
+    },
+    "action.info.upgrade": {
+      "en": "Upgrade to {0}",
+      "->": "升級為{0}"
+    },
+    "actionbox.building.decomposing": {
+      "en": "Decomposing",
+      "->": "降解中"
+    },
+    "actionbox.building.decomposing.info": {
+      "en": "This improvement will decompose at the end of this turn",
+      "->": "回合結束時，會化解掉之前的升級。"
+    },
+    "actionbox.building.doit": {
+      "en": "DO IT",
+      "->": "執行"
+    },
+    "actionbox.building.level": {
+      "en": "level {0}/{1}",
+      "->": "等級 {0}/{1}"
+    },
+    "actionbox.building.requiredtech": {
+      "en": "You need to research {0} to do this, tap the 'Tech Tree' button.",
+      "->": "你需要掌握‘{0}’科技以執行此操作，去科技樹看看？"
+    },
+    "actionbox.building.techtree": {
+      "en": "TECH TREE",
+      "->": "科技樹"
+    },
+    "actionbox.cantperformaction.description": {
+      "en": "You cannot perform this action right now.",
+      "->": "當前無法進行此操作。"
+    },
+    "actionbox.city": {
+      "en": "City",
+      "->": "城市"
+    },
+    "actionbox.city.level": {
+      "en": "lvl {0}",
+      "->": ": {0}級"
+    },
+    "actionbox.confirm": {
+      "en": "Confirm {0}",
+      "->": "確認{0}"
+    },
+    "actionbox.confirm.button": {
+      "en": "YES",
+      "->": "沒錯"
+    },
+    "actionbox.confirm.info": {
+      "en": "Are you sure you want to do this?",
+      "->": "確定要這樣做嗎？"
+    },
+    "actionbox.confirm.info.breakpeace": {
+      "en": "Are you sure you want to break the peace treaty? Doing so will disable all your units for the rest of this turn.",
+      "->": "確定要撕毀和平協議嗎？如此將使你所有單位無法於本回合行動。"
+    },
+    "actionbox.confirm.info.breakpeace.disband": {
+      "en": "It will also disband the {0} units you have in their territory.",
+      "->": "這還會解散你在其境內的{0}個單位。"
+    },
+    "actionbox.embassyestablished.description": {
+      "en": "The embassy is already established.",
+      "->": "已建立使館。"
+    },
+    "actionbox.establishembassynocapital.description": {
+      "en": "You cannot establish an embassy if the tribe has no capital.",
+      "->": "你不能在失去首都的部落建立使館。"
+    },
+    "actionbox.insufficientfunds": {
+      "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
+      "->": "星數不足，按‘結束回合’來得到星星。"
+    },
+    "actionbox.pendingpeacetreaty.description": {
+      "en": "Peace treaty pending. Waiting for {0} to respond",
+      "->": "已呈上和平協議，等 {0} 回覆。"
+    },
+    "actionbox.pendingpeacetreaty.title": {
+      "en": "Pending Peace Treaty",
+      "->": "協議待決"
+    },
+    "actionbox.tile.roads": {
+      "en": "roads",
+      "->": "驛道"
+    },
+    "actionbox.unit.Boosted": {
+      "en": "Boosted",
+      "->": "強化"
+    },
+    "actionbox.unit.Frozen": {
+      "en": "Frozen",
+      "->": "凍結"
+    },
+    "actionbox.unit.Invisible": {
+      "en": "Invisible",
+      "->": "隱身"
+    },
+    "actionbox.unit.Poisoned": {
+      "en": "Poisoned",
+      "->": "中毒"
+    },
+    "actionbox.unit.ability": {
+      "en": "Unit Ability",
+      "->": "單位能力"
+    },
+    "actionbox.unit.kills": {
+      "en": "{0}/{1} kills",
+      "->": "擊殺 {0}/{1}"
+    },
+    "actionbox.unit.new": {
+      "en": "Train a new {0} {1}",
+      "->": "訓練一個新的 {0} {1}"
+    },
+    "actionbox.unit.toomany": {
+      "en": "(too many)",
+      "->": "（爆滿）"
+    },
+    "actionbox.unit.toomany.info": {
+      "en": "This city can't support any more units. Upgrade the city to get more space for units.",
+      "->": "此城市無法供養更多單位，升格城市來擴建人口。"
+    },
+    "actionbox.unit.train": {
+      "en": "TRAIN",
+      "->": "訓練"
+    },
+    "actionbox.unit.upgrade": {
+      "en": "UPGRADE",
+      "->": "升級"
+    },
+    "actionbox.unit.veteran": {
+      "en": "Veteran",
+      "->": "資深"
+    },
+    "actionbox.village": {
+      "en": "Village",
+      "->": "村落"
+    },
+    "actionbtn.remove.building": {
+      "en": "Building",
+      "->": "建築"
+    },
+    "actionbtn.remove.roads": {
+      "en": "Roads",
+      "->": "驛道"
+    },
+    "backend.connecting": {
+      "en": "Connecting to server...",
+      "->": "重新連接伺服器 . . ."
+    },
+    "backend.connecting.failed": {
+      "en": "Could not establish a connection to the server",
+      "->": "伺服器無法連線"
+    },
+    "backend.connection.lost": {
+      "en": "Connection lost",
+      "->": "失去連線"
+    },
+    "backend.connection.lost.info": {
+      "en": "Hold on while we're trying to reconnect",
+      "->": "嘗試連線中，請稍候..."
+    },
+    "backend.login.failed": {
+      "en": "Login failed",
+      "->": "登入失敗"
+    },
+    "backend.login.successful": {
+      "en": "Logged in as {0}",
+      "->": "{0} 成功登入"
+    },
+    "bottommenu.gamestats": {
+      "en": "Game Stats",
+      "->": "遊戲統計"
+    },
+    "bottommenu.menu": {
+      "en": "Menu",
+      "->": "選單"
+    },
+    "bottommenu.nextturn": {
+      "en": "Next Turn",
+      "->": "結束回合"
+    },
+    "bottommenu.techtree": {
+      "en": "Tech Tree",
+      "->": "科技樹"
+    },
+    "building.ability.attract": {
+      "en": "Attracts a wild animal to a nearby forest tile every {1} turns.",
+      "->": "每{1}回合會吸引一隻野生動物棲息在相鄰的森林。"
+    },
+    "building.ability.bridge": {
+      "en": "{0} creates a bridge that any unit can move on, ignoring the terrain type underneath.",
+      "->": "{0}造橋讓任何單位皆能無視地形移動至該方格。"
+    },
+    "building.ability.embark": {
+      "en": "Units that move here will turn into boats that can move on water.",
+      "->": "移至此處之單位會轉變為在水域行動的舟船。"
+    },
+    "building.ability.heal": {
+      "en": "{0} heals any friendly unit that end their turn next to them.",
+      "->": "{0}在己方回合結束時，為周圍單位恢復生命。"
+    },
+    "building.ability.limited": {
+      "en": "You can only build one {0} per city.",
+      "->": "每座城市之轄區內僅能建造一個{0}。"
+    },
+    "building.ability.network": {
+      "en": "{1} connect to cities and other {1} through {0}, within a {2} tiles radius.",
+      "->": "{1}在{0}上生成通往{2}格內城市和其他{1}的商道。"
+    },
+    "building.ability.patina": {
+      "en": "{0} grows every {1} turns and provides {2} for each level of growth.",
+      "->": "{0}每{1}回合都會成長，每級額外提供 {2}。"
+    },
+    "building.ability.poison": {
+      "en": "{0} poison any unit that step on them. Poisoned units lose all defense bonuses and spread spores when they die.",
+      "->": "{0}使踏足其上之單位中毒。中毒單位失去所有防禦加成，並在死後散播菌孢。"
+    },
+    "building.ability.road": {
+      "en": "Build roads to connect cities with the capital. Connected cities get 1 population as a reward. Roads also give a movement bonus for all units.",
+      "->": "建造驛道將城市連接至首都，兩端皆能獲得1人口獎勵，驛道還能加成所有單位之移動力。"
+    },
+    "building.ability.route": {
+      "en": "{1} creates trade routes through {0} to any other {1} within a {2} tiles radius.",
+      "->": "{1}在{0}上生成通往{2}格內其他{1}的商道。"
+    },
+    "building.ability.route.and": {
+      "en": "and ",
+      "->": "和"
+    },
+    "building.ability.ruin": {
+      "en": "A ruin from an ancient civilization, it can contain valuable things! Go there with a unit to examine it.",
+      "->": "可能有大量藏寶的古文明遺跡。派兵去考察看看吧！"
+    },
+    "building.ability.unique": {
+      "en": "{0} can only be built once.",
+      "->": "你只能建造一個{0}。"
+    },
+    "building.capital.owner": {
+      "en": "{0} is the {1} capital",
+      "->": "{0} 城是 {1} 的首都"
+    },
+    "building.capital.owner.former": {
+      "en": "{0} is the former capital of the {1} empire, currently occupied by {2} forces",
+      "->": "{0} 城曾是 {1} 帝國的首都，現已被 {2} 佔領。"
+    },
+    "building.city.owner": {
+      "en": "{0} is a city in the {1} empire",
+      "->": "{0} 是 {1} 帝國的一座城市"
+    },
+    "building.names.algae": {
+      "en": "Algae",
+      "->": "浮藻"
+    },
+    "building.names.burnforest": {
+      "en": "Burn Forest",
+      "->": "刀耕火種"
+    },
+    "building.names.city": {
+      "en": "City",
+      "->": "城市"
+    },
+    "building.names.clathrus": {
+      "en": "Clathrus",
+      "->": "藻綻"
+    },
+    "building.names.clearforest": {
+      "en": "Clear Forest",
+      "->": "夷平"
+    },
+    "building.names.customshouse": {
+      "en": "Customs House",
+      "->": "海關"
+    },
+    "building.names.enchantanimal": {
+      "en": "Enchant Animal",
+      "->": "化獸咒"
+    },
+    "building.names.enchantwhale": {
+      "en": "Enchant Whale",
+      "->": "化鯨咒"
+    },
+    "building.names.farm": {
+      "en": "Farm",
+      "->": "農耕"
+    },
+    "building.names.fishing": {
+      "en": "Fishing",
+      "->": "打漁"
+    },
+    "building.names.foresttemple": {
+      "en": "Forest Temple",
+      "->": "句芒廟"
+    },
+    "building.names.forge": {
+      "en": "Forge",
+      "->": "冶煉廠"
+    },
+    "building.names.fungi": {
+      "en": "Fungi",
+      "->": "真菌"
+    },
+    "building.names.growforest": {
+      "en": "Grow Forest",
+      "->": "植樹造林"
+    },
+    "building.names.harvestfruit": {
+      "en": "Harvest Fruit",
+      "->": "採果果"
+    },
+    "building.names.hunting": {
+      "en": "Hunting",
+      "->": "捕獵"
+    },
+    "building.names.icebank": {
+      "en": "Ice Bank",
+      "->": "冰庫銀行"
+    },
+    "building.names.icetemple": {
+      "en": "Ice Temple",
+      "->": "玄冥宮"
+    },
+    "building.names.lumberhut": {
+      "en": "Lumber Hut",
+      "->": "伐木屋"
+    },
+    "building.names.mine": {
+      "en": "Mine",
+      "->": "礦場"
+    },
+    "building.names.monument1": {
+      "en": "Altar of Peace",
+      "->": "興和壇"
+    },
+    "building.names.monument2": {
+      "en": "Tower of Wisdom",
+      "->": "明通塔"
+    },
+    "building.names.monument3": {
+      "en": "Grand Bazaar",
+      "->": "大趕集"
+    },
+    "building.names.monument4": {
+      "en": "Emperors Tomb",
+      "->": "皇陵"
+    },
+    "building.names.monument5": {
+      "en": "Gate of Power",
+      "->": "神威門"
+    },
+    "building.names.monument6": {
+      "en": "Park of Fortune",
+      "->": "納福園"
+    },
+    "building.names.monument7": {
+      "en": "Eye of God",
+      "->": "全視之眼"
+    },
+    "building.names.mountaintemple": {
+      "en": "Mountain Temple",
+      "->": "巫山廟"
+    },
+    "building.names.mycelium": {
+      "en": "Mycelium",
+      "->": "菌絲泉"
+    },
+    "building.names.outpost": {
+      "en": "Outpost",
+      "->": "前哨站"
+    },
+    "building.names.port": {
+      "en": "Port",
+      "->": "港口"
+    },
+    "building.names.road": {
+      "en": "Road",
+      "->": "驛道"
+    },
+    "building.names.ruin": {
+      "en": "Ruin",
+      "->": "遺跡"
+    },
+    "building.names.sanctuary": {
+      "en": "Sanctuary",
+      "->": "保護區"
+    },
+    "building.names.sawmill": {
+      "en": "Sawmill",
+      "->": "鋸木廠"
+    },
+    "building.names.temple": {
+      "en": "Temple",
+      "->": "寺廟"
+    },
+    "building.names.watertemple": {
+      "en": "Water Temple",
+      "->": "天后宮"
+    },
+    "building.names.whalehunting": {
+      "en": "Whale Hunting",
+      "->": "捕鯨"
+    },
+    "building.names.windmill": {
+      "en": "Windmill",
+      "->": "磨坊"
+    },
+    "building.produce": {
+      "en": "produces {0} each turn",
+      "->": "每回合產出 {0}"
+    },
+    "building.produce.multiply": {
+      "en": "({0} for each nearby {1})",
+      "->": " （每個相鄰的{1}增加 {0}）"
+    },
+    "building.produce.multiply.polaris": {
+      "en": "({0} for every {1} frozen tiles in the world)",
+      "->": " (每凍結 {1} 個方格增加 {0})"
+    },
+    "building.produce.multiply2": {
+      "en": "produces {0} for each nearby {1} each turn",
+      "->": "每個相鄰的{1}使其每回合額外生產 {0}"
+    },
+    "building.produce.multiply2.polaris": {
+      "en": "Produces {0} for every {1} frozen tiles in the world",
+      "->": "每凍結 {1} 個方格，便能每回合額外生產 {0}"
+    },
+    "building.produce.multiply3": {
+      "en": "produces {0} for each nearby {1}",
+      "->": "每個相鄰的{1}使其生產 {0}"
+    },
+    "building.produce.reward": {
+      "en": "produces {0}",
+      "->": "提供 {0}"
+    },
+    "building.produce.reward.named": {
+      "en": "produces {0} for {1}",
+      "->": "為 {1} 增加 {0}"
+    },
+    "building.resource": {
+      "en": "adds a {0} at the selected tile",
+      "->": "使{0}誕生於選定的方格"
+    },
+    "building.restriction.near": {
+      "en": "Must be built next to a {0}.",
+      "->": "須與{0}相鄰。"
+    },
+    "building.restriction.on": {
+      "en": "Must be on a tile with {0}.",
+      "->": "須在有{0}的方格上。"
+    },
+    "building.reward.instant": {
+      "en": "instantly gives you {0}",
+      "->": "立即生產 {0}"
+    },
+    "building.reward.tech": {
+      "en": "gives you a {0}",
+      "->": "使你獲得一個{0}"
+    },
+    "building.transform": {
+      "en": "transforms a {0} into a {1}",
+      "->": "將{0}變為{1}"
+    },
+    "building.transform2": {
+      "en": "transforms a {0} into a {1} with {2}",
+      "->": "將{0}變為有{2}的{1}"
+    },
+    "building.value": {
+      "en": "is worth {0} points of score",
+      "->": "為部落增加{0}點分數"
+    },
+    "building.village.owner": {
+      "en": "This is a village that doesn't belong to any tribe",
+      "->": "此村落還不屬任何部落"
+    },
+    "buttons.accept": {
+      "en": "ACCEPT",
+      "->": "接受"
+    },
+    "buttons.back": {
+      "en": "BACK",
+      "->": "返回"
+    },
+    "buttons.decline": {
+      "en": "DECLINE",
+      "->": "拒絕"
+    },
+    "buttons.exit": {
+      "en": "EXIT",
+      "->": "退出"
+    },
+    "buttons.exitgame": {
+      "en": "EXIT GAME",
+      "->": "暫離遊戲"
+    },
+    "buttons.invite": {
+      "en": "INVITE",
+      "->": "邀請"
+    },
+    "buttons.leave": {
+      "en": "LEAVE",
+      "->": "離開"
+    },
+    "buttons.ok": {
+      "en": "OK",
+      "->": "確定"
+    },
+    "buttons.quit": {
+      "en": "Quit",
+      "->": "退出"
+    },
+    "buttons.reconnect": {
+      "en": "RECONNECT",
+      "->": "重新連線"
+    },
+    "buttons.remove": {
+      "en": "REMOVE",
+      "->": "移除"
+    },
+    "buttons.save": {
+      "en": "SAVE",
+      "->": "保存"
+    },
+    "buttons.start": {
+      "en": "START GAME",
+      "->": "開始遊戲"
+    },
+    "buttons.stay": {
+      "en": "STAY",
+      "->": "留下"
+    },
+    "buttons.tryagain": {
+      "en": "TRY AGAIN",
+      "->": "重試"
+    },
+    "challengermode.connect.button": {
+      "en": "CONNECT",
+      "->": "連線"
+    },
+    "challengermode.connect.description": {
+      "en": "To participate in a ladder you need a Challengermode account.",
+      "->": "需 Challengermode 帳號以參與天梯。"
+    },
+    "challengermode.connect.header": {
+      "en": "Connect to Challengermode",
+      "->": "連線至 Challengermode"
+    },
+    "consent.approval.info": {
+      "en": "To improve Polytopia with usage statistics and to store your high scores and settings we need your approval to access to some personal data.\nYou can read more about what data we collect in our <u><a href='{0}'>privacy policy</a></u>.\n(You can revoke your approval at any time in the 'Throne Room')",
+      "->": "為統計數據以改善 Polytopia 並儲存您的分數與設定，需要您授權若干個人遊戲數據。\n你可在我們的<u><a href='{0}'>隱私政策</a></u>中了解更多有關數據收集的信息。\n（你可隨時在‘本地排行’中取消授權）"
+    },
+    "consent.approval.title": {
+      "en": "Welcome to Polytopia!",
+      "->": "歡迎來到 Polytopia！"
+    },
+    "consent.approve": {
+      "en": "APPROVE",
+      "->": "授權"
+    },
+    "consent.deny": {
+      "en": "DENY",
+      "->": "拒絕"
+    },
+    "consent.disabled": {
+      "en": "Personal Data Disabled",
+      "->": "個人數據收集已關閉"
+    },
+    "consent.disabled.info": {
+      "en": "To save personal data like high scores and usage statistics we need your approval. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+      "->": "為保存高分和使用統計個人數據，我們需要你的授權。你可以在我們的<u><a href='{0}'>隱私政策</a></u>中了解更多詳情。"
+    },
+    "consent.enabled": {
+      "en": "Personal Data Enabled",
+      "->": "已開啟個人數據收集"
+    },
+    "consent.enabled.info": {
+      "en": "You currently allow Polytopia to access some personal data to improve service and store your high scores etc. For more info, read our <u><a href='{0}'>privacy policy</a></u>.",
+      "->": "你現在已授權 Polytopia 訪問你的一些個人資訊以改進服務，並儲存你的高分數據等。你可以在我們的<u><a href='{0}'>隱私政策</a></u>中了解更多信息。"
+    },
+    "consent.revoke": {
+      "en": "revoke consent",
+      "->": "撤回授權"
+    },
+    "credits.artists": {
+      "en": "Artists",
+      "->": "美術"
+    },
+    "credits.build": {
+      "en": "Build version",
+      "->": "軟體版本"
+    },
+    "credits.community": {
+      "en": "Community Manager",
+      "->": "社群管理"
+    },
+    "credits.debuginfo": {
+      "en": "DEBUG INFO",
+      "->": "校對資料"
+    },
+    "credits.design": {
+      "en": "Game Design",
+      "->": "遊戲設計"
+    },
+    "credits.device": {
+      "en": "Device",
+      "->": "裝置"
+    },
+    "credits.followus": {
+      "en": "Follow us",
+      "->": "關注我們"
+    },
+    "credits.getmerch": {
+      "en": "Get some official Polytopian merch.",
+      "->": "今晚，我想來點 Polytopia 週邊！"
+    },
+    "credits.learnmore1": {
+      "en": "Want to know everything?",
+      "->": "想了解更多？"
+    },
+    "credits.learnmore2": {
+      "en": "Check the extensive Wikia database created by the Polytopia community.",
+      "->": "看看由 Polytopia 社群創建的豐富詞條吧！"
+    },
+    "credits.managment": {
+      "en": "Management",
+      "->": "團隊管理"
+    },
+    "credits.midjiwan": {
+      "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
+      "->": "位於瑞典斯德哥爾摩之獨立遊戲工作室 Midjiwan 持續開發並維護 The Battle of Polytopia。"
+    },
+    "credits.music": {
+      "en": "MUSIC",
+      "->": "音樂"
+    },
+    "credits.os": {
+      "en": "OS",
+      "->": "操作系統"
+    },
+    "credits.platforms": {
+      "en": "Multiple platforms",
+      "->": "在更多平臺遊玩"
+    },
+    "credits.polytopiamusic1": {
+      "en": "Polytopia music!",
+      "->": "Polytopia 音樂！"
+    },
+    "credits.polytopiamusic2": {
+      "en": "Listen to full length versions of you favourite tribe's soundtrack on Spotify.",
+      "->": "來 Spotify 聽聽你最鍾愛的部落主題曲吧！"
+    },
+    "credits.privacy": {
+      "en": "Privacy Policy",
+      "->": "隱私政策"
+    },
+    "credits.programmers": {
+      "en": "Programmers",
+      "->": "程式設計"
+    },
+    "credits.qa": {
+      "en": "Quality Assurance",
+      "->": "測試工程師"
+    },
+    "credits.screendpi": {
+      "en": "Screen DPI",
+      "->": "螢幕 DPI"
+    },
+    "credits.screensize": {
+      "en": "Screen size",
+      "->": "螢幕尺寸"
+    },
+    "credits.showsupport": {
+      "en": "Show your support!",
+      "->": "支持我們！"
+    },
+    "credits.sound": {
+      "en": "Sound & Music",
+      "->": "音效與音樂"
+    },
+    "credits.terms": {
+      "en": "Terms of Service",
+      "->": "服務條款"
+    },
+    "credits.title": {
+      "en": "ABOUT",
+      "->": "關於"
+    },
+    "credits.visitshop": {
+      "en": "SHOP",
+      "->": "商店"
+    },
+    "credits.wiki": {
+      "en": "WIKI",
+      "->": "百科"
+    },
+    "date.day": {
+      "en": "day",
+      "->": "天"
+    },
+    "date.days": {
+      "en": "days",
+      "->": "天"
+    },
+    "date.hour": {
+      "en": "hour",
+      "->": "小時"
+    },
+    "date.hours": {
+      "en": "hours",
+      "->": "小時"
+    },
+    "date.minute": {
+      "en": "minute",
+      "->": "分鐘"
+    },
+    "date.minutes": {
+      "en": "minutes",
+      "->": "分鐘"
+    },
+    "date.second": {
+      "en": "second",
+      "->": "秒"
+    },
+    "date.seconds": {
+      "en": "seconds",
+      "->": "秒"
+    },
+    "diplomacy.acceptpeace.description": {
+      "en": "{0} has accepted your peace treaty! While at peace no hostile actions can be made.",
+      "->": "{0} 接受了你遞交的和平協議。協議生效期間，雙方都不可採取侵略行動。"
+    },
+    "diplomacy.acceptpeace.notification.description": {
+      "en": "Peace treaty with {0} confirmed!",
+      "->": "已與 {0} 簽訂和平協議！"
+    },
+    "diplomacy.acceptpeace.notification.description2": {
+      "en": "{0} and {1} has made peace!",
+      "->": "{0} 已與 {1} 簽訂和平協議!"
+    },
+    "diplomacy.acceptpeace.title": {
+      "en": "Peace treaty accepted!",
+      "->": "已簽訂和平協議！"
+    },
+    "diplomacy.breakpeace.description": {
+      "en": "{0} has broken the peace treaty. Next turn you will be able to attack each other again so get prepared!",
+      "->": "{0} 已撕毀和平協議。下一回合起你們將可以相互攻擊，嚴陣以待吧！"
+    },
+    "diplomacy.breakpeace.notification.description": {
+      "en": "Broke peace with {0}",
+      "->": "已撕毀與 {0} 之間的和平協議"
+    },
+    "diplomacy.breakpeace.notification.description2": {
+      "en": "{0} and {1} are no longer at peace",
+      "->": "{0} 與 {1} 之間的和平協議已破裂"
+    },
+    "diplomacy.breakpeace.title": {
+      "en": "{0} Broke Peace",
+      "->": "{0} 撕毀了和平協議"
+    },
+    "diplomacy.declarewar.description": {
+      "en": "{0} has declared war on you!",
+      "->": "{0} 向你宣戰！"
+    },
+    "diplomacy.declarewar.title": {
+      "en": "War!",
+      "->": "開戰吧！"
+    },
+    "diplomacy.denypeace.description": {
+      "en": "{0} has rejected the peace treaty you offered.",
+      "->": "{0} 拒簽了你遞交的和平協議"
+    },
+    "diplomacy.denypeace.notification.description": {
+      "en": "You rejected the {0} peace treaty.",
+      "->": "你拒簽了 {0} 遞交的和平協議。"
+    },
+    "diplomacy.denypeace.notification.title": {
+      "en": "No Deal",
+      "->": "已拒簽和平協議"
+    },
+    "diplomacy.denypeace.title": {
+      "en": "Peace treaty rejected",
+      "->": "和平協議被拒簽"
+    },
+    "diplomacy.destroyedembassy.description": {
+      "en": "Your embassy in the {0} capital has been destroyed!",
+      "->": "你在 {0} 首都的使館被毀"
+    },
+    "diplomacy.destroyedembassy.description2": {
+      "en": "The {0} embassy in your capital has been destroyed.",
+      "->": "{0} 在你首都的使館被毀"
+    },
+    "diplomacy.destroyedembassy.title": {
+      "en": "Embassy Destroyed",
+      "->": "使館被毀"
+    },
+    "diplomacy.establishedembassy.description": {
+      "en": "You have established an embassy in the {0} capital. It will give you both {1} stars per turn, when you have a peace treaty the income is doubled.",
+      "->": "你已在 {0} 的首都建立了使館。這會為雙方每回合帶來 {1} 顆星星的額外收入。若雙方有簽訂和平協議則收入翻倍。"
+    },
+    "diplomacy.establishedembassy.description2": {
+      "en": "{0} established an embassy in your capital. It will give you both {1} stars per turn. The income is doubled if you have a peace treaty.",
+      "->": "{0} 已在你的首都建立了使館。這會為你們雙方每回合帶來 {1} 顆星星的額外收入。若你們簽訂了和平協議則收入翻倍。"
+    },
+    "diplomacy.establishedembassy.title": {
+      "en": "Embassy Established",
+      "->": "使館落成"
+    },
+    "diplomacy.peacetreaty.description": {
+      "en": "{0} suggests a peace treaty. If you accept you will not be able to attack each other until one of you breaks the treaty",
+      "->": "{0} 向你遞交和平協議，一旦接受，直到協議被撕毀前你們都無法攻擊對方。"
+    },
+    "diplomacy.peacetreaty.notification.description": {
+      "en": "Peace treaty sent to {0}",
+      "->": "已向 {0} 遞交和平協議。"
+    },
+    "diplomacy.relation.decent": {
+      "en": "Decent",
+      "->": "尚好"
+    },
+    "diplomacy.relation.great": {
+      "en": "Great",
+      "->": "極佳"
+    },
+    "diplomacy.relation.horrible": {
+      "en": "Horrible",
+      "->": "惡劣"
+    },
+    "diplomacy.relation.indifferent": {
+      "en": "Indifferent",
+      "->": "普通"
+    },
+    "diplomacy.relation.poor": {
+      "en": "Poor",
+      "->": "較差"
+    },
+    "diplomacy.relation.title": {
+      "en": "Relation",
+      "->": "關係"
+    },
+    "diplomacy.state.hostile": {
+      "en": "cooldown",
+      "->": "破裂"
+    },
+    "diplomacy.state.hostile.description": {
+      "en": "Your current peace treaty just ended and you will be able to attack each other again next turn.",
+      "->": "你們的和平協議剛被撕毀，下回合起將可互相攻擊。"
+    },
+    "diplomacy.state.neutral": {
+      "en": "neutral",
+      "->": "中立"
+    },
+    "diplomacy.state.neutral.description": {
+      "en": "There has been no recent hostilities between your tribes.",
+      "->": "近期兩部落間未有任何摩擦。"
+    },
+    "diplomacy.state.peace": {
+      "en": "peace",
+      "->": "和平"
+    },
+    "diplomacy.state.peace.description": {
+      "en": "You currently have a peace treaty preventing you from attacking each other. A peace treaty can be canceled at any time, but that will take effect in the following turn.",
+      "->": "當前簽訂之和平協議使你們無法互相攻擊。和平協議隨時可被撕毀，但要在一回合後方可互相攻擊。"
+    },
+    "diplomacy.state.war": {
+      "en": "war",
+      "->": "交戰"
+    },
+    "diplomacy.state.war.description": {
+      "en": "You or them have attacked the other in the last turn. If there are no more hostilities in one turn your status will change to \"neutral\"",
+      "->": "雙方在上回合有衝突。若在這一回合不再互相攻擊，你們的關係將回到’中立‘。"
+    },
+    "endscreen.army&territory": {
+      "en": "Army & Territory",
+      "->": "軍力與疆域"
+    },
+    "endscreen.battle": {
+      "en": "Battle skills",
+      "->": "作戰技巧"
+    },
+    "endscreen.battle.info": {
+      "en": "{0} units lost",
+      "->": "損失{0}個單位"
+    },
+    "endscreen.bonus": {
+      "en": "Difficulty Bonus",
+      "->": "難度加成"
+    },
+    "endscreen.cities": {
+      "en": "Cities",
+      "->": "城市"
+    },
+    "endscreen.citiescount": {
+      "en": "{0} cities",
+      "->": "{0} 座城市"
+    },
+    "endscreen.connectioninfo": {
+      "en": "Log in to submit high scores",
+      "->": "登錄以記錄高分"
+    },
+    "endscreen.culture": {
+      "en": "{0} monuments, {1} temples",
+      "->": "{0}座紀念碑，{1}座寺廟。"
+    },
+    "endscreen.destroyed": {
+      "en": "Tribes destroyed",
+      "->": "消滅的部落"
+    },
+    "endscreen.destroyed.info": {
+      "en": "{0}/{1}",
+      "->": "{0}/{1}"
+    },
+    "endscreen.domination.loss": {
+      "en": "{0} turns",
+      "->": "{0}回合"
+    },
+    "endscreen.domination.win": {
+      "en": "{0}/{1} turns",
+      "->": "{0}/{1}回合"
+    },
+    "endscreen.done": {
+      "en": "DONE",
+      "->": "完成"
+    },
+    "endscreen.finalrating": {
+      "en": "FINAL RATING",
+      "->": "最終評級"
+    },
+    "endscreen.finalscore": {
+      "en": "FINAL SCORE",
+      "->": "最終得分"
+    },
+    "endscreen.gameover": {
+      "en": "GAME OVER",
+      "->": "失敗"
+    },
+    "endscreen.monuments&temples": {
+      "en": "Monuments & Temples",
+      "->": "紀念碑與寺廟"
+    },
+    "endscreen.nextstar": {
+      "en": "{0} needed for next star",
+      "->": "達到 {0} 分以點亮下一顆星"
+    },
+    "endscreen.nextstar.percent": {
+      "en": "{0}% needed for next star",
+      "->": "達到 {0}% 以點亮下一顆星"
+    },
+    "endscreen.personal": {
+      "en": "New personal all time high!",
+      "->": "打破個人最佳紀錄！"
+    },
+    "endscreen.personal.title": {
+      "en": "Amazing!",
+      "->": "熱烈祝賀！"
+    },
+    "endscreen.rating": {
+      "en": "Difficulty rating",
+      "->": "難度評級"
+    },
+    "endscreen.ruledby": {
+      "en": "Ruled by {0}",
+      "->": "由 {0} 統治"
+    },
+    "endscreen.science": {
+      "en": "Science",
+      "->": "科技"
+    },
+    "endscreen.showhiscore": {
+      "en": "SHOW HISCORE",
+      "->": "顯示全球高分榜"
+    },
+    "endscreen.speedskills": {
+      "en": "Speed skills",
+      "->": "速度技巧"
+    },
+    "endscreen.techscore": {
+      "en": "{0}/{1} technologies researched",
+      "->": "{0}/{1} 項科技"
+    },
+    "endscreen.topresult": {
+      "en": "New top result!",
+      "->": "又刷新了最高分！"
+    },
+    "endscreen.topresult.title": {
+      "en": "Great!",
+      "->": "恭喜！"
+    },
+    "endscreen.units": {
+      "en": "{0} units, {1} tiles empire",
+      "->": "{0} 個單位，{1} 格國土。"
+    },
+    "endscreen.victory": {
+      "en": "VICTORY",
+      "->": "勝利"
+    },
+    "endscreen.winner": {
+      "en": "{0} wins!",
+      "->": "{0} 獲勝！"
+    },
+    "epithet.divine": {
+      "en": "the Divine {0}",
+      "->": "英明的 {0}"
+    },
+    "epithet.faithful": {
+      "en": "the Faithful {0}",
+      "->": "忠誠的 {0}"
+    },
+    "epithet.pathetic": {
+      "en": "the Pathetic {0}",
+      "->": "可悲的 {0}"
+    },
+    "epithet.terrible": {
+      "en": "the Terrible {0}",
+      "->": "恐怖的 {0}"
+    },
+    "error.code.1001": {
+      "en": "Submit failed, busy ({0})",
+      "->": "系統繁忙，提交失敗。({0})"
+    },
+    "error.code.1002": {
+      "en": "Steam authentication failed ({0})",
+      "->": "Steam 授權失敗 ({0})"
+    },
+    "error.code.1003": {
+      "en": "Google Play authentication failed ({0})",
+      "->": "Google Play 授權失敗 ({0})"
+    },
+    "error.code.1004": {
+      "en": "Login failed ({0})",
+      "->": "登入失敗  ({0})"
+    },
+    "error.code.1005": {
+      "en": "Game not found ({0})",
+      "->": "找不到遊戲 ({0})"
+    },
+    "error.code.1006": {
+      "en": "Player not found ({0})",
+      "->": "找不到玩家 ({0})"
+    },
+    "error.code.1007": {
+      "en": "Invalid friend request ({0})",
+      "->": "好友請求無效 ({0})"
+    },
+    "error.code.1008": {
+      "en": "Friendship not found ({0})",
+      "->": "找不到好友 ({0})"
+    },
+    "error.code.1009": {
+      "en": "Invalid friendship status ({0})",
+      "->": "好友狀態無效 ({0})"
+    },
+    "error.code.1010": {
+      "en": "Unable to create game, no players ({0})",
+      "->": "沒有玩家故無法創建遊戲。({0})"
+    },
+    "error.code.1011": {
+      "en": "Missing game state ({0})",
+      "->": "遊戲狀態遺失({0})"
+    },
+    "error.code.1012": {
+      "en": "Game could not be loaded ({0})",
+      "->": "無法載入遊戲 ({0})"
+    },
+    "error.code.1013": {
+      "en": "Invalid command ({0})",
+      "->": "無效指令 ({0})"
+    },
+    "error.code.1014": {
+      "en": "Failed to kick player ({0})",
+      "->": "踢出玩家失敗 ({0})"
+    },
+    "error.code.1015": {
+      "en": "Failed to start game ({0})",
+      "->": "啟動遊戲失敗 ({0})"
+    },
+    "error.code.1016": {
+      "en": "User not found ({0})",
+      "->": "找不到用戶 ({0})"
+    },
+    "error.code.1017": {
+      "en": "Failed to pick tribe ({0})",
+      "->": "選擇部落失敗 ({0})"
+    },
+    "error.code.1018": {
+      "en": "AI Command failed ({0})",
+      "->": "AI 指令失敗 ({0})"
+    },
+    "error.code.1019": {
+      "en": "Your version of Polytopia is too old. Update to the latest version to start a new multiplayer game ({0})",
+      "->": "你的 Polytopia 版本太舊，升級到最新版以開始多人遊戲。({0})"
+    },
+    "error.code.1023": {
+      "en": "This game is using a newer version of Polytopia, you need to update to the latest version before you can play. ({0})",
+      "->": "本局遊戲由更新版本之 Polytopia 建立，遊玩之前你需要升級至最新版本。({0})"
+    },
+    "error.code.1024": {
+      "en": "This game is still ongoing, you can view it once it has ended ({0})",
+      "->": "本局遊戲還在進行，結束後你便能觀戰。({0})"
+    },
+    "error.code.404": {
+      "en": "Connection error ({0})",
+      "->": "連線錯誤 ({0})"
+    },
+    "error.code.500": {
+      "en": "Internal server error ({0})",
+      "->": "伺服器內部錯誤 ({0})"
+    },
+    "error.unknown": {
+      "en": "Unknown error: {0} ({1})",
+      "->": "未知錯誤：{0} ({1})"
+    },
+    "esport.verifyaccount.description": {
+      "en": "You’re about to link your Polytopia account to Challengermode.",
+      "->": "即將串聯你的 Polytopia 帳號至 Challengermode"
+    },
+    "esport.verifyaccount.description.login": {
+      "en": "In order to verify your account you need to be logged in",
+      "->": "需登入帳號以通過驗證"
+    },
+    "esport.verifyaccount.login": {
+      "en": "Login",
+      "->": "登入"
+    },
+    "esport.verifyaccount.service.cm": {
+      "en": "Challengermode",
+      "->": "Challengermode"
+    },
+    "esport.verifyaccount.success": {
+      "en": "Successfully linked account",
+      "->": "成功串聯帳號"
+    },
+    "esport.verifyaccount.title": {
+      "en": "Verify Account",
+      "->": "驗證帳號"
+    },
+    "firebaseservice.status.connecting": {
+      "en": "Connecting to the Polytopia server...",
+      "->": "正在連接到 Polytopia 伺服器 . . . . . ."
+    },
+    "firebaseservice.status.loading": {
+      "en": "Loading game data...",
+      "->": "載入遊戲數據中 . . ."
+    },
+    "firendList.winratio": {
+      "en": "-Win Ratio-",
+      "->": "⁣勝率"
+    },
+    "friendlist.acceptinvite.button": {
+      "en": "ACCEPT INVITE",
+      "->": "接受邀請"
+    },
+    "friendlist.bot": {
+      "en": "{0} Bot",
+      "->": "{0} AI 玩家"
+    },
+    "friendlist.bots": {
+      "en": "Bots",
+      "->": "AI 玩家"
+    },
+    "friendlist.cancelinvite.button": {
+      "en": "CANCEL INVITE",
+      "->": "取消邀請"
+    },
+    "friendlist.checking": {
+      "en": "Checking friend status...",
+      "->": "同步好友狀態中 . . . . . ."
+    },
+    "friendlist.error": {
+      "en": "Error loading friends",
+      "->": "載入好友列表錯誤"
+    },
+    "friendlist.friend.notupdated": {
+      "en": "{0} is still on the old server",
+      "->": "{0} 仍停留在舊的伺服器"
+    },
+    "friendlist.friend.update": {
+      "en": "{0} needs to update to the latest version of Polytopia before you can invite them to new games.",
+      "->": "{0} 需要升級到 Polytopia 的最新版本才能接收你的邀請"
+    },
+    "friendlist.friend.updated": {
+      "en": "{0} is now on the new server",
+      "->": "{0} 已升級至新伺服器"
+    },
+    "friendlist.friendrequests": {
+      "en": "Friend Requests",
+      "->": "好友申請"
+    },
+    "friendlist.friends": {
+      "en": "Friends",
+      "->": "好友"
+    },
+    "friendlist.friends.old": {
+      "en": "Outdated friends",
+      "->": "舊版本好友"
+    },
+    "friendlist.friendshipstate": {
+      "en": "Friendship status: {0}",
+      "->": "好友狀態: {0}"
+    },
+    "friendlist.friendshipstate.accepted": {
+      "en": "This player is your friend. Lucky you!",
+      "->": "好友申請通過。你們已成為好友。"
+    },
+    "friendlist.friendshipstate.isyou": {
+      "en": "This is you.",
+      "->": "這是你。"
+    },
+    "friendlist.friendshipstate.none": {
+      "en": "You're not friends with this player. Maybe you would like to be?",
+      "->": "你還不是他的好友，要不交個朋友？"
+    },
+    "friendlist.friendshipstate.receivedrequest": {
+      "en": "This player wants to be your friend. Do you accept?",
+      "->": "收到好友申請，要答應嗎？"
+    },
+    "friendlist.friendshipstate.rejected": {
+      "en": "Friend request rejected.",
+      "->": "已拒絕好友申請"
+    },
+    "friendlist.friendshipstate.sentrequest": {
+      "en": "You've sent a friend request to this player. No response yet. Fingers crossed!",
+      "->": "已發送好友申請，等待通過。"
+    },
+    "friendlist.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": "無法連接至多人遊戲伺服器，請檢查網路連線並重試。"
+    },
+    "friendlist.loading": {
+      "en": "Loading friends...",
+      "->": "載入好友中 . . . . . ."
+    },
+    "friendlist.local": {
+      "en": "Local Players",
+      "->": "本地玩家"
+    },
+    "friendlist.new.Results": {
+      "en": "Results:",
+      "->": "結果: "
+    },
+    "friendlist.new.Search": {
+      "en": "SEARCH",
+      "->": "搜索"
+    },
+    "friendlist.new.accept": {
+      "en": "ACCEPT",
+      "->": "接受"
+    },
+    "friendlist.new.added.info": {
+      "en": "Added player {0}",
+      "->": "{0} 已成為你的好友"
+    },
+    "friendlist.new.added.title": {
+      "en": "Player Added",
+      "->": "添加成功"
+    },
+    "friendlist.new.button": {
+      "en": "ADD",
+      "->": "加好友"
+    },
+    "friendlist.new.caps": {
+      "en": "ADD FRIEND",
+      "->": "添加好友"
+    },
+    "friendlist.new.exists.info": {
+      "en": "You are already friends with {0}",
+      "->": "{0} 已是你好友"
+    },
+    "friendlist.new.exists.title": {
+      "en": "Duplicate Player",
+      "->": "重複的玩家"
+    },
+    "friendlist.new.info.alias": {
+      "en": "Search for your friend's alias.",
+      "->": "用暱稱搜尋好友"
+    },
+    "friendlist.new.looking.info": {
+      "en": "Looking for player {0}",
+      "->": "正在搜尋玩家 {0} "
+    },
+    "friendlist.new.looking.title": {
+      "en": "Loading Player",
+      "->": "找呀找呀找..."
+    },
+    "friendlist.new.reject": {
+      "en": "REJECT",
+      "->": "拒絕"
+    },
+    "friendlist.new.title": {
+      "en": "Add a new friend",
+      "->": "添加新好友"
+    },
+    "friendlist.pendinginvitations": {
+      "en": "Pending Invitations",
+      "->": "待通過申請"
+    },
+    "friendlist.player": {
+      "en": "Player {0}",
+      "->": "玩家 {0}"
+    },
+    "friendlist.rejectedinvitations": {
+      "en": "Rejected Invitations",
+      "->": "拒絕申請"
+    },
+    "friendlist.reload": {
+      "en": "RELOAD",
+      "->": "刷新"
+    },
+    "friendlist.reloading": {
+      "en": "Reloading...",
+      "->": "刷新中 . . . . . ."
+    },
+    "friendlist.remove": {
+      "en": "REMOVE",
+      "->": "移除"
+    },
+    "friendlist.removed.info": {
+      "en": "Removed player {0}",
+      "->": "玩家 {0} 不再是你的好友"
+    },
+    "friendlist.removed.title": {
+      "en": "Player Removed",
+      "->": "已移除玩家"
+    },
+    "friendlist.requestaccepted": {
+      "en": "Friend Request Accepted",
+      "->": "好友申請已通過"
+    },
+    "friendlist.requestrecieved": {
+      "en": "Friend Request Received",
+      "->": "收到好友申請"
+    },
+    "friendlist.requestsent.notification": {
+      "en": "Friend request sent to {0}",
+      "->": "已發送好友申請！"
+    },
+    "friendlist.title": {
+      "en": "FRIEND LIST",
+      "->": "好友列表"
+    },
+    "friendlist.unfriend": {
+      "en": "UNFRIEND",
+      "->": "刪除好友"
+    },
+    "friendlist.uptodate": {
+      "en": "Everything is up to date",
+      "->": "刷新完畢"
+    },
+    "gameinfo.created": {
+      "en": "Created: {0} ago",
+      "->": "{0}前建立"
+    },
+    "gameinfo.gameover": {
+      "en": "This game is over, open it to view the final result",
+      "->": "此遊戲已結束，開啟觀看結果。"
+    },
+    "gameinfo.gameversion": {
+      "en": "Game version: {0}",
+      "->": "遊戲版本: {0}"
+    },
+    "gameinfo.id": {
+      "en": "ID: {0}",
+      "->": "遊戲 ID: {0}"
+    },
+    "gameinfo.id.copied": {
+      "en": "Game ID copied",
+      "->": "已複製遊戲 ID "
+    },
+    "gameinfo.lastmove": {
+      "en": "Last move: {0} ago",
+      "->": "上次移動: {0}前"
+    },
+    "gameinfo.move": {
+      "en": "Move: {0}",
+      "->": "總步數: {0}"
+    },
+    "gameinfo.nodata": {
+      "en": "There's something wrong with this game, can't show any data for it",
+      "->": "遊戲出錯，無法顯示數據。"
+    },
+    "gameinfo.nodata.title": {
+      "en": "No data",
+      "->": "無數據"
+    },
+    "gameinfo.opponentsturn": {
+      "en": "Waiting for {0} to {1}",
+      "->": "等待 {0} 操作"
+    },
+    "gameinfo.picktribe": {
+      "en": "Pick Tribe",
+      "->": "選擇部落"
+    },
+    "gameinfo.play": {
+      "en": "Play",
+      "->": "進入"
+    },
+    "gameinfo.serverversion": {
+      "en": "Server version: {0}",
+      "->": "伺服器版本: {0}"
+    },
+    "gameinfo.start": {
+      "en": "Start the Game",
+      "->": "開始遊戲"
+    },
+    "gameinfo.turn": {
+      "en": "Turn: {0}",
+      "->": "回合數: {0}"
+    },
+    "gameinfo.updated": {
+      "en": "Updated: {0} ago",
+      "->": "數據更新: {0}前"
+    },
+    "gameinfo.yourturn": {
+      "en": "It is your turn to {0}",
+      "->": "可以進行操作"
+    },
+    "gameitem.ended": {
+      "en": "This game is over.",
+      "->": "本局遊戲業已結束"
+    },
+    "gameitem.gameover": {
+      "en": "This game is over, tap to see the end.",
+      "->": "遊戲結束，看看結果如何吧！"
+    },
+    "gameitem.join": {
+      "en": "Join this game or decline the invitation",
+      "->": "加入遊戲或拒絕邀請"
+    },
+    "gameitem.join.wait": {
+      "en": "Waiting for {0} to pick tribe",
+      "->": "等待 {0} 選擇部落"
+    },
+    "gameitem.kick": {
+      "en": "Duh!",
+      "->": "太慢了！"
+    },
+    "gameitem.kick.action": {
+      "en": "KICK",
+      "->": "踢出遊戲"
+    },
+    "gameitem.kick.info": {
+      "en": "Do you want to kick {0} out of from this game? A bot will take control of the tribe.",
+      "->": "超時了 . . . .\n你想將 {0} 踢出遊戲嗎？AI 將代管其部落。"
+    },
+    "gameitem.localplayerdead": {
+      "en": "You've been wiped out in this game, still you can spectate.",
+      "->": "您已輸掉本局遊戲，但仍然可以觀戰。"
+    },
+    "gameitem.pick": {
+      "en": "{0}, pick your tribe",
+      "->": "{0}，選擇你的部落"
+    },
+    "gameitem.ready": {
+      "en": "Ready to start!",
+      "->": "準備好啦！"
+    },
+    "gameitem.ready.wait": {
+      "en": "{0} can start the game",
+      "->": "{0} 可以開始遊戲"
+    },
+    "gameitem.ready.wait.noowner": {
+      "en": "Waiting for the game to start",
+      "->": "等待遊戲開始"
+    },
+    "gameitem.reload": {
+      "en": "RELOAD",
+      "->": "刷新"
+    },
+    "gameitem.remind.max": {
+      "en": "That's enough",
+      "->": "等太久咯！"
+    },
+    "gameitem.remind.max.info": {
+      "en": "Reminder already sent to {0}",
+      "->": "已向 {0} 發送提醒"
+    },
+    "gameitem.remind.notification": {
+      "en": "We are waiting for you to play in {0}. Come on!!",
+      "->": "大家還在遊戲 {0} 等你下一步呢！快來唷～"
+    },
+    "gameitem.remind.notify": {
+      "en": "Done",
+      "->": "完成"
+    },
+    "gameitem.remind.notify.info": {
+      "en": "Reminder sent to {0}",
+      "->": "已向 {0} 發送提醒"
+    },
+    "gameitem.skipturn": {
+      "en": "Duh!",
+      "->": "太慢了！"
+    },
+    "gameitem.skipturn.action": {
+      "en": "SKIP TURN",
+      "->": "略過其回合"
+    },
+    "gameitem.skipturn.info": {
+      "en": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
+      "->": "確定要略過 {0} 的回合嗎？你亦可將其踢出遊戲，轉交 AI 代管。"
+    },
+    "gameitem.slow": {
+      "en": "Come on...",
+      "->": "給點力 . . . . . ."
+    },
+    "gameitem.slow.action": {
+      "en": "REMIND",
+      "->": "提醒"
+    },
+    "gameitem.slow.info": {
+      "en": "{0} has {1} to make a move. Send a rude reminder to make {0} hurry up?",
+      "->": "{0} 只剩 {1} 走下一步了。要強力提醒 {0} 快點嗎？"
+    },
+    "gameitem.start": {
+      "en": "{0}, start the game",
+      "->": "{0}，請開始遊戲"
+    },
+    "gameitem.start.inviteplayer": {
+      "en": "You need to invite one or more players",
+      "->": "你必須邀請至少一位玩家"
+    },
+    "gameitem.start.wait": {
+      "en": "Waiting for {0} to start the game",
+      "->": "等待 {0} 開始遊戲"
+    },
+    "gameitem.timeleft": {
+      "en": "Cool runnings",
+      "->": "充裕時間"
+    },
+    "gameitem.timeleft.info": {
+      "en": "{0} still has {1} to make a move.",
+      "->": "{0} 還有 {1} 進行走下一步。"
+    },
+    "gameitem.timelimit": {
+      "en": "Time limit",
+      "->": "時間限制"
+    },
+    "gameitem.timelimit.info": {
+      "en": "You have {0} to make your move, after that you will be removed from the game.",
+      "->": "你還有 {0} 來走下一步。倘若超時，其他玩家可將你從本局遊戲移除。"
+    },
+    "gameitem.timelimit.timeleft": {
+      "en": "Time Left",
+      "->": "剩餘時間"
+    },
+    "gameitem.timelimit.timeleft.info": {
+      "en": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
+      "->": "這是你進行下一步的剩餘時間，時限一到會自動跳過你的回合。\n\n你在本局遊戲中已被跳過了{0}次。\n\n再被跳過{1}次後你將被移出遊戲。"
+    },
+    "gameitem.timeup": {
+      "en": "Time Up!",
+      "->": "超時了！"
+    },
+    "gameitem.timeup.info": {
+      "en": "Your time to make a move is up, do you want to resign?",
+      "->": "你進行下一步的時限已到，想放棄整局遊戲嗎？"
+    },
+    "gameitem.turn": {
+      "en": "{0}, take your turn",
+      "->": "{0}，輪到你了"
+    },
+    "gameitem.turn.other": {
+      "en": "Waiting for {0}",
+      "->": "等待 {0} 走下一步"
+    },
+    "gameitem.turn.your": {
+      "en": "Your turn",
+      "->": "輪到你了"
+    },
+    "gamemode.custom": {
+      "en": "Creative",
+      "->": "自創"
+    },
+    "gamemode.custom.caps": {
+      "en": "CREATIVE",
+      "->": "自創"
+    },
+    "gamemode.custom.description.button": {
+      "en": "Set up your own game and play however you like.",
+      "->": "隨心所欲創建你定義的世界！"
+    },
+    "gamemode.death": {
+      "en": "Your last city was lost, you have been defeated.",
+      "->": "你的最後一座城市已淪陷，遊戲失敗。"
+    },
+    "gamemode.domination": {
+      "en": "Domination",
+      "->": "一統"
+    },
+    "gamemode.domination.caps": {
+      "en": "DOMINATION",
+      "->": "一統"
+    },
+    "gamemode.domination.description": {
+      "en": "Wipe all the other tribes from the face of the Square. There can be only one.",
+      "->": "消滅地圖上所有部落，唯一人可得天下！"
+    },
+    "gamemode.domination.description.button": {
+      "en": "Play until there is only one tribe left, with no time limit.",
+      "->": "戰鬥到只剩一個部落，無時間限制。"
+    },
+    "gamemode.domination.loss": {
+      "en": "Your last city was lost, you have been defeated.",
+      "->": "你最後的城市已淪陷，遊戲失敗。"
+    },
+    "gamemode.domination.win": {
+      "en": "You have defeated all the other tribes and unified the entire Square!",
+      "->": "千秋萬載，大業竟功！"
+    },
+    "gamemode.glory": {
+      "en": "Glory",
+      "->": "王道"
+    },
+    "gamemode.glory.caps": {
+      "en": "GLORY",
+      "->": "王道"
+    },
+    "gamemode.glory.description": {
+      "en": "First to reach {0} points win",
+      "->": "率先達到 {0} 分者勝"
+    },
+    "gamemode.glory.win": {
+      "en": "The {0} points score was reached!",
+      "->": "第一個達到 {0} 分的部落已出線！"
+    },
+    "gamemode.glory.win.no.opponents": {
+      "en": "The game is over",
+      "->": "遊戲結束"
+    },
+    "gamemode.might": {
+      "en": "Might",
+      "->": "霸道"
+    },
+    "gamemode.might.caps": {
+      "en": "MIGHT",
+      "->": "霸道"
+    },
+    "gamemode.might.description": {
+      "en": "Capture all capitals to win",
+      "->": "佔領所有首都取得勝利"
+    },
+    "gamemode.might.win": {
+      "en": "All capitals were captured",
+      "->": "所有首都已盡歸一人之手！"
+    },
+    "gamemode.might.win.last.human": {
+      "en": "You are the last standing human player, you win!",
+      "->": "身為最後僅存的人類玩家，勝利的榮耀終歸你手！"
+    },
+    "gamemode.might.win.no.opponents": {
+      "en": "No opponents left",
+      "->": "天下抵定，終歸一統。"
+    },
+    "gamemode.none": {
+      "en": "Unknown",
+      "->": "未知"
+    },
+    "gamemode.none.description": {
+      "en": "You might get either game mode. Groovy!",
+      "->": "隨機進入任一模式，讚哦！"
+    },
+    "gamemode.perfection": {
+      "en": "Perfection",
+      "->": "完璧"
+    },
+    "gamemode.perfection.caps": {
+      "en": "PERFECTION",
+      "->": "完璧"
+    },
+    "gamemode.perfection.description": {
+      "en": "Get the highest possible score before the time runs out.",
+      "->": "在時限內盡量取得最多分數。"
+    },
+    "gamemode.perfection.description.button": {
+      "en": "Show your skills on the global hiscore in the classic 30 turns game.",
+      "->": "於經典的 30 回合遊戲大顯身手，登上全球排行榜。"
+    },
+    "gamemode.perfection.loss": {
+      "en": "We have reached the end of time.",
+      "->": "時限已到，\n江山留與後人愁。"
+    },
+    "gamemode.perfection.win": {
+      "en": "We have reached the end of time. The memory of your tribe will echo in eternity!",
+      "->": "時間結束，\n你的偉業將名留青史！"
+    },
+    "gamemode.sandbox": {
+      "en": "Infinity",
+      "->": "無盡"
+    },
+    "gamemode.sandbox.caps": {
+      "en": "INFINITY",
+      "->": "無盡"
+    },
+    "gamemode.sandbox.description": {
+      "en": "Play however you like, forever and ever",
+      "->": "想怎麼玩就怎麼耍，直到盡興為止!"
+    },
+    "gamemode.tutorial": {
+      "en": "Boot Camp",
+      "->": "新手教程"
+    },
+    "gamemode.tutorial.description": {
+      "en": "Your tribe gift you with these resources. Spend them wisely!",
+      "->": "你的子民進獻了一些資源，請妥善利用！"
+    },
+    "gamemodepicker.title": {
+      "en": "GAME MODE",
+      "->": "遊戲模式"
+    },
+    "gamesaverbinary.error.loading.moves": {
+      "en": "Error loading moves",
+      "->": "讀取行動記錄失敗"
+    },
+    "gamesaverbinary.unable.to.save": {
+      "en": "I was unable to save the game, make sure you have sufficient storage on your device",
+      "->": "無法儲存遊戲，請檢查裝置的儲存空間。"
+    },
+    "gamesaverbinary.unable.to.save.title": {
+      "en": "Could not save :(",
+      "->": "儲存失敗 :("
+    },
+    "gameservice.android": {
+      "en": "Google Play",
+      "->": "Google Play"
+    },
+    "gameservice.ios": {
+      "en": "Game Center",
+      "->": "Game Center"
+    },
+    "gameservice.steam": {
+      "en": "Steam",
+      "->": "Steam"
+    },
+    "gamesettings.anonymous": {
+      "en": "Anonymous",
+      "->": "佚名"
+    },
+    "gamesettings.autoskip": {
+      "en": "Auto Skip",
+      "->": "自動略過"
+    },
+    "gamesettings.autoskip.disabled": {
+      "en": "Disabled",
+      "->": "關閉"
+    },
+    "gamesettings.autoskip.enabled": {
+      "en": "Enabled",
+      "->": "啟用"
+    },
+    "gamesettings.continue": {
+      "en": "CONTINUE",
+      "->": "繼續"
+    },
+    "gamesettings.createslot": {
+      "en": "Creating game slot...",
+      "->": "創建存檔中 . . . . . ."
+    },
+    "gamesettings.createslot.error": {
+      "en": "Error creating game",
+      "->": "載入遊戲出錯"
+    },
+    "gamesettings.createslot.error.info": {
+      "en": "Make sure you are online and try again.",
+      "->": "檢查網絡連線並重試"
+    },
+    "gamesettings.creatingworld": {
+      "en": "LOADING WORLD",
+      "->": "載入世界中"
+    },
+    "gamesettings.difficulty": {
+      "en": "Difficulty",
+      "->": "難度"
+    },
+    "gamesettings.difficulty.crazy": {
+      "en": "Crazy",
+      "->": "瘋狂"
+    },
+    "gamesettings.difficulty.easy": {
+      "en": "Easy",
+      "->": "簡單"
+    },
+    "gamesettings.difficulty.hard": {
+      "en": "Hard",
+      "->": "困難"
+    },
+    "gamesettings.difficulty.normal": {
+      "en": "Normal",
+      "->": "普通"
+    },
+    "gamesettings.disableTribes": {
+      "en": "Enable or Disable Tribes",
+      "->": "啟用或禁用部落"
+    },
+    "gamesettings.findmatch": {
+      "en": "FIND MATCH",
+      "->": "線上配對"
+    },
+    "gamesettings.game": {
+      "en": "Game {0}",
+      "->": "世界 {0}"
+    },
+    "gamesettings.gamename": {
+      "en": "Game Name",
+      "->": "世界名稱"
+    },
+    "gamesettings.info.difficulty.bonus": {
+      "en": "Difficulty bonus: {0}%",
+      "->": "難度加成: {0}%"
+    },
+    "gamesettings.info.gamepreferences.header": {
+      "en": "Advanced settings",
+      "->": "進階設定"
+    },
+    "gamesettings.info.gamepreferences.info": {
+      "en": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
+      "->": "定義越多篩選條件，配對時間會拖越長。如欲早點開始遊戲，盡可放寬條件。"
+    },
+    "gamesettings.info.local": {
+      "en": "{0} opponents, {1} tiles map",
+      "->": "{0}位對手，{1}格地圖。"
+    },
+    "gamesettings.info.matchmaking.gamemode": {
+      "en": "{0} game",
+      "->": "{0}模式"
+    },
+    "gamesettings.info.matchmaking.mappreset": {
+      "en": "{0} map type",
+      "->": "{0}地形"
+    },
+    "gamesettings.info.matchmaking.mapsize": {
+      "en": "{0} tiles map",
+      "->": "{0}格地圖"
+    },
+    "gamesettings.info.matchmaking.opponentcount": {
+      "en": "{0} opponents",
+      "->": "{0} 位對手"
+    },
+    "gamesettings.info.matchmaking.timelimit": {
+      "en": "{0} turn time limit",
+      "->": "回合限時{0}分鐘"
+    },
+    "gamesettings.info.multiplayer": {
+      "en": "{0} players, {1} tiles map",
+      "->": "{0}位玩家，{1}格地圖。"
+    },
+    "gamesettings.info.seed": {
+      "en": "Seed",
+      "->": "地圖種子: "
+    },
+    "gamesettings.info.turnlimit30": {
+      "en": ", 30 turn limit",
+      "->": "，時間限制 30 回合"
+    },
+    "gamesettings.livegame": {
+      "en": "Live Game",
+      "->": "即時對戰"
+    },
+    "gamesettings.livegame.description": {
+      "en": "Live Games use a dynamic timer that increases based on how many units & cities you have. Any time left at the end of your turn will be added to your next turn.",
+      "->": "即時對戰之動態計時器，會依據你的兵力與城市數量來增加時限。每回合未用罄之剩餘時間，可流用至下一回合。"
+    },
+    "gamesettings.map": {
+      "en": "Map Type",
+      "->": "地圖類型"
+    },
+    "gamesettings.map.archipelago": {
+      "en": "Archipelago",
+      "->": "群島"
+    },
+    "gamesettings.map.continents": {
+      "en": "Continents",
+      "->": "大陸"
+    },
+    "gamesettings.map.dryland": {
+      "en": "Dryland",
+      "->": "旱地"
+    },
+    "gamesettings.map.lakes": {
+      "en": "Lakes",
+      "->": "湖泊"
+    },
+    "gamesettings.map.waterworld": {
+      "en": "Water World",
+      "->": "汪洋"
+    },
+    "gamesettings.matchmaking.noedit": {
+      "en": "Open for any kind of game",
+      "->": "隨機設定遊戲"
+    },
+    "gamesettings.mode": {
+      "en": "Game Mode",
+      "->": "遊戲模式"
+    },
+    "gamesettings.network": {
+      "en": "Network",
+      "->": "玩法"
+    },
+    "gamesettings.network.online": {
+      "en": "Online",
+      "->": "線上"
+    },
+    "gamesettings.network.passplay": {
+      "en": "Pass & Play",
+      "->": "同臺較勁"
+    },
+    "gamesettings.notavailable": {
+      "en": "Not Available",
+      "->": "不可用"
+    },
+    "gamesettings.notenoughplayers": {
+      "en": "You need at least two players to start a game",
+      "->": "需至少兩位玩家才能建立遊戲"
+    },
+    "gamesettings.novalidtribes": {
+      "en": "No Valid Tribes",
+      "->": "無可用部落"
+    },
+    "gamesettings.novalidtribes.info": {
+      "en": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
+      "->": "無部落可用，啟用或解鎖至少一個部落以繼續。"
+    },
+    "gamesettings.online.disabled": {
+      "en": "Online is locked",
+      "->": "尚未解鎖線上遊戲"
+    },
+    "gamesettings.online.disabled.info": {
+      "en": "There are some things you need to fix to play online multiplayer",
+      "->": "達成以下條件以解鎖線上遊戲"
+    },
+    "gamesettings.online.info": {
+      "en": "Play with your friends online using our multiplayer server.",
+      "->": "在我們的伺服器和朋友線上同樂"
+    },
+    "gamesettings.opponents": {
+      "en": "Opponents",
+      "->": "對手"
+    },
+    "gamesettings.passplay.info": {
+      "en": "Play with your friends offline on this device by passing it around.",
+      "->": "玩家輪流使用同一裝置，依次進行自己的回合"
+    },
+    "gamesettings.players": {
+      "en": "Players",
+      "->": "玩家"
+    },
+    "gamesettings.size": {
+      "en": "Map Size",
+      "->": "地圖尺寸"
+    },
+    "gamesettings.size.disabled": {
+      "en": "Not Available",
+      "->": "不可用"
+    },
+    "gamesettings.size.huge": {
+      "en": "Huge",
+      "->": "遼闊"
+    },
+    "gamesettings.size.large": {
+      "en": "Large",
+      "->": "寬廣"
+    },
+    "gamesettings.size.massive": {
+      "en": "Massive",
+      "->": "廣袤"
+    },
+    "gamesettings.size.normal": {
+      "en": "Normal",
+      "->": "適中"
+    },
+    "gamesettings.size.small": {
+      "en": "Small",
+      "->": "小巧"
+    },
+    "gamesettings.size.tiles": {
+      "en": "{0} tiles map.",
+      "->": "{0}格地圖"
+    },
+    "gamesettings.size.tiles.unspecified": {
+      "en": "You might get any size of a map. Exciting!",
+      "->": "隨機地圖大小，夠刺激吧！"
+    },
+    "gamesettings.size.tiny": {
+      "en": "Tiny",
+      "->": "袖珍"
+    },
+    "gamesettings.startgame": {
+      "en": "START GAME",
+      "->": "開始遊戲"
+    },
+    "gamesettings.timelimit": {
+      "en": "Turn Time Limit",
+      "->": "回合限時"
+    },
+    "gamesettings.timer": {
+      "en": "Game Timer",
+      "->": "遊戲計時器"
+    },
+    "gamesettings.timer.description": {
+      "en": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
+      "->": "每位玩家的操作時間限制。\n\n時限一到，其他玩家可手動略過其回合。"
+    },
+    "gamesettings.timer.live": {
+      "en": "Live",
+      "->": "即時"
+    },
+    "gamesettings.title": {
+      "en": "GAME SETUP",
+      "->": "世界設定"
+    },
+    "gamesettings.unknown": {
+      "en": "Unknown",
+      "->": "未知"
+    },
+    "gamesettings.unlockmore": {
+      "en": "Unlock more tribes to play with more opponents",
+      "->": "解鎖更多部落來提高對手數上限"
+    },
+    "gamesettings.unspecified": {
+      "en": "Any",
+      "->": "任意"
+    },
+    "gamesettings.yourname": {
+      "en": "Your Name",
+      "->": "你的名字"
+    },
+    "gamestats.battle": {
+      "en": "Battle skills",
+      "->": "作戰技巧評級"
+    },
+    "gamestats.battle.info": {
+      "en": "{0} won, {1} lost",
+      "->": "擊殺{0}個單位，損失{1}個單位。"
+    },
+    "gamestats.bonus": {
+      "en": "Difficulty bonus: {0}",
+      "->": "難度加成: {0}"
+    },
+    "gamestats.gamemode": {
+      "en": "Game mode: {0}",
+      "->": "遊戲模式: {0}"
+    },
+    "gamestats.speed": {
+      "en": "Speed skills",
+      "->": "速度評級"
+    },
+    "gamestats.speed.info": {
+      "en": "{0}/{1} turns",
+      "->": "{0}/{1} 回合"
+    },
+    "gamestats.title": {
+      "en": "GAME STATS",
+      "->": "遊戲統計"
+    },
+    "gamestatus.capitals": {
+      "en": "Capitals Owned",
+      "->": "佔有的首都數"
+    },
+    "gamestatus.cities": {
+      "en": "{0} cities",
+      "->": "{0}座城市"
+    },
+    "gamestatus.city": {
+      "en": "{0} city",
+      "->": "{0}座城市"
+    },
+    "gamestatus.destroyed": {
+      "en": "destroyed",
+      "->": "滅國"
+    },
+    "gamestatus.difficulty": {
+      "en": "Difficulty rating",
+      "->": "難度加權"
+    },
+    "gamestatus.killedonturn": {
+      "en": "killed on turn {0}",
+      "->": "於第{0}回合滅亡"
+    },
+    "gamestatus.ruled": {
+      "en": "Ruled by {0}",
+      "->": "由 {0} 統治"
+    },
+    "gamestatus.ruled.bot": {
+      "en": "bot",
+      "->": "AI"
+    },
+    "gamestatus.ruled.you": {
+      "en": "Ruled by you",
+      "->": "由你統治"
+    },
+    "gamestatus.ruler": {
+      "en": "Ruler of the {0}",
+      "->": "由 {0} 統治"
+    },
+    "gamestatus.score": {
+      "en": "score: {0} points",
+      "->": "分數: {0} 分"
+    },
+    "gamestatus.scores": {
+      "en": "Scores",
+      "->": "分數"
+    },
+    "gamestatus.tasks": {
+      "en": "Tasks {0}/{1}",
+      "->": "任務 {0}/{1}"
+    },
+    "gamestatus.tasks.complete": {
+      "en": "Complete!",
+      "->": "已完成！"
+    },
+    "gamestatus.tribes": {
+      "en": "Tribes destroyed",
+      "->": "消滅部落數"
+    },
+    "gamestatus.unknown.ruler": {
+      "en": "Unknown ruler",
+      "->": "未知領袖"
+    },
+    "gamestatus.unknown.tribe": {
+      "en": "Unknown tribe",
+      "->": "未知部落"
+    },
+    "highscore.alltime": {
+      "en": "All Time",
+      "->": "所有時間"
+    },
+    "highscore.alltribes": {
+      "en": "All Tribes",
+      "->": "所有部落"
+    },
+    "highscore.error": {
+      "en": "Failed to upload highscore to server, do you want to retry?",
+      "->": "上傳高分紀錄失敗，要重試嗎？"
+    },
+    "highscore.error.title": {
+      "en": "Highscore error",
+      "->": "紀錄高分錯誤"
+    },
+    "highscore.hiscore": {
+      "en": "hiscore",
+      "->": "高分"
+    },
+    "highscore.loading": {
+      "en": "Loading...",
+      "->": "載入中 . .  . . ."
+    },
+    "highscore.notavailable": {
+      "en": "High Score not available.",
+      "->": "排行榜不可用"
+    },
+    "highscore.thisweek": {
+      "en": "This Week",
+      "->": "本週"
+    },
+    "highscore.title": {
+      "en": "HIGH SCORE",
+      "->": "全球高分榜"
+    },
+    "highscore.today": {
+      "en": "Today",
+      "->": "今天"
+    },
+    "highscore.uploading": {
+      "en": "Uploading high score...",
+      "->": "上傳高分中 . . . . . ."
+    },
+    "highscore.uploading.failed": {
+      "en": "Failed to upload high score",
+      "->": "高分上傳失敗"
+    },
+    "highscore.uploading.successful": {
+      "en": "High score uploaded...",
+      "->": "高分已上傳 . . . . . ."
+    },
+    "highscore.uptodate": {
+      "en": "Everything is up to date",
+      "->": "已更新最新紀錄"
+    },
+    "idconsole.clipboard.title": {
+      "en": "Voilà!",
+      "->": "好咧！"
+    },
+    "matchmakinggameinfo.waited": {
+      "en": "Waited",
+      "->": "已等待"
+    },
+    "matchmakinggameinfo.waitingforplayers": {
+      "en": "Waiting for {0} additional {1}",
+      "->": "尚需{0}名玩家加入"
+    },
+    "migration.restoredescription": {
+      "en": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
+      "->": "若之前有購買過部落，便需進行復原，以在新版的 Polytopia 使用。"
+    },
+    "migration.restoreheader": {
+      "en": "Restore?",
+      "->": "重新復原？"
+    },
+    "misc.error.title": {
+      "en": "Error",
+      "->": "錯誤"
+    },
+    "misc.errorloadinggame": {
+      "en": "Failed to load game",
+      "->": "載入遊戲失敗"
+    },
+    "misc.failedcommand": {
+      "en": "Failed to send command to server. Do you want to try again?",
+      "->": "上傳操作至伺服器失敗，要重試嗎？"
+    },
+    "misc.gameoutofsync": {
+      "en": "Your game failed to sync with the server. Do you want to try again?",
+      "->": "遊戲與伺服器同步失敗，要重試嗎？"
+    },
+    "misc.player": {
+      "en": "player",
+      "->": "玩家"
+    },
+    "misc.players": {
+      "en": "players",
+      "->": "玩家"
+    },
+    "misc.pushfailed": {
+      "en": "Failed to handle incoming notification from server",
+      "->": "處理伺服器的通知失敗"
+    },
+    "misc.resetfailed": {
+      "en": "Game is missing or corrupt",
+      "->": "遊戲已丟失或損壞"
+    },
+    "mplayerstats.alias": {
+      "en": "Alias",
+      "->": "暱稱"
+    },
+    "mplayerstats.appversion": {
+      "en": "App version:",
+      "->": "軟體版本: "
+    },
+    "mplayerstats.avatar.edit": {
+      "en": "<sprite=\"texticons\" index=0><u>Edit</u>",
+      "->": "編輯"
+    },
+    "mplayerstats.clear": {
+      "en": "clear data",
+      "->": "清除資料"
+    },
+    "mplayerstats.elo": {
+      "en": "Elo",
+      "->": "Elo 分數"
+    },
+    "mplayerstats.elo.description": {
+      "en": "The Elo rating system is a method for calculating the relative skill levels of players.",
+      "->": "Elo 分數用以評價玩家之技巧等級"
+    },
+    "mplayerstats.friends": {
+      "en": "nº of friends",
+      "->": "好友數量"
+    },
+    "mplayerstats.games": {
+      "en": "Games Played",
+      "->": "已玩局數"
+    },
+    "mplayerstats.gameversion": {
+      "en": "Game version",
+      "->": "遊戲版本"
+    },
+    "mplayerstats.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": "無法連接至多人遊戲伺服器。請檢查網絡連線並重試。"
+    },
+    "mplayerstats.lost": {
+      "en": "Feeling lost? Check the:",
+      "->": "遇到問題？請參閱："
+    },
+    "mplayerstats.multiplayer.faq": {
+      "en": "MULTIPLAYER FAQ",
+      "->": "多人遊戲常見問題"
+    },
+    "mplayerstats.multiplayer.faq.lower": {
+      "en": "Multiplayer FAQ",
+      "->": "多人遊戲常見問題"
+    },
+    "mplayerstats.rating": {
+      "en": "Elo Rating",
+      "->": "Elo 分數"
+    },
+    "mplayerstats.reload": {
+      "en": "reload multiplayer data",
+      "->": "刷新多人遊戲數據"
+    },
+    "mplayerstats.reloading": {
+      "en": "Reloading...",
+      "->": "刷新中 . . . . . ."
+    },
+    "mplayerstats.server": {
+      "en": "Server version",
+      "->": "遊戲版本"
+    },
+    "mplayerstats.title": {
+      "en": "PLAYER PROFILE",
+      "->": "玩家資訊"
+    },
+    "mplayerstats.uptodate": {
+      "en": "Everything is up to date",
+      "->": "刷新完畢"
+    },
+    "multiplayer.activegames": {
+      "en": "Active Games",
+      "->": "進行中的遊戲"
+    },
+    "multiplayer.clipboard": {
+      "en": "Gamedata added to clipboard",
+      "->": "遊戲數據已添加至剪貼簿"
+    },
+    "multiplayer.clipboard.title": {
+      "en": "Voilà!",
+      "->": "好咧！"
+    },
+    "multiplayer.creategame": {
+      "en": "Create game",
+      "->": "新建遊戲"
+    },
+    "multiplayer.finishedgames": {
+      "en": "Finished Games",
+      "->": "已結束的遊戲"
+    },
+    "multiplayer.passplay": {
+      "en": "Pass & Play",
+      "->": "本地多人"
+    },
+    "multiplayer.passplay.info": {
+      "en": "Challenge your friends in a multiplayer match on the same device. Just pass it on to the next player when your turn is done.",
+      "->": "在同一臺裝置上多人同樂。只要在自己的回合結束後，將裝置傳給下一位玩家即可。"
+    },
+    "news.description": {
+      "en": "Welcome!\n This is where we share the latest news from the Polytopia universe. Stay tuned!",
+      "->": "歡迎!\n 在這裡我們會即時分享  Polytopia 世界之最新消息。 保持關注我們喔！"
+    },
+    "news.error.failed": {
+      "en": "Failed to load news",
+      "->": "載入最新消息失敗"
+    },
+    "news.error.title": {
+      "en": "Error",
+      "->": "錯誤"
+    },
+    "news.timeago": {
+      "en": "{0} ago",
+      "->": "{0}前"
+    },
+    "news.title": {
+      "en": "POLYTOPIA NEWS",
+      "->": "POLYTOPIA 新聞"
+    },
+    "notifications.defaultheader": {
+      "en": "Alert",
+      "->": "通知"
+    },
+    "notifications.restorecomplete": {
+      "en": "{0} items restored",
+      "->": "已恢復購買"
+    },
+    "onlineview.check": {
+      "en": "check",
+      "->": "檢查"
+    },
+    "onlineview.clipboard": {
+      "en": "Game ID added to clipboard: {0}",
+      "->": "遊戲 ID 已添加至剪貼簿: {0}"
+    },
+    "onlineview.clipboard.title": {
+      "en": "Voilà!",
+      "->": "好咧！"
+    },
+    "onlineview.completed": {
+      "en": "completed",
+      "->": "已完成"
+    },
+    "onlineview.favorites": {
+      "en": "Favourites ({0}/{1})",
+      "->": "收藏 ({0}/{1})"
+    },
+    "onlineview.fixit": {
+      "en": "FIX IT",
+      "->": "前往"
+    },
+    "onlineview.friendlist.available": {
+      "en": "Friend List is only available when connected to the server.",
+      "->": "連接至伺服器時才能瀏覽好友名單。"
+    },
+    "onlineview.friends": {
+      "en": "Friends",
+      "->": "好友"
+    },
+    "onlineview.game.decline": {
+      "en": "DECLINE",
+      "->": "拒絕邀請"
+    },
+    "onlineview.game.delete": {
+      "en": "DELETE",
+      "->": "刪除"
+    },
+    "onlineview.game.gameinfo": {
+      "en": "Game Info",
+      "->": "遊戲資訊"
+    },
+    "onlineview.game.join": {
+      "en": "JOIN GAME",
+      "->": "加入遊戲"
+    },
+    "onlineview.game.leavematchmaking": {
+      "en": "LEAVE",
+      "->": "退出配對"
+    },
+    "onlineview.game.leavematchmaking.info": {
+      "en": "Are you sure you want to stop waiting for this game?",
+      "->": "確定不再等待開局了嗎？"
+    },
+    "onlineview.game.leavematchmaking.title": {
+      "en": "Leave",
+      "->": "離開"
+    },
+    "onlineview.game.missingplayer": {
+      "en": "Empty",
+      "->": "空位"
+    },
+    "onlineview.game.moreinfo": {
+      "en": "More info",
+      "->": "更多資訊"
+    },
+    "onlineview.game.old.info": {
+      "en": "This game was created with an outdated version of the game. It can unfortunately not be loaded :( My suggestion is that you delete it and start a new one. Sorry for the inconvenience.",
+      "->": "該存檔由過舊版本所建，很遺憾已經無法載入，建議刪除另起爐灶，在此致上萬分歉意。"
+    },
+    "onlineview.game.old.title": {
+      "en": "Old file version",
+      "->": "舊文件版本"
+    },
+    "onlineview.game.open": {
+      "en": "OPEN",
+      "->": "進入"
+    },
+    "onlineview.game.player.invited": {
+      "en": "You are invited to a new game, {0}",
+      "->": "你被邀請至一局新遊戲 {0}"
+    },
+    "onlineview.game.player.kicked": {
+      "en": "You have been removed from game {0}",
+      "->": "你已被從遊戲 {0} 中移除"
+    },
+    "onlineview.game.player.left": {
+      "en": "{0} has left the game {1} and has been replaced by a bot.",
+      "->": "{0} 已從遊戲 {1} 中離開並被 AI 取代。"
+    },
+    "onlineview.game.replays.share.button": {
+      "en": "Share",
+      "->": "分享"
+    },
+    "onlineview.game.replays.share.description": {
+      "en": "Use this link to show this replay to your friends or enemies:",
+      "->": "以此連結向你的朋友或敵人展示遊戲重播："
+    },
+    "onlineview.game.replays.share.title": {
+      "en": "Share This Replay",
+      "->": "分享遊戲重播"
+    },
+    "onlineview.game.resign": {
+      "en": "RESIGN",
+      "->": "棄戰"
+    },
+    "onlineview.game.resign.info": {
+      "en": "Are you sure you want to leave this game permanently?",
+      "->": "你確定要永久離開本局遊戲嗎？"
+    },
+    "onlineview.game.resign.title": {
+      "en": "Resign",
+      "->": "棄戰"
+    },
+    "onlineview.game.resigned": {
+      "en": "You are now resigned.",
+      "->": "已放棄對戰"
+    },
+    "onlineview.game.resigning": {
+      "en": "Resigning...",
+      "->": "放棄對戰中 . . . . . ."
+    },
+    "onlineview.game.size": {
+      "en": "Map Size",
+      "->": "地圖尺寸"
+    },
+    "onlineview.game.start": {
+      "en": "START GAME",
+      "->": "開始遊戲"
+    },
+    "onlineview.game.you": {
+      "en": "You",
+      "->": "你"
+    },
+    "onlineview.gamedeleted.info": {
+      "en": "The game {0} has been deleted because all other players rejected the game.",
+      "->": "本局遊戲 {0} 因其他所有玩家拒絕而被刪除"
+    },
+    "onlineview.gamedeleted.title": {
+      "en": "Game Deleted",
+      "->": "遊戲已刪除"
+    },
+    "onlineview.gamedeleted.unknowngame": {
+      "en": "Unknown Game",
+      "->": "未知遊戲"
+    },
+    "onlineview.gameinvitations": {
+      "en": "Game Invitations",
+      "->": "對戰邀請"
+    },
+    "onlineview.intro.fix": {
+      "en": "Hi {0}! \n\nTo play online multiplayer there are a few things you need to fix:",
+      "->": "歡迎 {0}！ \n\n欲進行線上多人遊戲，請先完成下列幾項: "
+    },
+    "onlineview.intro.update": {
+      "en": "Online multiplayer is not available, please update Polytopia to the latest version",
+      "->": "無法進行線上多人遊戲，請升級遊戲至最新版。"
+    },
+    "onlineview.kicked.automatic": {
+      "en": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
+      "->": "因為你被自動略過太多回合，已被自動踢出遊戲 {0}。"
+    },
+    "onlineview.kicked.automatic.other": {
+      "en": "{0} was automatically kicked from the game {1} and is now frozen.",
+      "->": "{0} 自動被踢出遊戲 {1} 並封存。"
+    },
+    "onlineview.kicked.info": {
+      "en": "{0} have kicked you from the game {1} since you took too long to finish your turn.",
+      "->": "因為你花太久完成回合，{0} 將你踢出遊戲 {1}。"
+    },
+    "onlineview.kicked.title": {
+      "en": "You got Kicked",
+      "->": "你被踢出遊戲了"
+    },
+    "onlineview.kicked.title.other": {
+      "en": "{0} was kicked",
+      "->": "{0} 被踢出遊戲了"
+    },
+    "onlineview.ladder.ended": {
+      "en": "Ended",
+      "->": "已結束"
+    },
+    "onlineview.ladder.ends": {
+      "en": "Ends in {0}",
+      "->": "還有 {0}結束"
+    },
+    "onlineview.ladder.join": {
+      "en": "JOIN LADDER",
+      "->": "加入天梯"
+    },
+    "onlineview.ladder.leave": {
+      "en": "LEAVE LADDER",
+      "->": "離開天梯"
+    },
+    "onlineview.ladder.loading": {
+      "en": "Loading ladder data...",
+      "->": "載入天梯數據. . . . ."
+    },
+    "onlineview.ladder.placements.header": {
+      "en": "Placements",
+      "->": "排位"
+    },
+    "onlineview.ladder.play": {
+      "en": "PLAY LADDER",
+      "->": "挑戰天梯"
+    },
+    "onlineview.ladders": {
+      "en": "Ladders",
+      "->": "天梯"
+    },
+    "onlineview.lastgames": {
+      "en": "Last {0} Games",
+      "->": "最近{0}局"
+    },
+    "onlineview.loaderror": {
+      "en": "Could not connect to the multiplayer server. Check your internet connection and try again.",
+      "->": "無法連線多人遊戲伺服器。請檢查你的網絡連接並重試。"
+    },
+    "onlineview.loading.title": {
+      "en": "Loading...",
+      "->": "載入中 . . . . . ."
+    },
+    "onlineview.loadingservice": {
+      "en": "Loading Service",
+      "->": "載入服務中"
+    },
+    "onlineview.lobby.invite.title": {
+      "en": "Invite players ({0}/{1})",
+      "->": "邀請玩家 ({0}/{1})"
+    },
+    "onlineview.lobby.leave.info": {
+      "en": "Are you sure you want to leave this lobby?",
+      "->": "確定離開大廳？"
+    },
+    "onlineview.lobby.leave.title": {
+      "en": "Leave",
+      "->": "離開"
+    },
+    "onlineview.lobby.player.add": {
+      "en": "Add",
+      "->": "添加"
+    },
+    "onlineview.lobby.readytostart": {
+      "en": "Ready to start",
+      "->": "準備就緒"
+    },
+    "onlineview.lobby.starting": {
+      "en": "Game is starting...",
+      "->": "遊戲開始. . . . . ."
+    },
+    "onlineview.lobby.waitingforplayers": {
+      "en": "Waiting for {0} additional {1}",
+      "->": "再額外{1}等待{0}名"
+    },
+    "onlineview.lobby.waitingforplayers.title": {
+      "en": "Are you sure",
+      "->": "確定嗎"
+    },
+    "onlineview.lobby.waitingforplayers.warning": {
+      "en": "Not everyone has accepted your invite, do you wish to start the game without them?",
+      "->": "有人還沒接受你的邀請，確定要略過他們開始遊戲嗎？"
+    },
+    "onlineview.login.ios": {
+      "en": "Log in to {0}",
+      "->": "使用 {0} 登錄"
+    },
+    "onlineview.login.ios.info": {
+      "en": "Using {0} ensures that you have a unique and persistent Player ID that will keep your data safe across devices.",
+      "->": "使用 {0} 保障唯一遊戲 ID 永遠不變，讓你的遊戲資料能安全暢行不同裝置。"
+    },
+    "onlineview.login.ios.info2": {
+      "en": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
+      "->": "到裝置的設定頁面，點選‘Game Center’登入你的 Apple ID。"
+    },
+    "onlineview.login.tesla": {
+      "en": "Create Online Profile",
+      "->": "建立線上個人資料"
+    },
+    "onlineview.login.tesla.info": {
+      "en": "Create a profile in Tesla Arcade to play online with friends",
+      "->": "在 Tesla Arcade 建立個人資料來和朋友連線對戰"
+    },
+    "onlineview.matchmaking": {
+      "en": "RANDOM MATCH",
+      "->": "線上配對"
+    },
+    "onlineview.newgame": {
+      "en": "New Game",
+      "->": "新遊戲"
+    },
+    "onlineview.nogames.first": {
+      "en": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
+      "->": "首先來聯繫幾位 Polytopia 同好，按 ‘好友’ 來添加他們。"
+    },
+    "onlineview.nogames.intro": {
+      "en": "Hi {0}!",
+      "->": "歡迎，{0}！"
+    },
+    "onlineview.nogames.start": {
+      "en": "Let's get some online games going with your friends. Tap 'New game' to start one.",
+      "->": "讓我們和好友一起遊戲吧！\n按 “新建遊戲” 開始。"
+    },
+    "onlineview.noladders": {
+      "en": "No ladders available",
+      "->": "無天梯可參與"
+    },
+    "onlineview.noreplays": {
+      "en": "When you have completed a multiplayer game it will show up here so you can watch the replay",
+      "->": "當你打完一局多人遊戲後，就會顯示於此，以觀看重播。"
+    },
+    "onlineview.notifications": {
+      "en": "Enable notifications",
+      "->": "開啟通知"
+    },
+    "onlineview.notifications.info": {
+      "en": "We use notifications to communicate the status of your ongoing multiplayer games.",
+      "->": "我們利用通知來及時向你傳達進行中的多人遊戲的動向。"
+    },
+    "onlineview.ongoing": {
+      "en": "Ongoing",
+      "->": "進行中"
+    },
+    "onlineview.or": {
+      "en": "or",
+      "->": "或"
+    },
+    "onlineview.passplay": {
+      "en": "Pass & Play",
+      "->": "本地多人"
+    },
+    "onlineview.passplay.start": {
+      "en": "Start a local Pass & Play game by tapping 'New Game'",
+      "->": "按‘新建遊戲’來開始一局本地多人遊戲"
+    },
+    "onlineview.profile": {
+      "en": "Profile",
+      "->": "個人檔案"
+    },
+    "onlineview.profile.available": {
+      "en": "Profile is only available when connected to the server.",
+      "->": "只有在連接至伺服器時才能瀏覽個人檔案"
+    },
+    "onlineview.purchase": {
+      "en": "Purchase one Tribe",
+      "->": "解鎖一個付費部落"
+    },
+    "onlineview.purchase.info": {
+      "en": "Running an online multiplayer service costs real money and we rely solely on the kind support from players like you.",
+      "->": "經營線上多人遊戲所費不貲，我們唯一的經濟來源，僅來自像你這樣熱心玩家的支持！"
+    },
+    "onlineview.randommatch.start": {
+      "en": "Start a game with a random opponent",
+      "->": "與隨機對手進行遊戲"
+    },
+    "onlineview.refresh": {
+      "en": "Refresh",
+      "->": "刷新"
+    },
+    "onlineview.reloading": {
+      "en": "Reloading...",
+      "->": "刷新中 . . . . . ."
+    },
+    "onlineview.reloading.release": {
+      "en": "Release to reload...",
+      "->": "釋放來刷新 . . . . . ."
+    },
+    "onlineview.replay.delete.info": {
+      "en": "Are you sure you want to delete this replay?",
+      "->": "確定刪除此回放嗎？"
+    },
+    "onlineview.replay.delete.title": {
+      "en": "Delete",
+      "->": "刪除"
+    },
+    "onlineview.replays": {
+      "en": "Replays",
+      "->": "重播"
+    },
+    "onlineview.replays.loading": {
+      "en": "Loading replay data...",
+      "->": "載入重播資料中 . . . . . ."
+    },
+    "onlineview.required": {
+      "en": "required",
+      "->": "待完成"
+    },
+    "onlineview.resigned.competitive.info": {
+      "en": "{0} resigned from the game {1} and is now frozen.",
+      "->": "{0} 遺棄了自己在遊戲 {1} 中的部落，其部落現已無法行動。"
+    },
+    "onlineview.resigned.info": {
+      "en": "{0} resigned from the game {1} and have been replaced by a bot.",
+      "->": "{0} 已放棄遊戲 {1}，由 AI 代管其部落。"
+    },
+    "onlineview.resigned.title": {
+      "en": "{0} Resigned",
+      "->": "{0} 已棄局"
+    },
+    "onlineview.servicedisabled": {
+      "en": "The multiplayer server is temporarily disabled, please try again later. Also make sure that you are using the latest version of the Battle of Polytopia.",
+      "->": "多人遊戲伺服器暫時無法使用，請稍後再試，也確保更新遊戲至最新版本。"
+    },
+    "onlineview.skipped.info.local": {
+      "en": "You were skipped.",
+      "->": "你的回合被跳過了。"
+    },
+    "onlineview.skipped.info.other": {
+      "en": "{0} was skipped.",
+      "->": "{0} 的回合被跳過了"
+    },
+    "onlineview.skipped.info.tribe.local": {
+      "en": "You were assigned a random tribe due to inactivity.",
+      "->": "由於長時間未操作，已為你隨機分配部落。"
+    },
+    "onlineview.skipped.info.tribe.other": {
+      "en": "{0} was assigned a random tribe due to inactivity.",
+      "->": "由於長時間未操作，已為 {0} 隨機分配部落。"
+    },
+    "onlineview.skipped.title.empty": {
+      "en": "Skipped",
+      "->": "已被跳過"
+    },
+    "onlineview.skipped.title.game": {
+      "en": "Skipped in {0}",
+      "->": "已在 {0} 中被跳過"
+    },
+    "onlineview.theirturn": {
+      "en": "Their Turn",
+      "->": "他人的回合"
+    },
+    "onlineview.title": {
+      "en": "MULTIPLAYER",
+      "->": "多人遊戲"
+    },
+    "onlineview.uptodate": {
+      "en": "All games are up to date",
+      "->": "所有遊戲刷新完畢"
+    },
+    "onlineview.uptodate.ladders": {
+      "en": "All ladders are up to date",
+      "->": "所有天梯刷新完畢"
+    },
+    "onlineview.uptodate.replays": {
+      "en": "All replays are up to date",
+      "->": "所有重播刷新完畢"
+    },
+    "onlineview.waiting": {
+      "en": "Waiting for Players",
+      "->": "等待玩家加入"
+    },
+    "onlineview.waiting.server": {
+      "en": "Waiting for server response...",
+      "->": "等待伺服器回應"
+    },
+    "onlineview.yourturn": {
+      "en": "Your Turn",
+      "->": "你的回合"
+    },
+    "opinion.noopinion": {
+      "en": "They don't know about you yet",
+      "->": "他們還對你不甚了解"
+    },
+    "opinion.reason.aggression": {
+      "en": "violent",
+      "->": "暴戾乖張"
+    },
+    "opinion.reason.aggression.description": {
+      "en": "You recently attacked them",
+      "->": "你最近攻打了他們。"
+    },
+    "opinion.reason.brave": {
+      "en": "brave",
+      "->": "英勇無畏"
+    },
+    "opinion.reason.brave.description": {
+      "en": "You fighting against the strongest tribe",
+      "->": "你正在對抗最強大的部落。"
+    },
+    "opinion.reason.commonrelation": {
+      "en": "wise",
+      "->": "識時務"
+    },
+    "opinion.reason.commonrelation.description": {
+      "en": "You share the same friends or enemies",
+      "->": "你們有相同的敵人或盟友。"
+    },
+    "opinion.reason.differentrelation": {
+      "en": "foolish",
+      "->": "傻帽"
+    },
+    "opinion.reason.differentrelation.description": {
+      "en": "You are at war with their friends, or have made peace with their enemies",
+      "->": "你正與其盟友交戰或與其敵人簽訂和平協議。"
+    },
+    "opinion.reason.dislike": {
+      "en": "annoying",
+      "->": "粉討厭"
+    },
+    "opinion.reason.dislike.description": {
+      "en": "They just don't like you",
+      "->": "看到你就煩。"
+    },
+    "opinion.reason.embassy": {
+      "en": "diplomatic",
+      "->": "長袖善舞"
+    },
+    "opinion.reason.embassy.description": {
+      "en": "You have good diplomatic connections through your embassies",
+      "->": "你與其設立使館，維持邦交。"
+    },
+    "opinion.reason.intrusive": {
+      "en": "intrusive",
+      "->": "虎視眈眈"
+    },
+    "opinion.reason.intrusive.description": {
+      "en": "Your borders are very close",
+      "->": "你們的邊境彼此接壤。"
+    },
+    "opinion.reason.like": {
+      "en": "charming",
+      "->": "迷人可愛"
+    },
+    "opinion.reason.like.description": {
+      "en": "For some reason they just seem to like you",
+      "->": "不知為何就是喜歡你。"
+    },
+    "opinion.reason.peaceful": {
+      "en": "peaceful",
+      "->": "溫和修睦"
+    },
+    "opinion.reason.peaceful.description": {
+      "en": "You have not attacked them in a long time",
+      "->": "你長期未攻擊他們。"
+    },
+    "opinion.reason.powerful": {
+      "en": "powerful",
+      "->": "兵強馬壯"
+    },
+    "opinion.reason.powerful.description": {
+      "en": "They are impressed by your military power",
+      "->": "他們震攝於你強大的兵力。"
+    },
+    "opinion.reason.threatening": {
+      "en": "threatening",
+      "->": "野心勃勃"
+    },
+    "opinion.reason.threatening.description": {
+      "en": "You have military units near their territory",
+      "->": "你有兵力部署至其邊境。"
+    },
+    "opinion.reason.weak": {
+      "en": "weak",
+      "->": "老弱殘兵"
+    },
+    "opinion.reason.weak.description": {
+      "en": "Your army is weak compared to them, you are an easy target",
+      "->": "對他們來說你很好對付。"
+    },
+    "opinion.reason.winning": {
+      "en": "dominating",
+      "->": "力壓群雄"
+    },
+    "opinion.reason.winning.description": {
+      "en": "You are about to win the game",
+      "->": "你勝利在望"
+    },
+    "player.abilities.capitalvision": {
+      "en": "Capital Vision",
+      "->": "首都視野"
+    },
+    "player.abilities.decompose": {
+      "en": "Decompose",
+      "->": "降解"
+    },
+    "player.abilities.destroy": {
+      "en": "Destroy",
+      "->": "拆毀"
+    },
+    "player.abilities.disband": {
+      "en": "Disband",
+      "->": "遣散"
+    },
+    "player.abilities.embassy": {
+      "en": "Embassy",
+      "->": "使館"
+    },
+    "player.abilities.glide": {
+      "en": "Glide",
+      "->": "滑行"
+    },
+    "player.abilities.literacy": {
+      "en": "Literacy",
+      "->": "識字"
+    },
+    "player.abilities.peacetreaty": {
+      "en": "Peace Treaty",
+      "->": "和平協議"
+    },
+    "playerinfo.locked.researchdiplomacy": {
+      "en": "Research Diplomacy to gain more insight.",
+      "->": "研發 ‘外交’ 科技以得到更多情報"
+    },
+    "playerinfo.locked.upgradeembassy": {
+      "en": "Upgrade embassy to gain more insight.",
+      "->": "升級使館以得到更多情報"
+    },
+    "playerinfo.stats.income": {
+      "en": "Income",
+      "->": "收入"
+    },
+    "playerinfo.summary.dead": {
+      "en": "{0} was destroyed by {1} on turn {2}.",
+      "->": "{0} 已於第 {2} 回合被 {1} 毀滅。"
+    },
+    "playerinfo.summary.reasons": {
+      "en": "They think you are {0}.",
+      "->": "他們認為你是 {0} 的。"
+    },
+    "playerinfo.summary.ruledby": {
+      "en": "The {0} tribe is ruled by {1}.",
+      "->": "{0} 由{1} 統治"
+    },
+    "playerinfo.title": {
+      "en": "Tribe Info",
+      "->": "部落資訊"
+    },
+    "playerinfo.triberelations.popup.neutral.description": {
+      "en": "{0} has a neutral relation to {1}",
+      "->": "{0} 與 {1} 關係平平"
+    },
+    "playerinfo.triberelations.popup.peaceneutral.description": {
+      "en": "{0} has a peace treaty with {1}",
+      "->": "{0} 已與 {1} 簽訂和平協議"
+    },
+    "playerinfo.triberelations.popup.peacepeace.description": {
+      "en": "You are both at peace with {1}",
+      "->": "{0} 已與 {1} 簽訂和平協議"
+    },
+    "playerinfo.triberelations.popup.peacewar.description": {
+      "en": "{0} has a peace treaty with your enemy {1}",
+      "->": "{0} 已與你的敵人 {1} 簽訂和平協議"
+    },
+    "playerinfo.triberelations.popup.title": {
+      "en": "Tribe Relation",
+      "->": "部落關係"
+    },
+    "playerinfo.triberelations.popup.warneutral.description": {
+      "en": "{0} is at war with {1}",
+      "->": "{0} 正與 {1} 交戰"
+    },
+    "playerinfo.triberelations.popup.warpeace.description": {
+      "en": "{0} is at war with your ally {1}",
+      "->": "{0} 正與你的盟友 {1} 交戰"
+    },
+    "playerinfo.triberelations.popup.warwar.description": {
+      "en": "You are both at war with {1}",
+      "->": "你們都正與 {0} 交戰"
+    },
+    "playerinfo.triberelations.title": {
+      "en": "Tribe Relations:",
+      "->": "部落關係： "
+    },
+    "playerinfo.triberelations.unknown": {
+      "en": "You have not met this tribe yet.",
+      "->": "你尚未遇到該部落"
+    },
+    "playerinfopopup.bot.description": {
+      "en": "This is a bot. Bzzt!",
+      "->": "這是 AI，嗶嗶！"
+    },
+    "playerinfopopup.friend": {
+      "en": "friend",
+      "->": "好友"
+    },
+    "playerinfopopup.passandplay.description": {
+      "en": "A pass and play player. Epic!",
+      "->": "一位本地多人玩家。讚！"
+    },
+    "playerinfopopup.you.description": {
+      "en": "This is you. Go you!",
+      "->": "這是你，加油！"
+    },
+    "playerpickerview.addplayer": {
+      "en": "ADD PLAYER",
+      "->": "添加玩家"
+    },
+    "playerpickerview.bot": {
+      "en": "{0} ({1} bot)",
+      "->": "{0}（{1} AI 玩家）"
+    },
+    "playerpickerview.human": {
+      "en": "No human player",
+      "->": "無真人玩家"
+    },
+    "playerpickerview.human.info": {
+      "en": "There needs to be at least one human player to start a game",
+      "->": "必須有至少一位真人玩家才能開始遊戲"
+    },
+    "playerpickerview.maptype": {
+      "en": "Map type: {0}",
+      "->": "地圖類型: {0}"
+    },
+    "playerpickerview.mode": {
+      "en": "Game mode: {0}",
+      "->": "遊戲模式: {0}"
+    },
+    "playerpickerview.name": {
+      "en": "Game Name",
+      "->": "遊戲名稱"
+    },
+    "playerpickerview.players": {
+      "en": "Players ({0}/{1})",
+      "->": "玩家({0}/{1})"
+    },
+    "playerpickerview.size": {
+      "en": "Map size: {0} tiles",
+      "->": "地圖尺寸：{0}格"
+    },
+    "playerpickerview.startgame": {
+      "en": "START GAME",
+      "->": "開始遊戲"
+    },
+    "playerpickerview.title": {
+      "en": "PICK PLAYERS",
+      "->": "選擇玩家"
+    },
+    "playerpickerview.you": {
+      "en": "{0} (you)",
+      "->": "{0}（你）"
+    },
+    "polyplayer.task": {
+      "en": "task",
+      "->": "任務"
+    },
+    "polyplayer.task.explorer.description": {
+      "en": "Explore every single tile in this square world",
+      "->": "撥開世上每片迷霧"
+    },
+    "polyplayer.task.explorer.title": {
+      "en": "Explorer",
+      "->": "探索者"
+    },
+    "polyplayer.task.genius.description": {
+      "en": "Discover all available technologies",
+      "->": "掌握所有科技"
+    },
+    "polyplayer.task.genius.title": {
+      "en": "Genius",
+      "->": "天才"
+    },
+    "polyplayer.task.killer.description": {
+      "en": "Kill 10 enemies in battle",
+      "->": "擊殺 10 個敵方單位"
+    },
+    "polyplayer.task.killer.title": {
+      "en": "Killer",
+      "->": "殺手"
+    },
+    "polyplayer.task.metropolis.description": {
+      "en": "Create a level 5 city",
+      "->": "擁有一座 5 級城市"
+    },
+    "polyplayer.task.metropolis.title": {
+      "en": "Metropolis",
+      "->": "大都會"
+    },
+    "polyplayer.task.network.description": {
+      "en": "Connect 5 cities to your capital",
+      "->": "將 5 座城市連接至首都"
+    },
+    "polyplayer.task.network.title": {
+      "en": "Network",
+      "->": "路網"
+    },
+    "polyplayer.task.pacifist.description": {
+      "en": "Make no attacks for 5 turns",
+      "->": "5 回合不主動攻擊"
+    },
+    "polyplayer.task.pacifist.title": {
+      "en": "Pacifist",
+      "->": "鴿派"
+    },
+    "polyplayer.task.wealth.description": {
+      "en": "Gather 100 stars",
+      "->": "收集 100 顆星星"
+    },
+    "polyplayer.task.wealth.title": {
+      "en": "Wealth",
+      "->": "富庶"
+    },
+    "price.points": {
+      "en": "point",
+      "->": "分"
+    },
+    "price.points.plural": {
+      "en": "points",
+      "->": "分"
+    },
+    "price.population": {
+      "en": "population",
+      "->": "點人口"
+    },
+    "price.population.plural": {
+      "en": "population",
+      "->": "點人口"
+    },
+    "price.stars": {
+      "en": "star",
+      "->": "顆星星"
+    },
+    "price.stars.plural": {
+      "en": "stars",
+      "->": "顆星星"
+    },
+    "purchasing.error.androidinitializationfailed": {
+      "en": "Unable to connect to the Google Play Billing service. This might mean that your Google account is missing or incorrectly set up.",
+      "->": "無法連接至 Google Play 結算服務，也許是因為你未登錄 Google 帳號或設定不正確。"
+    },
+    "purchasing.error.duplicatetransaction": {
+      "en": "A duplicate transaction error when the transaction has already been completed successfully.",
+      "->": "交易已完成，請勿重複交易。"
+    },
+    "purchasing.error.existingpurchasepending": {
+      "en": "A purchase was already in progress when a new purchase was requested.",
+      "->": "已在購買流程中，請勿重複購買。"
+    },
+    "purchasing.error.initializationfailed": {
+      "en": "Purchasing failed to initialise",
+      "->": "啟動購買失敗"
+    },
+    "purchasing.error.paymentdeclined": {
+      "en": "There was a problem with the payment.",
+      "->": "支付遇到問題"
+    },
+    "purchasing.error.productunavailable": {
+      "en": "The product is not available to purchase on the store.",
+      "->": "此產品現不在商店中提供。"
+    },
+    "purchasing.error.purchasingunavailable": {
+      "en": "The system purchasing feature is unavailable.",
+      "->": "系統購買功能不可用。"
+    },
+    "purchasing.error.signatureinvalid": {
+      "en": "Signature validation of the purchase's receipt failed.",
+      "->": "收據簽名驗證失敗。"
+    },
+    "purchasing.error.title": {
+      "en": "Purchasing Error",
+      "->": "購買出錯"
+    },
+    "purchasing.error.unknown": {
+      "en": "Something unknown went wrong with the purchase. Please try again later.",
+      "->": "購買出錯，請稍後再試。"
+    },
+    "purchasing.error.usercancelled": {
+      "en": "The user opted to cancel rather than proceed with the purchase.",
+      "->": "用戶選擇取消而非繼續購買。"
+    },
+    "purchasing.restore.error.message": {
+      "en": "Something went wrong while trying to restore your purchases. Please try again later.",
+      "->": "恢復購買出錯，請稍後再試。"
+    },
+    "purchasing.restore.error.title": {
+      "en": "Restore Purchases Failed",
+      "->": "恢復購買失敗"
+    },
+    "push.ended": {
+      "en": "{0} has ended, check to see who won!",
+      "->": "{0} 已結束，來看看誰獲勝了吧！"
+    },
+    "push.invited": {
+      "en": "You are invited to a new game, {0}",
+      "->": "你被邀請加入新的遊戲 {0}。"
+    },
+    "push.kicked": {
+      "en": "You have been removed from {0}",
+      "->": "你已被移出遊戲 {0}。"
+    },
+    "push.picktribe": {
+      "en": "It is your turn to pick tribe in {0}",
+      "->": "輪到你在 {0} 中選擇部落了。"
+    },
+    "push.playerkicked": {
+      "en": "Player {0} has been kicked from {1}.",
+      "->": "玩家 {0} 已被從遊戲 {0} 中踢出。"
+    },
+    "push.playerresigned": {
+      "en": "Player {0} has resigned from {1}.",
+      "->": "玩家 {0} 已放棄遊戲 {0}。"
+    },
+    "push.randommatchready": {
+      "en": "Random match {0} is ready to go!",
+      "->": "遊戲 {0} 已完成隨機配對！"
+    },
+    "push.readytostart": {
+      "en": "{0} is ready to start on your command",
+      "->": "{0} 已準備好，就等你一聲令下！"
+    },
+    "push.reminder": {
+      "en": "We are waiting for you to play in {0}. Come on!!",
+      "->": "大家正等你在 {0} 的下一步呢，快唷！"
+    },
+    "push.skipped": {
+      "en": "Your turn in {0} was skipped since you timed out.",
+      "->": "你在 {0} 中的回合因為超時而被跳過。"
+    },
+    "push.yourturn": {
+      "en": "It is your turn in {0} (turn {1})",
+      "->": "輪到你在遊戲 {0} 中進行下一步了。(第{1}回合）"
+    },
+    "replay.clipboard": {
+      "en": "Replay link added to clipboard",
+      "->": "重播連結已複製到剪貼簿"
+    },
+    "replay.clipboard.title": {
+      "en": "Voilà!",
+      "->": "好咧！"
+    },
+    "replay.ended": {
+      "en": "Ended {0}",
+      "->": "{0} 已結束"
+    },
+    "replay.ongoing": {
+      "en": "Ongoing",
+      "->": "進行中"
+    },
+    "replay.tech.new.message": {
+      "en": "{0} discovered the secret of {1}",
+      "->": "{0} 掌握了 ’{1}‘ 科技"
+    },
+    "replay.turnlabel": {
+      "en": "Turn {0}",
+      "->": "第{0}回合"
+    },
+    "replay.viewmode.auto": {
+      "en": "Auto",
+      "->": "自動"
+    },
+    "replay.viewmode.header": {
+      "en": "Pick Point of View",
+      "->": "選擇視角"
+    },
+    "replay.winner": {
+      "en": "Won by: {0}",
+      "->": "獲勝者: {0}"
+    },
+    "resource.names.crop": {
+      "en": "crop",
+      "->": "秧苗"
+    },
+    "resource.names.fish": {
+      "en": "fish",
+      "->": "魚群"
+    },
+    "resource.names.fruit": {
+      "en": "fruit",
+      "->": "野果"
+    },
+    "resource.names.game": {
+      "en": "wild animal",
+      "->": "野獸"
+    },
+    "resource.names.metal": {
+      "en": "metal",
+      "->": "礦藏"
+    },
+    "resource.names.spores": {
+      "en": "Spores",
+      "->": "菌芽"
+    },
+    "resource.names.whale": {
+      "en": "whale",
+      "->": "鯨魚"
+    },
+    "settings.ambience": {
+      "en": "Ambience",
+      "->": "氛圍音"
+    },
+    "settings.antialias": {
+      "en": "Anti-aliasing",
+      "->": "抗鋸齒"
+    },
+    "settings.compactui": {
+      "en": "Compact UI",
+      "->": "緊湊介面"
+    },
+    "settings.confirm": {
+      "en": "Confirm turn",
+      "->": "結束回合確認"
+    },
+    "settings.fullscreen": {
+      "en": "Fullscreen",
+      "->": "全螢幕"
+    },
+    "settings.hideadvanced": {
+      "en": "Hide Advanced Settings",
+      "->": "隱藏高級設定"
+    },
+    "settings.info": {
+      "en": "Info on Build",
+      "->": "建造資訊"
+    },
+    "settings.language": {
+      "en": "Language",
+      "->": "語言"
+    },
+    "settings.language.load.button": {
+      "en": "LOAD",
+      "->": "載入"
+    },
+    "settings.language.load.error.info": {
+      "en": "The loaded file does not have a valid JSON Format and can't be parsed.",
+      "->": "載入的文件為無效 JSON 格式，無法解析。"
+    },
+    "settings.language.load.error.title": {
+      "en": "Error loading file",
+      "->": "載入文件錯誤"
+    },
+    "settings.language.load.info": {
+      "en": "Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
+      "->": "由 https 連結從遠端伺服器載入 Polytopia 語言包。此為實驗性功能，故不保證其穩定性。"
+    },
+    "settings.language.load.input": {
+      "en": "Language file url:",
+      "->": "語言包 URL: "
+    },
+    "settings.language.load.title": {
+      "en": "Custom language (BETA)",
+      "->": "自定義語言（測試）"
+    },
+    "settings.off": {
+      "en": "OFF",
+      "->": "關"
+    },
+    "settings.on": {
+      "en": "ON",
+      "->": "開"
+    },
+    "settings.saveexit": {
+      "en": "EXIT TO MENU",
+      "->": "退回至選單"
+    },
+    "settings.scale": {
+      "en": "UI Scale",
+      "->": "介面縮放"
+    },
+    "settings.scale.auto": {
+      "en": "Auto",
+      "->": "自動"
+    },
+    "settings.scale.large": {
+      "en": "Large",
+      "->": "大"
+    },
+    "settings.scale.medium": {
+      "en": "Medium",
+      "->": "中"
+    },
+    "settings.scale.small": {
+      "en": "Small",
+      "->": "小"
+    },
+    "settings.scale.verylarge": {
+      "en": "Very Large",
+      "->": "巨大"
+    },
+    "settings.showadvanced": {
+      "en": "Advanced Settings",
+      "->": "高級設定"
+    },
+    "settings.soundeffects": {
+      "en": "Sound Effects",
+      "->": "音效"
+    },
+    "settings.suggestions": {
+      "en": "Suggestions",
+      "->": "入門提示"
+    },
+    "settings.title": {
+      "en": "SETTINGS",
+      "->": "設定"
+    },
+    "settings.tribemusic": {
+      "en": "Tribe Music",
+      "->": "部落音樂"
+    },
+    "settings.volume": {
+      "en": "Audio volume {0}",
+      "->": "音量 {0}%"
+    },
+    "splashscreen.switch.12tribes": {
+      "en": "12 unique Tribes",
+      "->": "十二個獨特的部落"
+    },
+    "splashscreen.switch.again": {
+      "en": "Play again!",
+      "->": "百玩不厭！"
+    },
+    "splashscreen.switch.challenging": {
+      "en": "Challenging AI",
+      "->": "挑戰人工智慧"
+    },
+    "splashscreen.switch.full": {
+      "en": "The full version of the game includes:",
+      "->": "遊戲的完整版本包含："
+    },
+    "splashscreen.switch.gamemodes": {
+      "en": "More game modes",
+      "->": "更多遊戲模式"
+    },
+    "splashscreen.switch.thankyou": {
+      "en": "Thank you for playing!",
+      "->": "感謝你對本遊戲的青睞！"
+    },
+    "splashscreen.switch.upgrade": {
+      "en": "Upgrade",
+      "->": "升級"
+    },
+    "startmenu.about": {
+      "en": "About",
+      "->": "關於"
+    },
+    "startmenu.high_score": {
+      "en": "High Score",
+      "->": "全球高分榜"
+    },
+    "startmenu.multiplayer": {
+      "en": "MULTIPLAYER",
+      "->": "多人遊戲"
+    },
+    "startmenu.new_game": {
+      "en": "NEW GAME",
+      "->": "新遊戲"
+    },
+    "startmenu.quit": {
+      "en": "QUIT",
+      "->": "退出"
+    },
+    "startmenu.resume_game": {
+      "en": "RESUME GAME",
+      "->": "繼續遊戲"
+    },
+    "startmenu.settings": {
+      "en": "Settings",
+      "->": "設定"
+    },
+    "startmenu.throne_room": {
+      "en": "Throne Room",
+      "->": "本地排行榜"
+    },
+    "stringtools.typelist.and": {
+      "en": "and",
+      "->": "和"
+    },
+    "task.info": {
+      "en": "{0} to get {1}",
+      "->": "{0}以建造{1}"
+    },
+    "technology.ability": {
+      "en": "ability",
+      "->": "能力"
+    },
+    "technology.ability.info": {
+      "en": "{1} gives you the ability to {1}",
+      "->": "‘{1}’ 科技使你可以{1}"
+    },
+    "technology.build": {
+      "en": "{0} makes it possible to build {1}",
+      "->": "’{0}‘ 科技使你可以建造{1}"
+    },
+    "technology.defence": {
+      "en": "Defense Bonus",
+      "->": "防禦加成"
+    },
+    "technology.defence.info": {
+      "en": "gives your unit extra strength when defending in {0}",
+      "->": "使你位於{0}上的單位獲得防禦加成"
+    },
+    "technology.intro": {
+      "en": "This tech will enable the following:",
+      "->": "此科技為你解鎖以下操作: "
+    },
+    "technology.movement": {
+      "en": "Movement",
+      "->": "克服地形"
+    },
+    "technology.movement.info": {
+      "en": "enables movement in {0}",
+      "->": "使你可以移動至{0}上"
+    },
+    "technology.names.aquatism": {
+      "en": "Aquatism",
+      "->": "水之道"
+    },
+    "technology.names.archery": {
+      "en": "Archery",
+      "->": "箭術"
+    },
+    "technology.names.basic": {
+      "en": "basic",
+      "->": "基礎"
+    },
+    "technology.names.chivalry": {
+      "en": "Chivalry",
+      "->": "騎士道"
+    },
+    "technology.names.climbing": {
+      "en": "Climbing",
+      "->": "攀登"
+    },
+    "technology.names.construction": {
+      "en": "Construction",
+      "->": "建設"
+    },
+    "technology.names.diplomacy": {
+      "en": "Diplomacy",
+      "->": "外交"
+    },
+    "technology.names.farming": {
+      "en": "Farming",
+      "->": "農耕"
+    },
+    "technology.names.fishing": {
+      "en": "Fishing",
+      "->": "打漁"
+    },
+    "technology.names.forestmagic": {
+      "en": "Forest Magic",
+      "->": "御林咒"
+    },
+    "technology.names.forestry": {
+      "en": "Forestry",
+      "->": "林業"
+    },
+    "technology.names.freediving": {
+      "en": "Free Diving",
+      "->": "自由潛水"
+    },
+    "technology.names.freespirit": {
+      "en": "Free Spirit",
+      "->": "自由精神"
+    },
+    "technology.names.frostwork": {
+      "en": "Frostwork",
+      "->": "冰霜工藝"
+    },
+    "technology.names.hunting": {
+      "en": "Hunting",
+      "->": "狩獵"
+    },
+    "technology.names.hydrology": {
+      "en": "Hydrology",
+      "->": "水文"
+    },
+    "technology.names.mathematics": {
+      "en": "Mathematics",
+      "->": "算術"
+    },
+    "technology.names.meditation": {
+      "en": "Meditation",
+      "->": "冥思"
+    },
+    "technology.names.mining": {
+      "en": "Mining",
+      "->": "採礦"
+    },
+    "technology.names.navigation": {
+      "en": "Navigation",
+      "->": "遠航"
+    },
+    "technology.names.oceanology": {
+      "en": "Oceanology",
+      "->": "海洋學"
+    },
+    "technology.names.organization": {
+      "en": "Organization",
+      "->": "組織"
+    },
+    "technology.names.philosophy": {
+      "en": "Philosophy",
+      "->": "哲學"
+    },
+    "technology.names.polarism": {
+      "en": "Polarism",
+      "->": "冰心"
+    },
+    "technology.names.polarwarfare": {
+      "en": "Polar Warfare",
+      "->": "極地軍工"
+    },
+    "technology.names.recycling": {
+      "en": "Recycling",
+      "->": "回收"
+    },
+    "technology.names.riding": {
+      "en": "Riding",
+      "->": "騎術"
+    },
+    "technology.names.riding2": {
+      "en": "Riding",
+      "->": "踏浪"
+    },
+    "technology.names.roads": {
+      "en": "Roads",
+      "->": "築道"
+    },
+    "technology.names.sailing": {
+      "en": "Sailing",
+      "->": "近航"
+    },
+    "technology.names.shields": {
+      "en": "Strategy",
+      "->": "謀略"
+    },
+    "technology.names.shock": {
+      "en": "Shock Tactics",
+      "->": "震爆戰術"
+    },
+    "technology.names.smithery": {
+      "en": "Smithery",
+      "->": "鍛造"
+    },
+    "technology.names.spearing": {
+      "en": "Spearing",
+      "->": "槍術"
+    },
+    "technology.names.spiritualism": {
+      "en": "Spiritualism",
+      "->": "自然之道"
+    },
+    "technology.names.trade": {
+      "en": "Trade",
+      "->": "貿易"
+    },
+    "technology.names.watermagic": {
+      "en": "Water Magic",
+      "->": "御水咒"
+    },
+    "technology.names.whaling": {
+      "en": "Whaling",
+      "->": "捕鯨"
+    },
+    "technology.requirements": {
+      "en": "You need to research {0} to enable this action.",
+      "->": "你需要研究 ‘{0}’ 科技以進行此操作。"
+    },
+    "technology.task": {
+      "en": "{0} activates the {1} task",
+      "->": " ’{0}‘ 科技會啟動 ‘{1}’ 任務"
+    },
+    "techview.completed": {
+      "en": "(completed)",
+      "->": "（已掌握）"
+    },
+    "techview.completed.info": {
+      "en": "You have already researched this technology.",
+      "->": "你已掌握此科技"
+    },
+    "techview.expensive.info": {
+      "en": "You don't have enough stars to buy this. Tap 'next turn' to get more stars.",
+      "->": "星數不足，按 ‘結束回合’ 以獲取更多。"
+    },
+    "techview.info": {
+      "en": "Tech costs increase for each city in your empire.",
+      "->": "科技開銷會隨帝國城市數增長"
+    },
+    "techview.info.literacy": {
+      "en": "Literacy reduces the price of all technologies by {0}%!",
+      "->": "’識字‘ 使所有科技開銷降低 {0}%！"
+    },
+    "techview.locked": {
+      "en": "(locked)",
+      "->": "（鎖定）"
+    },
+    "techview.locked.info": {
+      "en": "You must research {0} before you can learn {1}.",
+      "->": "你必須掌握 ‘{0}’ 才能研究 ‘{1}’。"
+    },
+    "techview.research": {
+      "en": "RESEARCH",
+      "->": "研究"
+    },
+    "terrain.field": {
+      "en": "Field",
+      "->": "平原"
+    },
+    "terrain.forest": {
+      "en": "Forest",
+      "->": "森林"
+    },
+    "terrain.ice": {
+      "en": "Ice",
+      "->": "冰"
+    },
+    "terrain.mountain": {
+      "en": "Mountain",
+      "->": "山地"
+    },
+    "terrain.ocean": {
+      "en": "Ocean",
+      "->": "深海"
+    },
+    "terrain.unknown": {
+      "en": "Unknown lands",
+      "->": "未知地形"
+    },
+    "terrain.water": {
+      "en": "Water",
+      "->": "淺海"
+    },
+    "throne.alias": {
+      "en": "Alias",
+      "->": "暱稱"
+    },
+    "throne.clipboard": {
+      "en": "Player ID added to clipboard",
+      "->": "玩家 ID 已複製到剪貼簿"
+    },
+    "throne.clipboard.title": {
+      "en": "Voilà!",
+      "->": "好咧！"
+    },
+    "throne.google.achievements": {
+      "en": "ACHIEVEMENTS",
+      "->": "成就"
+    },
+    "throne.google.in": {
+      "en": "SIGN IN",
+      "->": "登錄"
+    },
+    "throne.google.info": {
+      "en": "(!)You need to sign in with Google Play to save your game data and high scores.",
+      "->": "（！）你需要登錄 Google Play 來保存遊戲數據與高分紀錄"
+    },
+    "throne.google.out": {
+      "en": "SIGN OUT",
+      "->": "登出"
+    },
+    "throne.google.signedin": {
+      "en": "You are signed in using Google Play",
+      "->": "你已使用 Google Play 登錄"
+    },
+    "throne.played": {
+      "en": "Games Played",
+      "->": "已玩局數"
+    },
+    "throne.playerid": {
+      "en": "Player ID",
+      "->": "玩家 ID"
+    },
+    "throne.playerinfo": {
+      "en": "Player Info",
+      "->": "玩家資訊"
+    },
+    "throne.reset": {
+      "en": "Reset Scores",
+      "->": "清除本地排行紀錄"
+    },
+    "throne.reset.complete": {
+      "en": "Scores are now reset",
+      "->": "本地排行紀錄已重置"
+    },
+    "throne.resetwarning": {
+      "en": "Are you sure you want to reset all your saved scores and ratings? This can not be undone.",
+      "->": "確定要重置所有得分與評級紀錄嗎？此操作無法反悔。"
+    },
+    "throne.resetwarning.title": {
+      "en": "Reset Scores",
+      "->": "清除本地排行紀錄"
+    },
+    "throne.title": {
+      "en": "THRONE ROOM",
+      "->": "本地排行"
+    },
+    "throne.toprating": {
+      "en": "Top Rating",
+      "->": "評級排行"
+    },
+    "throne.topscore": {
+      "en": "Top Score",
+      "->": "得分排行"
+    },
+    "tooltip.ability.agent": {
+      "en": "This unit can be built in enemy territory",
+      "->": "此單位可建於敵境之內"
+    },
+    "tooltip.ability.autofreeze": {
+      "en": "This unit freezes any surrounding tiles and units when moving.",
+      "->": "此單位在移動後凍結周圍的方格與敵方單位。"
+    },
+    "tooltip.ability.boost": {
+      "en": "Give surrounding friendly units a temporary boost in attack and speed.",
+      "->": "此單位可短期強化周圍的己方單位，增強其攻擊與移動。"
+    },
+    "tooltip.ability.capitalvision": {
+      "en": "Reveals the capital of all tribes you encounter.",
+      "->": "可看見已知部落的首都。"
+    },
+    "tooltip.ability.carry": {
+      "en": "This unit is carrying another unit inside.",
+      "->": "此單位正載著另一個單位。"
+    },
+    "tooltip.ability.convert": {
+      "en": "This unit can convert an enemy to your own tribe by attacking it.",
+      "->": "此單位按攻擊可感召敵方單位至己方陣營"
+    },
+    "tooltip.ability.creep": {
+      "en": "This unit does not get any movement penalties in rough terrain.",
+      "->": "此單位不因地形變化縮減移動範圍。"
+    },
+    "tooltip.ability.dash": {
+      "en": "This unit can attack after moving if there is an enemy in range.",
+      "->": "此單位移動後，可立即攻擊範圍內之敵人。"
+    },
+    "tooltip.ability.decompose": {
+      "en": "Decompose any building within your borders and get its full cost in stars back at the end of the turn.",
+      "->": "降解境內任何建築，並在回合結束時贖回其全部建造費用。"
+    },
+    "tooltip.ability.destroy": {
+      "en": "Remove any building within your borders, great for reconstructing your empire.",
+      "->": "拆毀境內任意建築，大利於都市更新。"
+    },
+    "tooltip.ability.detect": {
+      "en": "This unit can detect nearby invisible units.",
+      "->": "此單位能感知可能相鄰之隱身單位"
+    },
+    "tooltip.ability.disband": {
+      "en": "Remove any of your own units and get half of its cost in return.",
+      "->": "遣散己方任意單位，並贖回其一半的訓練費用。"
+    },
+    "tooltip.ability.disloyal": {
+      "en": "This unit switches side to the previous ruler when the area they are in is captured",
+      "->": "當此單位所在地被佔領時，會變節到前任統治者陣營。"
+    },
+    "tooltip.ability.dividend": {
+      "en": "Gives 1 star income per peace treaty per turn.",
+      "->": "每一份和平協議會使每回合收入增加 1 顆星星。"
+    },
+    "tooltip.ability.eat": {
+      "en": "This unit grows in length for each enemy it kills.",
+      "->": "此單位每消滅一個敵方單位便會增加一節體節。"
+    },
+    "tooltip.ability.embassy": {
+      "en": "Allow construction of Embassies in foreign capitals. Embassies provide income for both parties as long as they are not at war. The income is doubled if you have a peace treaty.",
+      "->": "使你可在其他部落的首都建立使館。使館可為非交戰雙方帶來收益，若簽訂和平協議則收益翻倍。"
+    },
+    "tooltip.ability.escape": {
+      "en": "This unit can move again after attacking.",
+      "->": "此單位在攻擊後有一次額外移動機會。"
+    },
+    "tooltip.ability.explode": {
+      "en": "Make your units explode inflicting poison and collateral damage to surrounding enemies.",
+      "->": "此單位可自爆以使周圍敵方單位中毒並造成範圍傷害。"
+    },
+    "tooltip.ability.fly": {
+      "en": "This unit can fly over any terrain with no movement penalties or bonuses.",
+      "->": "此單位飛越一切地形，不受移動阻礙與加成影響。"
+    },
+    "tooltip.ability.fortify": {
+      "en": "This unit gets a defense bonus when defending in its own cities, double bonus with a city wall.",
+      "->": "此單位在己方城市內獲得防禦加成，若有城牆則加成提高。"
+    },
+    "tooltip.ability.freeze": {
+      "en": "This unit freezes its enemies when attacking them so they cannot move.",
+      "->": "此單位可將擊中的敵方單位凍結在原地。"
+    },
+    "tooltip.ability.freezearea": {
+      "en": "This unit can freeze the surrounding tiles including any enemy units.",
+      "->": "此單位可凍結周圍的方格與敵方單位。"
+    },
+    "tooltip.ability.glide": {
+      "en": "All non-skating units get an extra move when moving on ice.",
+      "->": "所有不具備 “滑冰” 技能的單位也能在冰上獲得一格移動加成。"
+    },
+    "tooltip.ability.grow": {
+      "en": "This unit will eventually grow and become something else.",
+      "->": "此單位具有成長為其他單位的潛能。"
+    },
+    "tooltip.ability.heal": {
+      "en": "This unit can heal surrounding units.",
+      "->": "此單位可為周圍的單位恢復生命。"
+    },
+    "tooltip.ability.hide": {
+      "en": "This unit hides when it moves, becoming invisible to the enemy.",
+      "->": "此單位在移動後便進入隱身狀態，對敵方隱形。"
+    },
+    "tooltip.ability.independent": {
+      "en": "This unit does not require any support from its home city.",
+      "->": "此單位不佔用城市人口額度。"
+    },
+    "tooltip.ability.infiltrate": {
+      "en": "This unit can enter enemy cities to incite revolts.",
+      "->": "此單位可進入敵方城市策動叛亂。"
+    },
+    "tooltip.ability.literacy": {
+      "en": "Reduce the price of all technologies by {0}%.",
+      "->": "使所有科技的開銷降低 {0}%。"
+    },
+    "tooltip.ability.navigate": {
+      "en": "This unit can move in any terrain even if you do not have the tech needed to move there.",
+      "->": "無論有無掌握地形相關科技，此單位都能在各種地形移動自如。"
+    },
+    "tooltip.ability.peacetreaty": {
+      "en": "Send an offer of entering a peace treaty to another tribe. \nYou find this function in the 'Tribe Info Screen', click the name of a tribe to get there.",
+      "->": "向其他部落遞交和平協議。/n在部落資訊頁選擇部落名稱可找到此功能。"
+    },
+    "tooltip.ability.persist": {
+      "en": "This unit can keep attacking as long as it completely kills its victims.",
+      "->": "此單位可在殺死敵人後立即再次攻擊。"
+    },
+    "tooltip.ability.poison": {
+      "en": "Inflicts poison to enemies when attacking. Poisoned units lose all defense bonuses and spread spores when they die.",
+      "->": "此單位的攻擊與反擊使敵方單位中毒。中毒單位失去所有防禦加成並在死後留下菌芽。"
+    },
+    "tooltip.ability.scout": {
+      "en": "This unit has double vision range.",
+      "->": "此單位擁有雙倍視野範圍。"
+    },
+    "tooltip.ability.skate": {
+      "en": "This unit gets double movement on ice tiles but on land their movement is limited to 1 tile and all other abilities are disabled.",
+      "->": "此單位在冰上移動範圍翻倍，但在陸地上移動範圍被限制為 1 且所有其他攻擊及移動相關技能失效。"
+    },
+    "tooltip.ability.sneak": {
+      "en": "This unit can move past enemy units without stopping.",
+      "->": "此單位的移動不受敵軍阻礙。"
+    },
+    "tooltip.ability.splash": {
+      "en": "This unit causes splash damage to nearby units when attacking.",
+      "->": "此單位對攻擊目標周圍的敵軍造成濺射傷害。"
+    },
+    "tooltip.ability.surprise": {
+      "en": "Enemies don't retaliate when you attack them, even at close range.",
+      "->": "此單位在攻擊後不會遭到反擊，即便其處於敵方攻擊範圍內。"
+    },
+    "tooltip.ability.swim": {
+      "en": "This unit can move on water.",
+      "->": "此單位可在水上行動。"
+    },
+    "tooltip.tile.blocked": {
+      "en": "This resource is blocked by an enemy unit",
+      "->": "此資源被敵軍控制。"
+    },
+    "tooltip.tile.capture": {
+      "en": "This city is being captured.",
+      "->": "此城市正遭攻佔。"
+    },
+    "tooltip.tile.capture.enemy": {
+      "en": "Your city is being captured by the enemy!",
+      "->": "你的城市危在旦夕！"
+    },
+    "tooltip.tile.capture.tip": {
+      "en": "Move a unit here to capture this city!",
+      "->": "派兵前去佔領這座城市吧！"
+    },
+    "tooltip.tile.choose_unit": {
+      "en": "Choose a unit to train.",
+      "->": "選擇要訓練的兵種。"
+    },
+    "tooltip.tile.explore": {
+      "en": "Explore this area to see what it holds!",
+      "->": "探索此區域來發現未知！"
+    },
+    "tooltip.tile.extract.convert": {
+      "en": "This resource can be transformed into a unit",
+      "->": "此資源可被轉化為單位"
+    },
+    "tooltip.tile.extract.research": {
+      "en": "You need to research {0} to extract this resource",
+      "->": "你需要掌握 “{0}” 科技以開採此資源"
+    },
+    "tooltip.tile.extract.stars": {
+      "en": "Extract this resource to earn stars instantly",
+      "->": "此資源可帶來即時性收入"
+    },
+    "tooltip.tile.extract.upgrade": {
+      "en": "Extract this resource to upgrade your city",
+      "->": "開採此資源以升格城市"
+    },
+    "tooltip.tile.level.max": {
+      "en": "Has reached maximum level",
+      "->": "已達到最高等級"
+    },
+    "tooltip.tile.level.next": {
+      "en": "Next level in {0} turns",
+      "->": "{0} 回合後升至下一級"
+    },
+    "tooltip.tile.level.polaris": {
+      "en": "Freeze {0} more tiles to reach the next level",
+      "->": "再凍結 {0} 個方格升至下一級"
+    },
+    "tooltip.tile.limit": {
+      "en": "This city cannot support any more units.",
+      "->": "此城市無法供養更多單位。"
+    },
+    "tooltip.tile.monuments": {
+      "en": "Monuments give your empire extra score!",
+      "->": "紀念碑為你的帝國帶來額外加分！"
+    },
+    "tooltip.tile.outside": {
+      "en": "This resource is outside of your empire",
+      "->": "此資源遠在國境之外"
+    },
+    "tooltip.tile.produces": {
+      "en": "Produces {0} each turn.",
+      "->": "每回合產出 {0}."
+    },
+    "tooltip.tile.research": {
+      "en": "You need to research {0} to be able to move here",
+      "->": "你需要掌握 '{0}' 科技以移動至此處"
+    },
+    "tooltip.tile.riot": {
+      "en": "There are riots in this city! It produces no income this turn.",
+      "->": "此城市正處在暴亂中！此回合無法帶來收益。"
+    },
+    "tooltip.tile.road": {
+      "en": "Build a road to connect this city to your capital.",
+      "->": "建造驛道以將此城市連接至首都。"
+    },
+    "tooltip.tile.ruin": {
+      "en": "Move a unit here and examine these ancient ruins.",
+      "->": "派兵前去考察此處古代遺跡吧！"
+    },
+    "tooltip.tile.sailing": {
+      "en": "Move a unit here to start sailing!",
+      "->": "將單位移至此處以登船。"
+    },
+    "tooltip.unit.actions.attack": {
+      "en": "Click a red mark to attack!",
+      "->": "按紅色標記攻擊！"
+    },
+    "tooltip.unit.actions.move": {
+      "en": "Click a blue mark to move.",
+      "->": "按藍色標記移動。"
+    },
+    "tooltip.unit.actions.none": {
+      "en": "No actions left. Press 'Next Turn' to move this unit again.",
+      "->": "本回合移動次數已用磬，按 '結束回合' 以再次移動此單位。"
+    },
+    "tooltip.unit.ally": {
+      "en": "This is your ally.",
+      "->": "這是你的盟友。"
+    },
+    "tooltip.unit.city.capture": {
+      "en": "Tap 'Capture' to add this city to your empire",
+      "->": "點擊 '佔領' 使該城市納入帝國版圖"
+    },
+    "tooltip.unit.city.capture.next": {
+      "en": "This city will be ready to capture next turn",
+      "->": "下個回合將可佔領此城市"
+    },
+    "tooltip.unit.enemy": {
+      "en": "This is the enemy!",
+      "->": "這是敵人！"
+    },
+    "tooltip.unit.enemy.brokenpeace": {
+      "en": "You can attack this unit next turn.",
+      "->": "下個回合你就可以攻擊此單位了。"
+    },
+    "tooltip.unit.enemy.city": {
+      "en": "This enemy is capturing your city!",
+      "->": "這個單位正在攻佔你的城市！"
+    },
+    "tooltip.unit.enemy.territory": {
+      "en": "This enemy is in your territory!",
+      "->": "這個敵人入侵你的國境！"
+    },
+    "tooltip.unit.grow.later": {
+      "en": "Will grow to {0} in {1} turns.",
+      "->": "將在 {1} 回合後成長為{0}。"
+    },
+    "tooltip.unit.grow.now": {
+      "en": "Will grow to {0} at the end of this turn!",
+      "->": "將在本回合結束時成長為{0}！"
+    },
+    "topbar.score": {
+      "en": "Score",
+      "->": "分數"
+    },
+    "topbar.stars": {
+      "en": "Stars (+{0})",
+      "->": "星星 (+{0})"
+    },
+    "topbar.turn": {
+      "en": "Turn",
+      "->": "回合"
+    },
+    "tribepicker.anonymous": {
+      "en": "Anonymous",
+      "->": "佚名"
+    },
+    "tribepicker.buy": {
+      "en": "BUY",
+      "->": "購買"
+    },
+    "tribepicker.categories.humantribes": {
+      "en": "Regular Tribes",
+      "->": "普通部落"
+    },
+    "tribepicker.categories.random": {
+      "en": "Let fate decide!",
+      "->": "任聽天命！"
+    },
+    "tribepicker.categories.random.button": {
+      "en": "RANDOM TRIBE",
+      "->": "隨機部落"
+    },
+    "tribepicker.categories.random.selected.text": {
+      "en": "Random tribe selected",
+      "->": "已隨機選擇部落"
+    },
+    "tribepicker.categories.random.selected.title": {
+      "en": "Alakazam!",
+      "->": "天靈靈地靈靈！"
+    },
+    "tribepicker.categories.specialtribes": {
+      "en": "Special Tribes",
+      "->": "特殊部落"
+    },
+    "tribepicker.categories.specialtribes.description": {
+      "en": "A collection of tribes that are a bit out of this world...",
+      "->": "另闢蹊徑的世外部落..."
+    },
+    "tribepicker.disable": {
+      "en": "DISABLE",
+      "->": "禁用"
+    },
+    "tribepicker.disabled": {
+      "en": "Disabled",
+      "->": "已禁用"
+    },
+    "tribepicker.disabled.description": {
+      "en": "Tribe disabled, it cannot be used by you or the AI.",
+      "->": "該部落已禁用，你和 AI 都無法選擇它。"
+    },
+    "tribepicker.enable": {
+      "en": "ENABLE",
+      "->": "啟用"
+    },
+    "tribepicker.firstplayer": {
+      "en": "First player must be a human",
+      "->": "第一個部落不能是AI"
+    },
+    "tribepicker.freetribe": {
+      "en": "Free Tribe",
+      "->": "免費部落"
+    },
+    "tribepicker.freetribe.description": {
+      "en": "This tribe is available for free and cannot be purchased to enable online multiplayer.",
+      "->": "這些部落免費提供。請購買其他部落以解鎖線上多人遊戲。"
+    },
+    "tribepicker.gamemode": {
+      "en": "Game Mode: {0}",
+      "->": "遊戲模式: {0}"
+    },
+    "tribepicker.getdlc": {
+      "en": "GET DLC",
+      "->": "獲取DLC"
+    },
+    "tribepicker.mapsize": {
+      "en": "Map Size: {0} tiles",
+      "->": "地圖尺寸: {0} 格"
+    },
+    "tribepicker.maptype": {
+      "en": "Map Type: {0}",
+      "->": "地圖類型: {0}"
+    },
+    "tribepicker.news.readmore": {
+      "en": "Read more...",
+      "->": "閱讀更多 . . . . . ."
+    },
+    "tribepicker.pick": {
+      "en": "PICK",
+      "->": "選擇"
+    },
+    "tribepicker.pickyour": {
+      "en": "Pick your tribe",
+      "->": "選擇你的部落"
+    },
+    "tribepicker.players": {
+      "en": "{0} players",
+      "->": "{0} 位玩家"
+    },
+    "tribepicker.playertype": {
+      "en": "Player type",
+      "->": "玩家類型"
+    },
+    "tribepicker.reset": {
+      "en": "Reset Purchases",
+      "->": "重置購買"
+    },
+    "tribepicker.restore": {
+      "en": "Restore Purchases",
+      "->": "恢復購買"
+    },
+    "tribepicker.restoring": {
+      "en": "Restoring...",
+      "->": "恢復中 . . . . . ."
+    },
+    "tribepicker.taken": {
+      "en": "Taken",
+      "->": "已選擇"
+    },
+    "tribepicker.tba": {
+      "en": "TBA",
+      "->": "即將推出"
+    },
+    "tribepicker.title": {
+      "en": "PICK YOUR TRIBE",
+      "->": "選擇你的部落"
+    },
+    "tribepicker.toprating": {
+      "en": "Top rating {0}%",
+      "->": "最佳記錄 {0}%"
+    },
+    "tribepicker.toprating.next": {
+      "en": "{0}% needed for next star",
+      "->": "達到 {0}% 以點亮下一顆星"
+    },
+    "tribepicker.topscore": {
+      "en": "Top score {0}",
+      "->": "最高得分 {0}"
+    },
+    "tribepicker.topscore.next": {
+      "en": "{0} for next star",
+      "->": "達到{0}分以點亮下一顆星"
+    },
+    "tribepicker.underconstruction": {
+      "en": "Under Construction",
+      "->": "新的部落蓄勢待發"
+    },
+    "tribepicker.underconstruction.description": {
+      "en": "We are still working on inventing this tribe. Growing fruits, developing languages and architecture. That takes time you know. Follow @Midjiwan on Instagram or Twitter and you will be the first to know when new tribes arrive!",
+      "->": "我們正在為他們大興土木、種樹摘果、著述立論…還真是個大工程！在 Twitter 上關注 @Midjiwan，期待他們的降生吧！"
+    },
+    "tribepicker.waiting": {
+      "en": "WAITING",
+      "->": "等待中"
+    },
+    "tribepicker.yourname": {
+      "en": "Your Name",
+      "->": "你的名字"
+    },
+    "tribes.aimo": {
+      "en": "Ai-Mo",
+      "->": "崖瑪"
+    },
+    "tribes.aimo.info": {
+      "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "谷深山高空無象，日落隨分心自涼；踏碎月明通正路，劈開風景入玄藏。\n\n {0}開局便掌握 ’{1}’ 科技。"
+    },
+    "tribes.aquarion": {
+      "en": "Aquarion",
+      "->": "亞特蘭"
+    },
+    "tribes.aquarion.info": {
+      "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
+      "->": "曾經失落已久的文明，從深海橫空出世！長年與世隔絕，使其演化出獨特的水生能力。\n\n{0}具有截然不同的科技樹，能訓練出獨一無二的海龜戟兵。"
+    },
+    "tribes.bardur": {
+      "en": "Bardur",
+      "->": "霸渡"
+    },
+    "tribes.bardur.info": {
+      "en": "Surviving the harsh eternal winter of the {0} woods is not an easy task, but {0} seems to thrive here.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "環繞於針葉林中，在漫長的嚴冬求生從非易事，然久經磨礪的{0}卻能在此繁衍生息。\n\n{0}開局便掌握 ‘{1}’ 科技。"
+    },
+    "tribes.cymanti": {
+      "en": "Cymanti",
+      "->": "螅蟎體"
+    },
+    "tribes.cymanti.info": {
+      "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
+      "->": "流離至陰濕沼林的一群 Polytopian 學會了與蟲共舞，螅蟎蟲貼附其面，與大腦融為一體。\n\n在薩滿的帶領下，{0}訓練巨蟲，把敵人拿去作成養份灌溉真菌，毫不留情毒殺威脅沼澤家園的所有對象！"
+    },
+    "tribes.elyrion": {
+      "en": "∑∫ỹriȱŋ",
+      "->": "∑∫ỹriȱŋ"
+    },
+    "tribes.elyrion.info": {
+      "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
+      "->": "神秘的 {0} 憑藉其繽紛術法與威猛噴火龍守護其森林家園。\n\n他們深信萬物皆有靈，不得捕獵亦不尚伐木。{0} 開局即有御林之術，能將普通動物幻化為強大的獸人。"
+    },
+    "tribes.hoodrick": {
+      "en": "Hoodrick",
+      "->": "麾錐客"
+    },
+    "tribes.hoodrick.info": {
+      "en": "The yellow autumn leaves of the {0} woods are perfect hideouts for its peculiar mushroom stuffing inhabitants. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "楓盡不知處，深藏弓與名。\n\n{0}開局便掌握 ‘{1}’ 科技。"
+    },
+    "tribes.imperius": {
+      "en": "Imperius",
+      "->": "伊帕里司"
+    },
+    "tribes.imperius.info": {
+      "en": "Huge mountains and green valleys. The {0} climate is perfect for growing fruit. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "{0}身處蔥鬱山谷，宜人氣候帶來遍地豐盛果實。\n\n{0}開局便掌握 ‘{1}’ 科技。"
+    },
+    "tribes.kickoo": {
+      "en": "Kickoo",
+      "->": "季穀"
+    },
+    "tribes.kickoo.info": {
+      "en": "White sandy beaches with coconut palms. Abundance of fruit and fish. Welcome to the home of the {0}. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "椰影搖曳的白沙灘，漁獲充盈遍地鮮果，歡迎來到{0}的家園。\n\n{0}開局便掌握 ’{1}’ 科技。"
+    },
+    "tribes.luxidoor": {
+      "en": "Luxidoor",
+      "->": "羅釋多"
+    },
+    "tribes.luxidoor.info": {
+      "en": "The {0} love expensive things, jewels, rare spices and exclusive ornaments. That is also why they are the most expensive tribe in Polytopia!\n\nTheir citizens lead very comfortable lives, draped in the finest purple silk. But will they survive outside of their beloved capital?  \n\n{0} starts the game with a huge capital.",
+      "->": "金銀珠寶、稀有香料與珍奇玩物，才能讓{0}深自著迷，此即為何他們是售價最貴的部落。\n\n養尊處優的他們，總是穿著最昂貴的紫絲綢緞，不知踏出首善之都的舒適圈後，還能否順利生存下來？\n\n{0}開局便擁有固若金湯的首都。"
+    },
+    "tribes.nature": {
+      "en": "Nature",
+      "->": "自然"
+    },
+    "tribes.oumaji": {
+      "en": "Oumaji",
+      "->": "阿拉穆賈"
+    },
+    "tribes.oumaji.info": {
+      "en": "The seemingly endless, sun blessed desert is the home of the {0} tribe.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "艷陽高照的無垠沙漠，是{0}的家園。\n\n{0}開局便掌握 ‘{1}’ 科技。"
+    },
+    "tribes.polaris": {
+      "en": "Polaris",
+      "->": "北冽氏"
+    },
+    "tribes.polaris.info": {
+      "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
+      "->": "在極北苦寒的凍原之地，{0}人世代艱困。直至強大莫測的伽麋降臨賜福，帶來駕馭天地的術法操縱霜雪。\n\n憑藉著雪橇和猛獁，神秘的{0}決意冰封天下、踏海成冰！\n\n{0}開局便能用暮麑冰凍周圍區域。"
+    },
+    "tribes.quetzali": {
+      "en": "Quetzali",
+      "->": "魁蛇羽"
+    },
+    "tribes.quetzali.info": {
+      "en": "The {0} tribe worship the Bird Gods of the red soil and live in harmony with the natural symmetry of their cubistic jungles. They are commonly seen riding huge flightless birds. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "{0}們崇拜赤土神鳥，方叢之間和諧共生，總是騎著巨大的陸行鳥。\n\n{0}開局便掌握 ’{1}’ 科技。"
+    },
+    "tribes.vengir": {
+      "en": "Vengir",
+      "->": "反棘耳"
+    },
+    "tribes.vengir.info": {
+      "en": "Frowned upon by the other tribes and pushed into the unpleasant wastelands. Will they tolerate this injustice or rise to fight back?  \n\n{0} start the game with the '{1}' tech and a powerful Swordsman.",
+      "->": "遭致其他部落嫌惡，而被排擠到荒蕪的窮山惡水。身處逆境的{0}，是否還能夠東山再起？\n\n{0}以劍士開局，且掌握 ’{1}’ 科技。"
+    },
+    "tribes.xinxi": {
+      "en": "Xin-xi",
+      "->": "青岐"
+    },
+    "tribes.xinxi.info": {
+      "en": "They start their journey in the dense mountains, surrounded by beautiful cherry blossoms.\n\n{0} starts the game with the '{1}' tech.",
+      "->": "足踏崇嶺兮望嶮巇，手挽落櫻兮沐繽紛。\n\n{0}開局便掌握 ’{1}’ 科技。"
+    },
+    "tribes.yadakk": {
+      "en": "Yădakk",
+      "->": "亞韃克"
+    },
+    "tribes.yadakk.info": {
+      "en": "The {0} started out as a nomadic tribe in the beautiful harsh Khalee plains. Now they are the traders of the Square, connecting their empire with impressive trade routes. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "{0}原本遊牧於壯麗的喀利平原，現已成了經貿天下的商旅，在帝國內鋪遍四通八達的郵驛。\n\n{0}開局便掌握 ‘{1}’ 科技。"
+    },
+    "tribes.zebasi": {
+      "en": "Zebasi",
+      "->": "辛巴西"
+    },
+    "tribes.zebasi.info": {
+      "en": "{0} thrive on the warm savannah, cultivating the rich soil to provide food for their mighty population. \n\n{0} starts the game with the '{1}' tech.",
+      "->": "土壤肥沃的溫暖草原，是眾多{0}族人的大糧倉。\n\n{0}開局便掌握 ‘{1}’ 科技。"
+    },
+    "tribes.zebasi.news": {
+      "en": "All profits from the Zebasi tribe is invested in solar energy projects.",
+      "->": "所有辛巴西帶來的收益都用於捐助太陽能項目。"
+    },
+    "tutorial.completed.description": {
+      "en": "You have now mastered the basic skills to play Polytopia, but there is so much more to discover!\nFinish this game by getting the highest possible score before the time runs out.",
+      "->": "現在你已經掌握了 Polytopia 的基本操作，但還有更多精彩等你發掘！在達到回合數限制前，盡量獲得高分完成本局遊戲。"
+    },
+    "tutorial.completed.title": {
+      "en": "Boot Camp Completed!",
+      "->": "教程結束！"
+    },
+    "tutorial.suggestion.description": {
+      "en": "Someone is hiding here in the clouds...",
+      "->": "還有人潛藏在這片迷霧之下 . . . . . ."
+    },
+    "tutorial.task.capturevillage": {
+      "en": "Move your unit to a village and capture it.",
+      "->": "將單位移至村落上來佔領它。"
+    },
+    "tutorial.task.capturevillage.description": {
+      "en": "Click your unit in the city. The blue markers that appear on the map are places the unit can move to this turn.\nAfter moving the unit you need to end your turn for it to be able to move again.",
+      "->": "點選城裡的單位，藍色標記的方格即為可以走到的地方。\n移動後，需按 '結束回合' 方能使其再次移動。"
+    },
+    "tutorial.task.capturevillage.title": {
+      "en": "Move a Unit",
+      "->": "移動單位"
+    },
+    "tutorial.task.endTurn": {
+      "en": "A good first round! End your turn to give your unit new energy.",
+      "->": "成功的開始！結束回合來讓你的單位恢復精力。"
+    },
+    "tutorial.task.endTurn.description": {
+      "en": "Click the 'End Turn' button to give new energy to your units and collect more stars.",
+      "->": "按 '結束回合' 讓你的單位恢復精力，並收集更多星星。"
+    },
+    "tutorial.task.endTurn.title": {
+      "en": "End Turn",
+      "->": "結束回合"
+    },
+    "tutorial.task.harvestfruit": {
+      "en": "Harvest fruit to grow your city!",
+      "->": "採集野果以升格城市！"
+    },
+    "tutorial.task.harvestfruit.description": {
+      "en": "Click a fruit tile within the borders of your city and select the 'Harvest Fruit' option. By extracting resources within your borders you can level up your city.",
+      "->": "按境內有野果的方格並選擇 ‘採集野果’。開採境內的資源可升級你的城市。"
+    },
+    "tutorial.task.harvestfruit.title": {
+      "en": "Grow your city",
+      "->": "升級你的城市"
+    },
+    "tutorial.task.meetTribe": {
+      "en": "There is another tribe hiding somewhere on the Square. See if you can find them!",
+      "->": "還有另一個部落藏在這方塊世界上的某處。看看你能不能找到他們！"
+    },
+    "tutorial.task.meetTribe.description": {
+      "en": "You are not alone! There are other tribes in this game too and they also try to expand their empires as much as possible. That often leads to conflicts so keep an eye out for your opponents.",
+      "->": "你並不是獨自一人！遊戲中還有其他部落，一樣處心積慮擴張帝國領土，衝突在所難免，當心點兒！"
+    },
+    "tutorial.task.meetTribe.title": {
+      "en": "Other Tribes",
+      "->": "其他部落"
+    },
+    "tutorial.task.trainunit": {
+      "en": "Train a warrior so we can capture that village.",
+      "->": "訓練單位，派遣其去佔領村落。"
+    },
+    "tutorial.task.trainunit.description": {
+      "en": "Click on your city and select the unit you want to train. Units can be used to explore the map, capture villages and fight your opponents.",
+      "->": "輕按你的城市並選擇想要訓練的單位。單位可被派去探索地圖，佔領村落並與敵人作戰。"
+    },
+    "tutorial.task.trainunit.title": {
+      "en": "Training units",
+      "->": "訓練單位"
+    },
+    "tutorial.task.unlockTech": {
+      "en": "Wild animals can be hunted to grow your city even more. Let's research how to hunt!",
+      "->": "捕獵野生動物以進一步升級你的城市。讓我們研究如何狩獵吧！"
+    },
+    "tutorial.task.unlockTech.description": {
+      "en": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!",
+      "->": "按 '科技樹' 並選擇 '狩獵' 科技，使你可以通過捕獵來升格城市。"
+    },
+    "tutorial.task.unlockTech.title": {
+      "en": "Tech tree",
+      "->": "科技樹"
+    },
+    "unit": {
+      "en": "unit",
+      "->": "單位"
+    },
+    "unit.abilities.agent": {
+      "en": "AGENT",
+      "->": "遠駐"
+    },
+    "unit.abilities.autofreeze": {
+      "en": "AUTO FREEZE",
+      "->": "自動凍結"
+    },
+    "unit.abilities.boost": {
+      "en": "BOOST",
+      "->": "強化"
+    },
+    "unit.abilities.build": {
+      "en": "BUILD",
+      "->": "建造"
+    },
+    "unit.abilities.carry": {
+      "en": "CARRY",
+      "->": "承載"
+    },
+    "unit.abilities.convert": {
+      "en": "CONVERT",
+      "->": "感化"
+    },
+    "unit.abilities.creep": {
+      "en": "CREEP",
+      "->": "匍匐"
+    },
+    "unit.abilities.crush": {
+      "en": "CRUSH",
+      "->": "碾壓"
+    },
+    "unit.abilities.dash": {
+      "en": "DASH",
+      "->": "突進"
+    },
+    "unit.abilities.decay": {
+      "en": "DECAY",
+      "->": "衰退"
+    },
+    "unit.abilities.detect": {
+      "en": "DETECT",
+      "->": "偵測"
+    },
+    "unit.abilities.disloyal": {
+      "en": "DISLOYAL",
+      "->": "變節"
+    },
+    "unit.abilities.eat": {
+      "en": "EAT",
+      "->": "吞噬"
+    },
+    "unit.abilities.escape": {
+      "en": "ESCAPE",
+      "->": "撤退"
+    },
+    "unit.abilities.explode": {
+      "en": "EXPLODE",
+      "->": "自爆"
+    },
+    "unit.abilities.fly": {
+      "en": "FLY",
+      "->": "飛行"
+    },
+    "unit.abilities.fortify": {
+      "en": "FORTIFY",
+      "->": "據守"
+    },
+    "unit.abilities.freeze": {
+      "en": "FREEZE",
+      "->": "凍結"
+    },
+    "unit.abilities.freezearea": {
+      "en": "FREEZE AREA",
+      "->": "凍結一片"
+    },
+    "unit.abilities.grow": {
+      "en": "GROW",
+      "->": "成長"
+    },
+    "unit.abilities.heal": {
+      "en": "HEAL",
+      "->": "治療"
+    },
+    "unit.abilities.hide": {
+      "en": "HIDE",
+      "->": "匿跡"
+    },
+    "unit.abilities.independent": {
+      "en": "INDEPENDENT",
+      "->": "獨立"
+    },
+    "unit.abilities.infiltrate": {
+      "en": "INFILTRATE",
+      "->": "滲透"
+    },
+    "unit.abilities.navigate": {
+      "en": "NAVIGATE",
+      "->": "任行"
+    },
+    "unit.abilities.persist": {
+      "en": "PERSIST",
+      "->": "連擊"
+    },
+    "unit.abilities.poison": {
+      "en": "POISON",
+      "->": "毒性"
+    },
+    "unit.abilities.scout": {
+      "en": "SCOUT",
+      "->": "遠眺"
+    },
+    "unit.abilities.skate": {
+      "en": "SKATE",
+      "->": "滑冰"
+    },
+    "unit.abilities.sneak": {
+      "en": "SNEAK",
+      "->": "潛行"
+    },
+    "unit.abilities.splash": {
+      "en": "SPLASH",
+      "->": "濺射"
+    },
+    "unit.abilities.surprise": {
+      "en": "SURPRISE",
+      "->": "偷襲"
+    },
+    "unit.abilities.swim": {
+      "en": "FLOAT",
+      "->": "渡水"
+    },
+    "unit.ability": {
+      "en": "ability",
+      "->": "能力"
+    },
+    "unit.info.attack": {
+      "en": "Attack",
+      "->": "攻擊"
+    },
+    "unit.info.defence": {
+      "en": "Defense",
+      "->": "防禦"
+    },
+    "unit.info.health": {
+      "en": "Health",
+      "->": "生命"
+    },
+    "unit.info.movement": {
+      "en": "Movement",
+      "->": "移動"
+    },
+    "unit.info.range": {
+      "en": "Range",
+      "->": "攻擊範圍"
+    },
+    "unit.info.skills": {
+      "en": "Skills",
+      "->": "技能"
+    },
+    "unit.names.amphibian": {
+      "en": "Amphibian",
+      "->": "兩棲兵"
+    },
+    "unit.names.archer": {
+      "en": "Archer",
+      "->": "弓箭手"
+    },
+    "unit.names.babydragon": {
+      "en": "Baby Dragon",
+      "->": "幼龍"
+    },
+    "unit.names.battleship": {
+      "en": "Battleship",
+      "->": "戰艦"
+    },
+    "unit.names.battlesled": {
+      "en": "Battle Sled",
+      "->": "戰橇"
+    },
+    "unit.names.boat": {
+      "en": "Boat",
+      "->": "輕舟"
+    },
+    "unit.names.bunny": {
+      "en": "Bunny",
+      "->": "兔兔"
+    },
+    "unit.names.catapult": {
+      "en": "Catapult",
+      "->": "投石車"
+    },
+    "unit.names.centipede": {
+      "en": "Centipede",
+      "->": "蚰蜒"
+    },
+    "unit.names.cloak": {
+      "en": "Cloak",
+      "->": "間諜"
+    },
+    "unit.names.cloak_boat": {
+      "en": "Dinghy",
+      "->": "細作艇"
+    },
+    "unit.names.crab": {
+      "en": "Crab",
+      "->": "巨蟹"
+    },
+    "unit.names.dagger": {
+      "en": "Dagger",
+      "->": "刺客"
+    },
+    "unit.names.defender": {
+      "en": "Defender",
+      "->": "盾衛"
+    },
+    "unit.names.doomux": {
+      "en": "Doomux",
+      "->": "噩蠊"
+    },
+    "unit.names.dragonegg": {
+      "en": "Dragon Egg",
+      "->": "龍蛋"
+    },
+    "unit.names.exida": {
+      "en": "Exida",
+      "->": "漿蟊"
+    },
+    "unit.names.firedragon": {
+      "en": "Fire Dragon",
+      "->": "噴火龍"
+    },
+    "unit.names.gaami": {
+      "en": "Gaami",
+      "->": "伽麋"
+    },
+    "unit.names.giant": {
+      "en": "Giant",
+      "->": "巨人"
+    },
+    "unit.names.hexapod": {
+      "en": "Hexapod",
+      "->": "伏蚍"
+    },
+    "unit.names.icearcher": {
+      "en": "Ice Archer",
+      "->": "冰弓手"
+    },
+    "unit.names.icefortress": {
+      "en": "Ice Fortress",
+      "->": "冰堡"
+    },
+    "unit.names.kiton": {
+      "en": "Kiton",
+      "->": "棘甲"
+    },
+    "unit.names.knight": {
+      "en": "Knight",
+      "->": "騎士"
+    },
+    "unit.names.mindbender": {
+      "en": "Mind Bender",
+      "->": "度化僧"
+    },
+    "unit.names.mooni": {
+      "en": "Mooni",
+      "->": "暮麑"
+    },
+    "unit.names.navalon": {
+      "en": "Navalon",
+      "->": "鯤鯓"
+    },
+    "unit.names.phychi": {
+      "en": "Phychi",
+      "->": "蜚蛉"
+    },
+    "unit.names.polytaur": {
+      "en": "Polytaur",
+      "->": "獸人"
+    },
+    "unit.names.raychi": {
+      "en": "Raychi",
+      "->": "蜉葉"
+    },
+    "unit.names.rider": {
+      "en": "Rider",
+      "->": "騎兵"
+    },
+    "unit.names.santa": {
+      "en": "Bunta",
+      "->": "聖誕老公公"
+    },
+    "unit.names.scout": {
+      "en": "Scout",
+      "->": "偵察兵"
+    },
+    "unit.names.segment": {
+      "en": "Segment",
+      "->": "體節"
+    },
+    "unit.names.shaman": {
+      "en": "Shaman",
+      "->": "薩滿"
+    },
+    "unit.names.ship": {
+      "en": "Ship",
+      "->": "戰帆"
+    },
+    "unit.names.swordsman": {
+      "en": "Swordsman",
+      "->": "劍士"
+    },
+    "unit.names.tridention": {
+      "en": "Tridention",
+      "->": "海龜戟兵"
+    },
+    "unit.names.warrior": {
+      "en": "Warrior",
+      "->": "戰士"
+    },
+    "updateavatar.description": {
+      "en": "Press the avatar to give birth to a new wild creation",
+      "->": "按頭像以更換形象"
+    },
+    "updateavatar.save": {
+      "en": "SAVE",
+      "->": "保存"
+    },
+    "updateavatar.title": {
+      "en": "Update Avatar",
+      "->": "更新頭像"
+    },
+    "validation.error.steam": {
+      "en": "Failed to validate app through Steam, you need to start the game through Steam to be able to play",
+      "->": "Steam 應用驗證失敗，請通過 Steam 啟動遊戲以順暢遊玩。"
+    },
+    "validation.error.title": {
+      "en": "Validation error",
+      "->": "驗證錯誤"
+    },
+    "versioning.highscores": {
+      "en": "You can't get your score on the highscore list with this version of the game. Update the game if you're after that sweet fame.",
+      "->": "你的遊戲版本太舊，無法上傳分數至排行榜。趕緊更新上榜吧！"
+    },
+    "versioning.highscores.title": {
+      "en": "Update Needed",
+      "->": "需要更新"
+    },
+    "versioning.newmatchmaking": {
+      "en": "You have to update the game to start new random matches.",
+      "->": "你需要更新遊戲以進行新的隨機匹配。"
+    },
+    "versioning.newmatchmaking.title": {
+      "en": "Update Needed",
+      "->": "需要更新"
+    },
+    "versioning.newmultiplayer": {
+      "en": "You have to update the game to start new multiplayer games.",
+      "->": "你需要更新遊戲來開始新的多人遊戲。"
+    },
+    "versioning.newmultiplayer.title": {
+      "en": "Update Needed",
+      "->": "需要更新"
+    },
+    "versioning.systemmessage.title": {
+      "en": "Info",
+      "->": "信息"
+    },
+    "versioning.unmigrateduser": {
+      "en": "This user has not yet updated to Moonrise",
+      "->": "此玩家仍未升級至 Moonrise 版本"
+    },
+    "versioning.unmigrateduser.title": {
+      "en": "User unavailable",
+      "->": "用戶不可用"
+    },
+    "versioning.updateapp": {
+      "en": "We built new cool stuff that unfortunately means this version of the game is no longer playable. Please update to get back into the game!",
+      "->": "我們新增了不少有趣內容，也意味著你無法留在此版本了，更新後再回到遊戲吧！"
+    },
+    "versioning.updateapp.title": {
+      "en": "Update Needed",
+      "->": "需要更新"
+    },
+    "versioning.updatenetwork": {
+      "en": "You need to update to use network features such as multiplayer, highscores, etc.",
+      "->": "你需要更新來使用網路功能，如多人遊戲與高分榜等等。"
+    },
+    "versioning.updatenetwork.title": {
+      "en": "Update Needed",
+      "->": "需要更新"
+    },
+    "wcontroller.building.upgrade": {
+      "en": "Your {0} upgraded to a {1}!",
+      "->": "你的{0}已升級為{1}！"
+    },
+    "wcontroller.building.upgrade.reward": {
+      "en": "{0} upgraded to level {1} and its production has increased +1. You also get to pick an additional reward:",
+      "->": "{0} 城已升至 {1} 級，其每回合生產星數加 1。你還能選擇一項額外獎勵："
+    },
+    "wcontroller.capital.captured.description": {
+      "en": "You have captured the {0} capital! All their trade connections are cancelled until they regain control of their capital",
+      "->": "你已佔領 {0} 的首都！他們所有的商路皆已癱瘓，直至其光復舊都為止。"
+    },
+    "wcontroller.capital.captured.title": {
+      "en": "Great News!",
+      "->": "好消息！"
+    },
+    "wcontroller.capital.captured2.description": {
+      "en": "{0} is now part of the {1} empire",
+      "->": "{0} 城現已屬於 {1} 帝國"
+    },
+    "wcontroller.capital.captured2.title": {
+      "en": "City Captured!",
+      "->": "佔領城市！"
+    },
+    "wcontroller.capital.lost.description": {
+      "en": "Your capital has been captured by the {0} hordes! All your trade connections are cancelled until you regain control of your capital",
+      "->": "你的首都已被 {0} 軍佔領！所有驛道都已癱瘓，盡快將其奪回吧！"
+    },
+    "wcontroller.capital.lost.title": {
+      "en": "Bad News!",
+      "->": "壞消息！"
+    },
+    "wcontroller.capital.regained.description": {
+      "en": "You have regained control of your capital, trade networks are reestablished",
+      "->": "你恢復了對首都的控制，驛道再次暢通"
+    },
+    "wcontroller.capital.regained.title": {
+      "en": "Great News!",
+      "->": "好消息！"
+    },
+    "wcontroller.city.disconnect": {
+      "en": "{0} was disconnected from {1}",
+      "->": "{0} 城與 {1} 城間的連接已被切斷"
+    },
+    "wcontroller.city.disconnect.title": {
+      "en": "Trade route lost!",
+      "->": "驛道已斷！"
+    },
+    "wcontroller.convertvillage.description": {
+      "en": "The villagers agree to join your emerging empire!",
+      "->": "這座村落同意歸化你的帝國！"
+    },
+    "wcontroller.convertvillage.title": {
+      "en": "Village Converted!",
+      "->": "兼併村落！"
+    },
+    "wcontroller.examine.explorer": {
+      "en": "You meet some locals who show you the surrounding lands.",
+      "->": "好心的當地人帶你熟悉周邊地理。"
+    },
+    "wcontroller.examine.explorer.title": {
+      "en": "Explorer",
+      "->": "探索者"
+    },
+    "wcontroller.examine.giant": {
+      "en": "You found a friendly {0} who joined your tribe!",
+      "->": "你遇到了一位友好的{0}，他加入了你的部落！"
+    },
+    "wcontroller.examine.population": {
+      "en": "You meet a nomadic tribe that settle in your capital!",
+      "->": "一支牧民部落願意棲身你的首都！"
+    },
+    "wcontroller.examine.population.title": {
+      "en": "Population",
+      "->": "人口"
+    },
+    "wcontroller.examine.stars": {
+      "en": "The ancient ruins are filled with valuable resources!",
+      "->": "在遺跡中找到了大量珍貴資源！"
+    },
+    "wcontroller.examine.stars.title": {
+      "en": "Resources",
+      "->": "資源"
+    },
+    "wcontroller.examine.swordsman": {
+      "en": "You encountered a mighty Swordsman who decided to join your tribe!",
+      "->": "遇見一位武功高強的劍客，決定加入你的部落！"
+    },
+    "wcontroller.examine.swordsman.title": {
+      "en": "New Friends!",
+      "->": "新夥伴！"
+    },
+    "wcontroller.examine.tech": {
+      "en": "You found some old scrolls containing the secret of {0}.",
+      "->": "找到了一些記載 '{0}' 奧秘的古卷"
+    },
+    "wcontroller.examine.tech.title": {
+      "en": "Scrolls of Wisdom",
+      "->": "智慧卷軸"
+    },
+    "wcontroller.examine.water": {
+      "en": "You encountered a band of friendly pirates who joined your tribe!",
+      "->": "遇到一夥友善的海盜，決定加入你的部落！"
+    },
+    "wcontroller.examine.water.elyrion": {
+      "en": "You encountered an enchanted {0} who joined your tribe!",
+      "->": "你遇到了一隻被下咒的 {0} 加入了你的部落！"
+    },
+    "wcontroller.examine.water.title": {
+      "en": "Battleship",
+      "->": "戰艦"
+    },
+    "wcontroller.game.lost": {
+      "en": "You've been wiped out. You can continue to spectate this game or return to main menu.",
+      "->": "你已落敗，可繼續觀戰或退回至主選單。"
+    },
+    "wcontroller.game.lost.title": {
+      "en": "You've been wiped out!",
+      "->": "你出局了！"
+    },
+    "wcontroller.kill.upgrade.description": {
+      "en": "Unit is ready to upgrade!",
+      "->": "單位可升級！"
+    },
+    "wcontroller.kill.upgrade.title": {
+      "en": "Level Up!",
+      "->": "升級！"
+    },
+    "wcontroller.load.error": {
+      "en": "There is no saved game to resume, start a new game!",
+      "->": "無已保存的遊戲可繼續，開始一局新遊戲吧！"
+    },
+    "wcontroller.load.error.title": {
+      "en": "No saved game",
+      "->": "未找到存檔"
+    },
+    "wcontroller.load.notpartof": {
+      "en": "You are not a part of this game",
+      "->": "你已不在本局遊戲中"
+    },
+    "wcontroller.load.update": {
+      "en": "This game is using a newer version of Polytopia, you need to head over to {0} and update it before you can play.",
+      "->": "這局遊戲需要更新的 Polytopia 版本，請前往 {0} 升級以進入遊戲。"
+    },
+    "wcontroller.load.update.title": {
+      "en": "Update Required",
+      "->": "需要升級"
+    },
+    "wcontroller.load.wait": {
+      "en": "Wait until this game has fully downloaded before opening it.",
+      "->": "請等待存檔下載完成後再進入遊戲。"
+    },
+    "wcontroller.load.wait.title": {
+      "en": "Still loading...",
+      "->": "仍在載入中 . . . . . ."
+    },
+    "wcontroller.matchmaking.gamestarted": {
+      "en": "Random match {0} is ready to go!",
+      "->": "遊戲 {0} 已就緒！"
+    },
+    "wcontroller.matchmaking.waitingforplayers": {
+      "en": "You joined {0}, waiting for opponents",
+      "->": "你加入了 {0}，等待對手加入"
+    },
+    "wcontroller.meet.tribe.bigger.friendly": {
+      "en": "salutes you friendly but pays no attention to your tiny realm.",
+      "->": "友善地向你問好，沒把你的渺小勢力放在眼裡。"
+    },
+    "wcontroller.meet.tribe.bigger.hostile": {
+      "en": "laughs at your puny excuse of a Tribe.",
+      "->": "嘲笑你孱弱的部落"
+    },
+    "wcontroller.meet.tribe.distant": {
+      "en": "A delegation from a distant land arrives in your capital!",
+      "->": "一支自遠方的使團抵達你的首都！"
+    },
+    "wcontroller.meet.tribe.leader": {
+      "en": "Their leader {0} ",
+      "->": "他們的首領 {0}"
+    },
+    "wcontroller.meet.tribe.resource.boost": {
+      "en": "The discovery of this {0} tribe gives you a one time trade boost of {1} stars!",
+      "->": "發現這支{0}的部落為你帶來了{1}顆星星的一次性貿易補貼！"
+    },
+    "wcontroller.meet.tribe.smaller.friendly": {
+      "en": "bows in awe of your mighty civilization.",
+      "->": "拜服於你的強盛文明"
+    },
+    "wcontroller.meet.tribe.smaller.hostile": {
+      "en": "seems a bit hostile and greet you suspiciously.",
+      "->": "充滿顧忌地向你問好"
+    },
+    "wcontroller.online.yourturn.description": {
+      "en": "Tap ok to continue the game when you are ready.",
+      "->": "準備好就點擊 ‘確定’ 繼續吧。"
+    },
+    "wcontroller.online.yourturn.title": {
+      "en": "It's your turn!",
+      "->": "輪到你了！"
+    },
+    "wcontroller.picktribe.notification": {
+      "en": "It's your turn to pick tribe in {0}!",
+      "->": "輪到你在遊戲 {0} 中選擇部落了！"
+    },
+    "wcontroller.removingplayer": {
+      "en": "Removing Player",
+      "->": "移除玩家"
+    },
+    "wcontroller.reward.bordergrowth": {
+      "en": "border growth",
+      "->": "邊境擴張"
+    },
+    "wcontroller.reward.citywall": {
+      "en": "city wall",
+      "->": "城牆"
+    },
+    "wcontroller.reward.explorer": {
+      "en": "explorer",
+      "->": "探索者"
+    },
+    "wcontroller.reward.park": {
+      "en": "park",
+      "->": "公園"
+    },
+    "wcontroller.reward.populationgrowth": {
+      "en": "population growth",
+      "->": "人口增長"
+    },
+    "wcontroller.reward.rebellion": {
+      "en": "incite rebellion",
+      "->": "煽動叛亂"
+    },
+    "wcontroller.reward.resources": {
+      "en": "resources",
+      "->": "資源"
+    },
+    "wcontroller.reward.superunit": {
+      "en": "super unit",
+      "->": "超級單位"
+    },
+    "wcontroller.reward.workshop": {
+      "en": "workshop",
+      "->": "工坊"
+    },
+    "wcontroller.tribe.destroy": {
+      "en": "You have destroyed {0}!",
+      "->": "你已消滅 {0}！"
+    },
+    "wcontroller.tribe.destroy.all": {
+      "en": "You have destroyed all opposing tribes and unified the entire Square under your command!",
+      "->": "在你英明的領軍之下，消滅了所有敵對部落，佔領全境！"
+    },
+    "wcontroller.tribe.destroy.all.title": {
+      "en": "Domination!",
+      "->": "統一天下！"
+    },
+    "wcontroller.tribe.destroy.title": {
+      "en": "Blood!",
+      "->": "片甲不留！"
+    },
+    "wcontroller.tribe.destroy2": {
+      "en": "{0} has been destroyed by the {1}!",
+      "->": "{0} 已被 {1} 滅國！"
+    },
+    "wcontroller.tribe.level_1": {
+      "en": "curious",
+      "->": "矇昧探索"
+    },
+    "wcontroller.tribe.level_2": {
+      "en": "sprawling",
+      "->": "蓬勃發展"
+    },
+    "wcontroller.tribe.level_3": {
+      "en": "impressive",
+      "->": "繁榮昌盛"
+    },
+    "wcontroller.tribe.level_4": {
+      "en": "epic",
+      "->": "千秋萬載"
+    },
+    "wcontroller.turn.end": {
+      "en": "Ending turn...",
+      "->": "結束回合中 . . . . ."
+    },
+    "wcontroller.turn.error": {
+      "en": "Could not reach the multiplayer server. Please make sure you are connected to the Internet and try again.",
+      "->": "無法連接至多人遊戲伺服器。請檢驗網絡連接並重試。"
+    },
+    "wcontroller.turn.error.title": {
+      "en": "Network Error",
+      "->": "網絡錯誤"
+    },
+    "wcontroller.turn.next": {
+      "en": "Next up",
+      "->": "接下來輪到"
+    },
+    "wcontroller.turn.notification": {
+      "en": "It's your turn in {0} (turn {1})",
+      "->": "輪到你在遊戲 {0} 中進行下一步了。(第{1}回合）"
+    },
+    "wcontroller.turn.passed": {
+      "en": "Game passed on to {0}",
+      "->": "輪到 {0} 進行下一步"
+    },
+    "wcontroller.turn.passed.title": {
+      "en": "Turn complete",
+      "->": "回合結束"
+    },
+    "wcontroller.turn.saving": {
+      "en": "Saving game to server...",
+      "->": "上傳操作中 . . . . ."
+    },
+    "wcontroller.unit.promotion": {
+      "en": "Your unit has gained veteran status! Health increased.",
+      "->": "你的單位已晉升資深，生命值增加！"
+    },
+    "wcontroller.unit.promotion.title": {
+      "en": "Unit Promoted!",
+      "->": "單位晉升！"
+    },
+    "world.attract.sanctuary": {
+      "en": "Your sanctuary has attracted a wild animal!",
+      "->": "你的保育區吸引了一隻野生動物棲息！"
+    },
+    "world.building.capture.ready": {
+      "en": "Will be ready to capture next turn",
+      "->": "可於下回合佔領"
+    },
+    "world.building.capture.ready.title": {
+      "en": "Entering {0}!",
+      "->": "進入 {0}！"
+    },
+    "world.building.capture.warning": {
+      "en": "Capturing will be completed next turn if you don't stop them.",
+      "->": "若不及時解圍，此城市下回合即將淪陷。"
+    },
+    "world.building.capture.warning.title": {
+      "en": "{0} is under siege!",
+      "->": " {0} 危在旦夕！"
+    },
+    "world.building.info": {
+      "en": "The city of {0}",
+      "->": "{0} 城"
+    },
+    "world.building.village": {
+      "en": "Village",
+      "->": "村落"
+    },
+    "world.infiltrate.header": {
+      "en": "Infiltration Success!",
+      "->": "滲透成功！"
+    },
+    "world.intro.objective": {
+      "en": "Objective: {0}",
+      "->": "目標: {0}"
+    },
+    "world.intro.text": {
+      "en": "You have been chosen to rule the {0} tribe. Explore the world and expand your empire, but watch out for the other tribes.",
+      "->": "你被選為{0}的首領，放手開疆拓土之餘，也要當心世上的其他部落。"
+    },
+    "world.intro.title": {
+      "en": "Mighty Leader!",
+      "->": "領袖英明！"
+    },
+    "world.loading": {
+      "en": "LOADING {0}%",
+      "->": "已載入 {0}%"
+    },
+    "world.meet.tribe": {
+      "en": "You meet {0}",
+      "->": "你遇見了 {0} "
+    },
+    "world.ranks": {
+      "en": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th",
+      "->": "1st,2nd,3rd,4th,5th,6th,7th,8th,9th,10th,11th,12th,13th,14th,15th,16th,17th,18th,19th,20th"
+    },
+    "world.rebellion.description": {
+      "en": "A {0} from the {1} tribe has infiltrated the city of {2} and incited a revolt agains you!",
+      "->": "一名 {1} 的{0}潛入了 {2} 城，並煽動群眾發起了叛亂！"
+    },
+    "world.rebellion.title": {
+      "en": "Riots in {0}!",
+      "->": "{0} 城叛軍突起！"
+    },
+    "world.reveal.header": {
+      "en": "Aha!",
+      "->": "啊哈！"
+    },
+    "world.reveal.text": {
+      "en": "A {0} was revealed!",
+      "->": "一個{0}被發現了！"
+    },
+    "world.reward.building": {
+      "en": "You can now construct {0}! This epic monument will bring wealth and glory to the nearest city.",
+      "->": "你現在可以建造{0}啦！此等雄偉紀念，將帶給最近城市富足與榮耀。"
+    },
+    "world.reward.building.title": {
+      "en": "{0} was completed",
+      "->": "已達成 ’{0}‘ 成就"
+    },
+    "world.reward.levelup": {
+      "en": "{0} level up!",
+      "->": "{0} 城已升級！"
+    },
+    "world.road.connected.message": {
+      "en": "{0} is now connected to your capital!",
+      "->": "{0} 城與首都間之驛道已成！"
+    },
+    "world.road.connected.title": {
+      "en": "New trade route!",
+      "->": "新貿易商路！"
+    },
+    "world.suggestion.disable": {
+      "en": "(These suggestions can be switched off in the menu)",
+      "->": "（你可以在選單中關閉這些提示）"
+    },
+    "world.suggestion.message": {
+      "en": "You should {0}",
+      "->": "你可以{0}"
+    },
+    "world.suggestion.title": {
+      "en": "Here's a Tip!",
+      "->": "入門提示！"
+    },
+    "world.task.new": {
+      "en": "You got a new Task!",
+      "->": "新任務！"
+    },
+    "world.tech.new.message": {
+      "en": "You have discovered the secret of {0}",
+      "->": "你已掌握 ‘{0}’ 科技"
+    },
+    "world.tech.new.title": {
+      "en": "New Tech!",
+      "->": "新科技！"
+    },
+    "world.turn.end": {
+      "en": "End Turn",
+      "->": "結束回合"
+    },
+    "world.turn.end.confirm": {
+      "en": "Confirm",
+      "->": "結束回合確認"
+    },
+    "world.turn.end.question": {
+      "en": "End your turn?",
+      "->": "暫且到此為止？"
+    },
+    "world.turn.exit": {
+      "en": "Exit",
+      "->": "退出"
+    },
+    "world.turn.finish": {
+      "en": "Finish Game",
+      "->": "結束遊戲"
+    },
+    "world.turn.last": {
+      "en": "Last turn!",
+      "->": "最後一回合！"
+    },
+    "world.turn.next": {
+      "en": "Next Turn",
+      "->": "結束回合"
+    },
+    "world.turn.nomoves": {
+      "en": "No more moves available, end turn",
+      "->": "沒有可進行的動作，結束回合吧！"
+    },
+    "world.turn.ready": {
+      "en": "Tap save when ready",
+      "->": "在準備好時按保存"
+    },
+    "world.turn.remaining": {
+      "en": "{0} turns left",
+      "->": "還剩{0}回合"
+    },
+    "world.turn.replaying": {
+      "en": "Replaying...",
+      "->": "重播中 . . . . . ."
+    },
+    "world.turn.skip": {
+      "en": "SKIP",
+      "->": "跳過"
+    },
+    "world.turn.start": {
+      "en": "START",
+      "->": "開始"
+    },
+    "world.turn.waiting": {
+      "en": "Waiting for {0} to play...",
+      "->": "等待 {0} 進行動作 . . . . . ."
+    },
+    "world.turn.waiting.playing": {
+      "en": "{0} is playing...",
+      "->": "{0} 正在動作. . . . ."
+    },
+    "world.turn.waiting.unknown": {
+      "en": "Waiting for an unknown tribe to play...",
+      "->": "等待未知的部落動作 . . . ."
+    },
+    "world.turn.your": {
+      "en": "Your turn",
+      "->": "你的回合"
+    },
+    "world.unit.ability": {
+      "en": "Unit Ability",
+      "->": "技能"
+    },
+    "world.unit.attack": {
+      "en": "Attack",
+      "->": "攻擊"
+    },
+    "world.unit.defence": {
+      "en": "Defense",
+      "->": "防禦"
+    },
+    "world.unit.disembark.message": {
+      "en": "Disembarking this unit will dismantle your {0}. Do you wish to proceed?",
+      "->": "確定要拋棄你的{0}登陸嗎？"
+    },
+    "world.unit.disembark.title": {
+      "en": "Leave {0}",
+      "->": "離開{0}"
+    },
+    "world.unit.dissolved": {
+      "en": "Your unit has dissolved",
+      "->": "你的單位解散了"
+    },
+    "world.unit.evolve": {
+      "en": "Your unit has grown into a {0}!",
+      "->": "你的單位已升級為{0}！"
+    },
+    "world.unit.evolve.title": {
+      "en": "Unit Growth",
+      "->": "單位升級"
+    },
+    "world.unit.health": {
+      "en": "Health",
+      "->": "生命"
+    },
+    "world.unit.info.from": {
+      "en": "From the city of {0}.",
+      "->": "來自 {0} 城"
+    },
+    "world.unit.movement": {
+      "en": "Movement",
+      "->": "移動"
+    },
+    "world.unit.range": {
+      "en": "Range",
+      "->": "攻擊範圍"
+    },
+    "world.unit.veteran": {
+      "en": "This unit is a veteran.",
+      "->": "這是一個資深單位"
+    },
+    "world.unit.veteran.progress": {
+      "en": "{0}/{1} to become a veteran.",
+      "->": "已擊殺 {0} 個單位（需 {1} 個升級）"
+    }
+  }
+}
