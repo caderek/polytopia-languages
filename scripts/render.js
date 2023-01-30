@@ -74,12 +74,15 @@ const render = (data) => {
               >Github</a
             >
             or ping me on
-            <a href="https://www.reddit.com/user/kap89">Reddit</a>.
+            <a href="https://www.reddit.com/user/kap89" target="_blank"
+              >Reddit</a
+            >.
           </p>
           <p>
             Instructions how to use the template:
             <a
               href="https://github.com/caderek/polytopia-languages#structure-of-the-template-file"
+              target="_blank"
               >Structure of the template file</a
             >
           </p>
