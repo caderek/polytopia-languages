@@ -749,7 +749,7 @@
     },
     "credits.learnmore2": {
       "en": "Check the extensive Wikia database created by the Polytopia community.",
-      "->": "看看由 Polytopia 社群創建的豐富詞條吧！"
+      "->": "看看 Polytopia 社群創建的豐富詞條吧！"
     },
     "credits.managment": {
       "en": "Management",
@@ -757,7 +757,7 @@
     },
     "credits.midjiwan": {
       "en": "The Battle of Polytopia is constantly being created by Midjiwan AB, a tiny indie game studio in Stockholm, Sweden.",
-      "->": "位於瑞典斯德哥爾摩之獨立遊戲工作室 Midjiwan 持續開發並維護 The Battle of Polytopia。"
+      "->": "位於 瑞典斯德哥爾摩 之 獨立遊戲工作室 Midjiwan 持續開發並維護 The Battle of Polytopia"
     },
     "credits.music": {
       "en": "MUSIC",
@@ -1689,7 +1689,7 @@
     },
     "gameitem.turn.other": {
       "en": "Waiting for {0}",
-      "->": "等待 {0} 走下一步"
+      "->": "等 {0} 走下一步"
     },
     "gameitem.turn.your": {
       "en": "Your turn",
@@ -2777,7 +2777,7 @@
     },
     "onlineview.newgame": {
       "en": "New Game",
-      "->": "新遊戲"
+      "->": "新建遊戲"
     },
     "onlineview.nogames.first": {
       "en": "The first thing you need is to connect with some other humans who play Polytopia. Tap 'Friends' to add them.",
@@ -3485,7 +3485,7 @@
     },
     "settings.hideadvanced": {
       "en": "Hide Advanced Settings",
-      "->": "隱藏高級設定"
+      "->": "隱藏進階設定"
     },
     "settings.info": {
       "en": "Info on Build",
@@ -3509,11 +3509,11 @@
     },
     "settings.language.load.info": {
       "en": "Load a Polytopia language file from a remote server using https. This is an experimental feature, not for the faint hearted.",
-      "->": "由 https 連結從遠端伺服器載入 Polytopia 語言包。此為實驗性功能，故不保證其穩定性。"
+      "->": "從遠端伺服器載入 https 連結的 Polytopia 語言包。此為實驗功能，不保證其穩定性。"
     },
     "settings.language.load.input": {
       "en": "Language file url:",
-      "->": "語言包 URL: "
+      "->": "語言包 URL:"
     },
     "settings.language.load.title": {
       "en": "Custom language (BETA)",
@@ -3557,7 +3557,7 @@
     },
     "settings.showadvanced": {
       "en": "Advanced Settings",
-      "->": "高級設定"
+      "->": "進階設定"
     },
     "settings.soundeffects": {
       "en": "Sound Effects",
@@ -3621,7 +3621,7 @@
     },
     "startmenu.new_game": {
       "en": "NEW GAME",
-      "->": "新遊戲"
+      "->": "新建遊戲"
     },
     "startmenu.quit": {
       "en": "QUIT",
@@ -4309,7 +4309,7 @@
     },
     "tribepicker.categories.specialtribes.description": {
       "en": "A collection of tribes that are a bit out of this world...",
-      "->": "另闢蹊徑的世外部落..."
+      "->": "另闢蹊徑的化外之民..."
     },
     "tribepicker.disable": {
       "en": "DISABLE",
@@ -4437,7 +4437,7 @@
     },
     "tribes.aimo.info": {
       "en": "The tranquil and wise {0} tribe inhabits the harshest, windiest and highest mountain range of the square, where they have found inner peace by meditating in the eternal evening light. \n\n{0} starts the game with the '{1}' tech.",
-      "->": "谷深山高空無象，日落隨分心自涼；踏碎月明通正路，劈開風景入玄藏。\n\n {0}開局便掌握 ’{1}’ 科技。"
+      "->": "谷深山高空無象，日落隨分心自涼；\n\n踏碎月明通正路，劈開風景入玄藏。\n\n {0}開局便掌握 ’{1}’ 科技。"
     },
     "tribes.aquarion": {
       "en": "Aquarion",
@@ -4445,7 +4445,7 @@
     },
     "tribes.aquarion.info": {
       "en": "From the deep oceans a long lost civilization appears! Their extreme isolation has given them special aquatic abilities that are unknown to the other more normal tribes.\n\n{0} have a slightly different tech tree and have access to the unique amphibious turtle units that no other tribe can train.",
-      "->": "曾經失落已久的文明，從深海橫空出世！長年與世隔絕，使其演化出獨特的水生能力。\n\n{0}具有截然不同的科技樹，能訓練出獨一無二的海龜戟兵。"
+      "->": "曾經失落已久的文明，從深海橫空出世！\n\n長年與世隔絕，使其演化出獨特的水生能力。\n\n{0}具有截然不同的科技樹，能訓練出獨一無二的海龜戟兵。"
     },
     "tribes.bardur": {
       "en": "Bardur",
@@ -4461,7 +4461,7 @@
     },
     "tribes.cymanti.info": {
       "en": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
-      "->": "流離至陰濕沼林的一群 Polytopian 學會了與蟲共舞，螅蟎蟲貼附其面，與大腦融為一體。\n\n在薩滿的帶領下，{0}訓練巨蟲，把敵人拿去作成養份灌溉真菌，毫不留情毒殺威脅沼澤家園的所有對象！"
+      "->": "流離至陰濕沼林的一群部落民學會了如何與蟲共舞。\n\n螅蟎蟲貼附其面，與大腦融為一體。\n\n在薩滿的帶領下，{0}訓練巨蟲，把敵人拿去作成養份灌溉真菌，毫不留情毒殺威脅沼澤家園的所有對象！"
     },
     "tribes.elyrion": {
       "en": "∑∫ỹriȱŋ",
@@ -4469,7 +4469,7 @@
     },
     "tribes.elyrion.info": {
       "en": "The mysterious {0} defend their woodland homes with colorful magic and the ferocity of fire-breathing dragons! \n\nThey regard Nature as a holy spirit and cannot hunt animals or chop down trees, instead they start the game with the unique Enchantment tech that can turn regular animals into powerful monsters.",
-      "->": "神秘的 {0} 憑藉其繽紛術法與威猛噴火龍守護其森林家園。\n\n他們深信萬物皆有靈，不得捕獵亦不尚伐木。{0} 開局即有御林之術，能將普通動物幻化為強大的獸人。"
+      "->": "神秘的 {0} 憑藉其繽紛術法與威猛噴火龍守護其森林家園。\n\n他們深信萬物皆有靈，不得捕獵，亦不尚伐木。\n\n{0} 開局即有御林之術，能將普通動物幻化為強大的獸人。"
     },
     "tribes.hoodrick": {
       "en": "Hoodrick",
@@ -4521,7 +4521,7 @@
     },
     "tribes.polaris.info": {
       "en": "The {0} have lain trapped in the far reaches of the freezing tundra for eons, but were blessed by the unknowable Gaami with the power to expand their unnatural icy terrain farther than the weather permits. \n\nWith the might of sleds and Mamoos, the mystical {0} are determined to entomb the Square in ice and transform the land into a frigid paradise. \n\n{0} starts the game with the ability to freeze surrounding terrain using Moonies.",
-      "->": "在極北苦寒的凍原之地，{0}人世代艱困。直至強大莫測的伽麋降臨賜福，帶來駕馭天地的術法操縱霜雪。\n\n憑藉著雪橇和猛獁，神秘的{0}決意冰封天下、踏海成冰！\n\n{0}開局便能用暮麑冰凍周圍區域。"
+      "->": "在極北苦寒的凍原之地，{0}族世代艱困。直至強大莫測的伽麋降臨賜福，帶來駕馭天地的術法操縱霜雪。\n\n憑藉著雪橇和猛瑪，神秘的{0}決意冰封天下、踏海成冰。\n\n{0}開局便能用暮麑冰凍周圍區域。"
     },
     "tribes.quetzali": {
       "en": "Quetzali",
