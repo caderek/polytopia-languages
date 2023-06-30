@@ -1,0 +1,1406 @@
+{
+   "language": "عربية"،
+   "المؤلف": "Verena MASSON"،
+   "المحررين": "EZ363، KwarK08، Mikaël Mayer"،
+   "action.info.attack": "قم بهجوم بهذه الوحدة. حدد وحدة وانقر على أحد أهداف RED لمهاجمتها" ،
+   "action.info.boost": "دفعة" ،
+   "action.info.breakice": "كسر الجليد" ،
+   "action.info.breakpeace": "كسر السلام" ،
+   "action.info.build": "أنشئ {0} هنا" ،
+   "action.info.capture": "أسر" ،
+   "action.info.capture2": "استحوذ على هذه المدينة. تولد المدن نجومًا في كل منعطف يمكنك استخدامه لتنمية إمبراطوريتك" ،
+   "action.info.cityreward": "City Reward" ،
+   "action.info.decompose": "تحلّل" ،
+   "action.info.destroy": "إتلاف" ،
+   "action.info.disband": "Disband {0}" ،
+   "action.info.do": "افعل {0} هنا" ،
+   "action.info.endturn": "قم بإنهاء هذا المنعطف للحصول على المزيد من الموارد والتحركات لوحداتك. اضغط على زر" المنعطف التالي "" ،
+   "action.info.establishembassy": "إنشاء السفارة" ،
+   "action.info.examineruins": "فحص" ،
+   "action.info.explode": "انفجار" ،
+   "action.info.freezearea": ​​"منطقة التجميد" ،
+   "action.info.healarea": ​​"شفاء المحيط" ،
+   "action.info.healothers": "شفاء الآخرين" ،
+   "action.info.meet": "Meet" ،
+   "action.info.move": "انقل هذه الوحدة. حدد وحدة وانقر على أحد الأهداف الزرقاء" ،
+   "action.info.peacetreaty": "اعرض السلام" ،
+   "action.info.promote": "ترقية" ،
+   "action.info.recover": "استرداد" ،
+   "action.info.remove": "إزالة" ،
+   "action.info.research": "بحث {0}."،
+   "action.info.reward": "Reward"،
+   "action.info.reward.population": "سيؤدي هذا إلى زيادة عدد سكان أقرب مدينة. عندما يكون عدد السكان كبيرًا بدرجة كافية ، سترتفع المدينة وتنتج المزيد من الموارد" ،
+   "action.info.reward.resources": "هذا سيكسبك على الفور {0} من الموارد" ،
+   "action.info.stay": "Stay"،
+   "action.info.train": "قم بتدريب وحدة في هذه المدينة. تستخدم الوحدات لاستكشاف الخريطة ومهاجمة الأعداء والدفاع عن مدنك" ،
+   "action.info.trip": "رحلة"،
+   "action.info.upgrade": "ترقية إلى {0}"،
+   "actionbox.building.decomposing": "التحلل" ،
+   "actionbox.building.decomposing.info": "هذا التحسين سوف يتحلل في نهاية هذا المنعطف" ،
+   "actionbox.building.must": "افعل ذلك" ،
+   "actionbox.building.level": "المستوى {0} / {1}" ،
+   "actionbox.building.requiredtech": "أنت بحاجة إلى البحث {0} للقيام بذلك ، انقر فوق الزر" بحث "." ،
+   "actionbox.building.techtree": "عمليات البحث" ،
+   "actionbox.cantperformaction.description": "لا يمكنك تنفيذ هذا الإجراء الآن."،
+   "actionbox.city": "مدينة {0}" ،
+   "actionbox.city.level": "المستوى {0}"،
+   "actionbox.confirm": "تأكيد {0}" ،
+   "actionbox.confirm.button": "نعم" ،
+   "actionbox.confirm.info": "هل أنت متأكد أنك تريد القيام بذلك؟"،
+   "actionbox.confirm.info.breakpeace": "هل أنت متأكد من رغبتك في خرق معاهدة السلام؟ سيؤدي القيام بذلك إلى تعطيل جميع وحداتك لبقية هذا المنعطف."،
+   "actionbox.confirm.info.breakpeace.disband": "سيؤدي أيضًا إلى حل {0} الوحدات الموجودة في أراضيهم."،
+   "actionbox.embassyestablished.description": "السفارة مُنشأة بالفعل."،
+   "actionbox.establishembassynocapital.description": "لا يمكنك إنشاء سفارة إذا لم يكن للقبيلة رأس مال."،
+   "actionbox.insufficientfunds": "ليس لديك ما يكفي من النجوم لشرائه. اضغط على" الجولة التالية "للحصول على المزيد من النجوم."،
+   "actionbox.pendingpeacetreaty.description": "معاهدة السلام معلقة. في انتظار {0} الرد" ،
+   "actionbox.pendingpeacetreaty.title": "في انتظار معاهدة السلام" ،
+   "actionbox.tile.roads": "الطرق"،
+   "actionbox.unit.Boosted": "Boosted" ،
+   "actionbox.unit.Frozen": "Frozen" ،
+   "actionbox.unit.Invisible": "Invisible" ،
+   "actionbox.unit.Poisoned": "Poisoned" ،
+   "actionbox.unit.ability": "قدرة الوحدة"،
+   "actionbox.unit.kills": "{0} / {1} kills"،
+   "actionbox.unit.new": "تدريب جديد {0} {1}" ،
+   "actionbox.unit.toomany": "(كثير جدًا)" ،
+   "actionbox.unit.toomany.info": "لا يمكن لهذه المدينة أن تستوعب أي وحدات أخرى. قم بترقية بلدتك للحصول على مساحة أكبر للوحدات."،
+   "actionbox.unit.train": "TRAIN" ،
+   "actionbox.unit.upgrade": "ترقية" ،
+   "actionbox.unit.veteran": "Veteran" ،
+   "actionbox.village": "Village"،
+   "actionbtn.remove.building": "Building"،
+   "actionbtn.remove.roads": "الطرق" ،
+   "backend.connecting": "الاتصال بالخادم ..." ،
+   "backend.connecting.failed": "تعذر إنشاء اتصال بالخادم" ،
+   "backend.connection.lost": "فقد الاتصال" ،
+   "backend.connection.lost.info": "انتظر بينما نحاول إعادة الاتصال" ،
+   "backend.login.failed": "فشل تسجيل الدخول" ،
+   "backend.login.successful": "تم تسجيل الدخول باسم {0}" ،
+   "Bottommenu.gamestats": "الإحصائيات" ،
+   "Bottommenu.menu": "Menu"،
+   "Bottommenu.nextturn": "المنعطف التالي" ،
+   "bottommenu.techtree": "بحث"،
+  "building.ability.attract": "يجذب حيوانًا بريًا إلى مساحة غابة قريبة كل 3 دورات" ،
+   "building.ability.bridge": "{0} يُنشئ جسرًا يمكن لأي وحدة التحرك عليه ، متجاهلاً نوع التضاريس تحته."،
+   "build.ability.embark": "الوحدات التي تتحرك هنا تتحول إلى قوارب يمكنها الإبحار على الماء."،
+   "build.ability.heal": "{0} يعالج أي وحدة ودية تنتهي دورها بجوارها."،
+   "build.ability.limited": "يمكنك بناء واحد فقط {0} لكل مدينة."،
+   "building.ability.network": "{1} اتصل بالمدن وغيرها {1} من خلال {0} ، داخل {2} نصف قطر مربع."،
+   "build.ability.patina": "{0} نمت بمرور الوقت ، حاول بنائها في أسرع وقت ممكن."،
+   "build.ability.poison": "{0} قم بتسميم أي وحدة تخطو عليها. تفقد الوحدات السامة كل مكافآت الدفاع وتنشر الجراثيم عند موتها."،
+   "build.ability.road": "أنشئ طرقًا لربط مدينتك بعاصمتك. تكسب المدن المتصلة نقطة تعداد سكاني واحدة كمكافأة. تمنح الطرق أيضًا حركة إضافية لجميع الوحدات." ،
+   "build.ability.route": "يؤدي هذا إلى إنشاء طرق تجارية عبر {0} إلى أي {1} أخرى داخل 5 مربعات."،
+   "build.ability.route.and": "و" ،
+   "building.ability.ruin": "هذا الخراب من حضارة قديمة ، قد يحتوي على موارد قيمة! أرسل وحدة هناك لفحصها '."،
+   "build.ability.unique": "لا يمكن بناء {0} إلا مرة واحدة."،
+   "building.capital.owner": "{0} هي عاصمة {1}."،
+   "building.capital.owner.former": "{0} هي العاصمة السابقة للإمبراطورية {1} ، التي تحتلها حاليًا {2} القوات."،
+   "building.city.owner": "{0} هي مدينة في {1} الإمبراطورية."،
+   "building.names.algae": "الطحالب" ،
+   "building.names.burnforest": "Burn Forest" ،
+   "building.names.city": "المدينة"،
+   "building.names.clathrus": "Clathrus" ،
+   "building.names.clearforest": "مسح الغابة" ،
+   "building.names.customshouse": "جمارك الميناء" ،
+   "building.names.enchantanimal": "حيوان ساحر" ،
+   "building.names.enchantwhale": "Enchant Whale" ،
+   "building.names.farm": "مزرعة" ،
+   "building.names.fishing": "صيد السمك"،
+   "building.names.foresttemple": "Forest Temple" ،
+   "building.names.forge": "Forge"،
+   "building.names.fungi": "الفطريات" ،
+   "building.names.growforest": "غابة النبات" ،
+   "building.names.harvestfruit": "Harvest Fruit" ،
+   "building.names.hunting": "الصيد" ،
+   "building.names.icebank": "IceBank" ،
+   "building.names.icetemple": "Ice Temple" ،
+   "building.names.lumberhut": "Lumber Hut" ،
+   "building.names.mine": "Mine"،
+   "building.names.monument1": "مذبح السلام" ،
+   "building.names.monument2": "برج الحكمة" ،
+   "building.names.monument3": "Great Market" ،
+   "building.names.monument4": "قبر الإمبراطور" ،
+   "building.names.monument5": "سفينة القوة" ،
+   "building.names.monument6": "Fortune Park" ،
+   "building.names.monument7": "عين الله" ،
+   "building.names.mountaintemple": "Mountain Temple" ،
+   "building.names.mycelium": "Mycelium" ،
+   "building.names.outpost": "المخفر" ،
+   "building.names.port": "المنفذ"،
+   "building.names.road": "Road"،
+   "build.names.ruin": "خراب"،
+   "building.names.sanctuary": "Sanctuary"،
+   "building.names.sawmill": "Sawmill" ،
+   "building.names.temple": "Temple"،
+   "building.names.watertemple": "Water Temple" ،
+   "building.names.whalehunting": "صيد الحيتان" ،
+   "building.names.windmill": "Windmill"،
+   "building.produce": "تنتج {0} كل منعطف" ،
+   "build.produce.multiply": "({0} لكل {1} قريب)"،
+   "building.produce.multiply.polaris": "({0} لجميع {1} البلاط المجمد في هذا العالم)"،
+   "build.produce.multiply2": "ينتج {0} لكل مكان قريب {1} كل منعطف" ،
+   "building.produce.multiply2.polaris": "أنتج {0} لكل {1} بلاطة جليدية في العالم"،
+   "build.produce.multiply3": "ينتج {0} لكل {1} قريب"،
+   "building.produce.reward": "product {0}"،
+   "build.produce.reward.itled": "تم إنتاجه {0} لـ {1}" ،
+   "build.resource": "يضيف {0} إلى المربع المحدد" ،
+   "building.restriction.near": "يجب أن يتم بناؤه بالقرب من {0}."،
+   "build.restriction.on": "يجب أن يكون على مساحة بها {0}."،
+   "build.reward.instant": "يمنحك على الفور {0}"،
+   "build.reward.tech": "يمنحك {0}"،
+   "building.transform": "تحويل {0} إلى {1}" ،
+   "building.transform2": "تحويل {0} إلى {1} مع {2}" ،
+   "build.value": "يستحق {0} نقاط"،
+   "building.village.owner": "هذه قرية لا تنتمي إلى أية قبيلة" ،
+   "أزرار.accept": "قبول" ،
+   "Button.back": "BACK"،
+   "أزرار.decline": "رفض" ،
+   "أزرار.exit": "خروج" ،
+   "أزرار.exitgame": "الخروج من اللعبة" ،
+   "أزرار.invite": "دعوة" ،
+   "أزرار.leave": "مغادرة" ،
+   "أزرار.ok": "موافق" ،
+   "أزرار.quit": "إنهاء" ،
+   "أزرار.reconnect": "إعادة الاتصال" ،
+   "الأزرار.إزالة": "إزالة" ،
+  "button.save": "حفظ" ،
+   "Button.start": "START GAME" ،
+   "button.stay": "STAY" ،
+   "أزرار. حاول مرة أخرى": "حاول مرة أخرى" ،
+   "challengermode.connect.button": "CONNECT" ،
+   "challengermode.connect.description": "للمشاركة في سلم تحتاج إلى حساب Challengermode."،
+   "challengermode.connect.header": "Connect to Challengermode"،
+   "consent.approval.info": "لتحسين Polytopia باستخدام الإحصائيات وحفظ درجاتك وإعداداتك العالية ، نحتاج إلى موافقتك للوصول إلى بعض البيانات الشخصية. \ n يمكنك قراءة المزيد حول المجموعة من خلال قراءة <u> الخاصة بنا <a href='{0}'> سياسة الخصوصية </a> </u>. \ n (يمكنك إبطال موافقتك في أي وقت في 'Throne Room') "،
+   "consent.approval.title": "مرحبًا بكم في Polytopia!" ،
+   "Accept.approve": "موافقة"،
+   "consent.deny": "رفض"،
+   "Accept.disabled": "البيانات الشخصية معطلة"،
+   "consent.disabled.info": "لحفظ البيانات الشخصية مثل النتائج العالية أو استخدام الإحصائيات ، نحتاج إلى موافقتك. لمزيد من المعلومات ، اقرأ <u> <a href='{ 0}'> سياسة الخصوصية < / a> </u>. "،
+   "consent.enabled": "البيانات الشخصية ممكّنة"،
+   "consent.enabled.info": "حاليًا ، أنت تخوّل Polytopia للوصول إلى بعض البيانات الشخصية لتحسين الخدمة أو تسجيل أعلى درجاتك ، وما إلى ذلك. لمزيد من المعلومات ، اقرأ <u> <a href='{0 }'> سياسة الخصوصية </a> </u>. "،
+   "موافقة.إلغاء": "إبطال الموافقة" ،
+   "Creditits.artists": "Artists"،
+   "credit.build": "الإصدار" ،
+   "credit.community": "مدير المجتمع" ،
+   "credit.debuginfo": "معلومات التصحيح" ،
+   "credit.design": "تصميم اللعبة" ،
+   "credit.device": "الجهاز" ،
+   "credit.followus": "تابعنا" ،
+   "credit.getmerch": "شراء سلع Polytopia الرسمية:" ،
+   "credit.learnmore1": "هل تريد معرفة المزيد؟" ،
+   "credits.learnmore2": "قم بزيارة قاعدة بيانات wikia التي أنشأها مجتمع Polytopia:"،
+   "credit.management": "الإدارة" ،
+   "credit.midjiwan": "تم إنشاء Battle of Polytopia بواسطة Midjiwan ، وهو استوديو مستقل صغير مقره ستوكهولم ، السويد."،
+   "credits.music": "MUSIC"،
+   "credits.os": "OS"،
+   "credit.platforms": "منصات متعددة" ،
+   "credits.polytopiamusic1": "Polytopia music!"،
+   "credit.polytopiamusic2": "استمع إلى النسخ الكاملة للموسيقى التصويرية للقبيلة المفضلة لديك على Spotify." ،
+   "credit.privacy": "سياسة الخصوصية" ،
+   "credits.programmers": "Programmers"،
+   "credit.qa": "ضمان الجودة"،
+   "credit.screendpi": "شاشة DPI" ،
+   "credit.screensize": "حجم الشاشة" ،
+   "credit.showsupport": "أظهر دعمك!" ،
+   "credit.sound": "الصوت والموسيقى"،
+   "credit.terms": "شروط الخدمة" ،
+   "credits.title": "ABOUT"،
+   "credit.visitshop": "زيارة المتجر" ،
+   "credits.wiki": "POLYTOPIA WIKI" ،
+   "date.day": "اليوم"،
+   "date.days": "أيام"،
+   "date.hour": "hour"،
+   "date.hours": "ساعات"،
+   "date.minute": "minutes"،
+   "date.minutes": "minutes"،
+   "date.second": "second"،
+   "date.seconds": "seconds"،
+   "Diplacy.acceptpeace.description": "{0} قبل معاهدة السلام الخاصة بك! أثناء السلم لا يمكن القيام بأي أعمال عدائية."،
+  "Diplacy.acceptpeace.notification.description": "تم تأكيد معاهدة السلام مع {0}!" ،
+   "Diplacy.acceptpeace.notification.description2": "{0} و {1} صنعوا السلام!" ،
+   "Diplacy.acceptpeace.title": "تم قبول معاهدة السلام!"،
+   "Diplacy.breakpeace.description": "{0} انتهك معاهدة السلام. في المنعطف التالي ستتمكن من مهاجمة بعضكما البعض مرة أخرى لذا استعد!" ،
+   "Diplacy.breakpeace.notification.description": "Broke peace with {0}"،
+   "Diplacy.breakpeace.notification.description2": "{0} و {1} لم يعودا في سلام" ،
+   "Diplacy.breakpeace.title": "{0} Broke Peace"،
+   "Diplacy.declarewar.description": "{0} أعلن الحرب عليك!"،
+   "Diplacy.declarewar.title": "حرب!" ،
+   "Diplacy.denypeace.description": "{0} رفض اتفاقية السلام التي عرضتها."،
+   "Diplacy.denypeace.notification.description": "لقد رفضت {0} معاهدة السلام."،
+   "Diplacy.denypeace.notification.title": "لا يوجد اتفاق" ،
+   "Diplacy.denypeace.title": "رفض معاهدة السلام" ،
+   "Diplacy.destroyedembassy.description": "تم تدمير سفارتك في العاصمة {0}!" ،
+   "Diplacy.destroyedembassy.description2": "تم تدمير {0} سفارة في عاصمتك."،
+   "Diplacy.destroyedembassy.title": "Embassy Destroyed"،
+   "Diplacy.establishedembassy.description": "لقد أنشأت سفارة في العاصمة {0}. ستمنحك نجمتين {1} في كل دور ، عندما يكون لديك معاهدة سلام يتضاعف الدخل." ،
+   "Diplacy.establishedembassy.description2": "{0} أنشأ سفارة في عاصمتك. ستمنحك نجمتين {1} في كل دور. يتضاعف الدخل إذا كان لديك معاهدة سلام."،
+   "Diplacy.establishedembassy.title": "السفارة المنشأة" ،
+   "Diplacy.peacetreaty.description": "{0} تقترح معاهدة سلام. إذا قبلت فلن تتمكن من مهاجمة بعضكما البعض حتى يخالف أحدكما المعاهدة" ،
+   "Diplacy.peacetreaty.notification.description": "تم إرسال معاهدة السلام إلى {0}"،
+   "Diplacy.relation.decent": "لائق" ،
+   "Diplacy.relation.great": "عظيم" ،
+   "دبلوماسية.علاقة.هيبة": "رهيب" ،
+   "Diplacy.relation.indifferent": "غير مبال" ،
+   "Diplacy.relation.poor": "فقير"،
+   "Diplacy.relation.title": "علاقة" ،
+   "Diplacy.state.hostile": "cooldown" ،
+   "Diplacy.state.hostile.description": "انتهت للتو معاهدة السلام الحالية الخاصة بك وستكون قادرًا على مهاجمة بعضكما البعض مرة أخرى في الخطوة التالية."،
+   "Diplacy.state.neutral": "محايد" ،
+   "Diplacy.state.neutral.description": "لم تكن هناك أعمال عدائية مؤخرًا بين قبائلك." ،
+   "Diplacy.state.peace": "سلام"،
+   "الدبلوماسي.ستاتي.
+   "Diplacy.state.war": "حرب"،
+   "Diplacy.state.war.description": "لقد هاجمت أنت أو هم الآخر في المنعطف الأخير. إذا لم يكن هناك المزيد من الأعمال العدائية في منعطف واحد ، فستتغير حالتك إلى \" محايد \ "" ،
+   "endscreen.army & region": "Armée & Territoire" ،
+   "endscreen.battle": "Compétence de guerre"،
+   "endscreen.battle.info": "{0} unités perdues"،
+   "endscreen.bonus": "Bonus de hardé"،
+   "endscreen.cities": "Villes"،
+   "endscreen.citiescount": "{0} Villes"،
+   "endscreen.connectioninfo": "قم بتسجيل الدخول لتقديم أعلى النتائج"،
+   "endscreen.culture": "{0} monuments، {1} temples"،
+   "endscreen.destroyed": "Tribus détruites"،
+   "endscreen.destroyed.info": "{0} / {1}"،
+   "endscreen.domination.loss": "{0} جولات"،
+   "endscreen.domination.win": "{0} / {1} tours"،
+   "endscreen.done": "FINI"،
+   "endscreen.finalrating": "NOTE FINALE"،
+   "endscreen.finalscore": "النتيجة النهائية"،
+   "endscreen.gameover": "FIN DE LA PARTIE" ،
+   "endscreen.monuments and المعابد": "الآثار والمعابد"،
+   "endscreen.nextstar": "{0} Requis pour la prochaine étoile"،
+   "endscreen.nextstar.percent": "{0}٪ Requis pour la prochaine étoile"،
+   "endscreen.personal": "Nouveau meilleur سجل أفراد فريق العمل المؤقت!"،
+   "endscreen.personal.title": "لا يقهر!"،
+   "endscreen.rating": "Niveau de hardé"،
+   "endscreen.ruledby": "Gouverné par {0}"،
+   "endscreen.science": "Science"،
+   "endscreen.showhiscore": "MEILLEURS SCORES"،
+   "endscreen.speedskills": "Compétence de speedité"،
+   "endscreen.techscore": "{0} / {0} التقنيات الحديثة"،
+   "endscreen.topresult": "Nouvelle meilleure note!"،
+   "endscreen.topresult.title": "Bien joué!"،
+   "endscreen.units": "{0} unités، {1} case de l'empire"،
+   "endscreen.victory": "VICTOIRE"،
+   "endscreen.winner": "{0} gagne!"،
+   "epithet.divine": "الإلهي {0}" ،
+   "epithet.faithful": "المؤمن {0}" ،
+   "epithet.pathetic": "الباعث للشفقة {0}"،
+   "لقب الرهيب": "الرهيب {0}" ،
+   "error.code.1001": "فشل الإرسال ، مشغول ({0})" ،
+   "error.code.1002": "فشلت مصادقة Steam ({0})" ،
+   "error.code.1003": "فشلت مصادقة Google Play ({0})" ،
+   "error.code.1004": "فشل تسجيل الدخول ({0})" ،
+   "error.code.1005": "اللعبة غير موجودة ({0})" ،
+"error.code.1006": "المشغل غير موجود ({0})" ،
+   "error.code.1007": "طلب صداقة غير صالح ({0})" ،
+   "error.code.1008": "الصداقة غير موجودة ({0})" ،
+   "error.code.1009": "حالة الصداقة غير صالحة ({0})"،
+   "error.code.1010": "تعذر إنشاء اللعبة ، لا يوجد لاعبون ({0})" ،
+   "error.code.1011": "حالة اللعبة مفقودة ({0})" ،
+   "error.code.1012": "تعذر تحميل اللعبة ({0})" ،
+   "error.code.1013": "أمر غير صالح ({0})" ،
+   "error.code.1014": "فشل ركل اللاعب ({0})" ،
+   "error.code.1015": "فشل بدء اللعبة ({0})" ،
+   "error.code.1016": "المستخدم غير موجود ({0})" ،
+   "error.code.1017": "فشل اختيار القبيلة ({0})"،
+   "error.code.1018": "فشل أمر AI ({0})" ،
+   "error.code.1019": "إصدارك من Polytopia قديم جدًا. قم بالتحديث إلى أحدث إصدار لبدء لعبة جديدة متعددة اللاعبين ({0})" ،
+   "error.code.1023": "هذه اللعبة تستخدم إصدارًا أحدث من Polytopia ، تحتاج إلى التحديث إلى أحدث إصدار قبل أن تتمكن من اللعب. ({0})"،
+   "error.code.1024": "هذه اللعبة لا تزال جارية ، يمكنك مشاهدتها بمجرد انتهائها ({0})" ،
+   "error.code.404": "خطأ اتصال ({0})" ،
+   "error.code.500": "خطأ داخلي في الخادم ({0})"،
+   "error.unknown": "خطأ غير معروف: {0} ({1})"،
+   "esport.verifyaccount.description": "أنت على وشك ربط حسابك في Polytopia بـ Challengermode."،
+   "esport.verifyaccount.description.login": "للتحقق من حسابك ، يجب تسجيل الدخول" ،
+   "esport.verifyaccount.login": "تسجيل الدخول" ،
+   "esport.verifyaccount.service.cm": "Challengermode" ،
+   "esport.verifyaccount.success": "تم ربط الحساب بنجاح" ،
+   "esport.verifyaccount.title": "التحقق من الحساب" ،
+   "firebaseservice.status.connecting": "Connexion au serveur de Polytopia ..."،
+   "firebaseservice.status.loading": "Chargement des données de la partie ..."،
+   "firendList.winratio": "-Win Ratio-"،
+   "friendlist.acceptinvite.button": "ACCEPTER L'INVITATION"،
+   "friendlist.bot": "{0} Robot"،
+   "friendlist.bots": "Robots"،
+   "friendlist.cancelinvite.button": "ANNULER L'INVITATION"،
+   "friendlist.checking": "Vérification du Statut Ami ..."،
+   "friendlist.error": "Erreur lors du chargement des amis" ،
+   "friendlist.friend.notupdated": "{0} est toujours sur l'ancien serveur"،
+   "friendlist.friend.update": "{0} Vous avez besoin de la dernière version de Polytopia avant de pouvoir inviter des amis."،
+   "friendlist.friend.updated": "{0} est صيانة sur le nouveau serveur"،
+   "friendlist.friendrequests": "Demandes d'amis"،
+   "friendlist.friends": "Amis"،
+   "friendlist.friends.old": "Amis obsolètes"،
+   "friendlist.friendshipstate": "Statut Ami: {0}"،
+   "friendlist.friendshipstate.accepted": "Demande d'ami Acceptée. Vous êtes Maintenance tous les deux amis."،
+   "friendlist.friendshipstate.isyou": "C'est vous."،
+   "friendlist.friendshipstate.none": "Aucun."،
+   "friendlist.friendshipstate.receivedrequest": "Demande d'ami reçue. Voulez-vous accepter؟"،
+   "friendlist.friendshipstate.rejected": "Demande d'ami rejetée."،
+   "friendlist.friendshipstate.sentrequest": "Demande d'ami envoyée. En attente de réponse."،
+   "friendlist.loaderror": "Impossible de se connecter au serveur multijoueur. Vérifiez votre connexion internet et réessayez."،
+   "friendlist.loading": "Chargement des amis ..."،
+   "friendlist.local": "Joueurs locaux"،
+   "friendlist.new.Results": "Résultats:"،
+   "friendlist.new.Search": "CHERCHER" ،
+   "friendlist.new.accept": "ACCEPTER"،
+   "friendlist.new.added.info": "Joueur {0} ajouté"،
+   "friendlist.new.added.title": "Joueur ajouté"،
+   "friendlist.new.button": "AJOUTER" ،
+   "friendlist.new.caps": "NOUVEL AMI"،
+   "friendlist.new.exists.info": "Vous êtes déjà ami avec {0}"،
+   "friendlist.new.exists.title": "Joueur dupliqué"،
+   "friendlist.new.info.alias": "ابحث عن الاسم المستعار لصديقك."،
+   "friendlist.new.looking.info": "Recherche du joueur {0}"،
+   "friendlist.new.looking.title": "Chargement du joueur"،
+   "friendlist.new.reject": "REJETER" ،
+   "friendlist.new.title": "Ajouter un nouvel ami"،
+   "friendlist.pendinginvitations": "Invitations en attentes"،
+   "friendlist.player": "Joueur {0}"،
+   "friendlist.rejectedinvitations": "Invitations rejetées"،
+   "friendlist.reload": "RECHARGER" ،
+   "friendlist.reloading": "إعادة الشحن ..."،
+   "friendlist.remove": "SUPPRIMER"،
+   "friendlist.removed.info": "Joueur {0} supprimé"،
+   "friendlist.removed.title": "Joueur supprimé"،
+   "friendlist.requestaccepted": "Demande d'Ami Acceptée"،
+   "friendlist.requestrecieved": "Demande d'Ami Reçue"،
+   "friendlist.requestsent.notification": "تم إرسال طلب الصداقة إلى {0}"،
+   "friendlist.title": "LISTE D'AMIS"،
+   "friendlist.unfriend": "UNFRIEND"،
+  "friendlist.uptodate": "Tout est mis à jour",
+  "gameinfo.created": "Created: {0} ago",
+  "gameinfo.gameover": "Cette partie est finie, ouvrez pour voir le résultat final",
+  "gameinfo.gameversion": "Game version: {0}",
+  "gameinfo.id": "id : {0}",
+  "gameinfo.id.copied": "Game ID copied",
+  "gameinfo.lastmove": "Dernière action : il y a {0} ",
+  "gameinfo.move": "Move: {0}",
+  "gameinfo.nodata": "There's something wrong with this game, can't show any data for it",
+  "gameinfo.nodata.title": "No data",
+  "gameinfo.opponentsturn": "En attente de {0} en {1}",
+  "gameinfo.picktribe": "choisir une tribu",
+  "gameinfo.play": "jouer",
+  "gameinfo.serverversion": "Version du serveur : {0}",
+  "gameinfo.start": "commencer la partie",
+  "gameinfo.turn": "Tour : {0}",
+  "gameinfo.updated": "Mis à jour : il y a {0} ",
+  "gameinfo.yourturn": "C'est à votre tour de {0}",
+  "gameitem.ended": "La partie est terminée.",
+  "gameitem.gameover": "La partie est terminée, cliquez pour voir le résultat.",
+  "gameitem.join": "Rejoignez la partie ou refusez l'invitation",
+  "gameitem.join.wait": "En attente de {0} pour choisir une tribu",
+  "gameitem.kick": "Sérieux?!",
+  "gameitem.kick.action": "EXCLURE",
+  "gameitem.kick.info": "Voulez-vous exclure {0} de la partie? Un robot prendra le contrôle de cette tribu.",
+  "gameitem.localplayerdead": "You've been wiped out in this game, still you can spectate.",
+  "gameitem.pick": "{0}, choisis ta tribu",
+  "gameitem.ready": "Prêt pour commencer!",
+  "gameitem.ready.wait": "{0} peut commencer la partie",
+  "gameitem.ready.wait.noowner": "Waiting for the game to start",
+  "gameitem.reload": "RECHARGER",
+  "gameitem.remind.max": "C'est assez...",
+  "gameitem.remind.max.info": "Rappel déjà envoyé à {0}",
+  "gameitem.remind.notification": "Nous vous attendons pour jouer {0}. Dépêchez-vous !!",
+  "gameitem.remind.notify": "Fait",
+  "gameitem.remind.notify.info": "Rappel envoyé à {0}",
+  "gameitem.skipturn": "Duh!",
+  "gameitem.skipturn.action": "SKIP TURN",
+  "gameitem.skipturn.info": "Do you want to skip {0} this turn? Alternatively you can kick this person from the game, letting a bot take control of the tribe.",
+  "gameitem.slow": "Allez…",
+  "gameitem.slow.action": "RAPPEL",
+  "gameitem.slow.info": "{0} à {1} pour faire un mouvement. Envoyer un rappel impoli pour demander à {0} de se grouiller ?",
+  "gameitem.start": "{0}, commence la partie",
+  "gameitem.start.inviteplayer": "You need to invite one or more players",
+  "gameitem.start.wait": "En attente de {0} pour démarrer la partie",
+  "gameitem.timeleft": "Gestion tranquille",
+  "gameitem.timeleft.info": "{0} à encore {1} pour faire un mouvement.",
+  "gameitem.timelimit": "Limite de temps",
+  "gameitem.timelimit.info": "Vous avez {0} pour faire votre mouvement, après cela vous serez exclu de la partie.",
+  "gameitem.timelimit.timeleft": "Time Left",
+  "gameitem.timelimit.timeleft.info": "This is the time you have left to make your move. When the time runs out you will be automatically skipped.\n\nYou have been skipped {0} times in this game.\n\nAfter {1} skips you will be kicked from the game.",
+  "gameitem.timeup": "Temps écoulé!",
+  "gameitem.timeup.info": "Votre temps pour faire un mouvement est écoulé, voulez-vous abandonner?",
+  "gameitem.turn": "{0}, à ton tour",
+  "gameitem.turn.other": "En attente de {0}",
+  "gameitem.turn.your": "Votre tour",
+  "gamemode.custom": "Creative",
+  "gamemode.custom.caps": "CREATIVE",
+  "gamemode.custom.description.button": "Set up your own game and play however you like.",
+  "gamemode.death": "Votre dernière ville a été prise, vous avez été battu.",
+  "gamemode.domination": "Domination",
+  "gamemode.domination.caps": "DOMINATION",
+  "gamemode.domination.description": "Détruisez toutes les tribus du monde. Il ne peut en rester qu'un.",
+  "gamemode.domination.description.button": "Jouez jusqu'à ce qu'il ne reste plus qu'une seule tribu, sans limite de temps.",
+  "gamemode.domination.loss": "Votre dernière ville a été prise, vous avez été battu.",
+  "gamemode.domination.win": "Vous avez vaincu toutes les autres tribus et avez unifié le monde !",
+  "gamemode.glory": "Gloire",
+  "gamemode.glory.caps": "GLOIRE",
+  "gamemode.glory.description": "Le premier à atteindre {0} points gagne",
+  "gamemode.glory.win": "Le score de {0} point a été atteint !",
+  "gamemode.glory.win.no.opponents": "The game is over",
+  "gamemode.might": "Pouvoir",
+  "gamemode.might.caps": "POUVOIR",
+  "gamemode.might.description": "Capturez toutes les capitales pour gagner",
+  "gamemode.might.win": "Toutes les capitales ont été capturées",
+  "gamemode.might.win.last.human": "You are the last standing human player, you win!",
+  "gamemode.might.win.no.opponents": "No opponents left",
+  "gamemode.none": "Unknown",
+  "gamemode.none.description": "You might get either game mode. Groovy!",
+  "gamemode.perfection": "Perfection",
+  "gamemode.perfection.caps": "PERFECTION",
+  "gamemode.perfection.description": "Obtenez le meilleur score possible avant la fin du temps imparti.",
+  "gamemode.perfection.description.button": "Montrez votre talent sur le score général dans le jeu classique en 30 tours.",
+  "gamemode.perfection.loss": "Nous avons atteint la fin des temps.",
+  "gamemode.perfection.win": "Nous avons atteint la fin des temps. La mémoire de votre tribu résonnera dans l'éternité !",
+  "gamemode.sandbox": "Infinity",
+  "gamemode.sandbox.caps": "INFINITY",
+  "gamemode.sandbox.description": "Play however you like, forever and ever",
+  "gamemode.tutorial": "Boot Camp",
+  "gamemode.tutorial.description": "Your tribe gift you with these resources. Spend them wisely!",
+  "gamemodepicker.title": "MODE DE JEU",
+  "gamesaverbinary.error.loading.moves": "Erreur de chargement des mouvements",
+  "gamesaverbinary.unable.to.save": "Je n'ai pas pu sauvegarder la partie, faites-en sorte d'avoir suffisamment d'espace sur votre appareil",
+  "gamesaverbinary.unable.to.save.title": "Impossible de sauvegarder :(",
+  "gameservice.android": "Google Play",
+  "gameservice.ios": "Game Center",
+  "gameservice.steam": "Steam",
+  "gamesettings.anonymous": "Anonyme",
+  "gamesettings.autoskip": "Auto Skip",
+  "gamesettings.autoskip.disabled": "Disabled",
+  "gamesettings.autoskip.enabled": "Enabled",
+  "gamesettings.continue": "CONTINUER",
+  "gamesettings.createslot": "Création de la partie...",
+  "gamesettings.createslot.error": "Erreur lors de la création de la partie",
+  "gamesettings.createslot.error.info": "Assurez-vous d'être connecté à internet et réessayez.",
+  "gamesettings.creatingworld": "CRÉATION DU MONDE",
+  "gamesettings.difficulty": "Difficulté",
+  "gamesettings.difficulty.crazy": "Extrême",
+  "gamesettings.difficulty.easy": "Facile",
+  "gamesettings.difficulty.hard": "Difficile",
+  "gamesettings.difficulty.normal": "Normale",
+  "gamesettings.disableTribes": "Activer ou Désactiver les tribus",
+  "gamesettings.findmatch": "FIND MATCH",
+  "gamesettings.game": "Partie {0}",
+  "gamesettings.gamename": "Nom de la partie",
+  "gamesettings.info.difficulty.bonus": "Bonus de difficulté : {0}%",
+  "gamesettings.info.gamepreferences.header": "Advanced settings",
+  "gamesettings.info.gamepreferences.info": "The more preferences you apply, the longer you will have to wait to find a matching opponent. So if you are in for a quick game, leave all preferences untouched.",
+  "gamesettings.info.local": "{0} adversaires, {1} cases",
+  "gamesettings.info.matchmaking.gamemode": "{0} game",
+  "gamesettings.info.matchmaking.mappreset": "{0} map type",
+  "gamesettings.info.matchmaking.mapsize": "{0} tiles map",
+  "gamesettings.info.matchmaking.opponentcount": "{0} opponents",
+  "gamesettings.info.matchmaking.timelimit": "{0} turn time limit",
+  "gamesettings.info.multiplayer": "{0} joueurs, {1} cases",
+  "gamesettings.info.seed": "Seed",
+  "gamesettings.info.turnlimit30": ", 30 tours maximum",
+  "gamesettings.livegame": "Live Game",
+  "gamesettings.livegame.description": "Live Games use a dynamic timer that increases based on how many units & cities you have. Any time left at the end of your turn will be added to your next turn.",
+  "gamesettings.map": "Map Type",
+  "gamesettings.map.archipelago": "Archipelago",
+  "gamesettings.map.continents": "Continents",
+  "gamesettings.map.dryland": "Dryland",
+  "gamesettings.map.lakes": "Lakes",
+  "gamesettings.map.waterworld": "Water World",
+  "gamesettings.matchmaking.noedit": "Open for any kind of game",
+  "gamesettings.mode": "Modes de jeu",
+  "gamesettings.network": "Réseau",
+  "gamesettings.network.online": "En ligne",
+  "gamesettings.network.passplay": "Passez & jouez",
+  "gamesettings.notavailable": "Non disponible",
+  "gamesettings.notenoughplayers": "You need at least two players to start a game",
+  "gamesettings.novalidtribes": "No Valid Tribes",
+  "gamesettings.novalidtribes.info": "There are no valid tribes available. Enable or unlock at least one Tribe to be able to continue.",
+  "gamesettings.online.disabled": "La connexion est verrouillée",
+  "gamesettings.online.disabled.info": "Il y a certaines choses que vous devez corriger pour jouer en ligne",
+  "gamesettings.online.info": "Jouez avec vos amis en ligne en utilisant notre serveur multijoueur.",
+  "gamesettings.opponents": "Adversaires",
+  "gamesettings.passplay.info": "Jouez avec vos amis en hors ligne en vous passant cet appareil.",
+  "gamesettings.players": "Joueurs",
+  "gamesettings.size": "Taille du monde",
+  "gamesettings.size.disabled": "Non disponible",
+  "gamesettings.size.huge": "Huge",
+  "gamesettings.size.large": "Grande",
+  "gamesettings.size.massive": "Massive",
+  "gamesettings.size.normal": "Normale",
+  "gamesettings.size.small": "Small",
+  "gamesettings.size.tiles": "{0} cases.",
+  "gamesettings.size.tiles.unspecified": "You might get any size of a map. Exciting!",
+  "gamesettings.size.tiny": "Petite",
+  "gamesettings.startgame": "COMMENCER LA PARTIE",
+  "gamesettings.timelimit": "Turn Time Limit",
+  "gamesettings.timer": "Game Timer",
+  "gamesettings.timer.description": "How long each player has to make their moves.\n\nIf a plyers timer runs out others can choose to skip that players turn.",
+  "gamesettings.timer.live": "Live",
+  "gamesettings.title": "CONFIGURATION DE LA PARTIE",
+  "gamesettings.unknown": "Unknown",
+  "gamesettings.unlockmore": "Débloquez plus de tribus pour jouer avec plus d'adversaires",
+  "gamesettings.unspecified": "Any",
+  "gamesettings.yourname": "Votre nom",
+  "gamestats.battle": "Compétence de guerre",
+  "gamestats.battle.info": "{0} batailles gagnées, {1} batailles perdues",
+  "gamestats.bonus": "Bonus de difficulté : {0}",
+  "gamestats.gamemode": "Mode de jeu : {0}",
+  "gamestats.speed": "Compétence de rapidité",
+  "gamestats.speed.info": "{0}/{1} tours",
+  "gamestats.title": "GAME STATS",
+  "gamestatus.capitals": "Capitales possédées",
+  "gamestatus.cities": "{0} villes",
+  "gamestatus.city": "{0} ville",
+  "gamestatus.destroyed": "détruite(s)",
+  "gamestatus.difficulty": "Note de difficulté",
+  "gamestatus.killedonturn": "killed on turn {0}",
+  "gamestatus.ruled": "Contrôlé par {0}",
+  "gamestatus.ruled.bot": "bot",
+  "gamestatus.ruled.you": "Contrôlé par vous",
+  "gamestatus.ruler": "Ruler of the {0}",
+  "gamestatus.score": "score : {0} points",
+  "gamestatus.scores": "Scores",
+  "gamestatus.tasks": "Tâches {0}/{1}",
+  "gamestatus.tasks.complete": "Complétée!",
+  "gamestatus.tribes": "Tribus détruites",
+  "gamestatus.unknown.ruler": "Chef inconnu",
+  "gamestatus.unknown.tribe": "Tribu inconnue",
+  "highscore.alltime": "Depuis le commencement",
+  "highscore.alltribes": "Toutes tribus confondues",
+  "highscore.error": "Failed to upload highscore to server, do you want to retry?",
+  "highscore.error.title": "Highscore error",
+  "highscore.hiscore": "highscore",
+  "highscore.loading": "Chargement...",
+  "highscore.notavailable": "Les meilleurs scores ne sont pas disponibles.",
+  "highscore.thisweek": "Cette semaine",
+  "highscore.title": "MEILLEURS SCORES",
+  "highscore.today": "Aujourd'hui",
+  "highscore.uploading": "Uploading high score...",
+  "highscore.uploading.failed": "Failed to upload high score",
+  "highscore.uploading.successful": "High score uploaded...",
+  "highscore.uptodate": "Everything is up to date",
+  "idconsole.clipboard.title": "Voilà!",
+  "matchmakinggameinfo.waited": "Waited",
+  "matchmakinggameinfo.waitingforplayers": "Waiting for {0} additional players",
+  "migration.restoredescription": "If you previously purchased tribes you need to restore them to make them show in this brand new version of Polytopia",
+  "migration.restoreheader": "Restore?",
+  "misc.error.title": "Error",
+  "misc.errorloadinggame": "Failed to load game",
+  "misc.failedcommand": "Failed to send command to server. Do you want to try again?",
+  "misc.gameoutofsync": "Your game failed to sync with the server. Do you want to try again?",
+  "misc.player": "player",
+  "misc.players": "players",
+  "misc.pushfailed": "Failed to handle incoming notification from server",
+  "misc.resetfailed": "Game is missing or corrupt",
+  "mplayerstats.alias": "Alias",
+  "mplayerstats.appversion": "Version d'application :",
+  "mplayerstats.avatar.edit": "Edit",
+  "mplayerstats.clear": "effacer les données",
+  "mplayerstats.elo": "Elo",
+  "mplayerstats.elo.description": "The Elo rating system is a method for calculating the relative skill levels of players.",
+  "mplayerstats.friends": "Nombre d'amis",
+  "mplayerstats.games": "Parties jouées",
+  "mplayerstats.gameversion": "Game version",
+  "mplayerstats.loaderror": "Impossible de se connecter au serveur multijoueur. Vérifiez votre connexion internet et réessayez.",
+  "mplayerstats.lost": "Vous vous sentez perdu ? Regardez-la :",
+  "mplayerstats.multiplayer.faq": "FAQ MULTIJOUEUR",
+  "mplayerstats.multiplayer.faq.lower": "Multiplayer FAQ",
+  "mplayerstats.rating": "Multiplayer Rating",
+  "mplayerstats.reload": "recharger les données multijoueur",
+  "mplayerstats.reloading": "Rechargement..",
+  "mplayerstats.server": "Version du serveur",
+  "mplayerstats.title": "PROFIL DU JOUEUR",
+  "mplayerstats.uptodate": "Tout est mis à jour",
+  "multiplayer.activegames": "Parties Actives",
+  "multiplayer.clipboard": "Game data ajoutées au presse-papiers",
+  "multiplayer.clipboard.title": "Voilà!",
+  "multiplayer.creategame": "Créer une partie",
+  "multiplayer.finishedgames": "Parties Finies",
+  "multiplayer.passplay": "Passez & Jouez",
+  "multiplayer.passplay.info": "Challengez avec vos amis dans un match en multijoueur sur le même appareil. Passez-le simplement au joueur suivant quand votre tour est fini.",
+  "news.description": "Bienvenue !\n C'est ici que nous partageons les dernières nouvelles de l'univers de Polytopia. Restez connectés !",
+  "news.error.failed": "Failed to load news",
+  "news.error.title": "Error",
+  "news.timeago": "{0} days ago",
+  "news.title": "NOUVELLES DE POLYTOPIA",
+  "notifications.defaultheader": "Alert",
+  "notifications.restorecomplete": "{0} items restored",
+  "onlineview.check": "vérifier",
+  "onlineview.clipboard": "ID de la partie ajouté au presse-papiers: {0}",
+  "onlineview.clipboard.title": "Voilà!",
+  "onlineview.completed": "complété",
+  "onlineview.favorites": "Favourites ({0}/{1})",
+  "onlineview.fixit": "CORRIGER",
+  "onlineview.friendlist.available": "Votre liste d'amis n'est disponible que lorsque vous êtes connecté au serveur.",
+  "onlineview.friends": "Amis",
+  "onlineview.game.decline": "DÉCLINER",
+  "onlineview.game.delete": "SUPPRIMER",
+  "onlineview.game.gameinfo": "Informations de la partie",
+  "onlineview.game.join": "REJOINDRE LA PARTIE",
+  "onlineview.game.leavematchmaking": "LEAVE",
+  "onlineview.game.leavematchmaking.info": "Are you sure you want to stop waiting for this game?",
+  "onlineview.game.leavematchmaking.title": "Leave",
+  "onlineview.game.missingplayer": "Empty",
+  "onlineview.game.moreinfo": "Plus d'informations",
+  "onlineview.game.old.info": "Cette partie a été créée avec une version obsolète du jeu. Cela ne peut malheureusement pas être chargée :( Je vous conseille de la supprimer et d'en commencer une nouvelle. Désolé pour le dérangement.",
+  "onlineview.game.old.title": "Ancienne version du fichier",
+  "onlineview.game.open": "OUVRIR",
+  "onlineview.game.player.invited": "Vous êtes invité à une nouvelle partie, {0}",
+  "onlineview.game.player.kicked": "Vous avez été supprimé de la partie {0}",
+  "onlineview.game.player.left": "{0} a quitté la partie {1} et a été remplacé par un robot.",
+  "onlineview.game.replays.share.button": "Share",
+  "onlineview.game.replays.share.description": "Use this link to show this replay to your friends or enemies:",
+  "onlineview.game.replays.share.title": "Share This Replay",
+  "onlineview.game.resign": "ABANDONNER",
+  "onlineview.game.resign.info": "Êtes-vous sûr de vouloir abandonner cette partie de façon définitive?",
+  "onlineview.game.resign.title": "Abandonner",
+  "onlineview.game.resigned": "You are now resigned.",
+  "onlineview.game.resigning": "Resigning...",
+  "onlineview.game.size": "Taille de la carte",
+  "onlineview.game.start": "COMMENCER LA PARTIE",
+  "onlineview.game.you": "Vous",
+  "onlineview.gamedeleted.info": "The game {0} has been deleted because all other players rejected the game.",
+  "onlineview.gamedeleted.title": "Game Deleted",
+  "onlineview.gamedeleted.unknowngame": "Unknown Game",
+  "onlineview.gameinvitations": "Invitations de partie",
+  "onlineview.intro.fix": "Salut {0}! \n\nPour jouer au multijoueur en ligne, il y a quelques petites choses que vous devez corriger :",
+  "onlineview.intro.update": "Le multijoueur en ligne n'est pas disponible, veuillez mettre à jour Polytopia avec la dernière version",
+  "onlineview.kicked.automatic": "You have been automatically kicked from the game {0} since you were auto skipped too many times.",
+  "onlineview.kicked.automatic.other": "{0} was automatically kicked from the game {1} and is now frozen.",
+  "onlineview.kicked.info": "{0} have kicked you from the game {1} since you took too long to finish your turn.",
+  "onlineview.kicked.title": "You got Kicked",
+  "onlineview.kicked.title.other": "{0} was kicked",
+  "onlineview.ladder.ended": "Ended",
+  "onlineview.ladder.ends": "Ends in {0}",
+  "onlineview.ladder.join": "JOIN LADDER",
+  "onlineview.ladder.leave": "LEAVE LADDER",
+  "onlineview.ladder.loading": "Loading ladder data...",
+  "onlineview.ladder.placements.header": "Placements",
+  "onlineview.ladder.play": "PLAY LADDER",
+  "onlineview.ladders": "Ladders",
+  "onlineview.lastgames": "Last {0} Games",
+  "onlineview.loaderror": "Impossible de se connecter au serveur multijoueur. Vérifiez votre connexion internet et réessayez.",
+  "onlineview.loading.title": "Loading...",
+  "onlineview.loadingservice": "Chargement du service",
+  "onlineview.lobby.invite.title": "Invite players ({0}/{1})",
+  "onlineview.lobby.leave.info": "Are you sure you want to leave this lobby?",
+  "onlineview.lobby.leave.title": "Leave",
+  "onlineview.lobby.player.add": "Add",
+  "onlineview.lobby.readytostart": "Ready to start",
+  "onlineview.lobby.starting": "Game is starting...",
+  "onlineview.lobby.waitingforplayers": "Waiting for {0} additional {1}",
+  "onlineview.lobby.waitingforplayers.title": "Are you sure",
+  "onlineview.lobby.waitingforplayers.warning": "Not everyone has accepted your invite, do you wish to start the game without them?",
+  "onlineview.login.ios": "Se connecter à {0}",
+  "onlineview.login.ios.info": "Pour utiliser {0} faites en sorte que vous disposez d'un identifiant de joueur unique et permanent qui protégera vos données sur tous vos appareils.",
+  "onlineview.login.ios.info2": "Go to the settings on your device, pick the Game Center section and log in with your Apple ID.",
+  "onlineview.login.tesla": "Create Online Profile",
+  "onlineview.login.tesla.info": "Create a profile in Tesla Arcade to play online with friends",
+  "onlineview.matchmaking": "RANDOM MATCH",
+  "onlineview.newgame": "Nouvelle Partie",
+  "onlineview.nogames.first": "La première chose dont vous avez besoin est de vous connecter à d'autres personne qui jouent à Polytopia. Cliquez sur 'Amis' pour les ajouter.",
+  "onlineview.nogames.intro": "Salut {0}!",
+  "onlineview.nogames.start": "Lançons quelques parties en ligne avec vos amis. Cliquez sur 'Nouvelle Partie' pour en commencer une.",
+  "onlineview.noladders": "No ladders available",
+  "onlineview.noreplays": "When you have completed a multiplayer game it will show up here so you can watch the replay",
+  "onlineview.notifications": "Activer les notifications",
+  "onlineview.notifications.info": "Nous utilisons les notifications pour vous informer de l'état de vos parties multijoueur en cours.",
+  "onlineview.ongoing": "Ongoing",
+  "onlineview.or": "ou",
+  "onlineview.passplay": "Passez & Jouez",
+  "onlineview.passplay.start": "Commencer une partie locale avec Passez & Jouez en appuyant sur 'Nouvelle Partie'",
+  "onlineview.profile": "Profil",
+  "onlineview.profile.available": "Votre profil n'est disponible que lorsque vous êtes connecté au serveur.",
+  "onlineview.purchase": "Acheter une Tribu",
+  "onlineview.purchase.info": "La création et l'utilisation d'un serveur multijoueur en ligne coûte de l'argent et nous comptons uniquement sur le soutien aimable de joueurs comme vous.",
+  "onlineview.randommatch.start": "Start a game with a random opponent",
+  "onlineview.refresh": "Rafraîchir",
+  "onlineview.reloading": "Rechargement..",
+  "onlineview.reloading.release": "Relâchez pour recharger...",
+  "onlineview.replay.delete.info": "Are you sure you want to delete this replay?",
+  "onlineview.replay.delete.title": "Delete",
+  "onlineview.replays": "Replays",
+  "onlineview.replays.loading": "Loading replay data...",
+  "onlineview.required": "requis",
+  "onlineview.resigned.competitive.info": "{0} resigned from the game {1} and is now frozen.",
+  "onlineview.resigned.info": "{0} resigned from the game {1} and have been replaced by a bot.",
+  "onlineview.resigned.title": "{0} Resigned",
+  "onlineview.servicedisabled": "Le serveur multijoueur est temporairement désactivé, s'il vous plait, réessayez plus tard. Assurez-vous aussi d'utiliser la dernière version de Polytopia.",
+  "onlineview.skipped.info.local": "You were skipped.",
+  "onlineview.skipped.info.other": "{0} was skipped.",
+  "onlineview.skipped.info.tribe.local": "You were assigned a random tribe due to inactivity.",
+  "onlineview.skipped.info.tribe.other": "{0} was assigned a random tribe due to inactivity.",
+  "onlineview.skipped.title.empty": "Skipped",
+  "onlineview.skipped.title.game": "Skipped in {0}",
+  "onlineview.theirturn": "Leur Tour",
+  "onlineview.title": "MULTIJOUEUR",
+  "onlineview.uptodate": "Toutes les parties sont mises à jour",
+  "onlineview.uptodate.ladders": "All ladders are up to date",
+  "onlineview.uptodate.replays": "All replays are up to date",
+  "onlineview.waiting": "Waiting for Players",
+  "onlineview.waiting.server": "Waiting for server response...",
+  "onlineview.yourturn": "Votre Tour",
+  "opinion.noopinion": "They don't know about you yet",
+  "opinion.reason.aggression": "violent",
+  "opinion.reason.aggression.description": "You recently attacked them",
+  "opinion.reason.brave": "brave",
+  "opinion.reason.brave.description": "You fighting against the strongest tribe",
+  "opinion.reason.commonrelation": "wise",
+  "opinion.reason.commonrelation.description": "You share the same friends or enemies",
+  "opinion.reason.differentrelation": "foolish",
+  "opinion.reason.differentrelation.description": "You are at war with their friends, or have made peace with their enemies",
+  "opinion.reason.dislike": "annoying",
+  "opinion.reason.dislike.description": "They just don't like you",
+  "opinion.reason.embassy": "diplomatic",
+  "opinion.reason.embassy.description": "You have good diplomatic connections through your embassies",
+  "opinion.reason.intrusive": "intrusive",
+  "opinion.reason.intrusive.description": "Your borders are very close",
+  "opinion.reason.like": "charming",
+  "opinion.reason.like.description": "For some reason they just seem to like you",
+  "opinion.reason.peaceful": "peaceful",
+  "opinion.reason.peaceful.description": "You have not attacked them in a long time",
+  "opinion.reason.powerful": "powerful",
+  "opinion.reason.powerful.description": "They are impressed by your military power",
+  "opinion.reason.threatening": "threatening",
+  "opinion.reason.threatening.description": "You have military units near their territory",
+  "opinion.reason.weak": "weak",
+  "opinion.reason.weak.description": "Your army is weak compared to them, you are an easy target",
+  "opinion.reason.winning": "dominating",
+  "opinion.reason.winning.description": "You are about to win the game",
+  "player.abilities.capitalvision": "Capital Vision",
+  "player.abilities.decompose": "Decompose",
+  "player.abilities.destroy": "détruire",
+  "player.abilities.disband": "dissoudre",
+  "player.abilities.embassy": "Embassy",
+  "player.abilities.glide": "glisser",
+  "player.abilities.literacy": "alphabétisation",
+  "player.abilities.peacetreaty": "Peace Treaty",
+  "playerinfo.locked.researchdiplomacy": "Research Diplomacy to gain more insight.",
+  "playerinfo.locked.upgradeembassy": "Upgrade embassy to gain more insight.",
+  "playerinfo.stats.income": "Income",
+  "playerinfo.summary.dead": "{0} was destroyed by {1} on turn {2}.",
+  "playerinfo.summary.reasons": "They think you are {0}.",
+  "playerinfo.summary.ruledby": "The {0} tribe is ruled by {1}.",
+  "playerinfo.title": "Tribe Info",
+  "playerinfo.triberelations.popup.neutral.description": "{0} has a neutral relation to {1}",
+  "playerinfo.triberelations.popup.peaceneutral.description": "{0} has a peace treaty with {1}",
+  "playerinfo.triberelations.popup.peacepeace.description": "You are both at peace with {1}",
+  "playerinfo.triberelations.popup.peacewar.description": "{0} has a peace treaty with your enemy {1}",
+  "playerinfo.triberelations.popup.title": "Tribe Relation",
+  "playerinfo.triberelations.popup.warneutral.description": "{0} is at war with {1}",
+  "playerinfo.triberelations.popup.warpeace.description": "{0} is at war with your ally {1}",
+  "playerinfo.triberelations.popup.warwar.description": "You are both at war with {1}",
+  "playerinfo.triberelations.title": "Tribe Relations:",
+  "playerinfo.triberelations.unknown": "You have not met this tribe yet.",
+  "playerinfopopup.bot.description": "This is a bot. Bzzt!",
+  "playerinfopopup.friend": "friend",
+  "playerinfopopup.passandplay.description": "A pass and play player. Epic!",
+  "playerinfopopup.you.description": "This is you. Go you!",
+  "playerpickerview.addplayer": "AJOUTER UN JOUEUR",
+  "playerpickerview.bot": "{0} ({1} robot)",
+  "playerpickerview.human": "Pas de joueur humain",
+  "playerpickerview.human.info": "Il doit y avoir au moins un joueur humain pour commencer la partie",
+  "playerpickerview.maptype": "Map type: {0}",
+  "playerpickerview.mode": "Mode de jeu: {0}",
+  "playerpickerview.name": "Nom de la partie",
+  "playerpickerview.players": "Joueurs ({0}/{1})",
+  "playerpickerview.size": "Taille de la carte : {0} cases",
+  "playerpickerview.startgame": "COMMENCER LA PARTIE",
+  "playerpickerview.title": "SÉLECTIONNEZ LES JOUEURS",
+  "playerpickerview.you": "{0} (vous)",
+  "polyplayer.task": "task",
+  "polyplayer.task.explorer.description": "Explorez toute les cases de la carte",
+  "polyplayer.task.explorer.title": "Explorateur",
+  "polyplayer.task.genius.description": "Apprenez toutes les technologies",
+  "polyplayer.task.genius.title": "Génie",
+  "polyplayer.task.killer.description": "Tuer 10 ennemis",
+  "polyplayer.task.killer.title": "Tueur",
+  "polyplayer.task.metropolis.description": "Créez une ville de niveau 5",
+  "polyplayer.task.metropolis.title": "Métropole",
+  "polyplayer.task.network.description": "Connectez 5 villes à votre capitale",
+  "polyplayer.task.network.title": "Réseau",
+  "polyplayer.task.pacifist.description": "N'attaquez personne pendant 5 tours",
+  "polyplayer.task.pacifist.title": "Pacifiste",
+  "polyplayer.task.wealth.description": "Récoltez 100 étoiles",
+  "polyplayer.task.wealth.title": "Richesse",
+  "price.points": "point",
+  "price.points.plural": "points",
+  "price.population": "population",
+  "price.population.plural": "populations",
+  "price.stars": "étoile",
+  "price.stars.plural": "étoiles",
+  "purchasing.error.androidinitializationfailed": "Unable to connect to the Google Play Billing service. This might mean that your Google account is missing or incorrectly set up.",
+  "purchasing.error.duplicatetransaction": "A duplicate transaction error when the transaction has already been completed successfully.",
+  "purchasing.error.existingpurchasepending": "A purchase was already in progress when a new purchase was requested.",
+  "purchasing.error.initializationfailed": "Purchasing failed to initialise",
+  "purchasing.error.paymentdeclined": "There was a problem with the payment.",
+  "purchasing.error.productunavailable": "The product is not available to purchase on the store.",
+  "purchasing.error.purchasingunavailable": "The system purchasing feature is unavailable.",
+  "purchasing.error.signatureinvalid": "Signature validation of the purchase's receipt failed.",
+  "purchasing.error.title": "Purchasing Error",
+  "purchasing.error.unknown": "Something unknown went wrong with the purchase. Please try again later.",
+  "purchasing.error.usercancelled": "The user opted to cancel rather than proceed with the purchase.",
+  "purchasing.restore.error.message": "Something went wrong while trying to restore your purchases. Please try again later.",
+  "purchasing.restore.error.title": "Restore Purchases Failed",
+  "push.ended": "{0} has ended, check to see who won!",
+  "push.invited": "You are invited to a new game, {0}",
+  "push.kicked": "You have been removed from {0}",
+  "push.picktribe": "It is your turn to pick tribe in {0}",
+  "push.playerkicked": "Player {0} has been kicked from {1}.",
+  "push.playerresigned": "Player {0} has resigned from {1}.",
+  "push.randommatchready": "Random match {0} is ready to go!",
+  "push.readytostart": "{0} is ready to start on your command",
+  "push.reminder": "We are waiting for you to play in {0}. Come on!!",
+  "push.skipped": "Your turn in {0} was skipped since you timed out.",
+  "push.yourturn": "It is your turn in {0} (turn {1})",
+  "replay.clipboard": "Replay link added to clipboard",
+  "replay.clipboard.title": "Voilà!",
+  "replay.ended": "Ended {0}",
+  "replay.ongoing": "Ongoing",
+  "replay.tech.new.message": "{0} discovered the secret of {1}",
+  "replay.turnlabel": "Turn {0}",
+  "replay.viewmode.auto": "Auto",
+  "replay.viewmode.header": "Pick Point of View",
+  "replay.winner": "Won by: {0}",
+  "resource.names.crop": "champs",
+  "resource.names.fish": "poisson",
+  "resource.names.fruit": "fruit",
+  "resource.names.game": "animal sauvage",
+  "resource.names.metal": "métal",
+  "resource.names.spores": "Spores",
+  "resource.names.whale": "baleine",
+  "settings.ambience": "Ambiance",
+  "settings.antialias": "Anti-aliasing",
+  "settings.compactui": "Compact UI",
+  "settings.confirm": "Confirmer la fin du tour",
+  "settings.fullscreen": "Fullscreen",
+  "settings.hideadvanced": "Hide Advanced Settings",
+  "settings.info": "Information sur les constructions",
+  "settings.language": "Langage",
+  "settings.language.load.button": "CHARGER",
+  "settings.language.load.error.info": "The loaded file does not have a valid JSON Format and can't be parsed.",
+  "settings.language.load.error.title": "Error loading file",
+  "settings.language.load.info": "Charger un langage pour Polytopia via un serveur à distance en utilisant https. Ceci est une fonctionnalité expérimentale, ce n'est pas pour les âmes sensibles.",
+  "settings.language.load.input": "Lien url du fichier de langue :",
+  "settings.language.load.title": "Langage personnalisé (BETA)",
+  "settings.off": "OFF",
+  "settings.on": "ON",
+  "settings.saveexit": "SAUVEGARDER \n&\n QUITTER",
+  "settings.scale": "UI Scale",
+  "settings.scale.auto": "Auto",
+  "settings.scale.large": "Large",
+  "settings.scale.medium": "Madium",
+  "settings.scale.small": "Small",
+  "settings.scale.verylarge": "Very Large",
+  "settings.showadvanced": "Advanced Settings",
+  "settings.soundeffects": "Effets sonores",
+  "settings.suggestions": "Suggestions de jeu",
+  "settings.title": "PARAMÈTRES",
+  "settings.tribemusic": "Son de tribu",
+  "settings.volume": "Volume sonore {0}",
+  "splashscreen.switch.12tribes": "12 unique Tribes",
+  "splashscreen.switch.again": "Play again!",
+  "splashscreen.switch.challenging": "Challenging AI",
+  "splashscreen.switch.full": "The full version of the game includes:",
+  "splashscreen.switch.gamemodes": "More game modes",
+  "splashscreen.switch.thankyou": "Thank you for playing!",
+  "splashscreen.switch.upgrade": "Upgrade",
+  "startmenu.about": "A propos",
+  "startmenu.high_score": "Meilleur score",
+  "startmenu.multiplayer": "MULTIJOUEUR",
+  "startmenu.new_game": "NOUVELLE PARTIE",
+  "startmenu.quit": "QUITTER",
+  "startmenu.resume_game": "REPRENDRE LA PARTIE",
+  "startmenu.settings": "Paramètres",
+  "startmenu.throne_room": "Salle du trône",
+  "stringtools.typelist.and": "et",
+  "task.info": "{0} pour avoir {1}",
+  "technology.ability": "capacité",
+  "technology.ability.info": "{1} vous donne la capacité de {1}",
+  "technology.build": "{0} permet de construire {1}",
+  "technology.defence": "Bonus défensif",
+  "technology.defence.info": "donne un bonus de force supplémentaire à votre unité en défendant {0}",
+  "technology.intro": "Cette technologie permettra :",
+  "technology.movement": "Mouvement",
+  "technology.movement.info": "permet le mouvement de {0}",
+  "technology.names.aquatism": "Maîtrise de l'eau",
+  "technology.names.archery": "Tir à l'arc",
+  "technology.names.basic": "Basique",
+  "technology.names.chivalry": "Chevalerie",
+  "technology.names.climbing": "Escalade",
+  "technology.names.construction": "Construction",
+  "technology.names.diplomacy": "Diplomacy",
+  "technology.names.farming": "Culture",
+  "technology.names.fishing": "Pêche",
+  "technology.names.forestmagic": "Magie de la forêt",
+  "technology.names.forestry": "Exploitation forestière",
+  "technology.names.freediving": "Plongée",
+  "technology.names.freespirit": "Maîtrise de l'Esprit",
+  "technology.names.frostwork": "Travail de la glace",
+  "technology.names.hunting": "Chasse",
+  "technology.names.hydrology": "Hydrology",
+  "technology.names.mathematics": "Mathématique",
+  "technology.names.meditation": "Méditation",
+  "technology.names.mining": "Mine",
+  "technology.names.navigation": "Navigation",
+  "technology.names.oceanology": "Oceanology",
+  "technology.names.organization": "Récolte",
+  "technology.names.philosophy": "Philosophie",
+  "technology.names.polarism": "Polarisme",
+  "technology.names.polarwarfare": "Armement Polaire",
+  "technology.names.recycling": "Recycling",
+  "technology.names.riding": "Équitation",
+  "technology.names.riding2": "Riding",
+  "technology.names.roads": "Routes",
+  "technology.names.sailing": "Port",
+  "technology.names.shields": "Boucliers",
+  "technology.names.shock": "Shock Tactics",
+  "technology.names.smithery": "Forge",
+  "technology.names.spearing": "Pêche au Harpon",
+  "technology.names.spiritualism": "Maîtrise des forêts",
+  "technology.names.trade": "Commerce",
+  "technology.names.watermagic": "Magie de l'eau",
+  "technology.names.whaling": "Chasse à la baleine",
+  "technology.requirements": "You need to research {0} to enable this action.",
+  "technology.task": "{0} active la tâche {1} ",
+  "techview.completed": "(complété)",
+  "techview.completed.info": "Vous avez déjà appris cette technologie.",
+  "techview.expensive.info": "Vous n'avez pas assez d'étoiles pour acheter ça. Appuyez sur 'tour suivant' pour avoir plus d'étoiles.",
+  "techview.info": "Le prix des technologies augmente en fonction du nombre de villes que vous avez.",
+  "techview.info.literacy": "L'alphabétisation réduit le prix des technologies de {0}% !",
+  "techview.locked": "(bloqué)",
+  "techview.locked.info": "Vous devez rechercher {0} avant d'apprendre {1}.",
+  "techview.research": "RECHERCHE",
+  "terrain.field": "Terre",
+  "terrain.forest": "Forêt",
+  "terrain.ice": "Glace",
+  "terrain.mountain": "Montagne",
+  "terrain.ocean": "Océan",
+  "terrain.unknown": "Terres inconnues",
+  "terrain.water": "Eau",
+  "throne.alias": "Alias",
+  "throne.clipboard": "ID du joueur ajouté au presse-papiers",
+  "throne.clipboard.title": "Voilà!",
+  "throne.google.achievements": "REUSSITES",
+  "throne.google.in": "SE CONNECTER",
+  "throne.google.info": "(!)Vous devez vous connecter avec Google Play pour enregistrer vos données de jeu et vos meilleurs scores.",
+  "throne.google.out": "DÉCONNEXION",
+  "throne.google.signedin": "Vous êtes connecté à l'aide de Google Play",
+  "throne.played": "Parties jouées",
+  "throne.playerid": "ID joueur",
+  "throne.playerinfo": "Information joueur",
+  "throne.reset": "remise à zéro des scores",
+  "throne.reset.complete": "Les scores sont maintenant remis à zéro",
+  "throne.resetwarning": "Êtes-vous sûr de vouloir remettre à zéro tous vos scores et vos notes? Cela ne peut pas être annulé.",
+  "throne.resetwarning.title": "Remise à zéro des scores",
+  "throne.title": "SALLE DU TRÔNE",
+  "throne.toprating": "Meilleures Notes",
+  "throne.topscore": "Meilleurs Scores",
+  "tooltip.ability.agent": "This unit can be built in enemy territory",
+  "tooltip.ability.autofreeze": "This unit freezes any surrounding tiles and units when moving.",
+  "tooltip.ability.boost": "Give surrounding friendly units a temporary boost in attack and speed.",
+  "tooltip.ability.capitalvision": "Reveals the capital of all tribes you encounter.",
+  "tooltip.ability.carry": "Cette unité transporte une autre unité à l'intérieur.",
+  "tooltip.ability.convert": "Cette unité peut convertir un ennemi en votre propre tribu en l'attaquant.",
+  "tooltip.ability.creep": "This unit does not get any movement penalties in rough terrain.",
+  "tooltip.ability.dash": "Cette unité peut attaquer après s'être déplacée s'il y a un ennemi à sa portée.",
+  "tooltip.ability.decompose": "Decompose any building within your borders and get its full cost in stars back at the end of the turn.",
+  "tooltip.ability.destroy": "Détruisez n'importe quel bâtiment à l'intérieur de vos frontières, idéal pour reconstruire votre empire.",
+  "tooltip.ability.detect": "This unit can detect nearby invisible units.",
+  "tooltip.ability.disband": "Détruisez l'une de vos unités et obtenez la moitié de son coût en retour.",
+  "tooltip.ability.disloyal": "This unit switches side to the previous ruler when the area they are in is captured",
+  "tooltip.ability.dividend": "Gives 1 star income per peace treaty per turn.",
+  "tooltip.ability.eat": "This unit grows in length for each enemy it kills.",
+  "tooltip.ability.embassy": "Allow construction of Embassies in foreign capitals. Embassies provide income for both parties as long as they are not at war. The income is doubled if you have a peace treaty.",
+  "tooltip.ability.escape": "Cette unité peut encore se déplacer après avoir attaqué.",
+  "tooltip.ability.explode": "Make your units explode inflicting poison and collateral damage to surrounding enemies.",
+  "tooltip.ability.fly": "Cette unité peut survoler n'importe quel terrain sans pénalité ni bonus de mouvement.",
+  "tooltip.ability.fortify": "Cette unité a un bonus de défense quand elle défend sa propre ville, le bonus double si la ville a des remparts.",
+  "tooltip.ability.freeze": "Cette unité gèle ses ennemis lorsqu'ils les attaquent afin qu'ils ne puissent pas bouger.",
+  "tooltip.ability.freezearea": "This unit can freeze the surrounding tiles including any enemy units.",
+  "tooltip.ability.glide": "Toutes les unités qui ne patinent pas bénéficient d'un mouvement supplémentaire lorsqu'elles se déplacent sur la glace.",
+  "tooltip.ability.grow": "Cette unité finira par grandir et devenir autre chose.",
+  "tooltip.ability.heal": "Cette unité peut soigner les troupes environnantes.",
+  "tooltip.ability.hide": "This unit hides when it moves, becoming invisible to the enemy.",
+  "tooltip.ability.independent": "This unit does not require any support from its home city.",
+  "tooltip.ability.infiltrate": "This unit can enter enemy cities to incite revolts.",
+  "tooltip.ability.literacy": "Réduit le prix de toutes les technologies de 20%.",
+  "tooltip.ability.navigate": "Cette unité peut se déplacer sur n'importe quel terrain même si vous n'avez pas la technologie nécessaire pour vous y déplacer.",
+  "tooltip.ability.peacetreaty": "Send an offer of entering a peace treaty to another tribe. \nYou find this function in the 'Tribe Info Screen', click the name of a tribe to get there.",
+  "tooltip.ability.persist": "Cette unité peut continuer d'attaquer tant qu'elle tue complètement ses victimes.",
+  "tooltip.ability.poison": "Inflicts poison to enemies when attacking. Poisoned units lose all defense bonuses and spread spores when they die.",
+  "tooltip.ability.scout": "Cette unité a une vision doublée.",
+  "tooltip.ability.skate": "Cette unité a le double de mouvements sur les cases de glace, mais sur terre elle est limitée à 1 de mouvement et toutes ses autres facultés sont désactivées.",
+  "tooltip.ability.sneak": "Cette unité peut passer devant les unités ennemies sans s'arreter.",
+  "tooltip.ability.splash": "Cette unité inflige des dégâts collatéraux aux unités proches lors de l'attaque.",
+  "tooltip.ability.surprise": "Enemies don't retaliate when you attack them, even at close range.",
+  "tooltip.ability.swim": "Cette unité est amphibie et peut se déplacer à la fois sur l'eau et sur terre.",
+  "tooltip.tile.blocked": "Cette ressource est bloquée par une unité ennemie",
+  "tooltip.tile.capture": "Cette ville est en train d'être capturée.",
+  "tooltip.tile.capture.enemy": "Votre ville est en train d'être capturée par l'ennemi !",
+  "tooltip.tile.capture.tip": "Déplacez une unité ici pour capturer cette ville !",
+  "tooltip.tile.choose_unit": "Choisissez une unité à produire.",
+  "tooltip.tile.explore": "Explorez cette zone pour voir ce qu'elle contient !",
+  "tooltip.tile.extract.convert": "Cette ressource peut se transformer en unité",
+  "tooltip.tile.extract.research": "Vous avez besoin de rechercher {0} pour extraire cette ressource",
+  "tooltip.tile.extract.stars": "Extraire cette ressource pour gagner des étoiles instantanément",
+  "tooltip.tile.extract.upgrade": "Extraire cette ressource pour améliorer votre ville",
+  "tooltip.tile.level.max": "A atteint le niveau maximum",
+  "tooltip.tile.level.next": "Prochain niveau dans {0} tours",
+  "tooltip.tile.level.polaris": "Geler {0} cases de plus pour atteindre le prochain niveau",
+  "tooltip.tile.limit": "Cette ville ne peut plus faire d'autre unité.",
+  "tooltip.tile.monuments": "Les monuments donnent des points en plus à votre empire !",
+  "tooltip.tile.outside": "Cette ressource est en dehors de votre empire",
+  "tooltip.tile.produces": "Produit {0} chaque tour.",
+  "tooltip.tile.research": "Vous avez besoin de rechercher {0} pour vous déplacer içi",
+  "tooltip.tile.riot": "There are riots in this city! It produces no income this turn.",
+  "tooltip.tile.road": "Construisez une route pour connecter cette ville à votre capitale.",
+  "tooltip.tile.ruin": "Déplacez une unité ici pour inspecter cette ancienne ruine.",
+  "tooltip.tile.sailing": "Déplacez une unité ici pour embarquer !",
+  "tooltip.unit.actions.attack": "Cliquez sur la cible ROUGE pour attaquer !",
+  "tooltip.unit.actions.move": "Cliquez sur la cible BLEUE pour se déplacer.",
+  "tooltip.unit.actions.none": "Il ne reste aucune action. Appuyez sur 'Prochain tour' pour pouvoir à nouveau déplacer cette unité.",
+  "tooltip.unit.ally": "This is your ally.",
+  "tooltip.unit.city.capture": "Cliquez sur 'Capturer' pour ajouter cette ville à votre empire",
+  "tooltip.unit.city.capture.next": "Cette ville est prête à être capturée au prochain tour",
+  "tooltip.unit.enemy": "C'est l'ennemi!",
+  "tooltip.unit.enemy.brokenpeace": "You can attack this unit next turn.",
+  "tooltip.unit.enemy.city": "Cet ennemi est en train de capturer votre ville !",
+  "tooltip.unit.enemy.territory": "Cet ennemi est dans votre territoire !",
+  "tooltip.unit.grow.later": "Va évoluer en {0} dans {1} tours.",
+  "tooltip.unit.grow.now": "Va évoluer en {0} à la fin de ce tour !",
+  "topbar.score": "Score",
+  "topbar.stars": "Étoiles (+{0})",
+  "topbar.turn": "Tour",
+  "tribepicker.anonymous": "Anonyme",
+  "tribepicker.buy": "BUY",
+  "tribepicker.categories.humantribes": "Tribus classiques",
+  "tribepicker.categories.random": "Puisse le sort vous être favorable !",
+  "tribepicker.categories.random.button": "TRIBU ALÉATOIRE",
+  "tribepicker.categories.random.selected.text": "Tribu aléatoire sélectionnée",
+  "tribepicker.categories.random.selected.title": "Abrakadabra!",
+  "tribepicker.categories.specialtribes": "Tribus spéciales",
+  "tribepicker.categories.specialtribes.description": "Une collections de tribus un peu hors de ce monde...",
+  "tribepicker.disable": "DÉSACTIVER",
+  "tribepicker.disabled": "désactivé",
+  "tribepicker.disabled.description": "Tribu désactivée, elle ne peut être utilisée ni par vous ni par l'IA.",
+  "tribepicker.enable": "ACTIVER",
+  "tribepicker.firstplayer": "Le premier joueur doit être un humain",
+  "tribepicker.freetribe": "Tribu gratuite",
+  "tribepicker.freetribe.description": "Cette tribu est disponible gratuitement et ne peut être achetée pour débloquer le mode multijoueur.",
+  "tribepicker.gamemode": "Mode de Jeu : {0}",
+  "tribepicker.getdlc": "GET DLC",
+  "tribepicker.mapsize": "Taille du monde : {0} cases",
+  "tribepicker.maptype": "Map Type: {0}",
+  "tribepicker.news.readmore": "En savoir plus...",
+  "tribepicker.pick": "CHOISIR",
+  "tribepicker.pickyour": "Choisissez votre tribu",
+  "tribepicker.players": "{0} joueurs",
+  "tribepicker.playertype": "Type de joueur",
+  "tribepicker.reset": "remise à zéro des achats",
+  "tribepicker.restore": "restaurer les achats",
+  "tribepicker.restoring": "restauration...",
+  "tribepicker.taken": "Déjà pris",
+  "tribepicker.tba": "ECD",
+  "tribepicker.title": "CHOISISSEZ VOTRE TRIBU",
+  "tribepicker.toprating": "Meilleur note {0}%",
+  "tribepicker.toprating.next": "{0}% requis pour la prochaine étoile",
+  "tribepicker.topscore": "Meilleur score {0} points",
+  "tribepicker.topscore.next": "{0} points pour la prochaine étoile",
+  "tribepicker.underconstruction": "En construction",
+  "tribepicker.underconstruction.description": "Nous travaillons encore à imaginer cette tribu. Nous développons les fruits, les langages et l'architecture. Cela prend du temps vous savez. Suivez @Midjiwan sur Instagram ou Twitter et vous serez le premier à savoir quand de nouvelles tribus arriveront !",
+  "tribepicker.waiting": "WAITING",
+  "tribepicker.yourname": "Votre nom",
+  "tribes.aimo": "Ai-Mo",
+  "tribes.aimo.info": "La tranquille et sage tribu {0} habite la chaîne de montagnes la plus dure, la plus venteuse et la plus haute du monde. C'est là qu'ils ont trouvé la paix grâce à la méditation dans la lumière éternelle de la nuit. \n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.aquarion": "Aquarion",
+  "tribes.aquarion.info": "Des océans profonds, une ancienne civilisation émerge ! Leur isolement extrême leurs a donné des capacités aquatiques spéciales qui sont inconnues des autres tribus humaines.\n\nLes {0} ont un arbre de recherche un peu différent et ont accès à une unité amphibie unique, des tortues de mer qu'aucune autre tribu ne peut entraîner.",
+  "tribes.bardur": "Bardur",
+  "tribes.bardur.info": "Survivre au froid glacial de l'hiver éternel dans les bois des {0} n'est pas une tâche facile, mais cela n'empêche pas les {0} de prospérer.\n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.cymanti": "Cymanti",
+  "tribes.cymanti.info": "The {0} are a breakout group of Polytopians who moved to the swampy forests and learned to live with the Ciru Bug, which attaches to their faces and merges with their brains. \n\nLed by their Shaman, the {0} train gigantic bugs, use their enemies to fertilize their fungi farms and utilize crippling poisons to vanquish all who would threaten their marshy home!",
+  "tribes.elyrion": "∑∫ỹriȱŋ",
+  "tribes.elyrion.info": "Les mystérieux {0} défendent leur forêt avec une puissante magie et la férocité du feu des dragons ! \n\nLeur nature est sacrée, il ne chasse donc pas d'animaux et ne coupe pas d'arbres. Au lieu de cela, ils commencent la partie avec une technologie unique qui leur permet d'enchanter les animaux ordinaires et les transformer en monstres puissants.",
+  "tribes.hoodrick": "Hoodrick",
+  "tribes.hoodrick.info": "Les feuilles d'automne jaunes des bois des {0} sont des cachettes parfaites pour ces habitants farcis aux champignons. \n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.imperius": "Imperius",
+  "tribes.imperius.info": "Grande montagne et vallée verdoyante. Le climat de la tribu {0} est parfait pour faire pousser des fruits. \n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.kickoo": "Kickoo",
+  "tribes.kickoo.info": "Plages de sable blanc et cocotiers. Abondance de poissons et de fruits. Bienvenue chez les {0}. \n\nLes {0} commencent la partie avec la technologie '{1}' .",
+  "tribes.luxidoor": "Luxidoor",
+  "tribes.luxidoor.info": "Les {0} aiment les objets chers, les bijoux, les épices rares et les ornements. C'est aussi pour cela qu'ils sont la tribu la plus chère de Polytopia. Leurs citoyens mènent une vie très aisée, drapée dans la plus belle soie violette. Mais survivrons t-ils en dehors des murs de leur capitale bien aimée ? \n\nLes {0} commencent la partie avec une immense capitale fortifiée.",
+  "tribes.nature": "Nature",
+  "tribes.oumaji": "Oumaji",
+  "tribes.oumaji.info": "Le désert apparemment infini et béni de soleil est la maison de la tribu {0} .\n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.polaris": "Polaris",
+  "tribes.polaris.info": "Les {0} sont restés piégés dans les confins de la toundra glaciale depuis des siècles, mais ils ont été bénis par le mystérieux Gaami qui leur donna le pouvoir d'étendre leur terrain glacial artificiel plus loin que le temps ne le permet. \n \nAvec la puissance des traîneaux et des Mammouths, les mystiques {0} sont déterminés à enfouir le monde dans la glace et à transformer la terre en un paradis glacial. \n \nLes {0} démarrent la partie avec la possibilité de geler le terrain environnant en utilisant des Moonies.",
+  "tribes.quetzali": "Quetzali",
+  "tribes.quetzali.info": "La tribu {0} adore les Divinités Oiseaux de la Terre Rouge et vivent en harmonie avec la symétrie naturelle de leurs jungles cubistes. On les voit souvent chevaucher d’énormes oiseaux incapables de voler. \n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.vengir": "Vengir",
+  "tribes.vengir.info": "Désapprouvés par les autres tribus et poussés en exile dans les terres de cendres. Vont-ils tolérer cette injustice ou déciderons t-il de se venger ? \n\nLes {0} commencent la partie avec la technologie '{1}' et un très puissant Escrimeur.",
+  "tribes.xinxi": "Xin-xi",
+  "tribes.xinxi.info": "Ils commencent leur voyage dans les montagnes denses, entourées de magnifiques fleurs de cerisier.\n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.yadakk": "Yădakk",
+  "tribes.yadakk.info": "Les {0} commencent comme tribu nomade dans les merveilleuses plaines de Khalee. Désormais, ils sont les commerçants du monde, reliant leur empire à des routes commerciales impressionnantes. \n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.zebasi": "Zebasi",
+  "tribes.zebasi.info": "Les {0} prospèrent dans la savane chaude, cultivant leur sol très riche pour produire de la nourriture afin de répondre au besoin de sa puissante population. \n\nLes {0} commencent la partie avec la technologie '{1}'.",
+  "tribes.zebasi.news": "Tous les bénéfices de la tribu Zebasi sont investis dans des projets d'énergie solaire.",
+  "tutorial.completed.description": "You have now mastered the basic skills to play Polytopia, but there is so much more to discover!\nFinish this game by getting the highest possible score before the time runs out.",
+  "tutorial.completed.title": "Boot Camp Completed!",
+  "tutorial.suggestion.description": "Someone is hiding here in the clouds...",
+  "tutorial.task.capturevillage": "Move your unit to a village and capture it.",
+  "tutorial.task.capturevillage.description": "Click your unit in the city. The blue markers that appear on the map are places the unit can move to this turn.\nAfter moving the unit you need to end your turn for it to be able to move again.",
+  "tutorial.task.capturevillage.title": "Move a Unit",
+  "tutorial.task.endTurn": "A good first round! End your turn to give your unit new energy.",
+  "tutorial.task.endTurn.description": "Click the 'End Turn' button to give new energy to your units and collect more stars.",
+  "tutorial.task.endTurn.title": "End Turn",
+  "tutorial.task.harvestfruit": "Harvest fruit to grow your city!",
+  "tutorial.task.harvestfruit.description": "Click a fruit tile within the borders of your city and select the 'Harvest Fruit' option. By extracting resources within your borders you can level up your city.",
+  "tutorial.task.harvestfruit.title": "Grow your city",
+  "tutorial.task.meetTribe": "There is another tribe hiding somewhere on the Square. See if you can find them!",
+  "tutorial.task.meetTribe.description": "You are not alone! There are other tribes in this game too and they also try to expand their empires as much as possible. That often leads to conflicts so keep an eye out for your opponents.",
+  "tutorial.task.meetTribe.title": "Other Tribes",
+  "tutorial.task.trainunit": "Train a warrior so we can capture that village.",
+  "tutorial.task.trainunit.description": "Click on your city and select the unit you want to train. Units can be used to explore the map, capture villages and fight your opponents.",
+  "tutorial.task.trainunit.title": "Training units",
+  "tutorial.task.unlockTech": "Wild animals can be hunted to grow your city even more. Let's research how to hunt!",
+  "tutorial.task.unlockTech.description": "Click the 'Tech Tree' button and the pick the 'Hunting' technology. Now you can hunt wild animals to level up your cities!",
+  "tutorial.task.unlockTech.title": "Tech tree",
+  "unit": "unit",
+  "unit.abilities.agent": "AGENT",
+  "unit.abilities.autofreeze": "GÈLE AUTOMATIQUE",
+  "unit.abilities.boost": "BOOST",
+  "unit.abilities.build": "CONSTRUIRE",
+  "unit.abilities.carry": "PORTER",
+  "unit.abilities.convert": "CONVERTIR",
+  "unit.abilities.creep": "CREEP",
+  "unit.abilities.crush": "CRUSH",
+  "unit.abilities.dash": "RUER",
+  "unit.abilities.decay": "DÉSINTÉGRER",
+  "unit.abilities.detect": "DETECT",
+  "unit.abilities.disloyal": "DISLOYAL",
+  "unit.abilities.eat": "EAT",
+  "unit.abilities.escape": "FUIR",
+  "unit.abilities.explode": "EXPLODE",
+  "unit.abilities.fly": "VOLER",
+  "unit.abilities.fortify": "FORTIFIER",
+  "unit.abilities.freeze": "GELER",
+  "unit.abilities.freezearea": "GELER LA ZONE",
+  "unit.abilities.grow": "POUSSER",
+  "unit.abilities.heal": "SOIGNER",
+  "unit.abilities.hide": "CACHER",
+  "unit.abilities.independent": "INDEPENDENT",
+  "unit.abilities.infiltrate": "INFILTRATE",
+  "unit.abilities.navigate": "NAVIGUER",
+  "unit.abilities.persist": "PERSISTER",
+  "unit.abilities.poison": "POISON",
+  "unit.abilities.scout": "EXPLORER",
+  "unit.abilities.skate": "PATINER",
+  "unit.abilities.sneak": "SE FAUFILER",
+  "unit.abilities.splash": "ÉCLABOUSSER",
+  "unit.abilities.surprise": "SURPRISE",
+  "unit.abilities.swim": "NAGER",
+  "unit.ability": "aptitude",
+  "unit.info.attack": "Attaque",
+  "unit.info.defence": "Défense",
+  "unit.info.health": "Santé",
+  "unit.info.movement": "Mouvement",
+  "unit.info.range": "Portée",
+  "unit.info.skills": "Capacité",
+  "unit.names.amphibian": "Amphibien",
+  "unit.names.archer": "Archer",
+  "unit.names.babydragon": "Baby Dragon",
+  "unit.names.battleship": "Navire de guerre",
+  "unit.names.battlesled": "Traîneau de guerre",
+  "unit.names.boat": "Bateau",
+  "unit.names.bunny": "Lapin",
+  "unit.names.catapult": "Catapulte",
+  "unit.names.centipede": "Centipede",
+  "unit.names.cloak": "Cloak",
+  "unit.names.cloak_boat": "Dinghy",
+  "unit.names.crab": "Crabe",
+  "unit.names.dagger": "Dagger",
+  "unit.names.defender": "Défenseur",
+  "unit.names.doomux": "Doomux",
+  "unit.names.dragonegg": "Dragon Egg",
+  "unit.names.exida": "Exida",
+  "unit.names.firedragon": "Fire Dragon",
+  "unit.names.gaami": "Gaami",
+  "unit.names.giant": "Géant",
+  "unit.names.hexapod": "Hexapod",
+  "unit.names.icearcher": "Archer de glace",
+  "unit.names.icefortress": "Ice Fortress",
+  "unit.names.kiton": "Kiton",
+  "unit.names.knight": "Chevalier",
+  "unit.names.mindbender": "Mind Bender",
+  "unit.names.mooni": "Mooni",
+  "unit.names.navalon": "Navalon",
+  "unit.names.phychi": "Phychi",
+  "unit.names.polytaur": "Polytaure",
+  "unit.names.raychi": "Raychi",
+  "unit.names.rider": "Cavalier",
+  "unit.names.santa": "Bunta",
+  "unit.names.scout": "Éclaireur",
+  "unit.names.segment": "Segment",
+  "unit.names.shaman": "Shaman",
+  "unit.names.ship": "Navire",
+  "unit.names.swordsman": "Swordsman",
+  "unit.names.tridention": "Tridentier",
+  "unit.names.warrior": "Guerrier",
+  "updateavatar.description": "Press the avatar to give birth to a new wild creation",
+  "updateavatar.save": "SAVE",
+  "updateavatar.title": "Update Avatar",
+  "validation.error.steam": "Failed to validate app through Steam, you need to start the game through Steam to be able to play",
+  "validation.error.title": "Validation error",
+  "versioning.highscores": "You can't get your score on the highscore list with this version of the game. Update the game if you're after that sweet fame.",
+  "versioning.highscores.title": "Update Needed",
+  "versioning.newmatchmaking": "You have to update the game to start new random matches.",
+  "versioning.newmatchmaking.title": "Update Needed",
+  "versioning.newmultiplayer": "You have to update the game to start new multiplayer games.",
+  "versioning.newmultiplayer.title": "Update Needed",
+  "versioning.systemmessage.title": "Info",
+  "versioning.unmigrateduser": "This user has not yet updated to Moonrise",
+  "versioning.unmigrateduser.title": "User unavailable",
+  "versioning.updateapp": "We built new cool stuff that unfortunately means this version of the game is no longer playable. Please update to get back into the game!",
+  "versioning.updateapp.title": "Update Needed",
+  "versioning.updatenetwork": "You need to update to use network features such as multiplayer, highscores, etc.",
+  "versioning.updatenetwork.title": "Update Needed",
+  "wcontroller.building.upgrade": "Votre {0} s'est amélioré en {1} !",
+  "wcontroller.building.upgrade.reward": "{0} a augmenté au niveau {1} et sa production a augmenté de +1. Vous pouvez aussi choisir une autre récompense :",
+  "wcontroller.capital.captured.description": "Vous avez capturé la capitale des {0} ! Toutes leurs routes commerciales sont coupées jusqu'à ce qu'ils reprennent le contrôle de leur capitale",
+  "wcontroller.capital.captured.title": "Bonnes nouvelles!",
+  "wcontroller.capital.captured2.description": "{0} fait maintenant partie de l'empire {1} ",
+  "wcontroller.capital.captured2.title": "Ville capturée!",
+  "wcontroller.capital.lost.description": "Votre capitale a été capturé par la horde {0} ! Toutes vos routes sont bloquées jusqu'à ce que vous regagnez le contrôle de votre capitale",
+  "wcontroller.capital.lost.title": "Mauvaises nouvelles!",
+  "wcontroller.capital.regained.description": "Vous avez regagné le contrôle de votre capitale, toutes vos routes commerciales sont rétablies",
+  "wcontroller.capital.regained.title": "Bonnes nouvelles!",
+  "wcontroller.city.disconnect": "{0} a été déconnectée de {1}",
+  "wcontroller.city.disconnect.title": "Route commerciale perdue !",
+  "wcontroller.convertvillage.description": "Des villageois acceptent de rejoindre votre empire émergeant !",
+  "wcontroller.convertvillage.title": "Village converti!",
+  "wcontroller.examine.explorer": "Vous avez rencontré des habitants locaux qui vous montrent les alentours.",
+  "wcontroller.examine.explorer.title": "Explorateur",
+  "wcontroller.examine.giant": "Vous avez trouvé un {0} amical qui a rejoins votre tribu !",
+  "wcontroller.examine.population": "Vous rencontrez une tribu nomade qui s'installe dans votre capitale !",
+  "wcontroller.examine.population.title": "Population",
+  "wcontroller.examine.stars": "Ces anciennes ruines sont remplies de ressources importantes !",
+  "wcontroller.examine.stars.title": "Ressources",
+  "wcontroller.examine.swordsman": "You encountered a mighty Swordsman who decided to join your tribe!",
+  "wcontroller.examine.swordsman.title": "New Friends!",
+  "wcontroller.examine.tech": "Vous avez trouvé d'anciens parchemins qui vous permettent d'apprendre {0}.",
+  "wcontroller.examine.tech.title": "Parchemin de sagesse",
+  "wcontroller.examine.water": "Vous avez rencontré un navire pirate amical, ils font maintenant partie de votre empire !",
+  "wcontroller.examine.water.elyrion": "Vous avez rencontré un {0} , il fait maintenant partie de votre empire !",
+  "wcontroller.examine.water.title": "Navire de guerre",
+  "wcontroller.game.lost": "You've been wiped out. You can continue to spectate this game or return to main menu.",
+  "wcontroller.game.lost.title": "You've been wiped out!",
+  "wcontroller.kill.upgrade.description": "Cette unité est prête à être améliorée !",
+  "wcontroller.kill.upgrade.title": "Niveau Supérieur!",
+  "wcontroller.load.error": "Il n'y a pas de partie sauvegardée, commencez-en une nouvelle !",
+  "wcontroller.load.error.title": "Pas de partie sauvegardée",
+  "wcontroller.load.notpartof": "Vous n'êtes pas un joueur de cette partie",
+  "wcontroller.load.update": "Cette partie utilise une nouvelle version de Polytopia, vous devez aller à {0} et le mettre à jour avant de jouer.",
+  "wcontroller.load.update.title": "Mise à jour requise",
+  "wcontroller.load.wait": "Attendez que la partie charge totalement avant de l'ouvrir.",
+  "wcontroller.load.wait.title": "Toujours en chargement...",
+  "wcontroller.matchmaking.gamestarted": "Random match {0} is ready to go!",
+  "wcontroller.matchmaking.waitingforplayers": "You joined {0}, waiting for opponents",
+  "wcontroller.meet.tribe.bigger.friendly": "vous salue amicalement mais ne fait pas attention à votre petit royaume.",
+  "wcontroller.meet.tribe.bigger.hostile": "se moque de votre tribu chétive.",
+  "wcontroller.meet.tribe.distant": "A delegation from a distant land arrives in your capital!",
+  "wcontroller.meet.tribe.leader": "Leur chef",
+  "wcontroller.meet.tribe.resource.boost": "The discovery of this {0} tribe gives you a one time trade boost of {1} stars!",
+  "wcontroller.meet.tribe.smaller.friendly": "s'incline devant votre puissante civilisation.",
+  "wcontroller.meet.tribe.smaller.hostile": "semble un peu hostile et vous accueille avec suspicion.",
+  "wcontroller.online.yourturn.description": "Cliquez sur ok pour continuer la partie quand vous êtes prêt.",
+  "wcontroller.online.yourturn.title": "C'est votre tour !",
+  "wcontroller.picktribe.notification": "It's your turn to pick tribe in {0}!",
+  "wcontroller.removingplayer": "Supprimer un joueur",
+  "wcontroller.reward.bordergrowth": "augmentation des frontières",
+  "wcontroller.reward.citywall": "remparts",
+  "wcontroller.reward.explorer": "explorateur",
+  "wcontroller.reward.park": "parc",
+  "wcontroller.reward.populationgrowth": "augmentation de la population",
+  "wcontroller.reward.rebellion": "incite rebellion",
+  "wcontroller.reward.resources": "ressources",
+  "wcontroller.reward.superunit": "super unité",
+  "wcontroller.reward.workshop": "atelier",
+  "wcontroller.tribe.destroy": "Vous avez détruit {0} !",
+  "wcontroller.tribe.destroy.all": "Vous avez détruit toutes les tribus de ce monde et avez unifié toute la carte sous votre commandement !",
+  "wcontroller.tribe.destroy.all.title": "Domination!",
+  "wcontroller.tribe.destroy.title": "Sang!",
+  "wcontroller.tribe.destroy2": "{0} a été détruit par {1} !",
+  "wcontroller.tribe.level_1": "curious",
+  "wcontroller.tribe.level_2": "sprawling",
+  "wcontroller.tribe.level_3": "impressive",
+  "wcontroller.tribe.level_4": "epic",
+  "wcontroller.turn.end": "Fin du tour...",
+  "wcontroller.turn.error": "Vous n'avez pas pu vous connecter au serveur multijoueur. S'il vous plaît, vérifiez votre connexion à internet et réessayez.",
+  "wcontroller.turn.error.title": "Erreur de réseau",
+  "wcontroller.turn.next": "Suivant",
+  "wcontroller.turn.notification": "C'est votre tour dans {0} (tour {1})",
+  "wcontroller.turn.passed": "Jeu transmis à {0}",
+  "wcontroller.turn.passed.title": "Tour fini",
+  "wcontroller.turn.saving": "Sauvegarde du jeu sur le serveur...",
+  "wcontroller.unit.promotion": "Votre unité est devenue un vétéran ! Augmentation de la vie.",
+  "wcontroller.unit.promotion.title": "Unité promue !",
+  "world.attract.sanctuary": "Votre sanctuaire a attiré un animal sauvage !",
+  "world.building.capture.ready": "Sera prêt à être capturé au prochain tour",
+  "world.building.capture.ready.title": "Siège de {0}!",
+  "world.building.capture.warning": "La capture sera terminée au prochain tour si vous ne les arrêtez pas.",
+  "world.building.capture.warning.title": "{0} subis un siège !",
+  "world.building.info": "La ville de {0}",
+  "world.building.village": "Village",
+  "world.infiltrate.header": "Infiltration Success!",
+  "world.intro.objective": "Objectif : {0}",
+  "world.intro.text": "Vous avez été choisi pour contrôler la tribu {0}. Explorez le monde et agrandissez votre territoire, mais faites attention aux autres tribus.",
+  "world.intro.title": "Puissant Général!",
+  "world.loading": "CHARGEMENT {0}%",
+  "world.meet.tribe": "Vous avez rencontré {0}",
+  "world.ranks": "1er,2ème,3ème,4ème,5ème,6ème,7ème,8ème,9ème,10ème,11ème,12ème",
+  "world.rebellion.description": "A {0} from the {1} tribe has infiltrated the city of {2} and incited a revolt agains you!",
+  "world.rebellion.title": "Riots in {0}!",
+  "world.reveal.header": "Aha!",
+  "world.reveal.text": "A {0} was revealed!",
+  "world.reward.building": "Vous pouvez maintenant construire {0} ! Ce monument épique apportera gloire et richesse à la ville la plus proche.",
+  "world.reward.building.title": "{0} a été complété(e)",
+  "world.reward.levelup": "{0} est passé au niveau supérieur !",
+  "world.road.connected.message": "{0} est maintenant connectée à votre capitale !",
+  "world.road.connected.title": "Nouvelle route commerciale !",
+  "world.suggestion.disable": "(Ces suggestions peuvent être désactivées dans le menu)",
+  "world.suggestion.message": "Vous devriez {0}",
+  "world.suggestion.title": "Voici un conseil!",
+  "world.task.new": "Vous avez une nouvelle tâche !",
+  "world.tech.new.message": "Vous avez découvert le secret de {0}",
+  "world.tech.new.title": "Nouvelle technologie !",
+  "world.turn.end": "Fin du tour",
+  "world.turn.end.confirm": "Confirmer",
+  "world.turn.end.question": "Finir votre tour ?",
+  "world.turn.exit": "Quitter",
+  "world.turn.finish": "Finir la partie",
+  "world.turn.last": "Dernier tour!",
+  "world.turn.next": "Prochain tour",
+  "world.turn.nomoves": "Plus de coups disponibles, finissez votre tour",
+  "world.turn.ready": "Cliquez sur sauvegarder lorsque vous êtes prêt",
+  "world.turn.remaining": "{0} tours restant",
+  "world.turn.replaying": "Voici ce qui s'est passé...",
+  "world.turn.skip": "SKIP",
+  "world.turn.start": "COMMENCER",
+  "world.turn.waiting": "Au tour de {0} de jouer...",
+  "world.turn.waiting.playing": "{0} is playing...",
+  "world.turn.waiting.unknown": "Au tour d'une tribu inconnue de jouer...",
+  "world.turn.your": "À votre tour",
+  "world.unit.ability": "Aptitude de l'unité",
+  "world.unit.attack": "Attaque",
+  "world.unit.defence": "Défense",
+  "world.unit.disembark.message": "Débarquer votre unité démantèlera votre {0}. Vous êtes sûr de vouloir faire ça ?",
+  "world.unit.disembark.title": "Quitter {0}",
+  "world.unit.dissolved": "Votre unité a été dissoute",
+  "world.unit.evolve": "Votre unité a évolué en {0} !",
+  "world.unit.evolve.title": "Unité évoluée",
+  "world.unit.health": "Santé",
+  "world.unit.info.from": "Depuis la ville de {0}.",
+  "world.unit.movement": "Mouvement",
+  "world.unit.range": "Portée",
+  "world.unit.veteran": "Cette unité est un vétéran.",
+  "world.unit.veteran.progress": "{0}/{1} pour devenir un vétéran."
+}
